@@ -7,7 +7,7 @@ import os
 # AUTHORSHIP AND WEBSITE INFO (Replace accordingly)
 ###################################################
 
-AUTHOR = u'Armando Mota, Elizabeth Sabiniano, Ki Hyun Won, Shadman Sadek'
+AUTHOR = u'Armando Mota'
 SITENAME = u"Education Analysis 2014"
 SITESUBTITLE = u'Analyzing the sentiments and preferences surrounding education in 2014'
 GITHUB_REPOSITORY_URL = u'https://github.com/ArmandoMota/education-analysis-2014.git'
