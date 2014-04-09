@@ -35,7 +35,7 @@ try:
         counter += 1
     
     #create a file to save search results
-    with open('twitter_sentiment.csv', 'w+') as result:
+    with open('twitter_sentiment.csv', 'a') as result:
             # create the csv writer object
             tweetwriter = csv.DictWriter(result, delimiter=',', fieldnames=field)
             tweetwriter.writeheader()
