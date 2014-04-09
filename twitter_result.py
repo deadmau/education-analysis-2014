@@ -27,7 +27,10 @@ try:
     counter = 0
     #write all the search results in result.txt
     for tweet in ts.searchTweetsIterable(tso):
-        value = [tweet['user']['created_at'][-4:], tweet['text'].encode('ascii', 'ignore'), tweet['user']['location'].encode('ascii', 'ignore')]
+        text = tweet['text'].encode('ascii', 'ignore')
+        if text.find('http') != -1:
+            text = text[:text.find('http')-1]
+        value = [tweet['user']['created_at'][-4:], text, tweet['user']['location'].encode('ascii', 'ignore')]
         data.append(dict(zip(field, value)))
         counter += 1
     
