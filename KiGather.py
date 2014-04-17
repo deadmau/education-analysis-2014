@@ -5,10 +5,10 @@ import csv
 import json
 
 
-consumer_key = 'NrAPvA9bp9WKgq5MdZHc3ek3M'
-consumer_secret = 'cHirTdr4jbviiLFJ8fcHiNWsZeoDLuduEzW8apkVKIs2ZaMZQw'
-access_token = '2422612939-ZgAiq5JR2H39MhWUj8BYSNbIAGkd25WnA4t2CLT'
-access_token_secret = 'dCwx5NgHHllbyz6FdSowiqy59y3gMZhSCdJ3dAwzbQvcU'
+consumer_key = 'your info here'
+consumer_secret = 'your info here'
+access_token = 'your info here'
+access_token_secret = 'your info here'
 
    
 class listener(StreamListener):
@@ -26,7 +26,7 @@ class listener(StreamListener):
             usergeo = jsonData['user']['location'].encode('ascii', 'ignore')    
                 
                 
-            saveFile = open('ver2output.csv', 'a')
+            saveFile = open('KiOutput.csv', 'a')
             outwriter = csv.writer(saveFile, delimiter=',')
             outwriter.writerow([tweetid, tweetgeo, text, userid, usergeo])
             saveFile.close()
@@ -46,6 +46,6 @@ class listener(StreamListener):
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 twitterStream = Stream(auth, listener())
-twitterStream.filter(track=["'higher education'", "college", "university", "'cost of education'"],
+twitterStream.filter(track=["'higher education'", "college", "university"],
 					 locations=[-125.0011, 24.9493, -66.9326, 49.5904], languages=['en'])
     
