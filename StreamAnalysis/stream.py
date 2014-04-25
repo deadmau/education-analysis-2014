@@ -14,8 +14,8 @@ locText = {}
 noLocText = set()
 oglocsize = 0
 ognolocsize = 0
-filename1 = 'WithLocation.pkl'
-filename2 = 'WithoutLocation.pkl'
+filename1 = 'withlocation.pkl'
+filename2 = 'withoutlocation.pkl'
 
 
 # load previous set/dictionary data into textSet and wordDict if they exist
@@ -70,14 +70,13 @@ try :
     stream.statuses.filter(track='college')
 except (KeyboardInterrupt, SystemExit):
     # when you hit Ctrl^C, this catches the exception and writes everything that has been
-    # added to the set and dictionary to the two files specified.  YOU MUST ONLY STOP THIS
-    # SCRIPT WITH CTRL^C OR ELSE YOU WON'T SAVE ANY OF THE DATA YOU'VE COLLECTED IN THE
-    # CURRENT SESSION
+    # added to the set and dictionary to the two files specified above.  YOU MUST ONLY STOP
+    #THIS SCRIPT WITH CTRL^C OR ELSE YOU WON'T SAVE ANY OF THE DATA YOU'VE COLLECTED IN THE
+    #CURRENT SESSION
     pickle.dump(locText, locWrite)
     pickle.dump(noLocText, noLocWrite)
     locWrite.close()
     noLocWrite.close()
-    print ''
     print ''
     print 'Gathered ' + str(len(locText) - oglocsize) + ' tweets with locations.'
     print 'Gathered ' + str(len(noLocText) - ognolocsize) + ' tweets with no locations.'
