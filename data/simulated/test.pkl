@@ -1,0 +1,3 @@
+S'hate:33, college:40, cost:23, shit:20'
+p0
+.
