@@ -1,0 +1,6 @@
+(dp0
+S'\xe2\x80\x9c@CamEscoe6: Would give anything in this world to just move out and go to college already.\xe2\x80\x9d\n\nYou shall regret these words, young one.'
+p1
+S'US'
+p2
+s.

@@ -1,0 +1,11 @@
+(dp0
+S'high'
+p1
+I1
+sS'new'
+p2
+I1
+sS'young'
+p3
+I1
+s.

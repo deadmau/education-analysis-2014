@@ -1,0 +1,9 @@
+c__builtin__
+set
+p0
+((lp1
+S'\xe2\x80\x9c@CamEscoe6: Would give anything in this world to just move out and go to college already.\xe2\x80\x9d\n\nYou shall regret these words, young one.'
+p2
+atp3
+Rp4
+.

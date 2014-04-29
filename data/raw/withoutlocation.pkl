@@ -1,0 +1,13 @@
+c__builtin__
+set
+p0
+((lp1
+S'RT @CommonWhiteGirI: If I had a dollar for every time someone spelled my name wrong, I could pay for college, semester abroad, a new car, a\xe2\x80\xa6'
+p2
+aS"1 in 4 girls on a college campus will be sexually assaulted before they graduate. It's high time we fix the system."
+p3
+aS"I'm excited for college"
+p4
+atp5
+Rp6
+.
