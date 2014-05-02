@@ -1,6 +1,7 @@
 import pickle
 import operator
 
+path = '../../data/cleaned/'
 
 def printTop(wordDict):
     try:
@@ -17,30 +18,38 @@ def printTop(wordDict):
 
 
 try:
-	withDict = pickle.load(open('../../data/raw/withlocation.pkl', 'rb'))
-	withoutSet = pickle.load(open('../../data/raw/withoutlocation.pkl', 'rb'))
-	ustSet = pickle.load(open('../../data/cleaned/ustweets.pkl', 'rb'))
-	worldtSet = pickle.load(open('../../data/cleaned/worldtweets.pkl', 'rb'))
-	totalwDict = pickle.load(open('../../data/cleaned/allwords.pkl', 'rb'))
-	uswDict = pickle.load(open('../../data/cleaned/uswords.pkl', 'rb'))
-	worldwDict = pickle.load(open('../../data/cleaned/worldwords.pkl', 'rb'))
+	
+	totaltDict = pickle.load(open(path + 'totaltweets.pkl', 'rb'))
+	ustSet = pickle.load(open(path + 'ustweets.pkl', 'rb'))
+	eutSet = pickle.load(open(path + 'eutweets.pkl', 'rb'))
+	asiatSet = pickle.load(open(path + 'asiatweets.pkl', 'rb'))
+	africatSet = pickle.load(open(path + 'africatweets.pkl', 'rb'))
+	soamericatSet = pickle.load(open(path + 'soamericatweets.pkl', 'rb'))
+	
+	totalwDict = pickle.load(open(path + 'totalwords.pkl', 'rb'))
+	uswDict = pickle.load(open(path + 'uswords.pkl', 'rb'))
+	euwDict = pickle.load(open(path + 'euwords.pkl', 'rb'))
+	asiawDict = pickle.load(open(path + 'asiawords.pkl', 'rb'))
+	africawDict = pickle.load(open(path + 'africawords.pkl', 'rb'))
+	soamericawDict = pickle.load(open(path + 'soamericawords.pkl', 'rb'))
 
 	print ''
 	print ''
 	print 'Tweets:'
-	print 'Total number of tweets gathered: ' + str(len(withDict) + len(withoutSet))
+	print 'Total number of tweets gathered: ' + str(len(totaltDict))
 	print 'Total number of tweets from the US: ' + str(len(ustSet)) 
-	print 'Total number of tweets from the rest of the world: ' + str(len(worldtSet))
+	print 'Total number of tweets from europe: ' + str(len(eutSet)) 
+	print 'Total number of tweets from asia: ' + str(len(asiatSet)) 
+	print 'Total number of tweets from africa: ' + str(len(africatSet)) 
+	print 'Total number of tweets from south and central america: ' + str(len(soamericatSet)) 
 	print ''
 	print 'Words:'
-	print 'Total number of adjectives gathered: ' + str(len(totalwDict))
-	printTop(totalwDict)
-	print ''
-	print 'Total number of adjectives gathered from the US: ' + str(len(uswDict))
-	printTop(uswDict)
-	print ''
-	print 'Total number of adjectives gathered from the rest of the world: ' + str(len(worldwDict))
-	printTop(worldwDict)
+	print 'Total number of distinct adjectives gathered: ' + str(len(totalwDict))
+	print 'Total number of distinct adjectives gathered from the US: ' + str(len(uswDict))
+	print 'Total number of distinct adjectives gathered from europe: ' + str(len(euwDict))
+	print 'Total number of distinct adjectives gathered from asia: ' + str(len(asiawDict))
+	print 'Total number of distinct adjectives gathered from africa: ' + str(len(africawDict))
+	print 'Total number of distinct adjectives gathered from south and central america: ' + str(len(soamericawDict))
 	print ''
 		
 except BaseException:

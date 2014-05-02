@@ -42,11 +42,9 @@ asiaSet = set()
 africaSet = set()
 soamericaSet = set()
 
-readpath = '/Users/Armando_Mota/Desktop/education-analysis-2014/data/raw/'
 writepath = '/Users/Armando_Mota/Desktop/education-analysis-2014/data/cleaned/'
-locationFile = readpath + 'locationtweets.pkl'
+locationFile = writepath + 'locationtweets.pkl'
 usFile = writepath + 'ustweets.pkl'
-#worldFile = 'worldtweets.pkl'
 euroFile = writepath + 'eutweets.pkl'
 asiaFile = writepath + 'asiatweets.pkl'
 africaFile = writepath + 'africatweets.pkl'
@@ -137,7 +135,7 @@ try :
     asiaWrite.close()
     africaWrite.close()
     soamericaWrite.close()
-    print "Number of tweets with location data: " + str(totalCount)
+    print "Number of tweets with locations: " + str(totalCount)
     print "Number of tweets excluded for containing bad/improper data: " + str(totalCorrupt)
     print ''
 

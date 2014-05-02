@@ -1,42 +1,67 @@
 from twython import TwythonStreamer
 from string import ascii_letters
 import pickle, nltk
+import csv
 
 
 
-withoutSet = set()
+totalSet = set()
 usSet = set()
-worldSet = set()
+euSet = set()
+asiaSet = set()
+africaSet = set()
+soamericaSet = set()
 
 totalWords = {}
 usWords = {}
-worldWords = {}
+euWords = {}
+asiaWords = {}
+africaWords = {}
+soamericaWords = {}
 
 wordType = ['JJ', 'JJR', 'JJS'] #list for types of adjectives we are going to filter
-withoutl = '../../data/raw/withoutlocation.pkl'
-usl = '../../data/cleaned/ustweets.pkl'
-worldl = '../../data/cleaned/worldtweets.pkl'
+path = '/Users/Armando_Mota/Desktop/education-analysis-2014/data/cleaned/'
+totalFName = path + 'totaltweets.pkl'
+usFName = path + 'ustweets.pkl'
+euFName = path + 'eutweets.pkl'
+asiaFName = path + 'asiatweets.pkl'
+africaFName = path + 'africatweets.pkl'
+soamericaFName = path + 'soamericatweets.pkl'
 
 
 
 # Load all tweets that didn't have location data, all US tweets, and all tweets from the
 # rest of the world
 def loadFiles():
-    global withoutSet
+    global totalSet
     global usSet
-    global worldSet
+    global euSet
+    global asiaSet
+    global africaSet
+    global soamericaSet
     try:
-        withoutFile = open(withoutl, 'rb')
-        usFile = open(usl, 'rb')
-        worldFile = open(worldl, 'rb')
-        withoutSet = pickle.load(withoutFile)
+        totalFile = open(totalFName, 'rb')
+        usFile = open(usFName, 'rb')
+        euFile = open(euFName, 'rb')
+        asiaFile = open(asiaFName, 'rb')
+        africaFile = open(africaFName, 'rb')
+        soamericaFile = open(soamericaFName, 'rb')
+        
+        totalSet = pickle.load(totalFile)
+        totalFile.close()
         usSet = pickle.load(usFile)
-        worldSet = pickle.load(worldFile)
-        withoutFile.close()
         usFile.close()
-        worldFile.close()
+        euSet = pickle.load(euFile)
+        euFile.close()
+        asiaSet = pickle.load(asiaFile)
+        asiaFile.close()
+        africaSet = pickle.load(africaFile)
+        africaFile.close()
+        soamericaSet = pickle.load(soamericaFile)
+        soamericaFile.close()
+
     except BaseException:
-        print "One or both files were empty"
+        print "One or more files were empty"
         pass
         
 
@@ -53,68 +78,84 @@ def refine_text(text):
     
 
 # Parse words out from the input set and place tweets in the correct output sets
-def parseWords(tweetSet):
-	for tweet in tweetSet:
-		tokens = nltk.word_tokenize(refine_text(tweet).lower())
-		tokentext = nltk.Text(tokens)
-		tags = nltk.pos_tag(tokentext)
-		for wordPair in tags:
-			word = wordPair[0]
-			if wordPair[1] in wordType:
-				# This is a word whose tweet was located in the US
-				if len(tweetSet) == len(usSet):
-					if word in usWords:
-						usWords[word] += 1
-					else:
-						usWords[word] = 1
-					
-				# This is a word whose tweet was located outside the US     
-				elif len(tweetSet) == len(worldSet):
-					if word in worldWords:
-						worldWords[word] += 1
-					else:
-						worldWords[word] = 1
-				
-				# Every tweet, regardless of where it came from or whether it had location data,
-				# gets added to the total list
-				if word in totalWords:
-					totalWords[word] += 1
-				else:
-					totalWords[word] = 1
+def parseWords(setnum):
+    global usWords
+    global euWords
+    global asiaWords
+    global africaWords
+    global soamericaWords
+    global totalWords
+    global wordType
+    if setnum == 1:
+        curwords = usWords
+        curset = usSet
+    elif setnum == 2:
+        curwords = euWords
+        curset = euSet
+    elif setnum == 3:
+        curwords = asiaWords
+        curset = asiaSet
+    elif setnum == 4:
+        curwords = africaWords
+        curset = africaSet
+    elif setnum == 5:
+        curwords = soamericaWords
+        curset = soamericaSet
+    else:
+        curwords = totalWords
+        curset = totalSet
+        
+    for tweet in curset:
+        tokens = nltk.word_tokenize(refine_text(tweet).lower())
+        tokentext = nltk.Text(tokens)
+        tags = nltk.pos_tag(tokentext)
+        for wordPair in tags:
+            word = wordPair[0]
+            # Make sure it's an adjective
+            if wordPair[1] in wordType:
+                if word in curwords:
+                    curwords[word] += 1
+                else:
+                    curwords[word] = 1
+
+
+def writeFile(filename, words):
+    writer = csv.writer(open(filename + '.csv', 'wb'), delimiter=':')
+    for key, value in words.items():
+        writer.writerow([key, value])
+        pickle.dump(words, open(filename + '.pkl', 'wb'))
     
     
-    
-# run it
+
 try :
-    # Load and run
+    # Load and parse
     loadFiles()
-    parseWords(withoutSet)
-    parseWords(usSet)
-    parseWords(worldSet)
-    totalWrite = open('../../data/cleaned/allwords.pkl', 'wb')
-    usWrite = open('../../data/cleaned/uswords.pkl', 'wb')
-    worldWrite = open('../../data/cleaned/worldwords.pkl', 'wb')
+    parseWords(1) # US
+    parseWords(2) # europe
+    parseWords(3) # asia
+    parseWords(4) # africa
+    parseWords(5) # south and central america
+    parseWords(6) # all tweets
+
     # Write
-    pickle.dump(totalWords, totalWrite)
-    pickle.dump(usWords, usWrite)
-    pickle.dump(worldWords, worldWrite)
-    totalWrite.close()
-    usWrite.close()
-    worldWrite.close()
+    writeFile(path + 'totalwords', totalWords)
+    writeFile(path + 'uswords', usWords)
+    writeFile(path + 'euwords', euWords)
+    writeFile(path + 'asiawords', asiaWords)
+    writeFile(path + 'africawords', africaWords)
+    writeFile(path + 'soamericawords', soamericaWords)
+
     # Notify us of what's happened
     print ''
-    print 'There are ' + str(len(totalWords)) + ' adjectives in the total tweet set.'
-    print 'There are ' + str(len(usWords)) + ' adjectives in the US tweet set.'
-    print 'There are ' + str(len(worldWords)) + ' adjectives in the world tweet set.'
+    print 'There are ' + str(len(totalWords)) + ' distinct adjectives in the total tweet set.'
+    print 'There are ' + str(len(usWords)) + ' distinct adjectives in the US tweet set.'
+    print 'There are ' + str(len(euWords)) + ' distinct adjectives in the europe tweet set.'
+    print 'There are ' + str(len(asiaWords)) + ' distinct adjectives in the asia tweet set.'
+    print 'There are ' + str(len(africaWords)) + ' distinct adjectives in the africa tweet set.'
+    print 'There are ' + str(len(soamericaWords)) + ' distinct adjectives in the south america tweet set.'
     print ''
 except BaseException:
     print "There was an error - please check your files and try again."
-    
-    
-    
-    
-    
-    
     
     
     
