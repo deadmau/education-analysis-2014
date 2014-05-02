@@ -6,13 +6,13 @@ def locationAdd(collection):
         global withDict
         global totalSet
         for tweet in collection:
-            if len(withDict) > 9999: # take out when done testing
-                return               # take out when done testing
-            else:
-                if tweet not in withDict:
-                    withDict[tweet] = collection[tweet]
-                    if tweet not in totalSet:
-                        totalSet.add(tweet)
+            #if len(withDict) > 9999: # reduce number of tweets for testing
+                #return               # reduce number of tweets testing
+            #else:
+			if tweet not in withDict:
+				withDict[tweet] = collection[tweet]
+				if tweet not in totalSet:
+					totalSet.add(tweet)
     except BaseException:
         print "There was an error combining data."
         
@@ -21,11 +21,11 @@ def nolocationAdd(collection):
     try:
         global totalSet
         for tweet in collection:
-            if len(totalSet) > 19999: #take out when done testing
-                return                 #take out when done testing
-            else:
-                if tweet not in totalSet:
-                    totalSet.add(tweet)
+            #if len(totalSet) > 19999: #take out when done testing
+                #return                 #take out when done testing
+            #else:
+			if tweet not in totalSet:
+				totalSet.add(tweet)
     except BaseException:
         print "There was an error combining data."
 

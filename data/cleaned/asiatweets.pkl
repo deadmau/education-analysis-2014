@@ -2,1034 +2,2646 @@ c__builtin__
 set
 p0
 ((lp1
-S'Nasestress naman daw ako. Hayst! Maadal nalang ako kang Rizal bako lang college al.'
+S'"@UberFacts: Steve Jobs, one of the world\'s most successful men, was a college dropout." tuloy ko pa ba college ano'
 p2
-aS'Si sam navarro pala magka-college palang :o'
+aS'Fuck college Id rather re-enlist, and be a Hard dick recon motherfucker #re-en listment package'
 p3
-aS'To #college'
-p4
-aS'@Lucillealoo college roadtrip ata yan'
-p5
-aS'@PrambananTrans ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p6
-aS'Crazy night with college blockmates. Love you all. #L85 @ Music 21 Makati'
-p7
-aS'Just got a call from the college where I studied!! Invited for an event + awards function!! Great learning that they recognize alumni too!!!'
-p8
-aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college (Jeddah, Western Province) w/ 3 others"
-p9
-aS'@krexois ay grabe bagay talaga kami, huhuntingin q yan sa college pwahaha'
-p10
-aS'PhoneticSymbols\xe3\x82\x84\xe3\x82\x8a\xe5\x87\xba\xe3\x81\x97\xe3\x81\xa6\xe3\x81\x8b\xe3\x82\x89\xe6\x9c\xac\xe5\xbd\x93\xe3\x81\xab\xe5\x8d\x98\xe8\xaa\x9e\xe3\x82\x8f\xe3\x81\x8b\xe3\x82\x89\xe3\x81\xaa\xe3\x81\x8f\xe3\x81\xaa\xe3\x81\xa3\xe3\x81\x9f\xe2\x80\xa6\xe4\xbb\x8acollege\xe3\x81\xa3\xe3\x81\xa6\xe6\x9b\xb8\xe3\x81\x91\xe3\x81\xaa\xe3\x81\x8b\xe3\x81\xa3\xe3\x81\x9f\xe3\x81\x97'
-p11
-aS'@jurchenli sa uste ka mag ka-college? \xf0\x9f\x98\x8a'
-p12
-aS"@pal36 It's a dental college where people have a lot of sex."
-p13
-aS'@ShaaEya hahahahahahahahaha tahu pun haih geram je kyna nak jumpa wardah pun pyh pdhal satu college'
-p14
-aS'San ka mag aaral sa college? @clairybels @zyrabelleA'
-p15
-aS'#Shop #ForRent in front of Polytechnic college, #AmbarnathEast #Thane #Commercial #Property'
-p16
-aS'@lgillamac meeeeee... jk\n\nambot tinuod ba, 1st year college na xa... graduated frm SC'
-p17
-aS'Praktek hari ini #instagood #friend #college @ Lab Beton FT UNJ'
-p18
-aS'Monastery college. Evening classes for #monks #spiritual #tibet #magic #allshadesofred @ Sera Monastery'
-p19
-aS'Sampe rumah keingetan tes "sharia bangking college" tadi. Ya Alloh semoga hamba termasuk hamba yg beruntung masuk seleksi rekrutmentnya.^_^'
-p20
-aS'@marvinosilva soon kapag college na ako \xf0\x9f\x98\x83\xf0\x9f\x98\x83\xf0\x9f\x98\x84'
-p21
-aS'\xe2\x80\x9c@sbkinshicho: \xe3\x80\x8c\xe6\x8b\xa5\xe6\x9c\x89\xe5\xae\x8c\xe5\x96\x84\xe7\x9a\x84\xe5\xb0\xb1\xe4\xb8\x9a\xe6\x94\xaf\xe6\x8f\xb4\xe5\x88\xb6\xe5\xba\xa6\xe3\x80\x8d\n\n\xe3\x80\x8c\xe6\x9c\x80\xe7\x9f\xad3\xe4\xb8\xaa\xe6\x9c\x88\xe5\x8f\xaf\xe5\xb0\xb1\xe4\xb8\x9a\xe3\x80\x8d\n\n\xe5\x90\x91\xe6\x82\xa8\xe6\x8e\xa8\xe8\x8d\x90\xe7\xa7\xbb\xe5\x8a\xa8\xe9\x80\x9a\xe4\xbf\xa1\xe4\xb8\x9a\xe7\x9a\x84\xe4\xba\xba\xe6\x9d\x90\xe8\x82\xb2\xe6\x88\x90\xe5\xad\xa6\xe6\xa0\xa1Mobile college of Japan\xef\xbc\x88\xe7\xa7\xbb\xe5\x8a\xa8\xe7\x94\xb5\xe8\xaf\x9d\xe4\xb8\x9a\xe5\x8a\xa1\xe6\x95\x99\xe8\x82\xb2\xe5\xad\xa6\xe9\x99\xa2\xef\xbc\x89\n\n\xe5\xad\xa6\xe7\x94\x9f\xe3\x80\x81\xe7\xa4\xbe\xe4\xbc\x9a\xe4\xba\xba\xe3\x80\x81\xe4\xb8\xbb\xe5\xa6\x87\xe3\x80\x81\xe7\x95\x99\xe5\xad\xa6\xe7\x94\x9f\xe5\xa4\xa7\xe6\xac\xa2\xe8\xbf\x8e\n\n\xe8\xaf\xa6\xe7\xbb\x86\xe5\x86\x85\xe5\xae\xb9\xe6\xac\xa2\xe8\xbf\x8e\xe9\x9a\x8f\xe6\x97\xb6\xe5\x92\xa8\xe8\xaf\xa2\xe2\x80\x9d \xe6\x80\xa5\xe7\x9c\xbc\xe4\xba\x86\xe5\xb0\xb1\xe6\x89\xbe\xe8\xbf\x99\xe4\xb8\xaa\xef\xbd\x9e'
-p22
-aS'@jhezbaldeo diin ka ma college? :)'
-p23
-aS"I'm at Brickfields Asia College - @baccollege (Petaling Jaya, Malaysia) w/ 2 others"
-p24
-aS'\xe2\x80\x9c@ecaahhhhh: @iekafarisha ika tadi ada tak pergi Forever 21??\xe2\x80\x9d Ieka dekat college lagi ni. Hahaha'
-p25
-aS"@callmemariah_  I didn't even know you were leaving for college \xf0\x9f\x98\xad\xf0\x9f\x98\xad"
-p26
-aS'Bahala ako an pirmi sugu-suguon ngari. Swerte na kaayo ko sa akong kinabuhi nga nakauban nako akong mama sa whole college life nako.'
-p27
-aS'esok last sblm dia balik college'
-p28
-aS'@YSKIHolic ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students. klik'
-p29
-aS'#certificate #of #student #exchange #at #sirindhorn #college #of #publichealth #khonkaen # teddybear\xe2\x80\xa6'
-p30
-aS"Mom: Sou had so called reunion at college mates' wedding did any guys ask for ur number?"
-p31
-aS'Nugassss! #stan #college #friend #task @ Komisi Pemberantasan Korupsi'
-p32
-aS'Yaaay. 16 na ko sa 8 hahaha college na ba yon \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
-p33
-aS'@thekiranbedi more than 30 students from different city r enable to participate in election as voter due to college submission on 28,29,1/5'
-p34
-aS'Fontana later with old college friends \xf0\x9f\x98\x82'
-p35
-aS'#CongJawabDo Tushar Chaudhary,why have you stopped NCPCL donating 10 cr for an engg college sponsored by Govt of Guj ?.'
-p36
-aS"well, lets say we're going back to our college times while doing on the job training here ^^"
-p37
-aS'@RH_Afterdark first week of college, quite a lot to do. end of the month, no money urgh'
-p38
-aS'Farewell in college :)'
-p39
-aS'Study or take a selfie?? \xf0\x9f\x98\x8f\xf0\x9f\x98\x8f #asian #indonesian #boy #girl #college #video @ McD Jombor'
-p40
-aS'First day of work and I already miss college (@ Springfield)'
-p41
-aS'@tylahlaaah Good, haha. Eyy your school won. Where you going for college?'
-p42
-aS'best ler orang tu dah balik subang, I ni still terhegeh hegeh lagi kat college hmm'
-p43
-aS'Reunited and it feels so good #lol #college siomaiko beambiiiii @chelsest @karlylenavea\xe2\x80\xa6'
-p44
-aS"Yeah finally we're done kem .. time back college .. @ Kem Sungai Buluh"
-p45
-aS'No college tmr'
-p46
-aS'@yvoonneyy :(( Busy. Graduating eh :( bawi soon. Kapag may free time sa college. Lunch tayo yung group natin :))'
-p47
-aS'Reunion dinner with college peers, Rhett and Lyka.'
-p48
-aS'\xe2\x80\x9c@joycepring: #BalangAraw gr-graduate ka din \n\n:p\xe2\x80\x9d sana 3 years lng ako sa college \xf0\x9f\x8e\x93'
-p49
-aS'@Osis_KD ESA UNNES present #ESAWEEK2014 for JATENG-DIY high school-college students. klik'
-p50
-aS'#my #bike #honda #unicorn #150cc #awesome #ride #college #campus #parking #sunny #day #sunnyday\xe2\x80\xa6'
-p51
-aS"With Ate and her college friends. I'm just a tag-along. Really shouldn't have come. But Ate needs company going ho..."
-p52
-aS'@danieldebid San ka mag college? \xf0\x9f\x98\xac'
-p53
-aS'last minute gathering with my college dearest friends.. #vacay2014 #philippines #7days #MSUans\xe2\x80\xa6'
-p54
-aS'@KeytReid Matgal pa. Graduation ng college. Haha! Saya no? -.-'
-p55
-aS'@smpn13Yk ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p56
-aS'UMass, Lowell. Haggu score. Haggu college. Haggu website. Kya chutiyaap hai yaar.'
-p57
-aS'At \xe4\xba\x9a\xe6\xb4\xb2\xe5\x9b\xbd\xe9\x99\x85\xe5\x8f\x8b\xe5\xa5\xbd\xe5\xad\xa6\xe9\x99\xa2 (asia international friendship college) \xe2\x80\x94'
-p58
-aS'@rahulraja1987  And we differ in our views about relationships since college days  right? @PreetiNyaynite'
-p59
-aS"Sige ra'g hangyo sila mommy na diri sad aw mag college si ate sa first sem. Hahaha palargaha na na ninyu my uy! I love being the only child\xf0\x9f\x98\x8b"
-p60
-aS'I am japanese \xe3\x83\xbd|\xef\xbd\xa5\xcf\x89\xef\xbd\xa5|\xe3\x82\x9e \nI started Twitter!\nI would like to carry out linguistic study.\nI became a college student~~'
-p61
-aS"Someone's trying to ruin my college life. But hey, imma get out of here!"
-p62
-aS'This used to be my everyday lunch when I was in college. Oh that to-die-for sauce! AKIC days will\xe2\x80\xa6'
-p63
-aS'Lalala taknak pergi college esok . Alang alang dah cuti , baik sambung sampai ahad'
-p64
-aS'@suplorraine woooh yes puks!!!! Salamat salamat\xf0\x9f\x98\x98 miss yaw! Galingan sa college yes goodluck!!\xf0\x9f\x98\x9b\xf0\x9f\x98\x8a'
-p65
-aS"One of those I'm-bored-so-let-me-take-a-selfie kind of day. \xf0\x9f\x92\xa9 #selfie #college @ Emirates Aviation\xe2\x80\xa6"
-p66
-aS'21 days until my first day of college...'
-p67
-aS'@bieberharries aww i do suck ! Im going to college and i never experienced having a boyfriend . Ok i got it! Justin is meant for me. Joke!'
-p68
-aS'Ilya buat onar sedih kt ws group. Pastu semua tak layan aku. Tidur ah. Taknak p college esok. Nak quit.'
-p69
-aS"Lunch with college mates! (@ Nando's)"
-p70
-aS'@Yloraster goodluck sa college life ate dana!! go for it ;) maabot mo ma dreams mo :* missyou all, take care always xx'
-p71
-aS'@eds_uny ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students. klik'
-p72
-aS"Gossiping with my sister while browsing her college's yearbook."
-p73
-aS'Iba talaga naiisip ko pagdating sa college eh.'
-p74
-aS'All of the English teachers in my college are so firm in marking the exam papers .\nBut my grades were really unexpected ! Thanks teacher :)'
-p75
-aS'me and mom talking kung saan ako mag ka-college'
-p76
-aS'Felt like college all over again \xf0\x9f\x8d\xad @ Corinthians Garden'
-p77
-aS'"@mieerulls: @afzanazhar_ @afzanazhar_ hostel la rumah aku gombak"Oh .kau blaja kt college ape ?'
-p78
-aS'It just like very stupid. When I reach college and you tell me the class is canceled'
-p79
-aS"I'm at Technology College Sarawak (TCS) - @techcollegeswk (Kuching, Sarawak)"
-p80
-aS"Shakey's with my Hs Friends and some True college friends on my birthday! \xf0\x9f\x91\x8d Sorry sa iba wala na budget! \xf0\x9f\x98\xb1"
-p81
-aS'@PsikologiUNS ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p82
-aS'@Oooooscarousel #college :) HAHHA'
-p83
-aS'Kalau dapat resident college macam dalam pitch perfect .... haihhhh'
-p84
-aS'my niggas @ The Otomotif college'
-p85
-aS"Tomorrow, i will going to my 'kampung' in the morning and going back to the college in the evening :)"
-p86
-aS"I'm at Brickfields Asia College - @baccollege (Brickfields, WP Kuala Lumpur)"
-p87
-aS'@yuricaunca Diet ... And college :)) haha see ya around taft !!'
-p88
-aS'Starting packing for college life \xf0\x9f\x98\x94'
-p89
-aS'#reunion #college #friends #ffl #instacollage #picoftheday #Route04 #food #shisha #lovedit @ Route 04,\xe2\x80\xa6'
-p90
-aS'May na \xf0\x9f\x91\x8f omg. Nalalapit na ang college life \xf0\x9f\x99\x8a'
-p91
-aS"Arts Fusion'14 \xe2\x99\xa1 @ \xe2\x98\xba yishun junior college \xe2\x98\xba"
-p92
-aS'@SMPN8YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p93
-aS'Kaylangan ko na pla bagong boy bestfriend sa college! Nag retire na yung dati LOL'
-p94
-aS"si mama ba ipa carpool dw ghapon ko pag portyir, basig naa pd syay balak pacarpool'on ko hantud poryir college? HAHAHAHAHAHAHA\xf0\x9f\x98\x84"
-p95
-aS"Don't quit. Just celebrate the ride. :) Ganyan dapat sa college.\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xe2\x9c\x8c"
-p96
-aS'\xd8\xa8\xd8\xb7\xd9\x88\xd9\x84\xd8\xa9 \xd9\x82\xd8\xaf\xd9\x85 \xd9\x86\xd8\xb9\xd8\xb3\xd8\xb3\xd8\xa7\xd9\x86\xd9\x87 \xf0\x9f\x98\x82\xe2\x9a\xbd\xef\xb8\x8f (@ Jubail Industrial College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd8\xac\xd8\xa8\xd9\x8a\xd9\x84 \xd8\xa7\xd9\x84\xd8\xb5\xd9\x86\xd8\xa7\xd8\xb9\xd9\x8a\xd8\xa9 - @irjubailcollege)'
-p97
-aS'@intarbe let me introduce you to the next level of hell- college/university'
-p98
-aS'Nagpm sakin ung Kabet ng asawa ng Tropa ko na classmate ko dati nung college.. should i tell her na asawa ng tropa ko kinakalantari nya? TLW'
-p99
-aS'My babyy is gonna cry missing her college friends :/'
-p100
-aS'Hardy the best Cornerback college football.'
-p101
-aS'@exoternal wow ok. Kainis nga eh kasi kung di dahil sa kto12 edi college na ko in two years huhu'
-p102
-aS'Felt just like college all over again with these two. My college family \xe2\x98\xba\xef\xb8\x8fMissing dodongrain and\xe2\x80\xa6'
-p103
-aS'@are_pear hahaha okay then fird. Rindu college ke rindu orang ? Hahahaahha'
-p104
-aS'\xe2\x80\x9c@molozsobong: \xe2\x80\x9cCan we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing &amp; go to the part where i have a really awesome job &amp; spend all my time traveling?\xe2\x80\x9d\xe2\x80\x9d'
-p105
-aS'@_patriciadmngz basi. Last euta gd daun to before college dayss'
-p106
-aS'Heavy rain, stuck in college~~~'
-p107
-aS'A dude in my college bring this to skul \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
-p108
 aS'After palaro, ang feelin na "omg college na ako". Huhuhu'
-p109
-aS'i got new friend ! haha memang best pergi berjaya college ! i love my new friend !'
-p110
-aS'\xd8\xa7\xd8\xae\xd8\xaa\xd8\xa8\xd8\xa7\xd8\xb1\xd8\xa7\xd8\xaa \xd9\x85\xd9\x88\xd8\xb3\xd9\x85\xd9\x8a\xd8\xa9\xf0\x9f\x99\x8b (@ Buraydah college)'
-p111
-aS'Wohooo! National holiday tomorrow. Wanna buy a new backpack for college! #wishlist'
-p112
-aS'This is shit \nBut Astungkara lulus ! (at indonesia college) [pic] \xe2\x80\x94'
-p113
-aS'Epic #girlsnightout ! Never mind the back-to-college #music! #TheBigNasty'
-p114
-aS"PDL work is like morals'. But in college, we can't lie in the portfolios lol"
-p115
-aS'\xe2\x80\x9c@alonggggggg: Yang tak bestnya dah masuk college evrydy nk kena fikir nak pakai baju apa #Typical\xe2\x80\x9d takyah pakai'
-p116
-aS'Marami rin pala samin, magkaklase pa rin sa college !! :)'
-p117
-aS'My cousin would be there on the 6th-9th, my bestfriend 6th-10th and my college friends on 10-12th!!! Wahhhh! I want to be with all of you!!'
-p118
-aS'@CeciliaaaTalks Of course not. Hahaha. But parents going bkk on June. \xf0\x9f\x98\xad\xf0\x9f\x98\xad But I start my college liao that time.'
-p119
-aS'\xe2\x80\x9c@leonardoxdeasis: @fonfonclick kk good got me scured\xe2\x80\x9d SCURED for college'
-p120
-aS'"@TOIEducation: Mizoram to get its first medical college soon'
-p121
-aS'H-5 \nShit ! (at indonesia college) \xe2\x80\x94'
-p122
-aS'@Jogja_Uncover ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p123
-aS'@angelicoleen uh oo ngae!! Thank you gaga!! Sama ka sa youth camp lol Gala tayo sa college please!! Sweaaar miss you!! Love youu!'
-p124
-aS'@micapili september pa pero im gonna go there may 7 then bck here then goo na hehe. pls pray for me to find a college \xf0\x9f\x98\x81\xf0\x9f\x98\x81'
-p125
-aS'Bute pa yung iba may sched na for college. Ako magtetest palang. Makuha ko kaya results kinabukasan? Haha sana.'
-p126
-aS'#candid #flowers #iphone #photography #college #campus #clicks #pesit #focus @ PES University'
-p127
-aS'@ellroitalavera joke lang. TIP siya :) Hahaha. Good luck sa college! :)'
-p128
-aS'@herchellim kaya yan. sa college ka na lang balik para free na haha'
-p129
-aS'Ganahan na lage ko mag college'
-p130
-aS'@LoveMOOKoo yung cmate ko nung college bhe n trying n rakista. Nakakasuya! Ubod ng yabang'
-p131
-aS'"joy" omg mukha syang college lang hahaha'
-p132
-aS'Masarap sa feeling ang grumaduate ng college pero masakit sa feeling pag wla kang nahanap na trabaho o hndi ka nareregular #WorstFeelingEver'
-p133
-aS'@iamnursemucky Axel college na sa dlsu. Manolo HS at Lsgh'
-p134
-aS'@clairefxmetalx Now I am a undergrad computer engineer, college junior. You?'
-p135
-aS'Lol want carpool to college??? come pay me transport feee XD'
-p136
-aS'graduate ka na ng college sana marunong ka na mag isip!!'
-p137
-aS'@Jarpum @eclectictweets Arunachal deserves a medical college.Up the ante.It will go a long way in uplifting the health standards in ur state'
-p138
-aS'@haaaaafiz_ Alright bro. Tp aku bukan tiap tiap hari ada dkt sana ahh. Aku study jb je dkt austin sana. Sunway college'
-p139
-aS"#ThrowbackSaturday My college days wouldn't be amazing without you, guys. I love you both #EvaCarillo\xe2\x80\xa6"
-p140
-aS'Change name na ko sa college. Hahaha.'
-p141
-aS'@wawa_swift international islamic college . Kat gombak . Hmm minat nursing tapi tak dpt . Tapi Alhamdulilah okay .Course akak ni interesting'
-p142
-aS'@Raprafito wala solo nalang ako lol kamusta college apps mo?? :))'
-p143
-aS'"@alyonsss: kinakabahan ako mag-college \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad" ano course mo'
-p144
-aS'i still dont know what study i will take in college after graduating from high school'
-p145
-aS'Before Going to college \xf0\x9f\x93\xb7\xf0\x9f\x91\xa7\xf0\x9f\x92\x8b\xf0\x9f\x92\x95 xixixiii'
-p146
-aS'@kleyowmari Hihi. Labyutoo :)) Oyy. Goodluck sa college :) Lol. Kahit masyado pang maaga. :P'
-p147
-aS"#FactAboutMe\nI have to deal with incompetents each and everyday at school.\nI'm glad this'll change next year for me though; joining college."
-p148
-aS'First day of college tomorrow! Having mixed feeling now. May everything goes well, night night :)'
-p149
-aS'@kimxzy_JE ang sa tupad city college?'
-p150
-aS'@EykaZailani kolej tu.. dekat jugak..hahaha.. apa nama college tu.. tak pernah nak tau..'
-p151
-aS'Stop thinking about her, focus of college, work and purpose of life'
-p152
-aS'@Qpmp13 next topic! Hahaha, sa college nalang nakakatamad kasi lalo na pag 4th year dyosko haha! 5 ata? Talino nun eh :))'
-p153
-aS'@KYLMRTN sn k mag college ate?'
-p154
-aS'Maradana college of technology. Loving this ancient architecture. I took a quick picture coz I never\xe2\x80\xa6'
-p155
-aS'rindu moment masa dekat berjaya college tadi ! rindu kawan baru !'
-p156
-aS'Ten years ago, #Facebook was launched, #Friends ended, and we graduated from college. #UPDiliman'
-p157
-aS"You missed your college life if you don't get drunk and wasted! -@adrianagbon Woo worth it 730 class"
-p158
-aS'@KrissyMontejo wala e sa college yan na yung motto hahahahaha'
-p159
-aS'My retrospective regret is palpable that I never read Watchmen back in college when it was lent to me. What a great book.'
-p160
-aS'Masuk kelas basah kuyup memang seronok. Dah lah sejuk beku dalam kelas ni (@ Brickfields Asia College - @baccollege)'
-p161
-aS'If assumption is the mother of all fuckups, this college has a problem'
-p162
-aS'"You can\'t make anyone fall in love with mere words!" I exclaimed. Then I realised, I had just contradicted my four years of college life.'
-p163
-aS'Gala tmrw with college friends! \xf0\x9f\x91\x8d'
-p164
-aS'Graduate na crush ko ng college eh XD'
-p165
-aS'NYP - KPK Peace Confrence at Khyber union Hall Islamia college Peshawar. All youth are requested to join us.'
-p166
-aS'@kyrazyl @forgottentracks eh plz lake more worst then me before his college starts'
-p167
-aS'Penang people all died. And my stupid college give naisss semester break la when the rest busy w their college. Dying of boredom kkk.'
-p168
-aS'Di bali tourism college dde.. kls brp skrg ? "@ThugusGuna: @aiuu_YoureY dimana kuliah k ? nyari info*"'
-p169
-aS'Finally home after a long long day in college'
-p170
-aS'At college west ones again officiating the H2o match . Zzzz'
-p171
-aS'the college student, wuyifan:('
-p172
-aS"\xe0\xb9\x80\xe0\xb8\xa2\xe0\xb9\x87\xe0\xb8\x99\xe0\xb8\x94\xe0\xb8\xb5 (@ \xe0\xb8\x95\xe0\xb9\x89\xe0\xb8\x99\xe0\xb8\x88\xe0\xb8\xb2\xe0\xb8\xa1\xe0\xb8\x88\xe0\xb8\xb8\xe0\xb8\xa3\xe0\xb8\xb5 (The Prince Royal's college))"
-p173
-aS"It's really hard staying on a workout schedule whenever studies &amp; college consumes my life. It has been so messed up! Sigh \xf0\x9f\x98\x9e"
-p174
-aS'"@imdendelmundo: freshmen in college be like: \nfriend: ano sched mo? \nme: ewan ko, di ko ma-gets eh." relate :)'
-p175
-aS'Post zorb ball photo with college thesismates! \xf0\x9f\x99\x85\xf0\x9f\x99\x86\xf0\x9f\x99\x8c @ Zorb Park, Boracay'
-p176
-aS'#MayWishes college and job! Wish me :)'
-p177
-aS'\xd9\x85\xd8\xad\xd8\xa7\xd8\xb6\xd8\xb1\xd8\xa9 \xd9\x88\xd8\xad\xd8\xaf\xd8\xa9 \xf0\x9f\x98\x8c\xf0\x9f\x92\x85 (@ college of science PNU (A3) w/ 5 others)'
-p178
-aS'Puhhhrty last night with my college barkada! \xf0\x9f\x92\x97 Thank you for the treat @angelxxvi \xf0\x9f\x98\x98 love you girl!!\xe2\x80\xa6'
-p179
-aS'"@DrakeTakeCare12: I want a high school relationship that ends in marriage." Okay na sakin mag-start sa college relationship! Hahahaha'
-p180
-aS'"becak,becak tolong bawa saya"\xf0\x9f\x98\x8b\xf0\x9f\x8e\xa4 (with bernadetha at gedung bellarmino loyola college) [pic] \xe2\x80\x94'
-p181
-aS'ruwet jdnya kamis hahaha"@_fitriaokta: Hahaha, jadi gimana urusan your college? RT @_Hanoey: Bukan lah enak aja"_'
-p182
-aS'Wow we ARE going to college after summer ends.'
-p183
-aS"I'm at Sri Jayachamarajendra college of engineering w/ @prashanthar7"
-p184
-aS'#MayWishes Study well and making more new friends in my college life \xf0\x9f\x91\xac\xf0\x9f\x91\xad'
-p185
-aS'My college life is complete. Ultimate achievement \xf0\x9f\x98\x81\xe2\x9c\x8c\xef\xb8\x8f Selfie with Doc M. Booyaaaa! \xe2\x9d\xa4\xef\xb8\x8f College is\xe2\x80\xa6'
-p186
-aS'#me #friend #college #daysout #sunday #world #lantern #beautiful \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d @ Summarecon Mall Bekasi'
-p187
-aS'@GeorginaDivaa "can we skipthiswhole college thing andgo straightandgoto thepart whereI have a realy awesomejob andspend allmytime traveling'
-p188
-aS'@smagitabahari ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students.'
-p189
-aS'#college day a mass day. Full of entertainment. Dance,water and rest one day finished'
-p190
-aS'@_callmeJoey college girl elsa!!! wc me: faithrecio mwa'
-p191
-aS"Feeling sad when i'm gonna back college.. \xf0\x9f\x98\xad"
-p192
-aS'MT "@DrTonyWagner: New company offers bootcamp for recent college grads to reduce the 44% underemployment rate.'
-p193
-aS'What we do when we bored #sunset #college #girls #friendship #princess @rizkanurdianish @ Upn Veteran\xe2\x80\xa6'
-p194
-aS'@nblhmht @FitrahKasih_ alaa ajim kat college taty kat qumahhh hujannnn \xf0\x9f\x98\xbf'
-p195
-aS'Overnight swim with college friends. @ Brizo Morong Bataan.'
-p196
-aS"@erikacrabara @thecarlomagtaas @peterfunx Erika, believe me. I'm the smallest incoming first year college ever. Ask Darren! Haha. :("
-p197
-aS'Bakit ang nga college friends ko hindi marunong gumimik? Or marunong sila pero ayaw nila. Answer me pls, hi guys.'
-p198
-aS'Masa-wrap.\xf0\x9f\x98\x8b My favorite shawarma since college days.\xf0\x9f\x90\xae\xf0\x9f\x8d\x80 @ Magboul Shawarma'
-p199
-aS"@Being_Heena ya that's so bad.. How's college life going ?"
-p200
-aS'This library is too impressive. So high end and shiit like wow this is how a college library should look. UOG, why you no improve? \xf0\x9f\x98\x93'
-p201
-aS'@DiowDante haha joke lang. In coming 2nd college :)'
-p202
-aS"Is it weird that I'm more excited about #littleinfinities than college (Tickets, my fingers are still crossed, hoping our stars are also.)"
-p203
-aS'@toomuchofjez college student na college student. Hahahaha \xf0\x9f\x91\x8a\xf0\x9f\x99\x8c'
-p204
-aS'Pray for our college team. At least we can go for the quarter final or if Allah give us chances we\xe2\x80\xa6'
-p205
-aS'I have yet to find an organization in college that respects and appreciates its members and applicants'
-p206
-aS'\xe2\x80\x9c@Farini_R: N permohonan college dah boleh check ke??? Anyone? Hello??\xe2\x80\x9d Belum'
-p207
-aS'no net... (@ Micronet international college)'
-p208
-aS'Getting bore at college ....'
-p209
-aS'@kashew_knot @POTpotassium @deeepfroZEN anu college ba maraming maganda dun? Lahat ata? Ahaha.'
-p210
-aS'There is nothing like hanging out with college buddies .. Simply awesome !'
-p211
-aS'@SMP9yk ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p212
-aS'@CelrestLing boooo come my college soon!'
-p213
-aS'RT "@EssentialFact: A study has found that the first two years of college are basically useless."\n\nthat really sums up everything.'
-p214
-aS"Unhealthy? ? Who caaares!!?? (@ AVIATION Training college's restaurant (7th floor))"
-p215
-aS'#AngSayaSiguro kung kayong mag b-bestfriends nung highschool, classmates parin sa college \xf0\x9f\x92\x94'
-p216
-aS"Axel's cute! But Manolo's just. ARGH!!!\n\nOkay. Now I'm excited for college!\n#PBBALLINDay4"
-p217
-aS'started activities again .... the spirit of college'
-p218
-aS'@mekaylagraham fallacy? Does it look like I went to any type of college?!'
-p219
-aS'First day in college. LOL :p (at President University Student Housing B12) \xe2\x80\x94'
-p220
-aS"It's likely I've been saw my past with her, with the one I had loved before I get college, yeah she is my junior W.A."
-p221
-aS'Awesome night got to see some of my college friends again. \xf0\x9f\x98\x86\xf0\x9f\x98\x86'
-p222
-aS'The good girls went silent on me, they got a bf or went to college on me'
-p223
-aS'@maLEEEYAAAAN @CountOfLegoLand @Paparicoooo lol xD kame pa! Tapos mamaya nasa MI nanaman xD hahaha ano kaya mangyayare skin sa college xD'
-p224
-aS'@rafdelatorre college ka na huhu time flies'
-p225
-aS'Baket bigla akong na excite mag college ngayon? Hmmm.'
-p226
-aS'@camilleeeeyyy Bayaaan ! Macapagal ho Ate. manila doctors college pangalan dati.'
-p227
-aS'#bored #campus #college #nutritionstudent #picoftheday @ Ruang Tutorial 311 FIKES UPN'
-p228
-aS'Morning :D #asian #girl #selfie #selca #hijab #college #instalike #instaphotos #hijabfashion #latepost\xe2\x80\xa6'
-p229
-aS'sugad pag tungtung nakog college nawala rag kalit ang lupang hinirang ug panatang makabayan sa akoa'
-p230
-aS'Plans for college. \xe2\x99\xa5'
-p231
-aS'Working out in college outfit. Bring back sweet memories. \xf0\x9f\x98\x82\xf0\x9f\x98\x82 @ IKIP Gym'
-p232
-aS"Final day of my college life. It's been the best 3 years spent at this institution. Met great people,\xe2\x80\xa6"
-p233
-aS'@herchellim ay wala haha akala ko kilala mo sila haha :(( =))) pero di yan. Onting kembot malang, college ka na be :*'
-p234
-aS'Meet @faeznick my best friend at college. #OneMoreRepCrew ! all the best bro!  Im glad to meet you too\xe2\x80\xa6'
-p235
-aS'Beyond grateful that I got to get to know you as both a college professor and a friend. Thank you for\xe2\x80\xa6'
-p236
-aS'Har jaga medical college khul gaya hai #WhatIAmObservingNowADays'
-p237
-aS'@SMPN3YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p238
-aS"You know you're missing your college days when you don't remember the last movie that you had seen."
-p239
-aS"Can't really imagine what matriculation kids feel rn as tonight is their last night in college. I feel you. Just, live it to the fullest ok!"
-p240
-aS"I'm at Brickfields Asia College - @baccollege w/ @navinaramani"
-p241
-aS"Missin' college life. Missin' FEU. Good morning! @ Far Eastern University"
-p242
-aS'Esok bertolak pagi lpstu terus gerak college..Insyaallah'
-p243
-aS'@maaaaaics engineering ka kc! hahaha xD isa lng akin college algebra'
-p244
-aS'@ThumbelYnaah Oo naman. Kaso not now. Busy na kase 4 sa college life eh. Pag available ako tsaka ikaw! Punta tayo! Nakachat na ata kita dte?'
-p245
-aS'#jeddah #college #alghad_college #\xd9\x83\xd9\x84\xd9\x8a\xd8\xa9_\xd8\xa7\xd9\x84\xd8\xba\xd8\xaf #\xd8\xac\xd8\xaf\xd9\x87 #\xd8\xaa\xd8\xb5\xd9\x88\xd9\x8a\xd8\xb1\xd9\x8a @ \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd8\xba\xd8\xaf \xd8\xa7\xd9\x84\xd8\xaf\xd9\x88\xd9\x84\xd9\x8a\xd8\xa9 \xd9\x84\xd9\x84\xd8\xb9\xd9\x84\xd9\x88\xd9\x85 \xd8\xa7\xd9\x84\xd8\xb5\xd8\xad\xd9\x8a\xd8\xa9'
-p246
-aS"@roymarionj haha 1st yr college ko sinabihan ako ng masyado ako madrama. Kaya nawalan nako ng emotion :'("
-p247
-aS'Post birthday celebration with college friends! \xf0\x9f\x98\x98 (@ Cafe Laguna w/ 3 others)'
-p248
-aS'good life in college  #MayWish'
-p249
-aS'Man yall think the real world is all fun and games. I cant wait for some of you to get out of college \xf0\x9f\x98\x82*spiraling airplane* BOOM! Crash &amp; \xf0\x9f\x94\xa5'
-p250
-aS'"@carmeloman5: I swear the NBA playoffs feels like a college bracket. No team is safe!"'
-p251
-aS'@VanMochi_Elf I study at High school.. and I not have college exam. *^*'
-p252
-aS'@ZainBernard kans..nasib I tak sama college ngn u...abis nnti u...hahahhaa'
-p253
-aS'@JoanPends ke nagsaliwan akon angkas e. an mabusag, and an kulot. patod ko an mabusag. tita an kulot. haha . 3rdyr college ad2 gna kulot'
-p254
-aS'@Dibaydibayn uy chura naman natin jan haha jk thank you dibs! Labyu and miss you! Hohol sa college!!'
-p255
-aS'Welcome, May! Can I go home? Or somewhere else where I can forget Semarang&amp;college&amp;task for a while?\xf0\x9f\x98\xaa'
-p256
-aS'@kxireyes @AltheaFelice shet college na tayo  w t f'
-p257
-aS'That day when i entered lecture at #college I found words on the desk says "you have destroyed 5 years of my life " ..'
-p258
-aS"I'm at college of science PNU (A3)"
-p259
-aS'Atmi cup (at Michael college) \xe2\x80\x94'
-p260
-aS"After today then no more morning McD before college! (@ McDonald's)"
-p261
-aS'@abby_torrillo asa ka mu college abby? :-)'
-p262
-aS'Thanks to my lovely college sbb buat event nie. Reaallllyyyyyyyyyyy appreeeciateeeeeeee'
-p263
-aS'@Diannavinz about college lang sana makapasa na ako xD uyy baka pumunta ako dyan sa 4 mga ganun'
-p264
-aS'@SMA_PaPurworejo ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students.'
-p265
-aS'Lunch date with our former college teacher. :)\n\n#BonChon #Thursday #LaborDay @ BonChon Chicken, UP\xe2\x80\xa6'
-p266
-aS'dlu kolej aq UTC unifield teknology college skunk UIC unifield international college.. dah faham kan!'
-p267
-aS"I get it, you're in college, but some of y'all drink more than marines. Take it easy people."
-p268
-aS'@SMPN12YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p269
-aS'Best milo made in this college \xf0\x9f\x91\x8d\xf0\x9f\x99\x8c'
-p270
-aS'@juniorisbeast They just keep on coming, where you headed for college?'
-p271
-aS'@itsmr_jaspher magfourth year college pa lang ako sa pasukan hahaha!'
-p272
-aS'@Reesya_ wahh awal sampai . Btw lama tak nampak college . Mana nak ajak lepak lagi sekarang kan . Tahu aa da ade boipreng !'
-p273
-aS'@veevien_vivie95 owh ok. I go college 1st'
-p274
-aS'1 of my favourite of my college days #MainDewaanHua by my all time favourite @abhijeetsinger \xf0\x9f\x92\x96\xf0\x9f\x91\x8d  '
-p275
-aS'Thats how my brakes going #brake#college#uos#laying#lazy#nike#outfit @ Sharjah University'
-p276
-aS'@sman9yk ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p277
-aS'\xe5\x93\x87\xe8\x80\x81!\xe5\xb0\xb1\xe7\xae\x97gay\xe6\x88\x91\xe4\xb9\x9f\xe8\xa6\x81\xe8\xaf\xb4\xe4\xba\x86!\xe4\xb8\x80\xe8\xb5\xb7\xe4\xb8\x8a\xe8\xaf\xbe\xe4\xb8\x80\xe8\xb5\xb7\xe8\xa1\xa5\xe4\xb9\xa0\xe4\xb8\x80\xe8\xb5\xb7\xe5\x81\x9a\xe5\xb7\xa5\xe7\x9a\x84\xe5\x8f\x8b\xe6\x83\x85! \xe6\x9c\x89\xe5\x85\xb1\xe5\x90\x8c\xe8\xaf\x9d\xe9\xa2\x98, \xe4\xb8\x80\xe8\xb5\xb7\xe5\x88\x86\xe4\xba\xab\xe5\xbf\x83\xe4\xba\x8b! \xe5\xa6\x88\xe7\x9a\x84! \xe4\xbd\xa0college\xe6\x88\x91form6\xe5\x95\x8a! \xe4\xb8\x8d\xe4\xb8\x80\xe6\xa0\xb7\xe5\x81\x87\xe6\x9c\x9f,\xe6\xa0\xb9\xe6\x9c\xac\xe8\xa7\x81\xe4\xb8\x8d\xe4\xb8\x8a\xe9\x9d\xa2! \xe5\x95\x8a\xe5\x95\x8a\xe5\x95\x8a\xe5\x95\x8a!!\xe7\x9c\x9f\xe8\x88\x8d\xe4\xb8\x8d\xe5\xbe\x97! \xe6\x9c\x80\xe5\x90\x8e\xe8\xbf\x98\xe8\xb7\x9f\xe6\x88\x91\xe8\xaf\xb4\xe6\x88\x91\xe6\x98\xaf\xe4\xbb\x96\xe5\x94\xaf\xe4\xb8\x80\xe7\x9a\x84\xe5\x85\x84\xe5\xbc\x9f! \xe8\xbf\x99\xe7\xa7\x8d\xe5\x85\x84\xe5\xbc\x9f\xe6\x83\x85! \xe8\xa7\x89\xe5\xbe\x97\xe6\x88\x91\xe4\xbb\xacgay\xe7\x9a\x84, \xe6\x88\x91\xe4\xbc\x9a\xe6\x9b\xbf\xe4\xbd\xa0\xe4\xbb\xac\xe5\x8f\xaf\xe6\x80\x9c!\xe5\x85\x84\xe5\xbc\x9f \xe4\xbf\x9d\xe9\x87\x8d!'
-p278
-aS'#tb Yesterday at college west ^^ @ College West'
-p279
-aS'@Osis_SMA ESA UNNES present #ESAWEEK2014 for JATENG-DIY high school-college students. klik'
-p280
+p4
+aS'Good night. :) i miss my bestfriend xx &amp; my college friends'
+p5
+aS'@IshveenaKaur Hahah.. cz nvr chat :p hehe \nJk nie.. So watcha doin ? No college ah ?'
+p6
+aS'Hey nabilah @halibanarima ! Where r u? Stuck at d college? Hahaha..sonoknye kt rumah golek2 dlm gebor.. :p'
+p7
+aS'Nasestress naman daw ako. Hayst! Maadal nalang ako kang Rizal bako lang college al.'
+p8
+aS'@mnadirahazmi hahah aku bawak bangla guard college aku.'
+p9
 aS'Janji-MU selalu tepat dan indah pada waktuny! Thank You GOD!\xf0\x9f\x98\x84 #college #senasib #seperjuangan @\xe2\x80\xa6'
-p281
-aS'Yang tak bestnya dah masuk college evrydy nk kena fikir nak pakai baju apa #Typical'
-p282
-aS'Want my baby to hurry up and finish college @larcameron \xf0\x9f\x91\xaf'
-p283
-aS'fieqa bengang wifi college lembab .'
-p284
-aS'\xd8\xb5\xd8\xa8\xd8\xa7\xd8\xad\xd9\x8a \xd8\xa7\xd9\x86\xd8\xaa\xd9\x90 \xd9\x8a \xd8\xaf\xd9\x82\xd8\xa9 \xd8\xae\xd9\x81\xd9\x88\xd9\x82\xd9\x8a \xd9\x88\xd9\x86\xd8\xa8\xd8\xb6\xd8\xa7\xd8\xaa\xd9\x87 \xe2\x99\xaa\xcc\xa0\xe2\x9d\xa5 @ omw 2 college\xf0\x9f\x98\xad'
-p285
-aS'#smile #me #selfie #friends #college #institute #technology #fish_eye #bb #iphone5s #makkah #jeddah\xe2\x80\xa6'
-p286
-aS'haih I really hope that I get to finish my job as soon as possible!! at least before entering college! aaahh this is so stressful haha'
-p287
-aS'Hay, college ka na @GrldAln ang bilis ng panahon. Parang dati lang kalbong totoy ka pa. Goodluck sa college life tol pati kay C! Hahaha \xf0\x9f\x98\x8b\xf0\x9f\x98\x82'
-p288
-aS'@Geelloooo you me at six tsaka we are the in crowd lang. Yoko na mahal sayang money tsaka busy sa college haiszxt hahahahah'
-p289
-aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college (Jeddah, Western Province) w/ 50 others"
-p290
-aS'\xe2\x80\x9c@Qieserraleyn: Rindu normal college life uwaaaaaaa !\xe2\x80\x9d'
-p291
-aS'@faridamzar otomotif college, PJ'
-p292
-aS"@xaaanshine ehehe. It's for college okay. \xf0\x9f\x98\x8a"
-p293
-aS"Goodbye Ilo-Ilo for now! \xf0\x9f\x91\x8d\n#iloilo :))\n\nIll be back soon when I'll enroll for college. \xf0\x9f\x91\x8c\xf0\x9f\x98\x81 @ Iloilo\xe2\x80\xa6"
-p294
-aS'@aljnblrxD HAHAHA ang bilis kasi parang kelan lang Nag mimix ako ng cocktail ! ngayon college na xD'
-p295
-aS'\'Anung gusto niyo? After college mag aasawa na kayo? Napakawalang silbi niyo naman. Patayuhan niyo muna ng masion mga magulang niyo"'
-p296
-aS'@Igiwhosoever Haha. Enjoyin ang college life! Kelan ka pala akyat ng Baguio? Tagal na natin di nagkikita!'
-p297
-aS'Group activity during tutorial class. The other 5 members missing \xf0\x9f\x98\x85. #college #friends #tutorial\xe2\x80\xa6'
-p298
-aS'Do the hagoood! \xf0\x9f\x98\x82#HappyNationalBestFriendsDay My bff since day 1 in college!!! \xf0\x9f\x98\x98\xf0\x9f\x98\x98 i love u babe!!! \xf0\x9f\x98\xbb@biancabibingka'
-p299
-aS'They say that #college would be #fun, #freedom, #excitement and full of #joy. #Nonsense.\xf0\x9f\x98\x92'
-p300
-aS'\xf0\x9f\x98\xad\xf0\x9f\x92\x94\xf0\x9f\x92\x94\xf0\x9f\x92\x94 (at college of eduaction - KSU- AlDiriyah) \xe2\x80\x94'
-p301
-aS'@Shooting4Christ where you playing college ball??'
-p302
-aS'#islamia #college #lucknow #india #pole #instagood #instagram #instafresh #picoftheday #bestoftheday @\xe2\x80\xa6'
-p303
-aS'Not shur if officemates or hs/college friends hahaha! \xe2\x9d\xa4 you friends, super! Repost from eenamoo \xf0\x9f\x98\x98 @\xe2\x80\xa6'
-p304
-aS'Being a good girl and went to college on my day off to work \xf0\x9f\x98\x8c (@ College of Fine Arts &amp; Design - @uniofshj)'
-p305
-aS'@mohammadshmalka  TOGAF Training course at MOICT 2014  Thanks to our  college Mr Ala Dandees'
-p306
-aS'Doing task at the wrong place, lol :p #task #college #garden #vacation @ Floating Market, Lembang'
-p307
-aS'ayoko na uli mag college d na ulit ako naeexcite hahaha tambay nalang ako!'
-p308
-aS'@GueIex Aba college na tlga no? Hahha ewan ko ganun sched nila e'
-p309
-aS'@CelrestLing boooo I can go there everyday after college starts :p'
-p310
-aS'Dinner w the college pals tonight \xf0\x9f\x91\xad\xf0\x9f\x91\xab @miahmataba @RizelleHdz'
-p311
-aS'Throwback-ing with my big bukton. I look like Nadine Lustre "Taba Edition" XD #PE #firstyear #college\xe2\x80\xa6'
-p312
-aS'"@mieerulls: @afzanazhar_ kolej baru. Go Google and search for it. Putra intelek international college" ohh okay hee \xf0\x9f\x98\x8a'
-p313
-aS'"@FactsOfSchool: Money can\'t buy happiness? \n\nFalse. \n\nGetting my college paid for would make me happy."'
-p314
-aS'@faridcyberx heheh . Tula dtg la college awal Lain kali . :)'
-p315
-aS'@itspaulavalle Mae maganda! pang college name HAHAHAHA'
-p316
-aS"@ChooiLiiing everything's good \xf0\x9f\x98\x8a how are you??? Long time since I heard from you \xf0\x9f\x99\x88 I'm in sunway college doing ausmat. \xf0\x9f\x98\x8a"
-p317
-aS"Early morning but I must goes to college !!! I've last exam today,\nProgramming !!!  Wish me luck xx"
-p318
-aS'2 college \n\n\xd9\x88\xd8\xaf\xd8\xa7\xd8\xb9\xd9\x8a\xd9\x87 \xd9\x8a\xd8\xa7 \xd8\xa7\xd8\xae\xd8\xb1 \xd9\x84\xd9\x8a\xd9\x84\xd9\x87 \xd8\xaa\xd8\xac\xd9\x85\xd8\xb9\xd9\x86\xd8\xa7 \xd8\xa8\xd8\xa7\xd9\x84\xd9\x83\xd9\x84\xd9\x8a\xd9\x87 \xe2\x98\x85'
-p319
-aS'#TwitterKaPehlaDin college k pehlay din k jesa tha :p'
-p320
-aS"Overnight at Karina's crib with college barkada \xf0\x9f\x91\x8f @anaabeee @Karina_lovesU @justinepowl Danielle, Angel. Kasi umuwi agad si @bocx_pot \xf0\x9f\x98\x82"
-p321
-aS'@EDBERTisement ????? Daw amu man na ngalan sang crush ko sa college Bert nga CRUSH mo man gali ...hahahhaha sino na gani pares ni batman ???'
-p322
-aS"@ItsTanesTwipz I'm fine bro. Same here bro. How's college bro?"
-p323
-aS'Pergi college pakai jubah harini .hehee'
-p324
-aS'Those days were the best days..missing college life..'
-p325
-aS'Just posted a photo @ axis college, rooma'
-p326
-aS'Thank you Aunties and Uncles! #kNOwcleanersday #itecollegewest #itecw @ ITE College West'
-p327
-aS'If only I could skip s2 and s3 then straightly go to college #impossible          #existenceOf #SPM'
-p328
-aS'@SMAN7YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p329
-aS'Best friends are the ones who keep in touch with u when they go away to college, no matter how busy\xe2\x80\xa6'
-p330
-aS'Wala ba kayong pinag-aralan?! Graduate pa naman kayo ng college! SIMPLENG MANYAK!!!'
-p331
-aS'Hahah haw! \xf0\x9f\x98\x82 #library #funny #words #mistake #indian #college #errors #instafunny @ Knowledge\xe2\x80\xa6'
-p332
-aS'Releasing exam stree at college :-D #friends #xperia #cool #funny #summers #awesome #liketofollow @\xe2\x80\xa6'
-p333
-aS'Farewell party pic with shadeking93 \xe2\x99\xa5 lost the count of pics of us together :p \n#college #farewell\xe2\x80\xa6'
-p334
-aS'This is what I like to see from my #students #school #college #math #jeddah #ksa #exams @ Effat\xe2\x80\xa6'
-p335
-aS'Finished the first year of my college life unofficially.... : D'
-p336
-aS"I'm excited for college and I know I'm gonna regret saying this in the future"
-p337
-aS'"@FactsOfSchool: "It\'s the remix to ignition, college student edition. I eat poptarts for dinner, I can\'t afford my tuition.""'
-p338
-aS'@auhcesined college life is fun,  sad and not easy sometimes .hehe.. just focus... go go go!'
-p339
-aS'@IzzuddinRz @HilmiShahrom otomotif college, PJ'
-p340
-aS'@syakirkamis after dah survey college dgn si yuthi. Nk betul2 siasat background college da kali ni'
-p341
-aS'Bwd slideshow for presentation \xe2\x96\xa0 (@ Lh3 poly-tech mara college,)'
-p342
-aS"So much power, so much responsibility...and its only college. What will I become if i can't handle the load now...God help me."
-p343
-aS'Ano pong magandang backpack for college?'
-p344
-aS'\xf0\x9f\x98\x92\xf0\x9f\x92\x94 (@ Inaya Medical college w/ 3 others)'
-p345
-aS"I can already work &amp; end this college life. But I still want to hold on to my dream of becoming a people's lawyer, just like grand pa. :("
-p346
-aS'@diksbjr1996 haha no college ta yehi padhne ho'
-p347
-aS'Life used to be so much easier before college..'
-p348
-aS'Besokk senin|college is begining| &gt;\xc2\xa4&lt;'
-p349
-aS'Driving in Sharjah when going to college completely turns my mood around \xe2\x98\xba\xef\xb8\x8f\xe2\x9d\xa4\xef\xb8\x8f #iloveshj'
-p350
-aS'@HeyyNada Family dramas. &lt;/3 Matagal-tagal pa bago ako makapuntang Davao, baka maggrad muna ko ng college XD maganda ba diyan? :"&gt;'
-p351
-aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college (Jeddah, Western Province) w/ 16 others"
-p352
-aS'@ptrcnnfjs Ahhh. Buti college kana. T^T abot ko ang k to 12 ehh!'
-p353
-aS'NEW FRIENDS SOCIETY at N.H.24 next to Bankey Bihari dental college GHAZIABAD.#ResidentialPlot #Land #ForSale #Dasna'
-p354
-aS'@nynanyna ohyeke..haha. Kau msk college mana der?'
-p355
-aS'Starting June magbabasa na ako! :)  Ready for college! :) Paunahang mabaliw sa course ko.'
-p356
-aS'11:11 makaya college'
-p357
-aS'@SyanieBalkish amboiii dont tipu tipu meee ahaha . budak college kau eh ?'
-p358
-aS'Imprint...Back to where we did notorious things! (@ nagindas khandwala college)'
-p359
-aS"Two exams at college tomorrow, on a Sunday. And yet, got back an hour ago from a lovely evening at K-Circle. Ah. C'est la vie."
-p360
-aS'"@hashtag_qwerty: Yeess nmaaaan!!! College na siya!!!! Hhahah!!! @unnicorn_" Oo nga! Grabe. Akala ko di nako makakapag college.'
-p361
-aS'My grammar is better than a 22 year old who graduated college.'
-p362
-aS'\xe4\xb8\x80\xe7\x9b\xb4\xe4\xbb\xa5\xe4\xbe\x86\xe7\xa6\xae\xe6\x8b\x9c\xe5\x9b\x9b\xe4\xb8\x8d\xe6\x98\xaf\xe6\x88\x91\xe5\x80\x91\xe7\x9a\x84\xe6\x97\xa5\xf0\x9f\x99\x85 #\xe7\xa6\xae\xe6\x8b\x9c\xe5\x9b\x9b #\xe8\xa8\x8e\xe5\x8e\xad #hate #Thursday #bad #emotion #rainy #sleepy #ew #young #college #student\xe2\x80\xa6'
-p363
-aS'@psychhee thaaanks ate guen!!! *u* wuv u too *bear hug* hang out in college? (anlayo ko tho huhu) HAHA'
-p364
-aS'@ceejxdeej anokaba! Pag college na tayo fangirling overload na! \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
-p365
-aS'#100HappyDays #Day10 (Double digits!)Obsessively read all day, chatted w/mommy,did some banking&amp;writing for college&lt;3'
-p366
-aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college (Jeddah, Western Province) w/ 11 others"
-p367
-aS'@scottie_Jayy shit me too. If you can try to get in with a college rotc program... grt your degree,  and commission.'
-p368
-aS'Safely arrive at #uitmlendu ! Oh my god ! The college is totally awesome ! So now begin our journey to\xe2\x80\xa6'
-p369
-aS'Nakakamiss naman college friends ko. -.-'
-p370
-aS'Ang naa sa akong huna huna karon kay college'
-p371
-aS'@kevinwouldsay @aisuhcunanan \nThe college life is fun\xef\xbc\x81\nI want to become 20 years old, too\xef\xbc\x81\nHaha'
-p372
-aS'May you Rest in Peace Tita Alfreda! Thank You for being part of our college life!\xe2\x9b\xaa\n\nWe are always here\xe2\x80\xa6'
-p373
-aS"@jiaaweii22 How awesome if there's another Jiawei in my college. \xf0\x9f\x98\xad"
-p374
-aS"Hungryyyyyyy (@ AVIATION Training college's restaurant (7th floor))"
-p375
-aS'Kalau tak bersalah, mai kita dok setable, bincang. Tapi tak main la kalau dkt college, hostel kan ada'
-p376
-aS'@winphong ya no college but I get \xe4\xb8\x8d\xe5\x88\xb0HAHAHAHA'
-p377
-aS"@tylahlaaah Can't believe im repeating 4th yr. Why did i had stop school. Eyy finally a friend whos not leaving guam for college. Haha"
-p378
-aS'@imAujanLovely @imcristina_08 Kashock naman pag ganun. Nagstop sanda it college? Kaya naman pala dineactivate ni Flaierth ung fb niya.'
-p379
-aS'@zyrabelleA @clairybels naks. Hahahaha aruuy. Mag be braintrain ka or college review?'
-p380
-aS'With Mohamed at Med-college Library \xe2\x80\x94'
-p381
-aS'#fishes #fish #pond #water #stones #grass #college #asac #work #students #work #instapic #instatime\xe2\x80\xa6'
-p382
-aS'Simula 2nd year hs sila na kaso hanggang 2nd year college lang sila sayang matagal din yun'
-p383
-aS'@jhoycepalacio14 @imkatekaaat nope incoming college palang ka graduated ko lang e'
-p384
-aS'@SMPMUH3YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p385
-aS"I remind my parents to love me, even if I don't get into college, on a daily basis."
-p386
-aS'First Check in In my college..... lolz \xf0\x9f\x98\x89\xe2\x9c\x8c\xf0\x9f\x91\x8d (@ SES  Sollege Of Engineering)'
-p387
-aS'@Jenovi6 same here. So many assignments and college stuffs until no time to catch up all the new series \xf0\x9f\x98\xa9'
-p388
-aS'How come that my ex bf, a former college blockmate, and a kpop acquaintance, is following my mom on Instagram? Hahahaha whatda.'
-p389
-aS'Sitting in the college library all chilled with legs on table. :p Just missing a warm cup of green tea.'
-p390
-aS'@Swathi1096 u mean into christ college?'
-p391
-aS'1 more month of summer shet u college life huhuhu in dire need of decent school'
-p392
-aS"I'm at Jubail Industrial College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd8\xac\xd8\xa8\xd9\x8a\xd9\x84 \xd8\xa7\xd9\x84\xd8\xb5\xd9\x86\xd8\xa7\xd8\xb9\xd9\x8a\xd8\xa9 - @irjubailcollege (Al Jubail, Eastern Province) w/ 4 others"
-p393
-aS'So i have go to college tomorrow'
-p394
-aS"@sheenamaeeeee hahaha. You're still young mas marami pang challenges and conflicts this college :)"
-p395
-aS'@maikhss college tska org. Hahaha. Sa clep. :)'
-p396
-aS'@varmanic miss ayyav bro nijanga chala manchi college OU ki KCR ki sambandam ledu ala anukuntunnaru janalu antha hyd is not equal to KCR'
-p397
-aS'Good bye selangor matriculation college!'
-p398
-aS'@TanushreeParama ohhh in arab  so today is college'
-p399
-aS'I am a college student'
-p400
-aS'Those college photos, this is where they may end up.'
-p401
-aS'@PinJieTeee in the college library :) im hungry'
-p402
-aS"so so grateful for the new friends i've made and the old friends i've kept since i started college. i don't think i say or show it enough"
-p403
-aS'ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students. klik'
-p404
-aS"@leyahguarino i don't simulan mo hahaha san ka mag college?"
-p405
-aS'Final day of my college life. Came here thinking I would hate this place but Im leaving here with a\xe2\x80\xa6'
-p406
-aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college w/ @njood_n9_aldnya"
-p407
-aS'prepare before comeback.. to college\xf0\x9f\x8f\xa2 (at BP2IP Mauk Tangerang) \xe2\x80\x94'
-p408
-aS"I'll probably have a hard time getting into college because of my excessive absences and poor grades \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad"
-p409
-aS'@MUPATupdate ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p410
-aS'@DonBoskoSMG ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students. klik'
-p411
-aS'Went to two museums today with my college mates to do some research for assignment #vscocam @ National\xe2\x80\xa6'
-p412
-aS'@imprncssc ganun? Sa lahat talaga? Hahaha sige try naten yan sa college'
-p413
-aS'Feel bored at the Library. Hahahaa ^^v #bored #library #breaktime #college @ Universitas Surabaya (UBAYA)'
-p414
-aS'Should i go to college tomorrow hmmm'
-p415
-aS'@GorgeouShine Huh? Bat ang bata mo pa para mag college ate ko?'
-p416
-aS"Packing packing,...there's so much I need.. Not ready to go to college... Hurmmmm.."
-p417
-aS'@scottt_1096 bro sat college study ?'
-p418
-aS"@luhanbliss Nah its impossible to get noticed by him (: and he's college im a high schooler.. He's hamdsome and im not even that pretty (:"
-p419
-aS'Because today was a reminder of how our parents have worked so hard to help us through college. Thank\xe2\x80\xa6'
-p420
-aS'@MargoScrlt ahh ^.^ incoming 1st yr college :) taga san ka? :)'
-p421
-aS'Officially graduated from college today! Huzzah!!! @ University of the Philippines'
-p422
-aS'@apriljoysantos tama! \xf0\x9f\x98\x85 pano pag mga ganun kaklase mo sa college! :O'
-p423
-aS'@NawarAmnah mesti lah best. Best engineering college in malaysia lah katakan..haha.'
-p424
-aS'@Veronica_Allysa oh. Sa public school lang ako nag-aaral sa Antipolo. Pinsan ko kasi mag ka-college na. Rich kid ka pala. :))'
-p425
-aS'"@JustinGueco_: college na ko di ako makapaniwala hays" pano pa ko sa height palang wala ng naniniwala hahahaha \xf0\x9f\x98\xad'
-p426
-aS'@nabilahshahidan college support kot sbb g under college hehe'
-p427
-aS'Tutoring a college aged boy is really awkward'
-p428
-aS'The long lost Party Partner back in college! Finally! Natuloy din \xf0\x9f\x98\x81\xf0\x9f\x98\x81 More to come! @tridims \nP.S.\xe2\x80\xa6'
-p429
-aS'can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9dthing and go straight and go to the part where i have a really awesome job and spend all my time traveling?'
-p430
-aS'Di pa umuuwi si ate, baka siya naman di makagraduate ng college. Lagi na lang late kung umuwi. Hayynakuu'
-p431
-aS'"Can i skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight to the part where I have a really awesome job and spend all my time traveling?"'
-p432
-aS'Heading to Binondo Church w/ college friends. My first time visit. Happy Sunday!\xe2\x98\xba\xef\xb8\x8f'
-p433
-aS'@limapawitikra ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p434
-aS"bought some stuffs for my college just now. aaaaa it bring tears to my eyes even when I imagine of staying in college without my family :'("
-p435
-aS'@IAmIKrisman ok dei pick me up after college \xf0\x9f\x91\x8c'
-p436
-aS'@IzzatRfan @ArifRosnan hmm dah strt college :( arip Ada interview enn nanti ?'
-p437
-aS"In the need of cat presence why can't we pet some at college why why why"
-p438
-aS'@Raprafito awww too bad men :(( di mo makikita kung pano ako magiging awesome sa college :( sayang bro pero hangout parin tayo ahh'
-p439
-aS'@herchellim nah goodgirl ako b haha jk jk balik ka pag college mo!'
-p440
-aS'Magkakaroon ng kasagutan lahat ng tanong ko, pagkagraduate ko ng college :")'
-p441
-aS'Super late lunch with my college friends. I missed you all. Si jesssjasmin lagi nang nandito so hindi\xe2\x80\xa6'
-p442
-aS'@ChrlnChie haha, malay mo sya pa din mag choreo sa cba. Hahaha Masyado nya mahal ung college natin. \xf0\x9f\x98\x8d'
-p443
-aS'Back to college @ City One'
-p444
-aS'V (@ Parking (college of science))'
-p445
-aS'Good time :) #college #friends @ Hakata Ikkousha - Senayan City'
-p446
-aS"I'm at padmavati juniors college"
-p447
-aS'Spent another tradition but this time, with my college buddies. Ang saya saya lang. Ang late lunch\xe2\x80\xa6'
-p448
-aS'Lingawa sa graduation sa college oyyyyy'
-p449
-aS"Can't believe my college professors have actually filled the online recommendation form."
-p450
-aS'@WahyuRamli kesiannn hahahah org g college makin keding ko kot makin kembung muahaha'
-p451
-aS'@SMPN6YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p452
-aS'@hunnuuuuh ohw hehe \xf0\x9f\x98\x81 i dont have a college yet lol'
-p453
-aS'@ManifestCup ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p454
-aS'Yey graduate na ako next year then college life na ^-^'
-p455
-aS"Is it weird that I'm more excited about #littleinfinities than college? (Tickets, my fingers are still crossed, hoping our stars are also.)"
-p456
-aS'@MaryGyleM ning graduate naman diay kag college. :))'
-p457
-aS'Semoga bener semua berawal dari kelas ini \nDan kami semua lulus \nAstungkara (at indonesia college) [pic] \xe2\x80\x94'
-p458
-aS'Batangas weekend with some of my college best buddies \xf0\x9f\x98\x81\xe2\x9c\x8c\xef\xb8\x8f @ Secret Place'
-p459
-aS'Have a nice weekend every body \xf0\x9f\x98\x98\xe2\x9d\xa4\xef\xb8\x8f\xe2\x98\xba\xef\xb8\x8f @ Alghad college'
-p460
-aS'I miss my college friends :('
-p461
-aS'@ralphanthony04 si paul! hahah gn mangkot yko kun may ma dulong skon mg college. mbl ko ako nlg nhuya mn kocollege na mapadulong pko'
-p462
-aS'@sedes_memory ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students. klik'
-p463
-aS'@iamsaiha keto tu aku tgl shah alam laa. . Dengan barang kt college aku'
-p464
-aS'@SeputarPwdd ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p465
-aS'@sma_mardisiswa ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students.'
-p466
-aS'@mashal1144 my frnd gave me all old letters tht v xchanged during our school n college days. These lengthy leters remind me of gud old days'
-p467
-aS"I AM SO DAMN LATE FOR SIMEONE LEGNO'S AUTOGRAPH SIGNING! I am one of his ultimate fan since college\xe2\x80\xa6"
-p468
-aS'@hananananahfaye so excited na ka mag-college? hehe. :))'
-p469
-aS'#mi batters r goin in middle same as v used to go to college; "for sake of attendance"\n#DDvsMI #PepsiIPL'
-p470
-aS'Nung HS ako promise ko sa college meron na dapat ngayong college nako promise ko naman sa proper na talaga... #SanaNaman..:('
-p471
-aS'@SMPN15YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
-p472
-aS'I should have gone to fucking college.'
-p473
-aS'Ayoko pa mag college.\nMasarap pa sa bahay.'
-p474
-aS"I'm at college of information and computer science"
-p475
-aS'Well seriously i wanna go to college, im sick of ma class, Full of backstabbers, Spies and sceamers (Except some of them)'
-p476
-aS'Natatae ako pag iniisip kong magka college nako :('
-p477
+p10
+aS"buti pa yung mga mga c'college july or august pa ata pasukan nila \xf0\x9f\x98\x9e"
+p11
+aS'To #college'
+p12
+aS'Sial betul ah buat perangai babi apa pompuan tu (@ Alpha college)'
+p13
+aS'@Lucillealoo college roadtrip ata yan'
+p14
+aS'Di jud ko magcommerce pag college shet nyo -_-'
+p15
+aS'Crazy night with college blockmates. Love you all. #L85 @ Music 21 Makati'
+p16
+aS"@StarMoviesIndia i would like to meet my love of my college life. I've not seen her ever since. #LastDayOnEarth"
+p17
+aS'This means college. #42814 @ Padulong College'
+p18
+aS'@MyCJE Dati ko lang ginagawa yan apo. Hindi na ngayon. Hahaha. First year college pa yan. \xf0\x9f\x98\x82'
+p19
+aS'Just got a call from the college where I studied!! Invited for an event + awards function!! Great learning that they recognize alumni too!!!'
+p20
+aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college (Jeddah, Western Province) w/ 3 others"
+p21
+aS'@acinomrose Sge babe! Hihi magkano daw ba college fee?'
+p22
+aS'Last night...we four were / walking on the road...enjoying the unforgettable fun...remembering the college days...it was awesome'
+p23
+aS'At \xe4\xba\x9a\xe6\xb4\xb2\xe5\x9b\xbd\xe9\x99\x85\xe5\x8f\x8b\xe5\xa5\xbd\xe5\xad\xa6\xe9\x99\xa2 (asia international friendship college) \xe2\x80\x94'
+p24
+aS'PhoneticSymbols\xe3\x82\x84\xe3\x82\x8a\xe5\x87\xba\xe3\x81\x97\xe3\x81\xa6\xe3\x81\x8b\xe3\x82\x89\xe6\x9c\xac\xe5\xbd\x93\xe3\x81\xab\xe5\x8d\x98\xe8\xaa\x9e\xe3\x82\x8f\xe3\x81\x8b\xe3\x82\x89\xe3\x81\xaa\xe3\x81\x8f\xe3\x81\xaa\xe3\x81\xa3\xe3\x81\x9f\xe2\x80\xa6\xe4\xbb\x8acollege\xe3\x81\xa3\xe3\x81\xa6\xe6\x9b\xb8\xe3\x81\x91\xe3\x81\xaa\xe3\x81\x8b\xe3\x81\xa3\xe3\x81\x9f\xe3\x81\x97'
+p25
+aS'\xe2\x80\x9c@zighduhhh: So glad college gonna end soon, like tomorrow.\xe2\x80\x9dyeayyy haha'
+p26
+aS'@jurchenli sa uste ka mag ka-college? \xf0\x9f\x98\x8a'
+p27
+aS"@pal36 It's a dental college where people have a lot of sex."
+p28
+aS'@inahfranchesca how about ur college friends?\xf0\x9f\x98\x89\xf0\x9f\x98\x82'
+p29
+aS'@ShaaEya hahahahahahahahaha tahu pun haih geram je kyna nak jumpa wardah pun pyh pdhal satu college'
+p30
+aS'San ka mag aaral sa college? @clairybels @zyrabelleA'
+p31
+aS'Hari hari celaka di college #HidupCelakaDiSegi @ Showru Cafe &amp; Bistro'
+p32
+aS'#Shop #ForRent in front of Polytechnic college, #AmbarnathEast #Thane #Commercial #Property'
+p33
+aS'Sana makahanap ako ng totong kaibigan pag college \xf0\x9f\x99\x8f'
+p34
+aS'@YeeahMeen hahaha remot kasi baka REMOTE? Bayan! Nakaabot ng 2nd yr college! Hahahah'
+p35
+aS'@lgillamac meeeeee... jk\n\nambot tinuod ba, 1st year college na xa... graduated frm SC'
+p36
+aS'Praktek hari ini #instagood #friend #college @ Lab Beton FT UNJ'
+p37
+aS'@mbupnjogja ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p38
+aS'Tgif! (@ Micronet international college)'
+p39
+aS'Cepat laa habis sem break , hmmm hmm tak meriah college sikit sgt budak , yang ada pun junior2 baru masuk ni haha , membosankan boh :3'
+p40
+aS'@IzhamShahimi bestnyaaa what college?'
+p41
+aS'Monastery college. Evening classes for #monks #spiritual #tibet #magic #allshadesofred @ Sera Monastery'
+p42
+aS'Sampe rumah keingetan tes "sharia bangking college" tadi. Ya Alloh semoga hamba termasuk hamba yg beruntung masuk seleksi rekrutmentnya.^_^'
+p43
+aS'@marvinosilva soon kapag college na ako \xf0\x9f\x98\x83\xf0\x9f\x98\x83\xf0\x9f\x98\x84'
+p44
+aS"Sometimes i miss college life sometimes i don't.. Sometimes i like being at home.. And sometimes I miss themm!.."
+p45
+aS'May college algebra kami. Yung iba wala hays swerte'
+p46
+aS'\xe2\x80\x9c@sbkinshicho: \xe3\x80\x8c\xe6\x8b\xa5\xe6\x9c\x89\xe5\xae\x8c\xe5\x96\x84\xe7\x9a\x84\xe5\xb0\xb1\xe4\xb8\x9a\xe6\x94\xaf\xe6\x8f\xb4\xe5\x88\xb6\xe5\xba\xa6\xe3\x80\x8d\n\n\xe3\x80\x8c\xe6\x9c\x80\xe7\x9f\xad3\xe4\xb8\xaa\xe6\x9c\x88\xe5\x8f\xaf\xe5\xb0\xb1\xe4\xb8\x9a\xe3\x80\x8d\n\n\xe5\x90\x91\xe6\x82\xa8\xe6\x8e\xa8\xe8\x8d\x90\xe7\xa7\xbb\xe5\x8a\xa8\xe9\x80\x9a\xe4\xbf\xa1\xe4\xb8\x9a\xe7\x9a\x84\xe4\xba\xba\xe6\x9d\x90\xe8\x82\xb2\xe6\x88\x90\xe5\xad\xa6\xe6\xa0\xa1Mobile college of Japan\xef\xbc\x88\xe7\xa7\xbb\xe5\x8a\xa8\xe7\x94\xb5\xe8\xaf\x9d\xe4\xb8\x9a\xe5\x8a\xa1\xe6\x95\x99\xe8\x82\xb2\xe5\xad\xa6\xe9\x99\xa2\xef\xbc\x89\n\n\xe5\xad\xa6\xe7\x94\x9f\xe3\x80\x81\xe7\xa4\xbe\xe4\xbc\x9a\xe4\xba\xba\xe3\x80\x81\xe4\xb8\xbb\xe5\xa6\x87\xe3\x80\x81\xe7\x95\x99\xe5\xad\xa6\xe7\x94\x9f\xe5\xa4\xa7\xe6\xac\xa2\xe8\xbf\x8e\n\n\xe8\xaf\xa6\xe7\xbb\x86\xe5\x86\x85\xe5\xae\xb9\xe6\xac\xa2\xe8\xbf\x8e\xe9\x9a\x8f\xe6\x97\xb6\xe5\x92\xa8\xe8\xaf\xa2\xe2\x80\x9d \xe6\x80\xa5\xe7\x9c\xbc\xe4\xba\x86\xe5\xb0\xb1\xe6\x89\xbe\xe8\xbf\x99\xe4\xb8\xaa\xef\xbd\x9e'
+p47
+aS'@jhezbaldeo diin ka ma college? :)'
+p48
+aS"I'm at Brickfields Asia College - @baccollege (Petaling Jaya, Malaysia) w/ 2 others"
+p49
+aS'2 college'
+p50
+aS"@callmemariah_  I didn't even know you were leaving for college \xf0\x9f\x98\xad\xf0\x9f\x98\xad"
+p51
+aS"Chilling at home for 6 months straight and I gained like 4 kilos.\n\nBig deal, I'll just shake that off later in college."
+p52
+aS'Bahala ako an pirmi sugu-suguon ngari. Swerte na kaayo ko sa akong kinabuhi nga nakauban nako akong mama sa whole college life nako.'
+p53
+aS'I went off to #college #planning to major in math or #philosophy-- of #course, both those ideas are really the same idea.'
+p54
 aS'Bosannyaa environment college ni.'
-p478
-aS'Sila ayos na college papers and files tas June-ish pa classes nila, ako last week of May na waley pa rin na aaccomplish. DLSU pls. Huhuhu'
-p479
-aS'@CelinaJaitly Major Mukund spent a few years in Mhow and served as an instructor at Infantory college Mhow. RIP.'
-p480
-aS'\xe2\x80\x9c@clippefuentes: "ano imo kwaon mag-college?"\nme:kwarta\xe2\x80\x9d \xf0\x9f\x98\x82'
-p481
-aS'@Alfrink @TheRawGamer1998 your courses in college are taught in English ?'
-p482
-aS'Boba do you want me to look like a community college adjunct or the son of a former ambassador?\xe2\x80\xbd (it  always works)'
-p483
-aS'bc nag tambay kami last night with college barkada tapos ga pinalak inom akon migo....kundi nag sululuka sa kag hubog2 =))))) gaga eh \xe2\x9c\x8c\xef\xb8\x8f\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81'
-p484
-aS"So I've worked out that between college assessments and the JLPT I'm basically stuck in intense exam prep mode for the next three months."
-p485
-aS'The college version of me just said, "NOOO FREAKIN\' WAYYYYYY!!!!" #ObamainKL #yseali @ University of\xe2\x80\xa6'
-p486
-aS'\xd8\xa7\xd8\xae\xd8\xae \xd9\x84\xd9\x88 \xd8\xa8\xd8\xa7\xd9\x8a\xd8\xaf\xd9\x8a \xd8\xa7\xd8\xae\xd9\x84\xd9\x8a \xd9\x83\xd9\x84 \xd9\x85\xd8\xad\xd8\xa7\xd8\xb8\xd8\xb1\xd8\xa7\xd8\xaa\xd9\x8a \xd9\x87\xd8\xa7\xd9\x84\xd9\x88\xd9\x82\xd8\xaa - to college (@ 6th Ring Road)'
-p487
-aS'@Deanenerzzzz ohhhh. Nice. Buti pa kayo my ginagawa para sa college nyo. Huhu.'
-p488
-aS'Magfifirst year college ka na hindi ka pa marunong magtama ng mga tenses mo jusmiyo'
-p489
-aS'@SasingUTY ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students. klik'
-p490
-aS'@bridgzy hahahah kinakabahan na ako sa college \xf0\x9f\x98\xad\xf0\x9f\x99\x8f'
-p491
-aS'A strike In My college Today'
-p492
+p55
+aS'esok last sblm dia balik college'
+p56
+aS'Wow we ARE going to college after summer ends.'
+p57
+aS'#certificate #of #student #exchange #at #sirindhorn #college #of #publichealth #khonkaen # teddybear\xe2\x80\xa6'
+p58
+aS"Mom: Sou had so called reunion at college mates' wedding did any guys ask for ur number?"
+p59
+aS'Selfie college (:'
+p60
+aS'Nugassss! #stan #college #friend #task @ Komisi Pemberantasan Korupsi'
+p61
+aS'me if my college burned down'
+p62
+aS'My kind of Saturday, college futsal tournament \xf0\x9f\x92\xaa @ DMS Sports'
+p63
+aS'@wajidjamil in chowk bear medical college balaganj chowraha lucknow'
+p64
+aS'Yaaay. 16 na ko sa 8 hahaha college na ba yon \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p65
+aS'#my #college #scet #faculty #of #architecture #passage #entry #missing #those #days #instapic\xe2\x80\xa6'
+p66
+aS'@ajit__anand Suppose if a person take admission in college without passing the school.If such a person is employed somewhere just imagine.'
+p67
+aS'@thekiranbedi more than 30 students from different city r enable to participate in election as voter due to college submission on 28,29,1/5'
+p68
+aS'Fontana later with old college friends \xf0\x9f\x98\x82'
+p69
+aS'Im suppose to leave for somewhere but I drop it all for the love of finishing college. All or nothing!'
+p70
+aS'#CongJawabDo Tushar Chaudhary,why have you stopped NCPCL donating 10 cr for an engg college sponsored by Govt of Guj ?.'
+p71
+aS"@al3st0r they're also getting college coaches..."
+p72
+aS"well, lets say we're going back to our college times while doing on the job training here ^^"
+p73
+aS'@exoternal wow ok. Kainis nga eh kasi kung di dahil sa kto12 edi college na ko in two years huhu'
+p74
+aS'Gusto ko pag college na ako sa Baguio, City ang Univ. ko, para naman pumuti puti ako kahit papaano. \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p75
+aS'@96AidilFazli tgk lah ish baru 2 weeks aku masuk college leks lu'
+p76
+aS'@RH_Afterdark first week of college, quite a lot to do. end of the month, no money urgh'
+p77
+aS'Farewell in college :)'
+p78
+aS'@captivxted bertabahlah anda hahaha kat rumah ke kat college?'
+p79
+aS'So much memories! I miss college! @ UST Faculty of Pharmacy'
+p80
+aS'@DivendranPanda Two girls at my college'
+p81
+aS'#random #picoftheday #instapic #tbt #throwbackthursdays #college #lastyear #fun. @ Manav Rachna\xe2\x80\xa6'
+p82
+aS'@tylahlaaah Good, haha. Eyy your school won. Where you going for college?'
+p83
+aS'best ler orang tu dah balik subang, I ni still terhegeh hegeh lagi kat college hmm'
+p84
+aS'@PrambananTrans ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p85
 aS'@smvlm wat college?'
-p493
-aS'I need some college life'
-p494
-aS'fast life for college students'
-p495
-aS'I chose skydiving in stead of college. #selfie #palmofDubai #fuckyeah'
-p496
-aS'Labor Day bowling with Kamote Kids and kids #college #friends #reunion @ Sm Bowling Center'
-p497
-aS"Freakjng don't bring your kids with you to college"
-p498
-aS'Heading back to college.'
-p499
-aS'Sudden meet up with an old college friend. :) (@ Gong Cha)'
-p500
-aS'Had a great night with my college mates!'
-p501
-aS'Excited to meet new friends in college, cause I know Im gonna gain new followers on IG *WINK \xf0\x9f\x94\xab'
-p502
-aS'Why are college principals telling students who to vote for? Tell them to vote. More than enough! Atleast leave fundamental rights alone.'
-p503
+p86
+aS'@JustmatrixJHS ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p87
+aS'Because I felt like dressing up for college.\xf0\x9f\x91\x97\xf0\x9f\x98\x8c #newhaircut @ Brickfields Asia College, PJ'
+p88
+aS'Inuman sessions with college friends. Di sumama ung iba... #CoE #CollegeFriends @ Garage 88 The Fort BGC'
+p89
+aS'@smpstelladuce ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p90
+aS'@yvoonneyy :(( Busy. Graduating eh :( bawi soon. Kapag may free time sa college. Lunch tayo yung group natin :))'
+p91
+aS'@ViaKlaten ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students. klik'
+p92
+aS'Reunion dinner with college peers, Rhett and Lyka.'
+p93
+aS'FLASHBACK Friday :)) Hello to my awesome college classmates :)) Look at my desktop in my table.\xe2\x80\xa6'
+p94
+aS'\xe2\x80\x9c@joycepring: #BalangAraw gr-graduate ka din \n\n:p\xe2\x80\x9d sana 3 years lng ako sa college \xf0\x9f\x8e\x93'
+p95
+aS'@Osis_KD ESA UNNES present #ESAWEEK2014 for JATENG-DIY high school-college students. klik'
+p96
+aS'@Infntyyybby Oo nga haha Excited na kinakabahan ako sa college :/ Goodluck satin! :))) hahaha'
+p97
+aS'Anxious to start college. I just want my law degree already lol'
+p98
+aS'#my #bike #honda #unicorn #150cc #awesome #ride #college #campus #parking #sunny #day #sunnyday\xe2\x80\xa6'
+p99
+aS"With Ate and her college friends. I'm just a tag-along. Really shouldn't have come. But Ate needs company going ho..."
+p100
+aS'college event (@ Penang Hill (\xe5\x8d\x87\xe6\x97\x97\xe5\xb1\xb1 Bukit Bendera) - @visitpenang w/ 7 others)'
+p101
+aS'Lazy monday and safety first :) #monday #kekptmkekita #college #lazy #class @ Pusat Bandaraya Ipoh, Perak'
+p102
 aS'Selfie with my friend &amp; my teacher college after watching "JALANAN"... #selfie #friend #teacher #XXI\xe2\x80\xa6'
-p504
-aS'My college friends are having a great summer while meee... Nevermind! \xf0\x9f\x98\xaa\xf0\x9f\x98\xb6'
-p505
-aS'\xd9\x8a\xd8\xa7\xd8\xad\xd8\xb3\xd8\xa7\xd9\x81\xd8\xa9 \xd8\xa7\xd9\x84\xd9\x82\xd9\x88\xd9\x85\xd9\x87:) (@ Buraydah college)'
-p506
-aS'Sigh.. college start tml..'
-p507
-aS'Came to college to study till evening. Forgot to keep the new Game of Thrones episode on download. :( #FML #Bhulakad'
-p508
-aS'Abah.. Is that you abah.. Aku asyik jumpa abah je kat college.. Nak tgo takut abah marah.. Maklumla aku bkn anak laki.. \xf0\x9f\x98\x92'
-p509
-aS'We are bad \\m/ #friendship #friends #college #psychology @ Kos putri Dewi 2'
-p510
+p103
+aS'@SMP9yk ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p104
+aS'Di ko parin tanggap na college nako sa pasukan! \xf0\x9f\x98\xad\xf0\x9f\x98\x82 enebe!'
+p105
+aS'Senyap sepi college hari ni haih'
+p106
+aS'Bawi naman daw sila pagkatapos nung ginawa nila for their college "ekek" haha. Halos college na ksi silang lahat.'
+p107
+aS'@ameliaachung Was going to college ,had some music tracks to prepare for class :) , Where were you!? :O'
+p108
+aS'Say hi to college life, aym ready!!! \xee\x90\x85\xee\x80\x8e\xee\x80\x90'
+p109
+aS'I majored in Street Knowledge in college'
+p110
+aS'Good morning from us\xf0\x9f\x98\x8dheading to college. Bye angkasa\xf0\x9f\x91\x8b\xf0\x9f\x98\xad @ Angkasa Apartment, Darau Menggatal'
+p111
+aS'Sanay na ako sa mga injection simula nung nag 1st year college ako. Vaccine dito, vaccine doon. \xf0\x9f\x98\xb3'
+p112
+aS'@NisaaChichii Han chiang college penang'
+p113
+aS'@veniceann04 yes :) hahaha ikaw? college ka narin ba?'
+p114
+aS'@XYJ1996 so kolian meh, which college are you in?'
+p115
+aS'#ShoutOut to @gaiyawel one of my favourite juniors back in college. He is a Rapper, Hip Hop dancer and over all of that crazy asshole. #FASL'
+p116
+aS'Varsity.. Eh hindi ka naman nag champion nung college tayo. GAHAHAH. Gaga to ah. #wansapanataym'
+p117
+aS'Agreeable RT @CollegeGameDay: Saturdays with college football are so much better.'
+p118
+aS'@danieldebid San ka mag college? \xf0\x9f\x98\xac'
+p119
+aS'last minute gathering with my college dearest friends.. #vacay2014 #philippines #7days #MSUans\xe2\x80\xa6'
+p120
+aS'@vincereian sabi mo college ka duuun'
+p121
+aS'follow @monorucksiloilo on instagram fro affordable college &amp; summer backpacks, rucksacks, monopods and lenses!'
+p122
+aS'@KeytReid Matgal pa. Graduation ng college. Haha! Saya no? -.-'
+p123
+aS'"@jiyeong_ji: @biyanimeyg What is this? 1.2.5?" - its 1.25. Its a grade in a college level here equivalent to 95-97 I think.'
+p124
+aS'@auhcesined are you in college  now Denise!!!!???'
+p125
+aS'@Urrnina_99 lol college or school ?'
+p126
+aS"MCM bag for $2217? Wtf Yixing's bag is more expensive than my college tuition fee"
+p127
+aS'@PalesPaulo naks, kaiyak, college ka na talaga. Surang paaral. Hahaha.'
+p128
+aS'@Veggie_234 younger one or elder one xD. My mom wants to do the house over when I begin college so yay'
+p129
+aS"@ItsTanesTwipz I'm fine bro. Same here bro. How's college bro?"
+p130
+aS'Idk "@InggrisBisa: #WhatIsYourChoice *dream college* UI/ ITB? UGM/ Unpad/ STAN? #EnglishIsFun"'
+p131
+aS'@wimingtoh whaddaya mean scan mode? haha which college are u entering anyway?'
+p132
+aS"It's already may \xf0\x9f\x98\xae #college"
+p133
+aS'#selfie #campusfriend #finish #college @ Gunadarma University'
+p134
+aS'Well seriously i wanna go to college, im sick of ma class, Full of backstabbers, Spies and sceamers (Except some of them)'
+p135
+aS'@soccer4t33 college smollege..'
+p136
+aS'@Jyuueru college?'
+p137
+aS'@rahulraja1987  And we differ in our views about relationships since college days  right? @PreetiNyaynite'
+p138
+aS'HAHAHAHAHA GO MICHELE! \xe2\x99\xa1 "@ALL_IN_UPDATES: Nung college lang nalaman ni Michele na ang pangalan niya ay single "L" lang. #Live"'
+p139
+aS'@suplorraine woooh yes puks!!!! Salamat salamat\xf0\x9f\x98\x98 miss yaw! Galingan sa college yes goodluck!!\xf0\x9f\x98\x9b\xf0\x9f\x98\x8a'
+p140
+aS'@_katvill Na i imagine ko na college life natin, puro gala. \xf0\x9f\x98\x82'
+p141
+aS'Should I go college east later? #lazy'
+p142
+aS'Gdale ko ya mg college. Ha ha'
+p143
+aS'That day when i entered lecture at #college I found words on the desk says "you have destroyed 5 years of my life " ..'
+p144
+aS"Sige ra'g hangyo sila mommy na diri sad aw mag college si ate sa first sem. Hahaha palargaha na na ninyu my uy! I love being the only child\xf0\x9f\x98\x8b"
+p145
+aS'Just know and wondering where is my boston college cap missing --" .'
+p146
+aS'#100HappyDays #Day10 (Double digits!)Obsessively read all day, chatted w/mommy,did some banking&amp;writing for college&lt;3'
+p147
+aS"OhGod. My old school's gone cray bout the whole trousers issue. Comberton village college has gone too far. Oh cvc"
+p148
+aS"Someone's trying to ruin my college life. But hey, imma get out of here!"
+p149
+aS'This used to be my everyday lunch when I was in college. Oh that to-die-for sauce! AKIC days will\xe2\x80\xa6'
+p150
+aS'Lalala taknak pergi college esok . Alang alang dah cuti , baik sambung sampai ahad'
+p151
+aS'@AimannnHakimm dekat jugak apa? Haha. Awk belaja gombak jugak ke? International Islamic college'
+p152
+aS'@AlexStrawther lol of course imma tell you bro! You drove all the way from college twice to see your nigga!'
+p153
+aS'Lunch date with our former college teacher. :)\n\n#BonChon #Thursday #LaborDay @ BonChon Chicken, UP\xe2\x80\xa6'
+p154
+aS"One of those I'm-bored-so-let-me-take-a-selfie kind of day. \xf0\x9f\x92\xa9 #selfie #college @ Emirates Aviation\xe2\x80\xa6"
+p155
+aS'@ayesha_Luv_1D @Asmaferoz @VivianDsena01 yeah we call college grad school even i meant that..i should do a dual masters'
+p156
+aS'21 days until my first day of college...'
+p157
+aS'@bieberharries aww i do suck ! Im going to college and i never experienced having a boyfriend . Ok i got it! Justin is meant for me. Joke!'
+p158
+aS'So i have go to college tomorrow'
+p159
+aS'Btw college is stupid lol'
+p160
+aS"Lunch with college mates! (@ Nando's)"
+p161
+aS'@Yloraster goodluck sa college life ate dana!! go for it ;) maabot mo ma dreams mo :* missyou all, take care always xx'
+p162
+aS'@eds_uny ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students. klik'
+p163
+aS"they make my college life more bearable \xf0\x9f\x92\x95\xf0\x9f\x98\x98 @ Taylor's College - Canadian Pre University"
+p164
+aS'@mermaidsiti who cares all strong cus kite sentiasa the strongest! hahaha no offence to indah but bila bila college central!'
+p165
+aS'Iba talaga naiisip ko pagdating sa college eh.'
+p166
+aS'Catty Lovers in Campuss ckck :D #cat #cute #animal #babycat #college #campus #sendratasik @ FKIP\xe2\x80\xa6'
+p167
+aS'me and mom talking kung saan ako mag ka-college'
+p168
+aS'@danielunitedify eh you at college ah? Hahaha'
+p169
+aS'Felt like college all over again \xf0\x9f\x8d\xad @ Corinthians Garden'
+p170
+aS'ballassi kanda ketua alumni mahasiswa jogja ku @mfadlinoor: mungkin bos-nya gama college :D  "@boed_dimensi: kalo kali ini dia'
+p171
+aS'\xe2\x9d\xa4\xef\xb8\x8f\xe2\x9d\xa4\xef\xb8\x8f\xe2\x9d\xa4\xef\xb8\x8f (@ Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college w/ 11 others)'
+p172
+aS'@claramoncherry 3rdyr college'
+p173
+aS'Talented jiyala #PPPP and social worker from Islamia college shows his support for #SpeakUpForPeace . @SpeakUp4Peace'
+p174
+aS'"@mieerulls: @afzanazhar_ @afzanazhar_ hostel la rumah aku gombak"Oh .kau blaja kt college ape ?'
+p175
+aS'It just like very stupid. When I reach college and you tell me the class is canceled'
+p176
+aS'@baektaelu mag 2nd yr college na po unnie :-)'
+p177
+aS'sampai (@ Veta college)'
+p178
+aS"I'm at Technology College Sarawak (TCS) - @techcollegeswk (Kuching, Sarawak)"
+p179
+aS'@ChrlnChie haha, malay mo sya pa din mag choreo sa cba. Hahaha Masyado nya mahal ung college natin. \xf0\x9f\x98\x8d'
+p180
+aS'Surprise to see my cousin, even though I already knew he is in college central'
+p181
+aS'Teaching my college students the basics of camera stabilization #throwbackthursdays #tbt #lecturer\xe2\x80\xa6'
+p182
+aS'@Oooooscarousel #college :) HAHHA'
+p183
+aS"I'm at Auditorium @ ITE college central AMK"
+p184
+aS'my niggas @ The Otomotif college'
+p185
+aS"Tomorrow, i will going to my 'kampung' in the morning and going back to the college in the evening :)"
+p186
+aS'Off "too"  HAHAHAHA! Ywa college naman ka ste.'
+p187
+aS'Anytime anywhere.. #converse #converseallstar #chucktaylor #skaters #jeans #college #indonesia\xe2\x80\xa6'
+p188
+aS'currently at college \xf0\x9f\x98\x81'
+p189
+aS"I'm at Brickfields Asia College - @baccollege (Brickfields, WP Kuala Lumpur)"
+p190
+aS'#BalangAraw magiging CSR na ko, then tutulungan ko sarili ko na makapag-aral sa gusto kong college school.'
+p191
+aS"@erikacrabara @thecarlomagtaas @peterfunx Erika, believe me. I'm the smallest incoming first year college ever. Ask Darren! Haha. :("
+p192
+aS'Zonal level graded 5 seminar will be held @ zahira college on 2014.05.03. (Tomorrow) from 08.00 a m for grad 5 teachers'
+p193
+aS'At Pandan college-japanese language school \xe2\x80\x94'
+p194
+aS'Calculating my money if I haev that car duit habis in 3 years.. -.- Thats my college money somemore.'
+p195
+aS'@yuricaunca Diet ... And college :)) haha see ya around taft !!'
+p196
+aS'@angelpie14 Haha! goodluck sa college life x'
+p197
+aS'Late againn. (@ Brickfields Asia College - @baccollege w/ 2 others)'
+p198
+aS'Starting packing for college life \xf0\x9f\x98\x94'
+p199
+aS'@YongJing10 hahahaah good luck bro ... Last year already then can go college .. Have own car hahaha'
+p200
+aS'Change name na ko sa college. Hahaha.'
+p201
+aS'#reunion #college #friends #ffl #instacollage #picoftheday #Route04 #food #shisha #lovedit @ Route 04,\xe2\x80\xa6'
+p202
+aS'With my friends at the college. #BSI #AMIKBSIPontianak #College #BinaSaranaInformatika @ AMIK BSI\xe2\x80\xa6'
+p203
+aS'@Sambaxz turning 16 hahah :p graduate na daw ng college wehh hahaha \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x8a\xe2\x9c\xa8\xf0\x9f\x91\x8b'
+p204
+aS'University of Indonesia Library #architecture #beauty #college #library #UI #university #indonesia\xe2\x80\xa6'
+p205
+aS"Arts Fusion'14 \xe2\x99\xa1 @ \xe2\x98\xba yishun junior college \xe2\x98\xba"
+p206
+aS'At Med-college Library \xe2\x80\x94'
+p207
+aS'@KrissyMontejo wala e sa college yan na yung motto hahahahaha'
+p208
+aS'@SMPN8YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p209
+aS'@SMPN2YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p210
+aS'@SMPN1Mungkid ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p211
+aS'Kaylangan ko na pla bagong boy bestfriend sa college! Nag retire na yung dati LOL'
+p212
+aS'Last jumaat at johor mayriculation college...'
+p213
+aS"si mama ba ipa carpool dw ghapon ko pag portyir, basig naa pd syay balak pacarpool'on ko hantud poryir college? HAHAHAHAHAHAHA\xf0\x9f\x98\x84"
+p214
+aS'School for 12 years, college for 4 years or more. Then work until you die. Great.'
+p215
+aS'Yey graduate na ako next year then college life na ^-^'
+p216
+aS'Nung elementary ka, valedictorian.\nNung highschool, salutatorian.\nPagdating ng college, cesarian."'
+p217
+aS'SMAW .... Arc welding #college #workshop #welding #mechanical #engineering #student #study #education\xe2\x80\xa6'
+p218
+aS"Don't quit. Just celebrate the ride. :) Ganyan dapat sa college.\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xe2\x9c\x8c"
+p219
+aS"I hope Epic builds will call me soon. I wanna start building houses ! It's a wonder why I didn't pursue architecture in college."
+p220
+aS'@winphong ya no college but I get \xe4\xb8\x8d\xe5\x88\xb0HAHAHAHA'
+p221
+aS'I agree RT @Pullout_king: So many more ways to make good money that excludes college.\xe2\x80\x9d'
+p222
+aS'@intarbe let me introduce you to the next level of hell- college/university'
+p223
+aS'@iellechoxc himala na lng siguro kung mabigyan ako ng oras nung tao na yun. Hahaha. Hindi pa tlga siya sa addu magtake ng college.'
+p224
+aS'@iamniellabitch ahhhh good luck sa college life:*=))'
+p225
+aS'Nagpm sakin ung Kabet ng asawa ng Tropa ko na classmate ko dati nung college.. should i tell her na asawa ng tropa ko kinakalantari nya? TLW'
+p226
+aS'@STAMAtroops ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p227
+aS'Nurses and a doctor\xf0\x9f\x98\x81... #college #friends #catchingup #stories #welcomehomeTIN @ Starbucks, Corte De\xe2\x80\xa6'
+p228
+aS'@BEMFEB_Udinus ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p229
+aS"Siennnn who's at college~~"
+p230
+aS'Hardy the best Cornerback college football.'
+p231
+aS'Jonas Photo PVJ, 5 Desember 2011 #throwback #college #girls #friendship #memories @ Paris Van Java\xe2\x80\xa6'
+p232
+aS"I can't even study for exams! I'm totally checked out of college already!"
+p233
+aS"Decided what I am gifting mommy dearest on mother's day!! First project after college!! #MothersDay"
+p234
+aS'Felt just like college all over again with these two. My college family \xe2\x98\xba\xef\xb8\x8fMissing dodongrain and\xe2\x80\xa6'
+p235
+aS'My plans for college are screwed.'
+p236
+aS'@are_pear hahaha okay then fird. Rindu college ke rindu orang ? Hahahaahha'
+p237
+aS'Basah kuyup. Tak seronok masuk kolej kelas macam ni (@ Brickfields Asia College - @baccollege)'
+p238
+aS'\xe2\x80\x9c@molozsobong: \xe2\x80\x9cCan we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing &amp; go to the part where i have a really awesome job &amp; spend all my time traveling?\xe2\x80\x9d\xe2\x80\x9d'
+p239
+aS'Natutunan ko ang nursing sa college na po-- Malamang te!!! Gusto mo bng ituro to sa grade school students????'
+p240
+aS'Drum Camp (@ Brickfields Asia College - @baccollege)'
+p241
+aS'Can college be a myth'
+p242
+aS'@_patriciadmngz basi. Last euta gd daun to before college dayss'
+p243
+aS'@erikacrabara hai po. Saan ka magco-college?'
+p244
+aS'@dianeanaretaaa kaya nga! Sa college life na lang ulit. Yeaaa. Hahaha'
+p245
+aS'Heavy rain, stuck in college~~~'
+p246
+aS'A dude in my college bring this to skul \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p247
+aS'My cousin would be there on the 6th-9th, my bestfriend 6th-10th and my college friends on 10-12th!!! Wahhhh! I want to be with all of you!!'
+p248
+aS'Parallely, another bomb threat at a college in T Nagar, #Chennai'
+p249
+aS'Sony sugema college \xee\x9c\xa8\xee\x9c\xa9\xee\x9c\xaa'
+p250
+aS'@tribunjateng ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p251
+aS'Wala daw limutan pag college na, e bakasyon plang nkalimot kna.'
+p252
+aS'i got new friend ! haha memang best pergi berjaya college ! i love my new friend !'
+p253
+aS'Break on a Friday Aftie \xe2\x8c\x9b\xef\xb8\x8f#college #summerclass #half #selfie #tired #sleepy #allwhite \xf0\x9f\x98\xb4 @ CDU - Cebu\xe2\x80\xa6'
+p254
+aS'\xf0\x9f\x8c\xbbSchool\xf0\x9f\x8c\xbb @ \xf0\x9f\x8d\x84\xf0\x9f\x8d\x84\xf0\x9f\x8d\x84college east\xf0\x9f\x8d\x84\xf0\x9f\x8d\x84\xf0\x9f\x8d\x84'
+p255
+aS'Wohooo! National holiday tomorrow. Wanna buy a new backpack for college! #wishlist'
+p256
+aS'@REIGNcoat college ka na po pala =))) kala ko mga 3rd or 4th yr \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p257
+aS'Epic #girlsnightout ! Never mind the back-to-college #music! #TheBigNasty'
+p258
+aS"PDL work is like morals'. But in college, we can't lie in the portfolios lol"
+p259
+aS'\xe2\x80\x9c@alonggggggg: Yang tak bestnya dah masuk college evrydy nk kena fikir nak pakai baju apa #Typical\xe2\x80\x9d takyah pakai'
+p260
+aS'@KatrinaAmorado college?'
+p261
+aS'Can i just skip my college life and terus kahwin?'
+p262
+aS'Marami rin pala samin, magkaklase pa rin sa college !! :)'
+p263
+aS'Little interview about #desideratamag with mass comm. students from INTI college at our office this\xe2\x80\xa6'
+p264
+aS"Birthdays that you've spent during your college days will remain special for the rest of your life."
+p265
+aS'Union says #players from other #college teams have #expressed #interest in #forming unions'
+p266
+aS'kung ung pipiliin kong course sa college kaya nyong pigilan okay but having my own puppy tas pigilan nyo pa ko lol no todo ylg'
+p267
+aS'#candid #flowers #iphone #photography #college #campus #clicks #pesit #focus @ PES University'
+p268
+aS'Nothing makes college interesting without them. \xf0\x9f\x98\x8f @ Sunway University'
+p269
+aS'@elleeehh 2nd yr college kna sa pasukan no ate?'
+p270
+aS"Yattaaaaaa *\\(^o^)/*\nTomorrow's OFF .. No college.. No exams \xef\xbc\x88\xe2\x89\xa7\xe2\x88\x87\xe2\x89\xa6\xef\xbc\x89\xe2\x99\xa5\xef\xb8\x8e"
+p271
+aS'@CeciliaaaTalks Of course not. Hahaha. But parents going bkk on June. \xf0\x9f\x98\xad\xf0\x9f\x98\xad But I start my college liao that time.'
+p272
+aS'\xe2\x80\x9c@leonardoxdeasis: @fonfonclick kk good got me scured\xe2\x80\x9d SCURED for college'
+p273
+aS'Teman the noob to college and wait/slept in the library. Now time for cendol \xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81'
+p274
+aS"@AlCadorniga same college diffrent course! :'("
+p275
+aS'"@TOIEducation: Mizoram to get its first medical college soon'
+p276
+aS'Can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight to the part where I have a really awesome job and spend all my time traveling?'
+p277
+aS'\xe2\x80\x9c@ecaahhhhh: @iekafarisha ika tadi ada tak pergi Forever 21??\xe2\x80\x9d Ieka dekat college lagi ni. Hahaha'
+p278
+aS'Hindi ko pa feel na college na sila \xf0\x9f\x98\x82'
+p279
+aS'H-5 \nShit ! (at indonesia college) \xe2\x80\x94'
+p280
+aS"PETROCHEMICAL ENGINEERING sound fun rite?? Ahahahah try applying for that and you'll understand what I'm going through in college ahahahaha"
+p281
+aS'@wawa_swift international islamic college . Kat gombak . Hmm minat nursing tapi tak dpt . Tapi Alhamdulilah okay .Course akak ni interesting'
+p282
+aS'Dati ang tumatawag lang sa akin ng Nat college friends ngayon pati hs na. Nasaan na yung Nigel na nickname ko talaga?  =))))'
+p283
+aS'@Jogja_Uncover ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p284
+aS'@angelicoleen uh oo ngae!! Thank you gaga!! Sama ka sa youth camp lol Gala tayo sa college please!! Sweaaar miss you!! Love youu!'
+p285
+aS'@micapili september pa pero im gonna go there may 7 then bck here then goo na hehe. pls pray for me to find a college \xf0\x9f\x98\x81\xf0\x9f\x98\x81'
+p286
+aS'Hahahaha mag kaiba ang collage sa college hahahahaha \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p287
+aS'Bute pa yung iba may sched na for college. Ako magtetest palang. Makuha ko kaya results kinabukasan? Haha sana.'
+p288
+aS'Last day of college . Mixed emotions \xf0\x9f\x98\x81 (@ SEGi University College Penang w/ @japitgill)'
+p289
+aS'I should have saved everything i wrote in college.'
+p290
+aS'Mom and dad please buy me a car. T.T iadvance na lng akoang graduation gift sa college. \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x9a\x98\xf0\x9f\x9a\x98\xf0\x9f\x9a\x98'
+p291
+aS'@domsavJHS ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p292
+aS'\xd9\x85\xd8\xad\xd8\xa7\xd8\xb6\xd8\xb1\xd8\xa9 \xd9\x88\xd8\xad\xd8\xaf\xd9\x87 \xd8\xa8\xd8\xb3 \xf0\x9f\x98\x8c\xf0\x9f\x91\x8c (@ college of science PNU (A3) w/ 5 others)'
+p293
+aS'@smaalirsyadpkl ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p294
+aS'Sana kahit mga 8 years makalaro ako sa college Basketball.'
+p295
+aS'Naaalala ko dati may crush ako sa college tapos course nya hrm. Haha'
+p296
+aS'@ellroitalavera joke lang. TIP siya :) Hahaha. Good luck sa college! :)'
+p297
+aS'@herchellim kaya yan. sa college ka na lang balik para free na haha'
+p298
+aS'Ganahan na lage ko mag college'
+p299
+aS'@ILegitCan Yeah, though I study at college in the US. Sent back for depression though.'
+p300
+aS'itihas me pehli bar aassa huwa hai...ki mai college gya or strike k karan paper hii nahi huwaaaaaaaaaaa ..'
+p301
+aS'@LoveMOOKoo yung cmate ko nung college bhe n trying n rakista. Nakakasuya! Ubod ng yabang'
+p302
+aS'@infoUMM ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p303
+aS'Supervisor, Store Operations at Officemax (Madison, WI): Education\nHigh school or GED required, some college p...'
+p304
+aS'Tapos wala akong mapagsabihan ng mga problema ko. Awan pagdramaak. Huhuhu. Busy kasi silang lahat for their college ekek! Haha'
+p305
+aS'Lunch with my HS and college friend/classmate \xf0\x9f\x98\x8a @ \xe3\x83\x90\xe3\x83\xb3\xe3\x82\xb3\xe3\x82\xaf\xe3\x82\xad\xe3\x83\x83\xe3\x83\x81\xe3\x83\xb3\xe6\x9c\x89\xe6\xa5\xbd\xe7\x94\xba'
+p306
+aS'#narsis#farewellparty#alwicollege @ alwi college'
+p307
+aS'I have yet to find an organization in college that respects and appreciates its members and applicants'
+p308
+aS'Naalala ko yung sabi sakin ni kuya edward nung friday. "Wag kang magmadali, hayaan mo mapapagod ka din sa college mo." Hahahaha \xf0\x9f\x98\x82\xf0\x9f\x99\x8a'
+p309
+aS"I'm at Jubail Industrial College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd8\xac\xd8\xa8\xd9\x8a\xd9\x84 \xd8\xa7\xd9\x84\xd8\xb5\xd9\x86\xd8\xa7\xd8\xb9\xd9\x8a\xd8\xa9 - @irjubailcollege w/ @ziyad_aljamea"
+p310
+aS'Masarap sa feeling ang grumaduate ng college pero masakit sa feeling pag wla kang nahanap na trabaho o hndi ka nareregular #WorstFeelingEver'
+p311
+aS'with the most handsome boy at college just for today\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d (with Frederich at @biemers) [pic] \xe2\x80\x94'
+p312
+aS'@oohmarielala Ay syempre meron! At ....... Kayo yun ang mga college buddies ko \xf0\x9f\x98\x81\xf0\x9f\x98\x9c OHA'
+p313
+aS'Ako: Ma pwede bang sa ust nalang talaga ako mag aral sa college? \nMama: Bsta kung ano gsto mo, dun din kami ng papa mo. Susuporthan ka namin'
+p314
+aS'Nak masuk tentera. Bye college (@ Kem tentera sungai besi)'
+p315
+aS'After night shift.. after a few hours of sleep.. heading to college to do past year question-.- haizzzz pai mia!!'
+p316
+aS'@Jaypeeexx summer advance class. \xf0\x9f\x98\xa2 college e.'
+p317
+aS'@iamnursemucky Axel college na sa dlsu. Manolo HS at Lsgh'
+p318
+aS'@allisandra_alex college kana?'
+p319
+aS'They say that #college would be #fun, #freedom, #excitement and full of #joy. #Nonsense. @BeNononsense'
+p320
+aS'Final Time @ Dusit thani college'
+p321
+aS'@clairefxmetalx Now I am a undergrad computer engineer, college junior. You?'
+p322
+aS'ako kinakabahan sa college yung Iba super okay na hhHahaha teach me'
+p323
+aS'Lol want carpool to college??? come pay me transport feee XD'
+p324
+aS'graduate ka na ng college sana marunong ka na mag isip!!'
+p325
+aS'Finally on the official last day of graduation college, we had our first picture together lol :p\xe2\x80\xa6'
+p326
+aS'"@_adrianaismail: @chasyuhada oh yekeeee ong kaya kann emm"oh perli aku ya. Aku tunggu upu lah. Kalau tade rezeki baru la tgok college \xf0\x9f\x98\xad'
+p327
+aS'@SMPNpatbelasYk ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p328
+aS'@toomuchofjez college student na college student. Hahahaha \xf0\x9f\x91\x8a\xf0\x9f\x99\x8c'
+p329
+aS'@Jarpum @eclectictweets Arunachal deserves a medical college.Up the ante.It will go a long way in uplifting the health standards in ur state'
+p330
+aS'Great! First day of college @.@" (@ Suriname College of Hospitality &amp; Tourism)'
+p331
+aS'@haaaaafiz_ Alright bro. Tp aku bukan tiap tiap hari ada dkt sana ahh. Aku study jb je dkt austin sana. Sunway college'
+p332
+aS'@Yna0001 isa lang po (: pipili kasi ako ng magiging school ko pag nag-college na ko.'
+p333
+aS'@chefkyungsoo mykaaaa happy birthday! Goodluck sa college &lt;365'
+p334
+aS"#ThrowbackSaturday My college days wouldn't be amazing without you, guys. I love you both #EvaCarillo\xe2\x80\xa6"
+p335
+aS"I'm reading tips for college \xf0\x9f\x98\xae\xf0\x9f\x8c\x9d"
+p336
+aS'Just posted a photo @ KKU Dentistry college'
+p337
+aS'@Raprafito wala solo nalang ako lol kamusta college apps mo?? :))'
+p338
+aS'I hate college so much this semester NO TIME FOR ANYTHING EVER'
+p339
+aS'Amik Aan \xf0\x9f\x98\x8e (@ college community YPJ)'
+p340
+aS'"@alyonsss: kinakabahan ako mag-college \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad" ano course mo'
+p341
+aS'@BrandonJPereira ok ok next week OK ? Must make it fast cos college starting soon haha \xf0\x9f\x98\x83\xf0\x9f\x98\x83\xf0\x9f\x98\x83'
+p342
+aS'\xe2\x80\x9c@collegefession: "Do guys like receiving neck kisses? #replytweet #IWantToPlease" - College of Charleston\xe2\x80\x9d is that even a question?'
+p343
+aS'i still dont know what study i will take in college after graduating from high school'
+p344
+aS'Before Going to college \xf0\x9f\x93\xb7\xf0\x9f\x91\xa7\xf0\x9f\x92\x8b\xf0\x9f\x92\x95 xixixiii'
+p345
+aS'@GrafikaTweet ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p346
 aS'@UsernameNishta \nYaar tumhe koi toh Btaya hoga ke yeh important college waloon ne?'
+p347
+aS'@Bopezzz mag fifirst year college pa lang =)))))'
+p348
+aS'@kleyowmari Hihi. Labyutoo :)) Oyy. Goodluck sa college :) Lol. Kahit masyado pang maaga. :P'
+p349
+aS'Reunited and it feels so good #lol #college siomaiko beambiiiii @chelsest @karlylenavea\xe2\x80\xa6'
+p350
+aS'Home sweet home . College sour college'
+p351
+aS"#FactAboutMe\nI have to deal with incompetents each and everyday at school.\nI'm glad this'll change next year for me though; joining college."
+p352
+aS'@Fzlsclr_ oh okay okay takda apa lah tanya je. Ajul ahad dah balik college dia kan'
+p353
+aS'To college \xe2\x98\x85'
+p354
+aS'late post\xe2\x80\xa6 Morning college (@ Gedung 19 DKV Itenas)'
+p355
+aS'And to top this, we can only sign 3 bonds during the whole college life #screwed'
+p356
+aS'@Nasimaevent ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students. klik'
+p357
+aS"@LUV_KSG_KW_GR @OhMrRaja @alia_siddiqui @prashantrajaFC yup it's college..."
+p358
+aS'First day of college tomorrow! Having mixed feeling now. May everything goes well, night night :)'
+p359
+aS'missing a lot of my college and highschool friends. this bahay bahayan is always getting in the way, pero ok lng love nman kita habibs ee :)'
+p360
+aS'@EykaZailani kolej tu.. dekat jugak..hahaha.. apa nama college tu.. tak pernah nak tau..'
+p361
+aS'Salubong tonight with baby and my college friends :)'
+p362
+aS'Dear college people :)'
+p363
+aS"I'm at Jubail Industrial College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd8\xac\xd8\xa8\xd9\x8a\xd9\x84 \xd8\xa7\xd9\x84\xd8\xb5\xd9\x86\xd8\xa7\xd8\xb9\xd9\x8a\xd8\xa9 - @irjubailcollege (Al Jubail, Eastern Province) w/ 4 others"
+p364
+aS'"@hashtag_qwerty: Yeess nmaaaan!!! College na siya!!!! Hhahah!!! @unnicorn_" Oo nga! Grabe. Akala ko di nako makakapag college.'
+p365
+aS"Almost 4pm and it's UE vs DLSU!!! I \xe2\x9d\xa4\xef\xb8\x8f college basketball and volleyball."
+p366
+aS"~ Marvin's 18th Birthday ^_^ with college friends, tita marly, tita margie and nanay :) Happy Bday ulit, best!"
+p367
+aS'An old ink stained tattered blue faded jeans was enough to remind me how much I miss my college days!'
+p368
+aS'@KYLMRTN sn k mag college ate?'
+p369
+aS'@Yanfinity okie :) teka college ka na diba?'
+p370
+aS'Maradana college of technology. Loving this ancient architecture. I took a quick picture coz I never\xe2\x80\xa6'
+p371
+aS'"@FloroArcetaJR: Us in college \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p372
+aS'Remembering #Aguirangan #Island when I feel so much heat. #memories #good #old #days #college\xe2\x80\xa6'
+p373
+aS"I'm at Brickfields Asia College - @baccollege (Petaling Jaya, Malaysia)"
+p374
+aS"Things I'll miss about college :') Indomee double, roti pisang peanut butter and economy rice (not in\xe2\x80\xa6"
+p375
+aS'How come that my ex bf, a former college blockmate, and a kpop acquaintance, is following my mom on Instagram? Hahahaha whatda.'
+p376
+aS"I AM SO DAMN LATE FOR SIMEONE LEGNO'S AUTOGRAPH SIGNING! I am one of his ultimate fan since college\xe2\x80\xa6"
+p377
+aS'@Angelavesleno_ Nope. Kasi nga walang paggagamitan. Haha! Ikaw ba? Tskaa kasi college na ko. Hahaha'
+p378
+aS"You missed your college life if you don't get drunk and wasted! -@adrianagbon Woo worth it 730 class"
+p379
+aS'Menunggu jam pulang itu mmg sesuatu banget \xf0\x9f\x98\xaa\xf0\x9f\x98\xaa (at \xe4\xba\x9a\xe6\xb4\xb2\xe5\x9b\xbd\xe9\x99\x85\xe5\x8f\x8b\xe5\xa5\xbd\xe5\xad\xa6\xe9\x99\xa2 (asia international friendship college)) \xe2\x80\x94'
+p380
+aS'@Sureshhh23 yeah true there :) ,so college mana ? :)'
+p381
+aS'Awesome night got to see some of my college friends again. \xf0\x9f\x98\x86\xf0\x9f\x98\x86'
+p382
+aS'@SpemaSemarang ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p383
+aS'Principal of Jai Hind college Mumbai passed away?'
+p384
+aS'@seemi_pasha @ElectionExpress lots of college times memories of mine !!!!'
+p385
+aS'My retrospective regret is palpable that I never read Watchmen back in college when it was lent to me. What a great book.'
+p386
+aS'Masuk kelas basah kuyup memang seronok. Dah lah sejuk beku dalam kelas ni (@ Brickfields Asia College - @baccollege)'
+p387
+aS'If assumption is the mother of all fuckups, this college has a problem'
+p388
+aS'"You can\'t make anyone fall in love with mere words!" I exclaimed. Then I realised, I had just contradicted my four years of college life.'
+p389
+aS"It's likely I've been saw my past with her, with the one I had loved before I get college, yeah she is my junior W.A."
+p390
+aS'Aww college life here we go.. @ Central Philippine University (CPU)'
+p391
+aS'May na \xf0\x9f\x91\x8f omg. Nalalapit na ang college life \xf0\x9f\x99\x8a'
+p392
+aS'@moechildYK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p393
+aS'\xd8\xa7\xd8\xae\xd8\xaa\xd8\xa8\xd8\xa7\xd8\xb1\xd8\xa7\xd8\xaa \xd9\x85\xd9\x88\xd8\xb3\xd9\x85\xd9\x8a\xd8\xa9\xf0\x9f\x99\x8b (@ Buraydah college)'
+p394
+aS'ayoko na uli mag college d na ulit ako naeexcite hahaha tambay nalang ako!'
+p395
+aS'RT "@EssentialFact: A study has found that the first two years of college are basically useless."\n\nthat really sums up everything.'
+p396
+aS'Starting to think women with college degrees are more attractive then women without.'
+p397
+aS"Suddenly feel like a college student all over again coz I'm getting ready to go for a lecture in the morning and not work :D"
+p398
+aS'Graduate na crush ko ng college eh XD'
+p399
+aS'tiap kali nak makan pisang , teringat moment semalam masa ada kerja kumpulan dekat berjaya college XD'
+p400
+aS'@JLiit14_ update update college ndin e HAHAHAHA! Syempre tome managment na. :) Maiintndhan naman yon, future nakasalalay e :)'
+p401
+aS'NYP - KPK Peace Confrence at Khyber union Hall Islamia college Peshawar. All youth are requested to join us.'
+p402
+aS'@kyrazyl @forgottentracks eh plz lake more worst then me before his college starts'
+p403
+aS'@ElleXore oh cool..mmg pun tp standard la kedai makan dlm college ni..student ramai lapar..cikmas lg 2-3 mgu nak habis dah :)'
+p404
+aS'They fucking sell tooth brushes in college but no tissue boxes!!!!! Fucking hell'
+p405
+aS'"Don\'t be an unemployed college dropout. Be an unemployed college graduate." HAHAHA! Congrats, neggy \xf0\x9f\x98\x98'
+p406
+aS'Penang people all died. And my stupid college give naisss semester break la when the rest busy w their college. Dying of boredom kkk.'
+p407
+aS"Went to college in my shorts to get the roll no slip and they didn't even allowed me to enter the college. Wtf?"
+p408
+aS'@_ksrya eee takleh you la mentang mentang dah college life then lupa i \xf0\x9f\x98\xaa'
+p409
+aS'@sofia_zulkifli biasa la busy dgn dunia college \xf0\x9f\x98\xa2 boleh jadi gila until hari rabu ni omg'
+p410
+aS'off day work ,,after college study time'
+p411
+aS'Di bali tourism college dde.. kls brp skrg ? "@ThugusGuna: @aiuu_YoureY dimana kuliah k ? nyari info*"'
+p412
+aS'Finally home after a long long day in college'
+p413
+aS'To college :) (@ \xd8\xb2\xd8\xad\xd9\x85\xd8\xa9 \xd8\xa7\xd9\x84\xd8\xa7\xd8\xb4\xd8\xa7\xd8\xb1\xd8\xa9 \xd9\x8a\xd9\x85 \xd8\xa7\xd9\x84\xd8\xa7\xd9\x81\xd9\x8a\xd9\x86\xd9\x8a\xd9\x88\xd8\xb2)'
+p414
+aS"@heeivy let's use the same fragrance to college :)"
+p415
+aS'the college student, wuyifan:('
+p416
+aS'Godmother caught me ol early \xf0\x9f\x98\xa3 gotta run! gonna have a nap to get energized for another day in review school for college entrance exams \xf0\x9f\x98\x94\xf0\x9f\x98\x96'
+p417
+aS"Agree with @EzahRln l\xe2\x80\x9c@EzahRln: I've always hated school/college but I've never felt like I'm in a prison except today.\xe2\x80\x9dp"
+p418
+aS'10 years for college. BS Bio or Tourism? to enter UST Med or not?'
+p419
+aS'yesterday with my college friends!!:"")) #EK #rides &lt;3 &lt;3 @ Enchanted Kingdom'
+p420
+aS'@himalikaUSM ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p421
+aS'@CelrestLing boooo I can go there everyday after college starts :p'
+p422
+aS"\xe0\xb9\x80\xe0\xb8\xa2\xe0\xb9\x87\xe0\xb8\x99\xe0\xb8\x94\xe0\xb8\xb5 (@ \xe0\xb8\x95\xe0\xb9\x89\xe0\xb8\x99\xe0\xb8\x88\xe0\xb8\xb2\xe0\xb8\xa1\xe0\xb8\x88\xe0\xb8\xb8\xe0\xb8\xa3\xe0\xb8\xb5 (The Prince Royal's college))"
+p423
+aS'@wowjiewamos JD YAAN EH. HAHAHAHAHA! Oo wag kana mag college. Latak ka lang naman eh. HAHAHAHA! Wala ka din matututunan. Tangang bobo ka eh.'
+p424
+aS'@angelilouise16 tga batangas city ako incoming 1st yr college :)'
+p425
+aS'"@imdendelmundo: freshmen in college be like: \nfriend: ano sched mo? \nme: ewan ko, di ko ma-gets eh." relate :)'
+p426
+aS'In my college...:) (@ Fr.Agnels College)'
+p427
+aS'Sama siapa pengen nnton :("@ShellaAsfiriaA: Atmi cup (at Michael college) \xe2\x80\x94'
+p428
+aS'@maaaaaics engineering ka kc! hahaha xD isa lng akin college algebra'
+p429
+aS'Tbh I jealous dgn orang yang tak masuk college lagi'
+p430
+aS"@Viraaara Aw. Dream school. \xf0\x9f\x98\x82 Goodluck sa college ma'am. Ano po course niyo? Hahahaha. Bakit po ma'am? Naranasan niyo na din? Hahahaha. \xf0\x9f\x98\x82"
+p431
+aS'The cast.\n\n#summer #college #friends #classmates #reunited #reunion @ Circa La Playa Resort'
+p432
+aS'\xd9\x85\xd8\xad\xd8\xa7\xd8\xb6\xd8\xb1\xd8\xa9 \xd9\x88\xd8\xad\xd8\xaf\xd8\xa9 \xf0\x9f\x98\x8c\xf0\x9f\x92\x85 (@ college of science PNU (A3) w/ 5 others)'
+p433
+aS'Classmate ni ate labing sa college nang pangit nga kausap ni Mira!'
+p434
+aS"With my BFFs/elementary/highschool/college friends\nthank y'all\xf0\x9f\x98\x8a\xe2\x98\xba\xef\xb8\x8f\xf0\x9f\x98\x89\xf0\x9f\x98\x9d\xf0\x9f\x98\x81\xf0\x9f\x98\x84\xf0\x9f\x8e\x89\xf0\x9f\x8e\x8a\xf0\x9f\x8e\x88\xf0\x9f\x8e\x82"
+p435
+aS'Puhhhrty last night with my college barkada! \xf0\x9f\x92\x97 Thank you for the treat @angelxxvi \xf0\x9f\x98\x98 love you girl!!\xe2\x80\xa6'
+p436
+aS'Study or take a selfie?? \xf0\x9f\x98\x8f\xf0\x9f\x98\x8f #asian #indonesian #boy #girl #college #video @ McD Jombor'
+p437
+aS'@infoMUNTILAN ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p438
+aS'"@DrakeTakeCare12: I want a high school relationship that ends in marriage." Okay na sakin mag-start sa college relationship! Hahahaha'
+p439
+aS'@area_jogja ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students. klik'
+p440
+aS'Senyum getir "@tatamassie: :) RT @TriasAprilya: Our priorities are assignment,exam,event,and the other kind of college stuff. Not you (=|"'
+p441
+aS'"becak,becak tolong bawa saya"\xf0\x9f\x98\x8b\xf0\x9f\x8e\xa4 (with bernadetha at gedung bellarmino loyola college) [pic] \xe2\x80\x94'
+p442
+aS'\xe0\xb8\x9d\xe0\xb8\xb1\xe0\xb8\x99\xe0\xb8\xa7\xe0\xb9\x88\xe0\xb8\xb2\xe0\xb9\x81\xe0\xb8\x9a\xe0\xb8\x9a\xe0\xb9\x80\xe0\xb8\xab\xe0\xb8\xa1\xe0\xb8\xb7\xe0\xb8\xad\xe0\xb8\x99\xe0\xb9\x80\xe0\xb8\xa3\xe0\xb8\xb5\xe0\xb8\xa2\xe0\xb8\x99\xe0\xb8\x88\xe0\xb8\x9a college \xe0\xb8\xad\xe0\xb8\xb0 \xe0\xb8\x84\xe0\xb8\xb7\xe0\xb8\xad\xe0\xb8\xa7\xe0\xb8\xb1\xe0\xb8\x99\xe0\xb8\xaa\xe0\xb8\xb8\xe0\xb8\x94\xe0\xb8\x97\xe0\xb9\x89\xe0\xb8\xb2\xe0\xb8\xa2 \xe0\xb9\x84\xe0\xb8\x94\xe0\xb9\x89\xe0\xb9\x83\xe0\xb8\xaa\xe0\xb9\x88\xe0\xb8\x8a\xe0\xb8\xb8\xe0\xb8\x94 \xe0\xb9\x80\xe0\xb8\x84\xe0\xb9\x89\xe0\xb8\xb2\xe0\xb9\x80\xe0\xb8\xa3\xe0\xb8\xb5\xe0\xb8\xa2\xe0\xb8\x81\xe0\xb8\x84\xe0\xb8\xa3\xe0\xb8\xb8\xe0\xb8\xa2\xe0\xb8\xa1\xe0\xb8\xb1\xe0\xb9\x89\xe0\xb8\xa2 \xe0\xb8\xaa\xe0\xb8\xb5\xe0\xb8\x94\xe0\xb8\xb3\xe0\xb9\x86\xe0\xb9\x81\xe0\xb8\xa5\xe0\xb9\x89\xe0\xb8\xa7\xe0\xb8\x81\xe0\xb9\x87\xe0\xb8\xa1\xe0\xb8\xb5\xe0\xb8\xab\xe0\xb8\xa1\xe0\xb8\xa7\xe0\xb8\x81 \xe0\xb8\x84\xe0\xb8\xb7\xe0\xb8\xad\xe0\xb8\x88\xe0\xb8\x9a\xe0\xb9\x81\xe0\xb8\xa5\xe0\xb9\x89\xe0\xb8\xa7 \xe0\xb8\x88\xe0\xb8\xb0\xe0\xb8\xa1\xe0\xb8\xb5\xe0\xb8\x9b\xe0\xb8\xb2\xe0\xb8\xa3\xe0\xb9\x8c\xe0\xb8\x95\xe0\xb8\xb5\xe0\xb9\x89\xe0\xb8\x95\xe0\xb9\x88\xe0\xb8\xad'
+p443
+aS'@cikyamm tulah pasal. Dia tahan. And that time kan dah lambat. It was already 620. And still dalam college. Terpaksa.'
+p444
+aS'stuck in college with no wifi \xf0\x9f\x98\xb1 #someoneshootme'
+p445
+aS'ruwet jdnya kamis hahaha"@_fitriaokta: Hahaha, jadi gimana urusan your college? RT @_Hanoey: Bukan lah enak aja"_'
+p446
+aS'@YSKIHolic ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students. klik'
+p447
+aS'Im here in john paul ll college of davao...#hotafternoon (at John Paul II College of Davao) [pic] \xe2\x80\x94'
+p448
+aS"Final day of my college life. It's been the best 3 years spent at this institution. Met great people,\xe2\x80\xa6"
+p449
+aS"I'm at Sri Jayachamarajendra college of engineering w/ @prashanthar7"
+p450
+aS'2 college \n\n\xd9\x88\xd8\xaf\xd8\xa7\xd8\xb9\xd9\x8a\xd9\x87 \xd9\x8a\xd8\xa7 \xd8\xa7\xd8\xae\xd8\xb1 \xd9\x84\xd9\x8a\xd9\x84\xd9\x87 \xd8\xaa\xd8\xac\xd9\x85\xd8\xb9\xd9\x86\xd8\xa7 \xd8\xa8\xd8\xa7\xd9\x84\xd9\x83\xd9\x84\xd9\x8a\xd9\x87 \xe2\x98\x85'
+p451
+aS'First day of work and I already miss college (@ Springfield)'
+p452
+aS"Yeah finally we're done kem .. time back college .. @ Kem Sungai Buluh"
+p453
+aS'My college life is complete. Ultimate achievement \xf0\x9f\x98\x81\xe2\x9c\x8c\xef\xb8\x8f Selfie with Doc M. Booyaaaa! \xe2\x9d\xa4\xef\xb8\x8f College is\xe2\x80\xa6'
+p454
+aS'#me #friend #college #daysout #sunday #world #lantern #beautiful \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d @ Summarecon Mall Bekasi'
+p455
+aS'@Keemypuutie alright. Goodluck then. :) Highschool is far more different in college. Kaya be ready. :)'
+p456
+aS'@GeorginaDivaa "can we skipthiswhole college thing andgo straightandgoto thepart whereI have a realy awesomejob andspend allmytime traveling'
+p457
+aS'@imkathgeronimo ...for college?'
+p458
+aS'Thats how my brakes going #brake#college#uos#laying#lazy#nike#outfit @ Sharjah University'
+p459
+aS'@smagitabahari ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students.'
+p460
+aS'#college day a mass day. Full of entertainment. Dance,water and rest one day finished'
+p461
+aS'@_callmeJoey college girl elsa!!! wc me: faithrecio mwa'
+p462
+aS'Whom I hated became friends ..who I loved hates me...miss u two guys on the dead end of college life .....'
+p463
+aS"Feeling sad when i'm gonna back college.. \xf0\x9f\x98\xad"
+p464
+aS'MT "@DrTonyWagner: New company offers bootcamp for recent college grads to reduce the 44% underemployment rate.'
+p465
+aS'What we do when we bored #sunset #college #girls #friendship #princess @rizkanurdianish @ Upn Veteran\xe2\x80\xa6'
+p466
+aS'Until the end study in the college,and parents proud of me\xe2\x80\x9c@dailyteenwords: I just want graduate with good scores and make mom and dad happy'
+p467
+aS'Shadow for puppet show. #mutimedia #student #mutimediaperformance #college #production #puppets\xe2\x80\xa6'
+p468
+aS'@nblhmht @FitrahKasih_ alaa ajim kat college taty kat qumahhh hujannnn \xf0\x9f\x98\xbf'
+p469
+aS'#IfSunnyLeoneWasIn my college, I would have never missed a lecture!'
+p470
+aS'Last day of college. (@ Lovely Professional University - @_lpu)'
+p471
+aS'Mas enjoy college pag walang problema. Tapusin na ang dapat tapusin. =))'
+p472
+aS"@iamfhebielitz san ka nag-aaral ngayon, 'nay? Grabiii. Miss na miss ko na kayo lahat. Ang UC. Everything good about college. Kaynis."
+p473
+aS'Overnight swim with college friends. @ Brizo Morong Bataan.'
+p474
+aS"Sabi nila, sa college, you'll never find true friends. Well not me! Onga pala, I would like to\xe2\x80\xa6"
+p475
+aS'My plans for college is screwed. -.-'
+p476
+aS'@SMAMasehi ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students. klik'
+p477
+aS'Flowers &amp; Thorns! \nA coin has 2 sides \xf0\x9f\x98\x8a @ christ college'
+p478
+aS'Masa-wrap.\xf0\x9f\x98\x8b My favorite shawarma since college days.\xf0\x9f\x90\xae\xf0\x9f\x8d\x80 @ Magboul Shawarma'
+p479
+aS'Diploma nalang ng college ang kulang.'
+p480
+aS"@Being_Heena ya that's so bad.. How's college life going ?"
+p481
+aS'#InstaSize #morning #college #class #workplace #style #cool #ad #dxb #uae #likes #follow @ Zayed\xe2\x80\xa6'
+p482
+aS'@biancaderamos oo nga eh since nag college ako hindi na ko nakabalik ng holy. Dami na ngang pinag bago eh :3'
+p483
+aS'@Shiran_Al I going college by 3'
+p484
+aS'This library is too impressive. So high end and shiit like wow this is how a college library should look. UOG, why you no improve? \xf0\x9f\x98\x93'
+p485
+aS'@DiowDante haha joke lang. In coming 2nd college :)'
+p486
+aS'Lisod pud ug nakatuon kag nursing sa elementary malamang college jud!'
+p487
+aS'@elleeehh oonga ate eh last yr pa ata? \xf0\x9f\x98\x9e kamusta college ate?'
+p488
+aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college w/ @____roon"
+p489
+aS'Uso pa pala mag report sa college dfqqqq'
+p490
+aS'@smp9semarang ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p491
+aS'Pray for our college team. At least we can go for the quarter final or if Allah give us chances we\xe2\x80\xa6'
+p492
+aS'Bored in class #me #morning #photo #selfie #college #fisheye #funny #flat #face #likeaja @ Universitas\xe2\x80\xa6'
+p493
+aS"@gervinjardiel's college best buddies!!! #kapanteam \xf0\x9f\x92\x9e"
+p494
+aS'Destiny? Saw my one and only college crush at the mall. Omg, he still looks super gwapo!!!'
+p495
+aS'\xe2\x80\x9c@Farini_R: N permohonan college dah boleh check ke??? Anyone? Hello??\xe2\x80\x9d Belum'
+p496
+aS"Everyone's getting engaged, married, and having babies and I'm just trying to get through college and not get fat."
+p497
+aS'no net... (@ Micronet international college)'
+p498
+aS'\xf0\x9f\x98\x8a\xf0\x9f\x98\x84\xf0\x9f\x91\xac\xf0\x9f\x8f\x83\xf0\x9f\x91\xab #friendship #college #ubm @ Billiechick'
+p499
+aS'Most of college students are women but most of the rich people around the world are men'
+p500
+aS'"@mieerulls: @afzanazhar_ kolej baru. Go Google and search for it. Putra intelek international college" ohh okay hee \xf0\x9f\x98\x8a'
+p501
+aS'\xd9\x85\xd8\xaf\xd8\xa7\xd9\x88\xd9\x85\xd9\x87 \xd9\x81\xd9\x8a \xd8\xa7\xd9\x84\xd8\xa7\xd9\x88\xd9\x81 \xd8\xad\xd9\x82\xd9\x8a \xf0\x9f\x98\xad (at prince sultan university college of engineering) \xe2\x80\x94'
+p502
+aS'Imerialp college'
+p503
+aS'@kashew_knot @POTpotassium @deeepfroZEN anu college ba maraming maganda dun? Lahat ata? Ahaha.'
+p504
+aS'There is nothing like hanging out with college buddies .. Simply awesome !'
+p505
+aS'@ETC2500 i used to see races when i was in school. but college takes too much time lol @MadmediumF1'
+p506
+aS'Am i the only one that goes to college with bags that looks like im going to a darn boot camp? #collegelifefordayzz'
+p507
+aS'With the physiotherapy student hikss \xf0\x9f\x98\x9a @ ICAN integrated college of allied health and nursing'
+p508
+aS'No college. just sitting here alone. Chilling cause I can &gt;&lt; fuck! So bored!'
+p509
+aS'@CelrestLing boooo come my college soon!'
+p510
+aS'Will shop for college clothes tomorrow. \xf0\x9f\x98\x8a'
 p511
-aS'Walaoooo sister thought I make up to college. Damn! -.-'
+aS'No college tmr'
 p512
-aS'Sarap mag graduate na ng college whehehe'
+aS"Unhealthy? ? Who caaares!!?? (@ AVIATION Training college's restaurant (7th floor))"
 p513
-aS'Korean food pig out with the sister @renskiiee plus kwento on college memories is the way to go.\xe2\x80\xa6'
+aS'A friend and a college junior from IITK was beaten up by BJP goons in Benaras last night ...#Namo \nDes maaf nahi karega !'
 p514
-aS'"@Charleaaaaa: Sana madami maging friends ko sa college" yayyyyy This.'
+aS'Survey Ray Ban Clubmaster for college (@ Classic Eyewear)'
 p515
-atp516
-Rp517
+aS'#AngSayaSiguro kung kayong mag b-bestfriends nung highschool, classmates parin sa college \xf0\x9f\x92\x94'
+p516
+aS"Axel's cute! But Manolo's just. ARGH!!!\n\nOkay. Now I'm excited for college!\n#PBBALLINDay4"
+p517
+aS'started activities again .... the spirit of college'
+p518
+aS'@SMUTEN1952 ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p519
+aS'@mekaylagraham fallacy? Does it look like I went to any type of college?!'
+p520
+aS'@PurpleDrumstick im also good :) \nHope college is also fine.'
+p521
+aS'\xd9\x83\xd8\xa7\xd9\x84\xd9\x88\xd8\xb1\xd9\x88\xd8\xaf \xd8\xaa\xd9\x85\xd8\xa7\xd9\x85\xd8\xa7\xd9\x8b \xf0\x9f\x8c\xb8\xf0\x9f\x8d\x83 .. @ KAU | special education college'
+p522
+aS"I thought I won't see you again after I leave that college, why do you keep showing up???!!!"
+p523
+aS'First day in college. LOL :p (at President University Student Housing B12) \xe2\x80\x94'
+p524
+aS'Proud na proud ku keng sarili ku kahit papanu makapagaral ku at milalabas ku. Mabilis ing panahun, 3rdyear college nakupin. Ih'
+p525
+aS'I miss my college days, I miss my alma mater, I miss my friends, I miss the environment. Everything!!\xe2\x80\xa6'
+p526
+aS'Lifeless in CITC in my college.'
+p527
+aS'The good girls went silent on me, they got a bf or went to college on me'
+p528
+aS'@maLEEEYAAAAN @CountOfLegoLand @Paparicoooo lol xD kame pa! Tapos mamaya nasa MI nanaman xD hahaha ano kaya mangyayare skin sa college xD'
+p529
+aS'@rafdelatorre college ka na huhu time flies'
+p530
+aS'@spectacularsnow push mo yan!! Lubosin mo na baka wala masyado time dis college haha'
+p531
+aS'Baket bigla akong na excite mag college ngayon? Hmmm.'
+p532
+aS'Inter-college in Amethi. #RaGa thinks he deserves to win?Mind boggling. #PriyankaGandhi @narendramodi @smritiirani'
+p533
+aS'Today I will sing, for Deepshikha, my songs 1st time publicly - in my college.'
+p534
+aS'Di ako mag bbf ng college. Focus ako sa study loks'
+p535
+aS'@camilleeeeyyy Bayaaan ! Macapagal ho Ate. manila doctors college pangalan dati.'
+p536
+aS'@zymah95 campus aku open college next sem. Semua dapat kolej. Even NR pun boleh mohon masuk kolej. So takdek masalah la next sem'
+p537
+aS'Guna lahan perkotaan &amp; teori Bid-Rent #goodmorning #college #study #instamoment @ GBT-PWK UB'
+p538
+aS'at college east !'
+p539
+aS'@itspaulavalle Mae maganda! pang college name HAHAHAHA'
+p540
+aS'Morning :D #asian #girl #selfie #selca #hijab #college #instalike #instaphotos #hijabfashion #latepost\xe2\x80\xa6'
+p541
+aS'sugad pag tungtung nakog college nawala rag kalit ang lupang hinirang ug panatang makabayan sa akoa'
+p542
+aS'Those days \xf0\x9f\x98\xad #throwback #classmates #selfie #asian #college @ Sunway University'
+p543
+aS'Missed you! My favorite college snack! Yumyum \xf0\x9f\x91\x85\xf0\x9f\x98\x8d#hellopanda #food #chocolate @ San Agustin Dasmarinas'
+p544
+aS"I'm at Sime darby nursing and health sciences college (Shah Alam, Selangor)"
+p545
+aS'My babyy is gonna cry missing her college friends :/'
+p546
+aS'Plans for college. \xe2\x99\xa5'
+p547
+aS'@iammavscuenca magsesecond year college na po :)'
+p548
+aS'#ootd to college today! :)'
+p549
+aS'Working out in college outfit. Bring back sweet memories. \xf0\x9f\x98\x82\xf0\x9f\x98\x82 @ IKIP Gym'
+p550
+aS'Just saw Richie Ticzon... Crush ko pa rin since college... \xf0\x9f\x98\x8d\xf0\x9f\x98\x98\xf0\x9f\x98\x9a\xf0\x9f\x98\x8a'
+p551
+aS'Malam ni nak rakam video dengan teman teman college.'
+p552
+aS'@_itsyanig haha. Muana na sya sa amo na "cjc na gane nag kinder, nag HS hantog college pa?! Hantod dra nalang ko mamaty" hahahahaha. \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p553
+aS'@xxairah college na, tigulang na --" ahaha! Kamo na daun sunood :3 dri ra ka mag college hap! Hihihi'
+p554
+aS'@super_JLOver hahahahah mau man nay bago challenge run ang pag make new friends XD hahaha and oo oi dapat YOLO run college na hahaha XD'
+p555
+aS'Jam sessions! #lastgig in college'
+p556
+aS'CEU for college'
+p557
+aS'@herchellim ay wala haha akala ko kilala mo sila haha :(( =))) pero di yan. Onting kembot malang, college ka na be :*'
+p558
+aS'@PinJieTeee in the college library :) im hungry'
+p559
+aS'Beyond grateful that I got to get to know you as both a college professor and a friend. Thank you for\xe2\x80\xa6'
+p560
+aS'@dreiiireeeyy thanks for the follow. Goodluck to your college life.'
+p561
+aS'Har jaga medical college khul gaya hai #WhatIAmObservingNowADays'
+p562
+aS'Puro college enrollment advertisements nakikita  kong commercial! whhhy?! summer palang people! -h'
+p563
+aS'Supporting my college mates "the Squirrels" (@ Funky Town Caf\xc3\xa9 Restaurant)'
+p564
+aS'@iamdAwgy Wala na. Waterproof na tayo sa college :))'
+p565
+aS'the beauty of CPAC :)) @ central philippine adventist college'
+p566
+aS'@camilleorosco college yon? Haha dko alam eh \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p567
+aS'Here at Promenade GH.. I did great on my math exam :)#college #student #asian #pinoy #philippines\xe2\x80\xa6'
+p568
+aS'w/ my college friend and classmate kring kring and chongkai #gettogether @ 5th Ave Cubao Quezon City'
+p569
+aS"You know you're missing your college days when you don't remember the last movie that you had seen."
+p570
+aS"Can't really imagine what matriculation kids feel rn as tonight is their last night in college. I feel you. Just, live it to the fullest ok!"
+p571
+aS"I'm at Brickfields Asia College - @baccollege w/ @navinaramani"
+p572
+aS'Still consider wether im want to go or not to go for my college open day.'
+p573
+aS'Esok bertolak pagi lpstu terus gerak college..Insyaallah'
+p574
+aS'Today there will have egg company come to college to choose a brand name. So I\'m going "war" w egg today.'
+p575
+aS"I'm at American college of the meddle east PARKING"
+p576
+aS'@ThumbelYnaah Oo naman. Kaso not now. Busy na kase 4 sa college life eh. Pag available ako tsaka ikaw! Punta tayo! Nakachat na ata kita dte?'
+p577
+aS'Esok last rehearsal for dinner college.. Fuhhhh'
+p578
+aS'\xd9\x85\xd8\xaf\xd8\xa7\xd9\x88\xd9\x85\xd8\xa9 \xd8\xa8\xd8\xaf\xd8\xb1\xd9\x8a \xd8\xb9\xd8\xb4\xd8\xa7\xd9\x86 \xd8\xa3\xd8\xaa\xd9\x87\xd8\xa7\xd9\x88\xd8\xb4 \xd9\x85\xd8\xb9 \xd8\xa7\xd9\x84\xd8\xb4\xd8\xa4\xd9\x88\xd9\x86 \xd9\x88\xd8\xa7\xd9\x84\xd9\x86\xd8\xb4\xd8\xa7\xd8\xb7 \xf0\x9f\x98\xaa\xf0\x9f\x94\xa5 (@ college of science PNU (A3) w/ 3 others)'
+p579
+aS'Otw home after college . ;) (@ Petaling Jaya w/ 12 others)'
+p580
+aS'Datang college je, lecturer dah membebel.  College life is sucks'
+p581
+aS'#jeddah #college #alghad_college #\xd9\x83\xd9\x84\xd9\x8a\xd8\xa9_\xd8\xa7\xd9\x84\xd8\xba\xd8\xaf #\xd8\xac\xd8\xaf\xd9\x87 #\xd8\xaa\xd8\xb5\xd9\x88\xd9\x8a\xd8\xb1\xd9\x8a @ \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd8\xba\xd8\xaf \xd8\xa7\xd9\x84\xd8\xaf\xd9\x88\xd9\x84\xd9\x8a\xd8\xa9 \xd9\x84\xd9\x84\xd8\xb9\xd9\x84\xd9\x88\xd9\x85 \xd8\xa7\xd9\x84\xd8\xb5\xd8\xad\xd9\x8a\xd8\xa9'
+p582
+aS'I am japanese \xe3\x83\xbd|\xef\xbd\xa5\xcf\x89\xef\xbd\xa5|\xe3\x82\x9e \nI started Twitter!\nI would like to carry out linguistic study.\nI became a college student~~'
+p583
+aS"Yale-NUS Merchandise Store's first product yalenuscollege :) #ilovecoffee @ Yale-NUS College"
+p584
+aS"@roymarionj haha 1st yr college ko sinabihan ako ng masyado ako madrama. Kaya nawalan nako ng emotion :'("
+p585
+aS'After work straight to unwind myself with my college.. Good morning dubai! #shishatime #happyme @ Bait\xe2\x80\xa6'
+p586
+aS'Haha. Yoko pa mag college.'
+p587
+aS'#TwitterKaPehlaDin college k pehlay din k jesa tha :p'
+p588
+aS"Packing packing,...there's so much I need.. Not ready to go to college... Hurmmmm.."
+p589
+aS'Passed the qualifying exam. Ready for 3rd year college BS Psychology! Yess!!!!! Thank you Lord! \xf0\x9f\x98\x8a\xf0\x9f\x99\x8c\xe2\x9d\xa4\xf0\x9f\x92\x99\xf0\x9f\x8e\x89\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f'
+p590
+aS'Confident mau up up #bestpeeeee #handball  #itece @ ite college east simei'
+p591
+aS"// I am Donovan Dario Mercer.\nTo be or not to be dead, doesn't matter.\nWhat does matter is if I get my college degree this year."
+p592
+aS'good life in college  #MayWish'
+p593
+aS'Try for imperial college London or just go directly to Stanford?'
+p594
+aS"ey!thanks for everything :) akala ko dati mag 'college ka na!un pala mag 'highschool pa lang!hahah! :)) eylevyewsomets :)  #NashiesWednesday"
+p595
+aS"Can't wait for college bcoz met really fun people during med check-up a while ago :)"
+p596
+aS'@SMPN3YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p597
+aS'prepare before comeback.. to college\xf0\x9f\x8f\xa2 (at BP2IP Mauk Tangerang) \xe2\x80\x94'
+p598
+aS'Man yall think the real world is all fun and games. I cant wait for some of you to get out of college \xf0\x9f\x98\x82*spiraling airplane* BOOM! Crash &amp; \xf0\x9f\x94\xa5'
+p599
+aS'Students be like.\nHighschool: gusto ko na mag college.\nCollege: sana highschool na lang ulit ako'
+p600
+aS'"@carmeloman5: I swear the NBA playoffs feels like a college bracket. No team is safe!"'
+p601
+aS'@VanMochi_Elf I study at High school.. and I not have college exam. *^*'
+p602
+aS'"@janielebuenga: @Boyoooong @TweetingMalake Welcome to college life chok! Woohoo!"'
+p603
+aS'@ZainBernard kans..nasib I tak sama college ngn u...abis nnti u...hahahhaa'
+p604
+aS'@jhoycepalacio14 @imkatekaaat nope incoming college palang ka graduated ko lang e'
+p605
+aS'@JoanPends ke nagsaliwan akon angkas e. an mabusag, and an kulot. patod ko an mabusag. tita an kulot. haha . 3rdyr college ad2 gna kulot'
+p606
+aS'@Dibaydibayn uy chura naman natin jan haha jk thank you dibs! Labyu and miss you! Hohol sa college!!'
+p607
+aS'Erican Esprit Team #esprit #college #instaphoto #love #photooftheday #finalexam #goodluck @ Erican\xe2\x80\xa6'
+p608
+aS"I can't believe I still have like 12 weeks of college left I'm probably going to weep for that entire time"
+p609
+aS'Welcome, May! Can I go home? Or somewhere else where I can forget Semarang&amp;college&amp;task for a while?\xf0\x9f\x98\xaa'
+p610
+aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college w/ @njood_n9_aldnya"
+p611
+aS'@aidilhanappy_ hmmm hahahahahaa. alahhh aku ikhlas. lagipun aku dah nak gi college kan :)'
+p612
+aS'i need a break from my studies. to think carefully of what i should do about whether continuing college studies or not.'
+p613
+aS'Awesome friends #classmates #coursemate #college #event #penang @ Red Rock Hotel, Penang'
+p614
+aS"I'm at college of science PNU (A3)"
+p615
+aS'Third meeting in my #FrenchClass. \xf0\x9f\x87\xab\xf0\x9f\x87\xb7\xf0\x9f\x97\xbc\xe2\x9d\xa4\xef\xb8\x8f\n\n#UPdiliman #UPD #class #school #college'
+p616
+aS'Happy birthday again, Kat! Mwaaaah \xe2\x9d\xa4\xf0\x9f\x92\x8b #college #friends #PO @ Valenzuela City'
+p617
+aS'Atmi cup (at Michael college) \xe2\x80\x94'
+p618
+aS'@EDBERTisement ????? Daw amu man na ngalan sang crush ko sa college Bert nga CRUSH mo man gali ...hahahhaha sino na gani pares ni batman ???'
+p619
+aS"After today then no more morning McD before college! (@ McDonald's)"
+p620
+aS'@abby_torrillo asa ka mu college abby? :-)'
+p621
+aS"@luhanbliss Nah its impossible to get noticed by him (: and he's college im a high schooler.. He's hamdsome and im not even that pretty (:"
+p622
+aS"@adwistia happy birthday sista {}\xe2\x99\xa5. Success for your college and get older better :')"
+p623
+aS'@paulokoloko may hikaw naa. Haha college na po ih'
+p624
+aS'@ceejxdeej anokaba! Pag college na tayo fangirling overload na! \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p625
+aS'Kimo Hairstyle now, having hair cut for tomorrow open day at my college.'
+p626
+aS'\xe2\x80\x9c@yellouisa: Gusto ko na din maka-graduate ng college hehe \xf0\x9f\x98\x8a\xe2\x9c\x8c\xef\xb8\x8f\xe2\x80\x9d \xf0\x9f\x8e\x93\xf0\x9f\x91\x8f'
+p627
+aS'@Diannavinz about college lang sana makapasa na ako xD uyy baka pumunta ako dyan sa 4 mga ganun'
+p628
+aS"#study #DMC #dubai_mens_college #reading #\xd8\xaf\xd8\xb1\xd8\xa7\xd8\xb3\xd8\xa9 #\xd9\x83\xd9\x84\xd9\x8a\xd8\xa9_\xd8\xaf\xd8\xa8\xd9\x8a_\xd9\x84\xd9\x84\xd8\xb7\xd9\x84\xd8\xa7\xd8\xa8 #\xd9\x82\xd8\xb1\xd8\xa7\xd8\xa1\xd8\xa9 @ Dubai Men's College"
+p629
+aS'@SMA_PaPurworejo ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students.'
+p630
+aS'"@edsheerein: People in college look like they\'re in college HOW"'
+p631
+aS'Looking forward for college to start'
+p632
+aS'@xchillene college hair nah nako si hahaha'
+p633
+aS'dlu kolej aq UTC unifield teknology college skunk UIC unifield international college.. dah faham kan!'
+p634
+aS'#sexyweather#enjoying#cold#breeze#fun#frnds#college @ Military College Murree'
+p635
+aS'Johnny Football was bout his money in college &amp; Jameis bout his seafood \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p636
+aS'I thought when we made that deal that were gonna get out of college together I expected that. But\xe2\x80\xa6'
+p637
+aS'I am a janitor at a college. Most people think I am dumb but I can look at a math equation and solve it immediately.'
+p638
+aS'@univtidar ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p639
+aS'Kaya kame matigas ni nikko kasi kinakalaban namen sa soccer mga graduate na ng college. Hahahaha.'
+p640
+aS'Best milo made in this college \xf0\x9f\x91\x8d\xf0\x9f\x99\x8c'
+p641
+aS'@juniorisbeast They just keep on coming, where you headed for college?'
+p642
+aS'Inter college in Amethi with 1 room &amp; 1 teacher. But people still vote same way....'
+p643
+aS"Going to college today to meet my buds. Great, now I need to socialise. That's been a while."
+p644
+aS'@iamsofriendLEE @JerickChristian Ganyan din kasi besty niluluto nmin sa Baguio sobrang tagal na haha mga 2nd year college LOL'
+p645
+aS'@itsmr_jaspher magfourth year college pa lang ako sa pasukan hahaha!'
+p646
+aS'Just heard that my college principal graduated to the next level. RIP Shivi. A daunting but good man you were. #JaiHindCollege #Mumbai'
+p647
+aS'This is shit \nBut Astungkara lulus ! (at indonesia college) [pic] \xe2\x80\x94'
+p648
+aS'@Reesya_ wahh awal sampai . Btw lama tak nampak college . Mana nak ajak lepak lagi sekarang kan . Tahu aa da ade boipreng !'
+p649
+aS'\xf0\x9f\x8c\xb1\xf0\x9f\x8d\xa6 #instapic #instalife #school#college#life#awesome #yum#cool#anniversary #roommate @ \xe6\x98\x8e\xe5\xbf\x97\xe7\xa7\x91\xe6\x8a\x80\xe5\xa4\xa7\xe5\xad\xb8'
+p650
+aS'"joy" omg mukha syang college lang hahaha'
+p651
+aS'Wala na, yoko na mag college \xf0\x9f\x98\xad\xf0\x9f\x94\xab'
+p652
+aS'@ynahcef 3rdyr college po:)'
+p653
+aS'Pergi college pakai jubah harini .hehee'
+p654
+aS'@bridgzy hahahah kinakabahan na ako sa college \xf0\x9f\x98\xad\xf0\x9f\x99\x8f'
+p655
+aS'Im gonna have a hard time surviving college with a sleepless night today..'
+p656
+aS'Jenuhlah tggu bus college neyhh..lmbat bt0i. Petir dah mnyambar2 neyh (@ Central Market (Pasar Seni) - @cmkl1888)'
+p657
+aS'@veevien_vivie95 owh ok. I go college 1st'
+p658
+aS'2 states reminds me of college days'
+p659
+aS'1 of my favourite of my college days #MainDewaanHua by my all time favourite @abhijeetsinger \xf0\x9f\x92\x96\xf0\x9f\x91\x8d  '
+p660
+aS"@maartysxo Hahaha. Wala a. Na ham'ot lang ko kay tga dri kman lg gali.haha. Huo. Manug 2nd yr college. Ikaw ya?"
+p661
+aS'Via @esaweek ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p662
+aS'@sman9yk ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p663
+aS'\xe5\x93\x87\xe8\x80\x81!\xe5\xb0\xb1\xe7\xae\x97gay\xe6\x88\x91\xe4\xb9\x9f\xe8\xa6\x81\xe8\xaf\xb4\xe4\xba\x86!\xe4\xb8\x80\xe8\xb5\xb7\xe4\xb8\x8a\xe8\xaf\xbe\xe4\xb8\x80\xe8\xb5\xb7\xe8\xa1\xa5\xe4\xb9\xa0\xe4\xb8\x80\xe8\xb5\xb7\xe5\x81\x9a\xe5\xb7\xa5\xe7\x9a\x84\xe5\x8f\x8b\xe6\x83\x85! \xe6\x9c\x89\xe5\x85\xb1\xe5\x90\x8c\xe8\xaf\x9d\xe9\xa2\x98, \xe4\xb8\x80\xe8\xb5\xb7\xe5\x88\x86\xe4\xba\xab\xe5\xbf\x83\xe4\xba\x8b! \xe5\xa6\x88\xe7\x9a\x84! \xe4\xbd\xa0college\xe6\x88\x91form6\xe5\x95\x8a! \xe4\xb8\x8d\xe4\xb8\x80\xe6\xa0\xb7\xe5\x81\x87\xe6\x9c\x9f,\xe6\xa0\xb9\xe6\x9c\xac\xe8\xa7\x81\xe4\xb8\x8d\xe4\xb8\x8a\xe9\x9d\xa2! \xe5\x95\x8a\xe5\x95\x8a\xe5\x95\x8a\xe5\x95\x8a!!\xe7\x9c\x9f\xe8\x88\x8d\xe4\xb8\x8d\xe5\xbe\x97! \xe6\x9c\x80\xe5\x90\x8e\xe8\xbf\x98\xe8\xb7\x9f\xe6\x88\x91\xe8\xaf\xb4\xe6\x88\x91\xe6\x98\xaf\xe4\xbb\x96\xe5\x94\xaf\xe4\xb8\x80\xe7\x9a\x84\xe5\x85\x84\xe5\xbc\x9f! \xe8\xbf\x99\xe7\xa7\x8d\xe5\x85\x84\xe5\xbc\x9f\xe6\x83\x85! \xe8\xa7\x89\xe5\xbe\x97\xe6\x88\x91\xe4\xbb\xacgay\xe7\x9a\x84, \xe6\x88\x91\xe4\xbc\x9a\xe6\x9b\xbf\xe4\xbd\xa0\xe4\xbb\xac\xe5\x8f\xaf\xe6\x80\x9c!\xe5\x85\x84\xe5\xbc\x9f \xe4\xbf\x9d\xe9\x87\x8d!'
+p664
+aS'Sigh.. college start tml..'
+p665
+aS'@Osis_SMA ESA UNNES present #ESAWEEK2014 for JATENG-DIY high school-college students. klik'
+p666
+aS'Hahay pina hawd kaayo, graduate sag college oy sig balhin balhin kurso nya sig usik-usik kwarta'
+p667
+aS"http://t.co/q7OrOB0diM Forget the Ivy League and Stanford. @WUSTL #wustl is the smartest college in US. Hopefully I'll be there soon to"
+p668
+aS'Si sam navarro pala magka-college palang :o'
+p669
+aS'@TanushreeParama how was ur college yesterday'
+p670
+aS'What I will do after completing junior college \xf0\x9f\x98\x92\xf0\x9f\x98\xaf'
+p671
+aS'Sila ayos na college papers and files tas June-ish pa classes nila, ako last week of May na waley pa rin na aaccomplish. DLSU pls. Huhuhu'
+p672
+aS'Want my baby to hurry up and finish college @larcameron \xf0\x9f\x91\xaf'
+p673
+aS'@Shafinazjffr oh buat preparation lah ni. Aku kena pi college pukul 1'
+p674
+aS'fieqa bengang wifi college lembab .'
+p675
+aS'Me so blessed coz I have the best, college friends. \xe2\x99\xa5'
+p676
+aS'\xd8\xb5\xd8\xa8\xd8\xa7\xd8\xad\xd9\x8a \xd8\xa7\xd9\x86\xd8\xaa\xd9\x90 \xd9\x8a \xd8\xaf\xd9\x82\xd8\xa9 \xd8\xae\xd9\x81\xd9\x88\xd9\x82\xd9\x8a \xd9\x88\xd9\x86\xd8\xa8\xd8\xb6\xd8\xa7\xd8\xaa\xd9\x87 \xe2\x99\xaa\xcc\xa0\xe2\x9d\xa5 @ omw 2 college\xf0\x9f\x98\xad'
+p677
+aS'#smile #me #selfie #friends #college #institute #technology #fish_eye #bb #iphone5s #makkah #jeddah\xe2\x80\xa6'
+p678
+aS'#throwback #thursday #tbt #college #twink HAHAHA! :-) #clean @ ditoy balay mi (in our house)'
+p679
+aS'RT "@TheLifeDiaries: Every college student could take a page from these helpful life hacks.  '
+p680
+aS'haih I really hope that I get to finish my job as soon as possible!! at least before entering college! aaahh this is so stressful haha'
+p681
+aS'@Mapulife thats the view from my college (:'
+p682
+aS'@krizzarcasm sureness! where are you going for college? :) read your bio kasi "comm arts" hahaha that\'s one of my majors din!'
+p683
+aS'@eomeatsalot pu\xc3\xb1eta ka yung BIO mo, college ka na junior pa din??? Yeng tetee????'
+p684
+aS'Went to two museums today with my college mates to do some research for assignment #vscocam @ National\xe2\x80\xa6'
+p685
+aS'#islamia #college #lucknow #india #pole #instagood #instagram #instafresh #picoftheday #bestoftheday @\xe2\x80\xa6'
+p686
+aS'Bonding with college friends.. Congrats to the soon-to-be-bride @rz_skismet. \xf0\x9f\x98\x8a\xf0\x9f\x98\x8a\xf0\x9f\x91\x8f @ Starbucks-\xe2\x80\xa6'
+p687
+aS'@reema_sathe You\'re nearing the peak of the bell curve. Heard a college girl say the other day, "Don\'t hate me for liking Magnum."'
+p688
+aS"so happy for mom's sudden gift her old college bag:)) vintage LV right here:)) a true original to last this long:))"
+p689
+aS'@CHEhunnie94 Somewhere nga indi kilala. Daw computer college bi ang uniform na pagkita ko kana. Di ko kadumdum ka ID na.'
+p690
+aS"Sister's exam centre... (@ government engineering college thrissur)"
+p691
+aS'\xd9\x85\xd9\x8a \xd9\x87\xd8\xa7\xd9\xbe\xd9\x8a \xf0\x9f\x8c\x9a (@ Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college w/ 54 others)'
+p692
+aS'Di ko kayang mabuhay mag-isa. Paano na sa college? Haha.'
+p693
+aS'@Allieeers ang bata mo pa. Kasali ka pala sa K-12. Feeling ko ang tanda ko na. Mag sesecond year college student na ako next sem.'
+p694
+aS"college life wouldn't be fun without my awesome friends \xf0\x9f\x91\x8d\xf0\x9f\x91\x8a\xf0\x9f\x98\x80 @ Far Eastern University- Morayta"
+p695
+aS'@SMPN7YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p696
+aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college (Jeddah, Western Province) w/ 50 others"
+p697
+aS'Oh how I miss college.'
+p698
+aS'\xe2\x80\x9c@Qieserraleyn: Rindu normal college life uwaaaaaaa !\xe2\x80\x9d'
+p699
+aS'@_pizzaharry_ what happens In college o.e'
+p700
+aS'With Samir (@ vasantdada patil dental college &amp; hospital)'
+p701
+aS'@MPK_Eleven ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p702
+aS'@faridamzar otomotif college, PJ'
+p703
+aS'@MyrhenST Oo :D pero kelan pa kaya yon? Hahaha xD Pag nag college pa ako! XD'
+p704
+aS'@SMPMUH4YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p705
+aS'Morning college.. Hoammm'
+p706
+aS'@imprncssc ganun? Sa lahat talaga? Hahaha sige try naten yan sa college'
+p707
+aS"@xaaanshine ehehe. It's for college okay. \xf0\x9f\x98\x8a"
+p708
+aS"Goodbye Ilo-Ilo for now! \xf0\x9f\x91\x8d\n#iloilo :))\n\nIll be back soon when I'll enroll for college. \xf0\x9f\x91\x8c\xf0\x9f\x98\x81 @ Iloilo\xe2\x80\xa6"
+p709
+aS'@aljnblrxD HAHAHA ang bilis kasi parang kelan lang Nag mimix ako ng cocktail ! ngayon college na xD'
+p710
+aS'#MayWishes college and job! Wish me :)'
+p711
+aS"I'm at pharmacy department royal college of medicine perak"
+p712
+aS'@SangeetBangla @YourKoel I miss it... :( :( college e a6i tai dekhte pari ni :( plzzzz upload on YouTube itz a request'
+p713
+aS'Party tonight at my college \xf0\x9f\x98\x86\xf0\x9f\x98\x8b\xf0\x9f\x98\x8a\xf0\x9f\x98\x83\xf0\x9f\x98\x81\xf0\x9f\x98\x84'
+p714
+aS'@krexois ay grabe bagay talaga kami, huhuntingin q yan sa college pwahaha'
+p715
+aS'\'Anung gusto niyo? After college mag aasawa na kayo? Napakawalang silbi niyo naman. Patayuhan niyo muna ng masion mga magulang niyo"'
+p716
+aS'@Igiwhosoever Haha. Enjoyin ang college life! Kelan ka pala akyat ng Baguio? Tagal na natin di nagkikita!'
+p717
+aS'I love these chemical engineering courses, I enjoy reviewing my college knowledge'
+p718
+aS'Chapter 8 : differetiation. (Bisnes math) \xf0\x9f\x98\xad (@ Lh3 poly-tech mara college,)'
+p719
+aS'@OSIS_Smepsa ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p720
+aS'Wag na mag college. Tara tayo ng negosyo agad ahaha'
+p721
+aS'Group activity during tutorial class. The other 5 members missing \xf0\x9f\x98\x85. #college #friends #tutorial\xe2\x80\xa6'
+p722
+aS'Hello college \xf0\x9f\x91\x8b (@ Sunway College Johor Bahru - @sunwayjb)'
+p723
+aS'aduiii pishang siak kat college --"'
+p724
+aS'@payiflancia e mag uup ka din naman pag nag college ka. Hahaha, ako malayo pa. Huhu. \xf0\x9f\x98\xad\xf0\x9f\x98\x82'
+p725
+aS'When I was in college I went to see Dumb and Dumberer this guy said to me "my condolences". He sells stereos now. #mycondolences'
+p726
+aS'\xef\xbc\xa4oshisha college song \xe3\x81\xa1\xe3\x82\x87\xe3\x81\xa3\xe3\x81\xa8\xe8\xa6\x9a\xe3\x81\x88\xe3\x81\x9f\n\xe3\x83\x81\xe3\x83\xa3\xe3\x82\xa4\xe3\x83\xa0\xe3\x81\xa7\xe6\xb5\x81\xe3\x82\x8c\xe3\x82\x8b\xe3\x81\x9f\xe3\x81\xb3\xe3\x81\xab\xe5\x8f\xa3\xe3\x81\x9a\xe3\x81\x95\xe3\x82\x93\xe3\x81\xa7\xe3\x81\x97\xe3\x81\xbe\xe3\x81\x86'
+p727
+aS'@Ojasism hi are u the same ojas who comes as a guest lecturer to praving gandhi college of law?'
+p728
+aS'They say that #college would be #fun, #freedom, #excitement and full of #joy. #Nonsense.\xf0\x9f\x98\x92'
+p729
+aS'&lt;-- tak pernah join dinner college.'
+p730
+aS'\xf0\x9f\x98\xad\xf0\x9f\x92\x94\xf0\x9f\x92\x94\xf0\x9f\x92\x94 (at college of eduaction - KSU- AlDiriyah) \xe2\x80\x94'
+p731
+aS'"@wadia_nwk: @fzemiraa gunung apa? Nak ikutt" under college laah yang, gunung datuk, ulu bendul jee.'
+p732
+aS'@Shooting4Christ where you playing college ball??'
+p733
+aS'bc nag tambay kami last night with college barkada tapos ga pinalak inom akon migo....kundi nag sululuka sa kag hubog2 =))))) gaga eh \xe2\x9c\x8c\xef\xb8\x8f\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81'
+p734
+aS"Finally graduated in BCA. Farewell day \xe2\x99\xa5 gonna miss pals alot :'(\n#graduate #bca #farewell #college\xe2\x80\xa6"
+p735
+aS'Being a good girl and went to college on my day off to work \xf0\x9f\x98\x8c (@ College of Fine Arts &amp; Design - @uniofshj)'
+p736
+aS'@mohammadshmalka  TOGAF Training course at MOICT 2014  Thanks to our  college Mr Ala Dandees'
+p737
+aS'Tiba harinya. Kpj Final start. Paper 1. Mcq. Good luck clique 5. (@ level 27 kpj college w/ @hudasuhaimi)'
+p738
+aS"So I've worked out that between college assessments and the JLPT I'm basically stuck in intense exam prep mode for the next three months."
+p739
+aS'#\xd8\xb5\xd8\xa8\xd8\xa7\xd8\xad_\xd8\xa7\xd9\x84\xd8\xae\xd9\x8a\xd8\xb1\n#\xd8\xb5\xd8\xa8\xd8\xa7\xd8\xad_\xd8\xa7\xd9\x84\xd8\xaf\xd9\x88\xd8\xa7\xd9\x85\xd8\xa7\xd8\xaa @ To college \xf0\x9f\x92\x94'
+p740
+aS'@OrdinaryAnnees haih the cutest college student.'
+p741
+aS'@Shahaaa Mandhu college at 8.30'
+p742
+aS'Miss queen of international college \xe0\xb8\xa7\xe0\xb8\xb1\xe0\xb8\x99\xe0\xb8\x99\xe0\xb8\xb5\xe0\xb9\x89\xe0\xb8\xa1\xe0\xb8\xb2\xe0\xb8\x97\xe0\xb8\xb3\xe0\xb8\xaa\xe0\xb9\x89\xe0\xb8\xa1\xe0\xb8\x95\xe0\xb9\x89\xe0\xb8\xa1\xe0\xb9\x80\xe0\xb8\x88\xe0\xb9\x8a\xe0\xb9\x82\xe0\xb8\x89\xe0\xb8\xa1 \xe0\xb9\x83\xe0\xb8\x99\xe0\xb8\x98\xe0\xb8\xb5\xe0\xb8\xa1\xe0\xb8\xa1\xe0\xb8\xb2\xe0\xb8\x95\xe0\xb8\xb2\xe0\xb8\xa1\xe0\xb8\xab\xe0\xb8\xb2\xe0\xb8\x9e\xe0\xb8\xb5\xe0\xb9\x88\xe0\xb8\xa1\xe0\xb8\xb2\xe0\xb8\x81\xe2\x80\xa6'
+p743
+aS'@GueIex Aba college na tlga no? Hahha ewan ko ganun sched nila e'
+p744
+aS'Beli celana buat college ceritanya uwaa uwaa (at Jl. Tamim) \xe2\x80\x94'
+p745
+aS"Can't believe my college professors have actually filled the online recommendation form."
+p746
+aS'Went to DL Umali earlier today to see the college grad of CVM. Nkakainspire makitang grumaduate ang mga kapwa Iskolar ng Bayan para sa Bayan'
+p747
+aS'@SMP_34 ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p748
+aS'Selfie with Maam Amor (former college teacher) \n\n#selca #selfie #Thursday #LaborDay @ IBM Bldg. E - UP\xe2\x80\xa6'
+p749
+aS'At LP3i business college Banda Aceh \xe2\x80\x94'
+p750
+aS'Work then its off to college.'
+p751
+aS'I missed kman ;) (@ Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college w/ @black_makoke)'
+p752
+aS'@Infntyyybby Okay lang yaaan :) haha goodluck sa college life natin! :)'
+p753
+aS'@scottt_1096 bro sat college study ?'
+p754
+aS'@iambabyrara hehe balik la awal kit few days early before masuk college hehe'
+p755
+aS'@JicksonTeh Go college for what, stay kajang and sleep better'
+p756
+aS'Dinner w the college pals tonight \xf0\x9f\x91\xad\xf0\x9f\x91\xab @miahmataba @RizelleHdz'
+p757
+aS"Loads of people that I don't talk that much when I was in school and college, but we end up pretty cool now"
+p758
+aS'Pwede mag college sa Saudi? :('
+p759
+aS'@smpn13Yk ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p760
+aS'Getting bore at college ....'
+p761
+aS'#me #pink #selfie #latepost #college \xe2\x99\xa5 @ kampus bukit'
+p762
+aS'Saan ba pwedeng mag aral pag college?'
+p763
+aS'Tenue du college kamen\xf0\x9f\x91\x98'
+p764
+aS'college students playing kickball real quick \xf0\x9f\x98\x82\xf0\x9f\x91\x8c'
+p765
+aS'Heading to college'
+p766
+aS'Ansaya ! May friends na ako na future blockmates ko sa college ! :))'
+p767
+aS"@ChooiLiiing everything's good \xf0\x9f\x98\x8a how are you??? Long time since I heard from you \xf0\x9f\x99\x88 I'm in sunway college doing ausmat. \xf0\x9f\x98\x8a"
+p768
+aS'Super fun night with my college friends @janeymontemayor channy_bubu05 tapia2101 annette von kurt.\xe2\x80\xa6'
+p769
+aS"Early morning but I must goes to college !!! I've last exam today,\nProgramming !!!  Wish me luck xx"
+p770
+aS'@nabilahshahidan college support kot sbb g under college hehe'
+p771
+aS"Everybody's talking about college. It gets kinda tense tho \xf0\x9f\x98\x90"
+p772
+aS"Is it weird that I'm more excited about #littleinfinities than college? (Tickets, my fingers are still crossed, hoping our stars are also.)"
+p773
+aS'@Theresiana1SMG ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students.'
+p774
+aS"Overnight at Karina's crib with college barkada \xf0\x9f\x91\x8f @anaabeee @Karina_lovesU @justinepowl Danielle, Angel. Kasi umuwi agad si @bocx_pot \xf0\x9f\x98\x82"
+p775
+aS"Anyone g with throwing a party with me? \xf0\x9f\x98\x8a Like one before we go to college? HUHU pls I'm bored"
+p776
+aS'UMass, Lowell. Haggu score. Haggu college. Haggu website. Kya chutiyaap hai yaar.'
+p777
+aS'@wowjiewamos hindi baliw. Nanatawa kasi sya sayo. Buti pa si popo alam yung photo sharing. ahahahahahhahaa! Tsaka college na yan. Ikaw? HAHA'
+p778
+aS'@_biancaaustria eh kung tita? 1st yr college sa pasukan nang.'
+p779
+aS'@AtqhAzra1 How was your impression towards my college ? Lol'
+p780
+aS'"@katchrizeeee: 1st Sem: 1.93\n2nd Sem: 1.88\n\nNot bad. Taas pa more! Please? Para maging college scholar ako. :)"'
+p781
+aS'Meet @faeznick my best friend at college. #OneMoreRepCrew ! all the best bro!  Im glad to meet you too\xe2\x80\xa6'
+p782
+aS'Throwback-ing with my big bukton. I look like Nadine Lustre "Taba Edition" XD #PE #firstyear #college\xe2\x80\xa6'
+p783
+aS'Those days were the best days..missing college life..'
+p784
+aS'\xf0\x9f\x98\x85\xf0\x9f\x98\x84\xf0\x9f\x98\x84\xf0\x9f\x98\x84Everything you need to know about college parties'
+p785
+aS'Just posted a photo @ axis college, rooma'
+p786
+aS'Farewell party pic with shadeking93 \xe2\x99\xa5 lost the count of pics of us together :p \n#college #farewell\xe2\x80\xa6'
+p787
+aS'Happiness is  1 Hour of college #Happines #SoonToBeFucked #CollegeLife'
+p788
+aS"@RudeGyal_Cee @MyNameIsDelont3 did she even graduate high school? I have college education. So there's that?"
+p789
+aS'Thank you Aunties and Uncles! #kNOwcleanersday #itecollegewest #itecw @ ITE College West'
+p790
+aS'If only I could skip s2 and s3 then straightly go to college #impossible          #existenceOf #SPM'
+p791
+aS'@SMAN7YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p792
+aS'Just got the tebal and berat college mag -.-'
+p793
+aS'During our college testimonial. :) Thank you for coming, Mama! \xe2\x99\xa1 @ UP Los Banos'
+p794
+aS'Best friends are the ones who keep in touch with u when they go away to college, no matter how busy\xe2\x80\xa6'
+p795
+aS'Yung pinapanood sakin ng 2nd yr college nephew ko video ni Maris of PBB pero after nun pagscan ko porn nakita ko. Okeeey. Binata na nga HAHA'
+p796
+aS'"I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me." Woody Allen'
+p797
+aS'Wala ba kayong pinag-aralan?! Graduate pa naman kayo ng college! SIMPLENG MANYAK!!!'
+p798
+aS'How I get ready for college: sleep'
+p799
+aS'at saito college..done abez jge exam...balik tdo....'
+p800
+aS'Hahah haw! \xf0\x9f\x98\x82 #library #funny #words #mistake #indian #college #errors #instafunny @ Knowledge\xe2\x80\xa6'
+p801
+aS'Releasing exam stree at college :-D #friends #xperia #cool #funny #summers #awesome #liketofollow @\xe2\x80\xa6'
+p802
+aS'"@jokesatibapa: #SaPanahonNgayon mas kumekerengkeng pa yung mga elementary kesa college."'
+p803
+aS'\xe4\xb8\x80\xe7\x9b\xb4\xe4\xbb\xa5\xe4\xbe\x86\xe7\xa6\xae\xe6\x8b\x9c\xe5\x9b\x9b\xe4\xb8\x8d\xe6\x98\xaf\xe6\x88\x91\xe5\x80\x91\xe7\x9a\x84\xe6\x97\xa5\xf0\x9f\x99\x85 #\xe7\xa6\xae\xe6\x8b\x9c\xe5\x9b\x9b #\xe8\xa8\x8e\xe5\x8e\xad #hate #Thursday #bad #emotion #rainy #sleepy #ew #young #college #student\xe2\x80\xa6'
+p804
+aS'Sana masaya din pag college.'
+p805
+aS'TH : Shanghai Education Commission helps college grads find jobs\xc2\xa0- Millions of college students in China will be...'
+p806
+aS'pertamina college (at Grha Karir ECC UGM) \xe2\x80\x94'
+p807
+aS'I am very jealous of all the exchange students in my college who post about their WEEKDAY adventures on FB'
+p808
+aS'@yeduuuhhh Onga eh. Saklap. 16 palang hahaha pero ang height pang college na \xf0\x9f\x98\xad\xf0\x9f\x98\xad'
+p809
+aS'This is what I like to see from my #students #school #college #math #jeddah #ksa #exams @ Effat\xe2\x80\xa6'
+p810
+aS"Glad I'm done with my interview. Now all I need to focus on is prom &amp; college stuff \xf0\x9f\x98\x8b"
+p811
+aS"I'm at Sri Jayachamarajendra college of engineering (Mysore, India)"
+p812
+aS'@evolanjirap Happy Birthday Pretty. :) \xf0\x9f\x92\x95\xf0\x9f\x8e\x89\xf0\x9f\x8e\x82 Goodluck sa college life. Mwa. Loveyouu. \xf0\x9f\x98\x98'
+p813
+aS'@AiraCelineee Di na. Card na lang. Tor para sa college transferess lang yun. :))'
+p814
+aS'Such an empty college blugh'
+p815
+aS'#BestBirthdayEver #Animo #GraduationDay \xf0\x9f\x8e\x93 waiting in line with my very beautiful best college friends\xe2\x80\xa6'
+p816
+aS'Pedi &amp; mani while watching college softball. Hell yeah.'
+p817
+aS'@InazumaBuster @TsunamiJaysuke Ah sorry, I am too busy to talk to anyone. I am still having lesson in my college Nihon Kogakuin.'
+p818
+aS'Finished the first year of my college life unofficially.... : D'
+p819
+aS'And the books have arrived ! Kk back to college ! M.A psychology ! Excited to learn !!!'
+p820
+aS'@TheBlueMonstuur Tignan na lang ntin sa college baka mapatay na sya. Hahahahhaha'
+p821
+aS'Sana ganon din kami pag college or mas masaya pa sa kanila at laging may bonding :( \xf0\x9f\x98\x83\xf0\x9f\x98\x9c\xf0\x9f\x98\xad'
+p822
+aS'Unexpected reunion with my old friends in college! \xf0\x9f\x91\x8a\xf0\x9f\x8e\x89\xf0\x9f\x8e\x8a\xe2\x98\x95\xef\xb8\x8f @papajenz #bhe #AjSun #Kenneth @ Starbucks SM\xe2\x80\xa6'
+p823
+aS"I'm excited for college and I know I'm gonna regret saying this in the future"
+p824
+aS'Bergerak ke college (@ Taman Bukit Kempas w/ @nesarina)'
+p825
+aS'"@FactsOfSchool: "It\'s the remix to ignition, college student edition. I eat poptarts for dinner, I can\'t afford my tuition.""'
+p826
+aS'@auhcesined college life is fun,  sad and not easy sometimes .hehe.. just focus... go go go!'
+p827
+aS'ang mga kanta namin sa store ay yung mga sinasayaw ko sa bar nung college pa ako!  #reminist'
+p828
+aS'Naging college ka lang kung makapagmura ka parang anak ka ng demonyo eh.'
+p829
+aS"Alam ko st. theresa's college eh???"
+p830
+aS'@IzzuddinRz @HilmiShahrom otomotif college, PJ'
+p831
+aS'@syakirkamis after dah survey college dgn si yuthi. Nk betul2 siasat background college da kali ni'
+p832
+aS'Pagka-college ko talaga, lalayo talaga ko dito. Sa Manila or sa Baguio ako mag-aaral.'
+p833
+aS'Oy stebs. San ka sa college? :) @sprtnsteven'
+p834
+aS'Bwd slideshow for presentation \xe2\x96\xa0 (@ Lh3 poly-tech mara college,)'
+p835
+aS'Hes a college student god'
+p836
+aS'Our priorities are assignment,exam,event,and the other kind of college stuff. Not you (=|'
+p837
+aS"So much power, so much responsibility...and its only college. What will I become if i can't handle the load now...God help me."
+p838
+aS'Ano pong magandang backpack for college?'
+p839
+aS'Pag nag college talaga ako. HA ha ha the feels omg'
+p840
+aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college w/ @its_lujain"
+p841
+aS'After exam PTP ! #finally #crazy #time #to #college #effectcoffe #FotoRus @ Seminari Bethel Jakarta'
+p842
+aS"tonight @Benny_Dayal  concert at jss college :) can't wait to listen him live singing locha-e-ulfat and many more! #excited"
+p843
+aS"Just cant wait for college this oct \xf0\x9f\x91\x8c so i'll join my loves to #WTF14 yeayyyyy"
+p844
+aS"I'm at Brickfields Asia College - @baccollege w/ @aidee_16"
+p845
+aS"I can already work &amp; end this college life. But I still want to hold on to my dream of becoming a people's lawyer, just like grand pa. :("
+p846
+aS'@diksbjr1996 haha no college ta yehi padhne ho'
+p847
+aS"@AnceSinaga I am a college student hey, I am not a shs' student. And I don't sells my friends to ppl :p I am a nice person. Right? U bet it"
+p848
+aS"@Ng_Nicholas haha let's not get aggressive la weih, how's life la? Still working at college ar? Going out with chee yi they all bojio"
+p849
+aS'@aireenomar My college is planning 4 a field trip to Indo. Is thr a way we can get cheaper fare 4 ppl who r traveling in group w Air Asia?'
+p850
+aS'Life used to be so much easier before college..'
+p851
+aS'Besokk senin|college is begining| &gt;\xc2\xa4&lt;'
+p852
+aS'Driving in Sharjah when going to college completely turns my mood around \xe2\x98\xba\xef\xb8\x8f\xe2\x9d\xa4\xef\xb8\x8f #iloveshj'
+p853
+aS"You know you're in an engineering college when you have a practical exam on a Sunday morning."
+p854
+aS'@MontengPrinsipe nyaaay matagal pa ako sa college. Daming pwedeng mangyari :P'
+p855
+aS'@OMDitsMe well college life is ending you calling it lucky \nIt was the best part of my life'
+p856
+aS'Strawberries DNA. @ Almana college'
+p857
+aS'MT\xe2\x80\x9c@MindBlowing:  Obama was known to be heavy marijuana smoker in his college days. His nickname was "Barack Oganja"'
+p858
+aS"I'm at Brickfields Asia College - @baccollege (Brickfields, WP Kuala Lumpur) w/ 3 others"
+p859
+aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college (Jeddah, Western Province) w/ 16 others"
+p860
+aS'@ptrcnnfjs Ahhh. Buti college kana. T^T abot ko ang k to 12 ehh!'
+p861
+aS'Youth Intro talk at #Apex college. Course starts next week.  @anshulkalra08 @bhuvneshjgd @Utkarshgupta02'
+p862
+aS'Sleepy college (at STIKes A.Yani Cimahi) \xe2\x80\x94'
+p863
+aS'"@JustinGueco_: college na ko di ako makapaniwala hays" pano pa ko sa height palang wala ng naniniwala hahahaha \xf0\x9f\x98\xad'
+p864
+aS'Met my dear friend from crazy college and uni years at a wedding today. Muahhh! wondermomo \xf0\x9f\x98\x98 @ A-Park'
+p865
+aS'NEW FRIENDS SOCIETY at N.H.24 next to Bankey Bihari dental college GHAZIABAD.#ResidentialPlot #Land #ForSale #Dasna'
+p866
+aS'@nynanyna ohyeke..haha. Kau msk college mana der?'
+p867
+aS'Magfifirst year college ka na hindi ka pa marunong magtama ng mga tenses mo jusmiyo'
+p868
+aS'Starting June magbabasa na ako! :)  Ready for college! :) Paunahang mabaliw sa course ko.'
+p869
+aS"I'm at Inaya Medical college (Riyadh)"
+p870
+aS'11:11 makaya college'
+p871
+aS'Oo eh ,, nakakapagod sobra ,, got home from dental clinic and southeastern college #Tired'
+p872
+aS'@varmanic miss ayyav bro nijanga chala manchi college OU ki KCR ki sambandam ledu ala anukuntunnaru janalu antha hyd is not equal to KCR'
+p873
+aS'@SyanieBalkish amboiii dont tipu tipu meee ahaha . budak college kau eh ?'
+p874
+aS'@MontsUponaTime aha ka mag college love?'
+p875
+aS'@SasingUTY ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students. klik'
+p876
+aS'I will be anchoring the farewell to be held in college today'
+p877
+aS'Imprint...Back to where we did notorious things! (@ nagindas khandwala college)'
+p878
+aS'@messengerbagboy ano kba college na yun paglabas. Geh.'
+p879
+aS'@moneltamayo mommy!!! Saan ka mag ka college? :))'
+p880
+aS'Not shur if officemates or hs/college friends hahaha! \xe2\x9d\xa4 you friends, super! Repost from eenamoo \xf0\x9f\x98\x98 @\xe2\x80\xa6'
+p881
+aS"@NadiraZahari_ you're welcome babe \xe2\x9c\x8c you dah sampai college ke?"
+p882
+aS'Senior 4 course :) #Cilantro #culinary #academy #college #Charco #cafe #appetizer #soup #maincourse\xe2\x80\xa6'
+p883
+aS'@azammshahh dah masuk college/U/matriks, lagi banyak kawan plastik yang kau akan jumpa. All you need to do is sabar \xf0\x9f\x98\x8a'
+p884
+aS'College na pala ko! D ako nainform!!! \n\nKasi ang tuition ko ay pang-college. \n\nTsssk.\n\nHow cute is that???\n\n52k ohhh Gooosh!'
+p885
+aS'@SMPN4YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p886
+aS'Keep strong and go to college'
+p887
+aS'Stop thinking about her, focus of college, work and purpose of life'
+p888
+aS"@hillarybitch hahaha yeaaa I'm going to sunway college wby?"
+p889
+aS'Saan ka mag ka college hahahaha? @kelsiieeyy'
+p890
+aS'My grammar is better than a 22 year old who graduated college.'
+p891
+aS'malapit nang mag may... one more month tapos college na haay'
+p892
+aS'Bakit ang nga college friends ko hindi marunong gumimik? Or marunong sila pero ayaw nila. Answer me pls, hi guys.'
+p893
+aS"i'm scared to go college d~~"
+p894
+aS'Highschool and college graduation photo :) #janice #jhanicee #it #icee I love being imperfect \xf0\x9f\x91\x8c\xf0\x9f\x91\xb8\xf0\x9f\x91\xa3\xf0\x9f\x8e\xad'
+p895
+aS'May you Rest in Peace Tita Alfreda! Thank You for being part of our college life!\xe2\x9b\xaa\n\nWe are always here\xe2\x80\xa6'
+p896
+aS"Class selfie #college #2014 #feb_intake #selfie #class @ Taylor's University - Lakeside Campus"
+p897
+aS'My enjoyment at college has now died!'
+p898
+aS'Back to college \xf0\x9f\x93\x91\xf0\x9f\x93\x92\xf0\x9f\x98\x81 (at SD Santo Aloysius) \xe2\x80\x94'
+p899
+aS'@ assumption college \xe2\x98\x80'
+p900
+aS"@WiseNate sorry I couldn't make it I had to sleep for college"
+p901
+aS'way to college ...'
+p902
+aS'Feeling ko tuloy ako yung mag-aaral dun. ~ tapos na ako ng college. T.T \xf0\x9f\x98\x93\xf0\x9f\x98\x93\xf0\x9f\x98\x93\xf0\x9f\x98\x93'
+p903
+aS'@Muhammadazrul2 belajar dekat college perubtan sime darby. Cos mlt.3thun'
+p904
+aS'Dulu tweet aku asyik2 heading to college.la ni tukaq dah.heading to office hahaha'
+p905
+aS'That ganda bacha spot.\n\n#nca #arts #college #graffiti #yellow #walls #smoking #spot #sealed #afsos @\xe2\x80\xa6'
+p906
+aS'Practical exam ur prayers \xf0\x9f\x92\x89\xf0\x9f\x92\x8a\xf0\x9f\x98\xb7 (@ Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college)'
+p907
+aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college (Jeddah, Western Province) w/ 11 others"
+p908
+aS'Good morning beautiful! (@ Sime darby nursing and health sciences college)'
+p909
+aS'Hasil survey lokasi KKN #mbolang#happy#bestie#girls#college#classmate#instaday#instagram ninaaprill\xe2\x80\xa6'
+p910
+aS'NBA #coaching jobs lack #security, #control of top #college #programs'
+p911
+aS'"@FactsOfSchool: Money can\'t buy happiness? \n\nFalse. \n\nGetting my college paid for would make me happy."'
+p912
+aS'Assignment! \xf0\x9f\x98\x8a\xf0\x9f\x91\x8c (@ Brickfields Asia College - @baccollege w/ @lyx_yixin @kidmtheman)'
+p913
+aS"I'm at Welhams college"
+p914
+aS'@scottie_Jayy shit me too. If you can try to get in with a college rotc program... grt your degree,  and commission.'
+p915
+aS'Meeting up with college classmates. :) (@ SM Mall of Asia w/ 16 others)'
+p916
+aS'Safely arrive at #uitmlendu ! Oh my god ! The college is totally awesome ! So now begin our journey to\xe2\x80\xa6'
+p917
+aS'Post birthday celebration with college friends! \xf0\x9f\x98\x98 (@ Cafe Laguna w/ 3 others)'
+p918
+aS'Nakakamiss naman college friends ko. -.-'
+p919
+aS'Ang naa sa akong huna huna karon kay college'
+p920
+aS'@kevinwouldsay @aisuhcunanan \nThe college life is fun\xef\xbc\x81\nI want to become 20 years old, too\xef\xbc\x81\nHaha'
+p921
+aS'Gusto ko Therese sakin itatawag ng future college classmates/friends ko. Idky.'
+p922
+aS'@soiiivistal hahahaha pero asa nag college vist? :))'
+p923
+aS"@jiaaweii22 How awesome if there's another Jiawei in my college. \xf0\x9f\x98\xad"
+p924
+aS'rindu moment masa dekat berjaya college tadi ! rindu kawan baru !'
+p925
+aS'si mommy daw pipili ng course ko sa college okay mommy ikaw nalang mag-aral \xf0\x9f\x98\x94'
+p926
+aS"Hungryyyyyyy (@ AVIATION Training college's restaurant (7th floor))"
+p927
+aS'Morning. Going to college yaww.'
+p928
+aS'Kalau tak bersalah, mai kita dok setable, bincang. Tapi tak main la kalau dkt college, hostel kan ada'
+p929
+aS'My 1st time as a college student in Binus.. A lot of things have changed for sure. #first #time #in\xe2\x80\xa6'
+p930
+aS'\xd8\xa8\xd8\xb7\xd9\x88\xd9\x84\xd8\xa9 \xd9\x82\xd8\xaf\xd9\x85 \xd9\x86\xd8\xb9\xd8\xb3\xd8\xb3\xd8\xa7\xd9\x86\xd9\x87 \xf0\x9f\x98\x82\xe2\x9a\xbd\xef\xb8\x8f (@ Jubail Industrial College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd8\xac\xd8\xa8\xd9\x8a\xd9\x84 \xd8\xa7\xd9\x84\xd8\xb5\xd9\x86\xd8\xa7\xd8\xb9\xd9\x8a\xd8\xa9 - @irjubailcollege)'
+p931
+aS"Play like a king this evening..college is our's"
+p932
+aS"@tylahlaaah Can't believe im repeating 4th yr. Why did i had stop school. Eyy finally a friend whos not leaving guam for college. Haha"
+p933
+aS'@anggunberlian @rach355 maybe you guys can meet each other again if anggun goes to same college :D'
+p934
+aS'@imAujanLovely @imcristina_08 Kashock naman pag ganun. Nagstop sanda it college? Kaya naman pala dineactivate ni Flaierth ung fb niya.'
+p935
+aS'@zyrabelleA @clairybels naks. Hahahaha aruuy. Mag be braintrain ka or college review?'
+p936
+aS'@Infntyyybby Oo tsaka more puyat daw pag college eh hahaha grabeee'
+p937
+aS'With Mohamed at Med-college Library \xe2\x80\x94'
+p938
+aS'#fishes #fish #pond #water #stones #grass #college #asac #work #students #work #instapic #instatime\xe2\x80\xa6'
+p939
+aS'Simula 2nd year hs sila na kaso hanggang 2nd year college lang sila sayang matagal din yun'
+p940
+aS"We're no longer part of college. Best of luck juniors, seniors."
+p941
+aS'@smasaloku ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p942
+aS'Chilling out with @dangbangers and @jaibarrientos. #college #friends @ Pink Manila Hostel'
+p943
+aS'Kimabahan ako bigla mag-college. Nak ng tubol -,-'
+p944
+aS'@SMPMUH3YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p945
+aS'Yung kilala mo na matalino nung high school eh naging irreg/drop/failed na ng college #anyare'
+p946
+aS'Beware of college dogs (@ Post Guard Entrance)'
+p947
+aS'Ang jinet magpapa-gupit nga ulit ako ng sobrang iksi. Flashback to before college hair. \xf0\x9f\x92\x87\xf0\x9f\x92\x87\xf0\x9f\x92\x87'
+p948
+aS"in college u don't talk during orientation but instead play with phones haha"
+p949
+aS"I remind my parents to love me, even if I don't get into college, on a daily basis."
+p950
+aS'@baektaelu karamihan po bisaya talaga :-)  pero may mga hindi din pero nakaka intindi naman. Hehe! Mag 3rd yr college na po ba kayo unnie?'
+p951
+aS'At prima muchtar college \xe2\x80\x94'
+p952
+aS'First Check in In my college..... lolz \xf0\x9f\x98\x89\xe2\x9c\x8c\xf0\x9f\x91\x8d (@ SES  Sollege Of Engineering)'
+p953
+aS"#MyChemicalRomance = HS and college vibe. :3\nI'm a compulsive tweeter. One of these days I'll end up tweeting to myself."
+p954
+aS"I'm at Insaniah university college (Alor Setar, Kedah)"
+p955
+aS'@Jenovi6 same here. So many assignments and college stuffs until no time to catch up all the new series \xf0\x9f\x98\xa9'
+p956
+aS'@yayeeflores @sigridreyes konti pa lang naman dad. 4 sa college. 8 sa HS'
+p957
+aS'Sitting in the college library all chilled with legs on table. :p Just missing a warm cup of green tea.'
+p958
+aS'@Swathi1096 u mean into christ college?'
+p959
+aS'@ameliaachung Was going college ,has to some music tracks for class :)..Hahah Where were you? :O'
+p960
+aS'1 more month of summer shet u college life huhuhu in dire need of decent school'
+p961
+aS'Today ung wedding ni Kuya Neil!! Ang college crush ni @jomie03 ! Friend condolence to your heart. \xf0\x9f\x92\x94'
+p962
+aS'Mari berjuang demi masa depan dan sibuah hati hahahhahah (at LP3i business college Banda Aceh) \xe2\x80\x94'
+p963
+aS'@11JHSYK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p964
+aS'Ilya buat onar sedih kt ws group. Pastu semua tak layan aku. Tidur ah. Taknak p college esok. Nak quit.'
+p965
+aS'what happen to me now.dulu time ade kelas xley nak bangun pagi.now bile xde kelas boleh bangun pagi.adakah aku xley move on college life now'
+p966
+aS'Celebrating labor day with college buds \xf0\x9f\x91\xaf\xf0\x9f\x91\x91 @ Cafe Tiala'
+p967
+aS"@sheenamaeeeee hahaha. You're still young mas marami pang challenges and conflicts this college :)"
+p968
+aS'#workplace #college #class #workwear #glass #blue #engineer #electrical #engineering #AD #AbuDhabi\xe2\x80\xa6'
+p969
+aS'less healthy but college until night, shit! (at Universitas Widyatama) \xe2\x80\x94'
+p970
+aS"They're not just mcdo buddies, they're also my college buddies weeeee"
+p971
+aS'@maikhss college tska org. Hahaha. Sa clep. :)'
+p972
+aS'#instapic #picoftheday #instamood #instachandigarh #college #farewell #glares #beard #RayBan #Gant\xe2\x80\xa6'
+p973
+aS'@SMPN10_YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p974
+aS'@HeyyNada Family dramas. &lt;/3 Matagal-tagal pa bago ako makapuntang Davao, baka maggrad muna ko ng college XD maganda ba diyan? :"&gt;'
+p975
+aS'@HeyArjhay depende ata sa college. Nagmanual kmi lastweek :))'
+p976
+aS'First Edcon Asia scholarship for school and college children by NTS was yesterday'
+p977
+aS'@TheTimmyCruz Haha Ayaw ko pa nga pong mag-college :3'
+p978
+aS'I forgot that college can be a bit noisy on Sundays. \xf0\x9f\x98\xa4'
+p979
+aS'When the penceramah makes jokes with the staff college and the students was like "krikk krikk" coz dont understand the jokes'
+p980
+aS'AECO batchmates #college #grad woooh :))) @ College of Economics and Management'
+p981
+aS'@TanushreeParama ohhh in arab  so today is college'
+p982
+aS'@x3_labrihart wish I could sis you gonna be in college by time I get home ima have to stop down there and see you'
+p983
+aS'Surgery \xe2\x9c\x8c\xf0\x9f\x92\x89\xf0\x9f\x92\x8a (@ Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college w/ 31 others)'
+p984
+aS'I am a college student'
+p985
+aS'Those college photos, this is where they may end up.'
+p986
+aS'My 1st seminar as a college student ^_^)Y @ University of San Carlos - South Campus'
+p987
+aS'@faridcyberx heheh . Tula dtg la college awal Lain kali . :)'
+p988
+aS"so so grateful for the new friends i've made and the old friends i've kept since i started college. i don't think i say or show it enough"
+p989
+aS"Gossiping with my sister while browsing her college's yearbook."
+p990
+aS'ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students. klik'
+p991
+aS"@leyahguarino i don't simulan mo hahaha san ka mag college?"
+p992
+aS'"@impatring: Pisti nalang jd aning pamilyaha mag college nalang ko mao ra gihapon animal"'
+p993
+aS'Gusto ko na ng college life hihihi'
+p994
+aS'\xe2\x80\x9c@collegefession: "The girl you have back home waiting for you while in college is the one. Don\'t let that girl go fellas." - CMU\xe2\x80\x9d Over seas'
+p995
+aS'Batch Johnson #kakamiss #sandiya #suha #college \xf0\x9f\x98\x89\xf0\x9f\x8d\x89\xf0\x9f\x8d\x8b @ Starbucks Southpoint Iloilo City'
+p996
+aS'@kxireyes @AltheaFelice shet college na tayo  w t f'
+p997
+aS'Thanks to my lovely college sbb buat event nie. Reaallllyyyyyyyyyyy appreeeciateeeeeeee'
+p998
+aS'I had really a big crush on hot girl in college once but then she let out a huge smelly fart. Lmao.'
+p999
+aS'May your kind soul rest in peace Prof. Shivdasani. Jai Hind college will be incomplete without your presence. I Will and I Can always!'
+p1000
+aS'Son of a bitch. Piece of fucked up ball sack no fucking water fuck my life im gonna die la how to college'
+p1001
+aS'pejabat college call, suruh aku duk tngkat empat.. grrr'
+p1002
+aS'Gusto ko nang magcollege waaaah, 3rd year college na siya pagpasok T^T'
+p1003
+aS'Summer outing with le college friends! :)'
+p1004
+aS'@MUPATupdate ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1005
+aS'@DonBoskoSMG ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students. klik'
+p1006
+aS'@xienitaaa ih wala akong pangtuition. pag college na lang ule :('
+p1007
+aS'Hay, college ka na @GrldAln ang bilis ng panahon. Parang dati lang kalbong totoy ka pa. Goodluck sa college life tol pati kay C! Hahaha \xf0\x9f\x98\x8b\xf0\x9f\x98\x82'
+p1008
+aS'@keytriyuu Graduate na ata ako ng college nun?'
+p1009
+aS'#selfie #friday #complab #college #hungry \xe2\x98\xba\xf0\x9f\x98\x81\xf0\x9f\x98\x9c\xe2\x9d\x95\xe2\x9c\x8c @ Plaza First Nationwide'
+p1010
+aS'New WR: Man Breaks 5:00 in #Beer Mile! I tried it in college...it did not go nearly as well as it did for Nielson:'
+p1011
+aS'Feel bored at the Library. Hahahaa ^^v #bored #library #breaktime #college @ Universitas Surabaya (UBAYA)'
+p1012
+aS"It's been a pleasure to have known you guys. My life in college would definitely have been different\xe2\x80\xa6"
+p1013
+aS'Should i go to college tomorrow hmmm'
+p1014
+aS'Ya des couples chelou ds mon college jvous jure'
+p1015
+aS'Boring day. I hate college life'
+p1016
+aS'Calling for any volunteer college-ian yg sanggup nak tumpangkan aku kat bilik dia'
+p1017
+aS'@GorgeouShine Huh? Bat ang bata mo pa para mag college ate ko?'
+p1018
+aS'All of the English teachers in my college are so firm in marking the exam papers .\nBut my grades were really unexpected ! Thanks teacher :)'
+p1019
+aS'"@xtweeterlin: #DahilMayNa malapit na ko maging college."'
+p1020
+aS'Paling tak suka kena balik college.'
+p1021
+aS'Certainly blessed to have such an amazing crowd in the college #SarcasmTweet'
+p1022
+aS'college of information and computer technology!  hahay kala ko madali ka lang \xf0\x9f\x98\x9e pinaasa mo ko \xf0\x9f\x91\x8a'
+p1023
+aS'@SyahrilSani college west bro. malik last minute suruh aku buat'
+p1024
+aS'Because today was a reminder of how our parents have worked so hard to help us through college. Thank\xe2\x80\xa6'
+p1025
+aS'@MargoScrlt ahh ^.^ incoming 1st yr college :) taga san ka? :)'
+p1026
+aS'Officially graduated from college today! Huzzah!!! @ University of the Philippines'
+p1027
+aS'@apriljoysantos tama! \xf0\x9f\x98\x85 pano pag mga ganun kaklase mo sa college! :O'
+p1028
+aS'@KobeBryyyant mc? Miriam college? Hahaha'
+p1029
+aS'#welcome #party #1st #years #my #friends #college #canteen #missing #uh #all #sagar #mohit #aditya\xe2\x80\xa6'
+p1030
+aS'Why am I even thinking of college?? I still have 4 years of thinking.'
+p1031
+aS'@NawarAmnah mesti lah best. Best engineering college in malaysia lah katakan..haha.'
+p1032
+aS'"@khatpusaaa: 4years pa sa highschool tas college pa trgs \xf0\x9f\x98\xa5\xf0\x9f\x98\xad"'
+p1033
+aS"I'm at KU- college of engineering and petroleum (Kuwait city)"
+p1034
+aS'\xf0\x9f\x98\x92\xf0\x9f\x92\x94 (@ Inaya Medical college w/ 3 others)'
+p1035
+aS'@Veronica_Allysa oh. Sa public school lang ako nag-aaral sa Antipolo. Pinsan ko kasi mag ka-college na. Rich kid ka pala. :))'
+p1036
+aS'Heading to CHS then college'
+p1037
+aS'@VincentSundaye hahahaha incoming college freshie ka na ba pala or hs senior? Curios Lang lol'
+p1038
+aS'Tutoring a college aged boy is really awkward'
+p1039
+aS'Tele Marketing College, missed ths memory...  #ipoh #study #college #stadium #indramulia #forTIC @\xe2\x80\xa6'
+p1040
+aS'@CobyLiciouuss ma college kna dba? :)'
+p1041
+aS'"@purple_aliza18: #AngSayaSiguro kung hanggang college kaklase ko pa rin ang TL &lt;3.&lt;3 @JJARofhearts @jeyuelayee @kate_aguilar24" This \xf0\x9f\x92\x94'
+p1042
+aS'The long lost Party Partner back in college! Finally! Natuloy din \xf0\x9f\x98\x81\xf0\x9f\x98\x81 More to come! @tridims \nP.S.\xe2\x80\xa6'
+p1043
+aS'Heading back to college.'
+p1044
+aS'Hay nako mamimiss ko ata ang pagtulog sa college. Just woke up from my 4-hour nap so fab. Ilang beses na tong pagtulog ko. :)'
+p1045
+aS'@aziellaaa yeah bagus la a good pass activity kan. college is hectic sikit but okay ah. i miss you too.we all do,mana you'
+p1046
+aS"Don't miss dem or the college."
+p1047
+aS'can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9dthing and go straight and go to the part where i have a really awesome job and spend all my time traveling?'
+p1048
+aS'Di pa umuuwi si ate, baka siya naman di makagraduate ng college. Lagi na lang late kung umuwi. Hayynakuu'
+p1049
+aS'@EykaZailani dekat la nak melawat..haha.. college tu..Ingat college yang teknik tu..huhu..\nBtw I dah quit from study'
+p1050
+aS'I think we probably needed more years in college to still want each other together. I missed you guys!\xe2\x80\xa6'
+p1051
+aS'Kaya itech. Go lang hahaha! Yung mga promise ko kila ate at kuya ngayon college kailngan ko talagang panindigan :)'
+p1052
+aS'@kayecapuno Thank you Kaye!! Goodluck sa college! :)'
+p1053
+aS'"Can i skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight to the part where I have a really awesome job and spend all my time traveling?"'
+p1054
+aS'Asik berdua disaat yang lain lg presentasi #selfie #college #besties @ Universitas Mercubuana'
+p1055
+aS'Waiting, (@ Brickfields Asia College - @baccollege w/ 7 others)'
+p1056
+aS'Gala tmrw with college friends! \xf0\x9f\x91\x8d'
+p1057
+aS'Heading to Binondo Church w/ college friends. My first time visit. Happy Sunday!\xe2\x98\xba\xef\xb8\x8f'
+p1058
+aS'Di pa ko nagiinquire para sa college!!!! Hindi yata talaga ako magcocollege!!!!'
+p1059
+aS'@SaiiiiJo @HaaswiniT @ItsPathana @PreseetaDe @charmaineho7 nigga! In college damn bored dei. Everyone in class :('
+p1060
+aS"I'm not yet ready. As iiiiin. _(._.)_ #college #kaleyds"
+p1061
+aS'@limapawitikra ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1062
+aS'@TrishSuralta Ay, thankyouuu! :) So mukha pa akong bata? I take that as a compliment. Haha! XD 17 nako, 2ndyr college na sa pasukan baby.'
+p1063
+aS"bought some stuffs for my college just now. aaaaa it bring tears to my eyes even when I imagine of staying in college without my family :'("
+p1064
+aS'Welcoming our new student with some activity. Lalalalalaa ~~ #simedarby #college @ Sime Darby Medical\xe2\x80\xa6'
+p1065
+aS'@IAmIKrisman ok dei pick me up after college \xf0\x9f\x91\x8c'
+p1066
+aS'@SheychelleCruz hahaha magkikita naman sguro tayo sa college pareho tayong intramuros eh :D'
+p1067
+aS'@IzzatRfan @ArifRosnan hmm dah strt college :( arip Ada interview enn nanti ?'
+p1068
+aS'Cant wait to see my own sched for college! \xf0\x9f\x98\x8a\xf0\x9f\x98\x8a'
+p1069
+aS'@JulsHeartsYou true yon hanep ka. Buti nga umabot pa ng college e. Hahaha \xf0\x9f\x98\x82\xf0\x9f\x98\x94'
+p1070
+aS"I'm at Kuwait university - college of social science (ku-css) \xd8\xac\xd8\xa7\xd9\x85\xd8\xb9\xd8\xa9 \xd8\xa7\xd9\x84\xd9\x83\xd9\x88\xd9\x8a\xd8\xaa \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd8\xb9\xd9\x84\xd9\x88\xd9\x85 \xd8\xa7\xd9\x84\xd8\xa7\xd8\xac\xd8\xaa\xd9\x85\xd8\xa7\xd8\xb9\xd9\x8a\xd8\xa9"
+p1071
+aS'@infodinus ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1072
+aS"@aeizwann hahaha u're gonna miss it when u're in college nnt \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82"
+p1073
+aS'Do i look like a college student? (at Universitas Trisakti) [pic] \xe2\x80\x94'
+p1074
+aS'@RenceFrancisco kung ako to Thank you hahaha Goodluck sa college!! =)))))'
+p1075
+aS'Parallely, another bomb threat at a college in T. Nagar, #Chennai'
+p1076
+aS"@Anismuhaidi ouh okay.. saja tanya.. i'm going to your college today.."
+p1077
+aS"In the need of cat presence why can't we pet some at college why why why"
+p1078
+aS"Can't have a kid and be in the military unless you're married. So that pretty much has to happen if you want free college buddy boy."
+p1079
+aS'@Raprafito awww too bad men :(( di mo makikita kung pano ako magiging awesome sa college :( sayang bro pero hangout parin tayo ahh'
+p1080
+aS'@herchellim nah goodgirl ako b haha jk jk balik ka pag college mo!'
+p1081
+aS'Ang lakas maka college! Hahahah (@ Priv\xc3\xa9 Luxury Club - @priveluxuryclub w/ @meeljaurea)'
+p1082
+aS'@eLPotenteCarpe college ikaw dn \xf0\x9f\x98\xaa\xf0\x9f\x91\x8e'
+p1083
+aS"Dinner with college buddies. (@ Giligan's)"
+p1084
+aS'Magkakaroon ng kasagutan lahat ng tanong ko, pagkagraduate ko ng college :")'
+p1085
+aS'Dle man jud diay na lalim ng college life noh? Nka dungog ra ko. Huhubells!'
+p1086
+aS'Super late lunch with my college friends. I missed you all. Si jesssjasmin lagi nang nandito so hindi\xe2\x80\xa6'
+p1087
+aS'Last day for this week (@ Sime darby nursing and health sciences college)'
+p1088
+aS'@Official_smkn4 ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1089
+aS'#bored #campus #college #nutritionstudent #picoftheday @ Ruang Tutorial 311 FIKES UPN'
+p1090
+aS'Good time :) #college #friends @ Hakata Ikkousha - Senayan City'
+p1091
+aS'Throwback sikit. iMiss @ tunku kurshiah college'
+p1092
+aS'Mga college dito may mga lambo tsaka audi na amm racinggg tuwing gantong oras cool haha'
+p1093
+aS'And so this is why it\xe2\x80\x99s okay to graduate:\n\nThe reason why graduating college isn\xe2\x80\x99t actually the end\xe2\x80\xa6'
+p1094
+aS"Shakey's with my Hs Friends and some True college friends on my birthday! \xf0\x9f\x91\x8d Sorry sa iba wala na budget! \xf0\x9f\x98\xb1"
+p1095
+aS'#tb Yesterday at college west ^^ @ College West'
+p1096
+aS"ConGraduation darl \xf0\x9f\x98\x98\xf0\x9f\x8e\x93 soon i'll follow your step to off from college \xf0\x9f\x98\x87 @ BSI Convention Center"
+p1097
+aS'College crush ko pa sya..kchat ko sya ngyon thanks to my friend..ex nga lang nya lol #st.paul #collegecrush #uy'
+p1098
+aS'Gm\xf0\x9f\x99\x8b (@ Parking (college of science))'
+p1099
+aS'Back to college @ City One'
+p1100
+aS'@PsikologiUNS ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1101
+aS'#goodmorning #yall #have a #good #day ... my way to college ....'
+p1102
+aS'magt-3rd college na ako sa pasukan, isip-bata parin ako ahuhuhu -.-'
+p1103
+aS'Company Visit \xf0\x9f\x98\x8e\xf0\x9f\x8e\x92\xf0\x9f\x8e\x93\xf0\x9f\x92\xbb #college #friends #clown #sariroti #bread #factory #mascot @ PT. Nippon Indosari\xe2\x80\xa6'
+p1104
+aS"Chikahan of dada and friends' college years."
+p1105
+aS'@GaiileSuper 4th yr college ayt? :))'
+p1106
+aS'\xe6\x9c\x80\xe5\xbe\x8c\xe4\xb8\x80\xe6\xac\xa1\xe7\xac\x91\xe6\x9a\x88\xe6\x9c\x83 #instapic #instalife #school #anniversary #college #cute #cool #roommate#love#pretty @ \xe6\x98\x8e\xe5\xbf\x97\xe7\xa7\x91\xe6\x8a\x80\xe5\xa4\xa7\xe5\xad\xb8'
+p1107
+aS'V (@ Parking (college of science))'
+p1108
+aS'My last solat jumaat at johor matriculation college...!'
+p1109
+aS'"@twtsecretsmy: I still dont know what to pursue in college. I still dont know what I really WANT to do in my life."you will, eventually :)'
+p1110
+aS'@nisyaazmi kelakar ah! Hahaha hanan baca lepastu gelak sorang sorang dkt college hagaha'
+p1111
+aS'Ma-proud jud kog samot sa SMC ba kung maabot na among yearbook! Jusko. Hapit nalang mi mograduate og college, wala pjud intawon. \xf0\x9f\x98\x91'
+p1112
+aS"I'm at padmavati juniors college"
+p1113
+aS'Kalau dapat resident college macam dalam pitch perfect .... haihhhh'
+p1114
+aS'Big day for my bro bc hes done with college.'
+p1115
+aS'UGM"@InggrisBisa: #WhatIsYourChoice *dream college* UI/ ITB? UGM/ Unpad/ STAN? #EnglishIsFun"'
+p1116
+aS'bonding with my college friends! :) gelahdanganan laham27 @ Fairview Ayala Terraces'
+p1117
+aS'Spent another tradition but this time, with my college buddies. Ang saya saya lang. Ang late lunch\xe2\x80\xa6'
+p1118
+aS'Lingawa sa graduation sa college oyyyyy'
+p1119
+aS'Inti college \xf0\x9f\x98\x81\xf0\x9f\x98\x81'
+p1120
+aS'@JhnWllYbnz college kana?'
+p1121
+aS'Good morning Kuala Lumpur! Going off to Lincoln college for registration.'
+p1122
+aS'@WahyuRamli kesiannn hahahah org g college makin keding ko kot makin kembung muahaha'
+p1123
+aS'Sa mga high school students,\nEnjoy your life in high school mga nene ag toto ky iba gd ya kung makatapak na kamo sang college. \xf0\x9f\x98\x8f'
+p1124
+aS'Summer fun!!\n\n#summer #friends #classmates #fun #reunion #reunited #college @ Circa La Playa Resort'
+p1125
+aS"I'll probably have a hard time getting into college because of my excessive absences and poor grades \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad"
+p1126
+aS'@SMPN6YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1127
+aS'@winphong y bomb all the college?'
+p1128
+aS'ang daming punta dito punta don kaso ugh im fixing my college life guys huhuhuhu'
+p1129
+aS'haih i really hope that I get to finish my job as soon as possible!! at least before entering college! ahhh this is so stressful hahaha'
+p1130
+aS'@hunnuuuuh ohw hehe \xf0\x9f\x98\x81 i dont have a college yet lol'
+p1131
+aS'I am officially done with 3/4 of my college career! #happycamper #finished #msid #india #travelingman #summer #getatme #holyhashtag'
+p1132
+aS'RG crystalviber: happy 31st bora bday to my ultimate college crush, my free legal counsel, and\xe2\x80\xa6'
+p1133
+aS'@ManifestCup ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1134
+aS'@jabrullah3 INTI ke HELP. Either two. Still kena study college tu ok tk.'
+p1135
+aS'i describe my ideal roommate on this college app as "fun funky &amp; a little weird"'
+p1136
+aS'Just posted a photo @ Nilai university college, R block'
+p1137
+aS'@babyminette24 Ayiee. Pagka grad mo ng college Teacher ba agad? :)) Or 4yrs pa?'
+p1138
+aS'@MACHEFUTSAL ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1139
+aS'Sana makapasa ko sa UST sa college chos tagal pa'
+p1140
+aS'Movie time with beloved college friend. Spiderman 2! Wewuuuu \xe2\x98\xba\xef\xb8\x8f\xe2\x98\xba\xef\xb8\x8f (@ MBO Cineplex)'
+p1141
+aS'1 month na lang 4th year college na ko. Ang bilis! HAHAHAHA'
+p1142
+aS'Mom only interested in cheap college \xf0\x9f\x98\xac'
+p1143
+aS'@6cMudaWijaya ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1144
+aS'Semoga bener semua berawal dari kelas ini \nDan kami semua lulus \nAstungkara (at indonesia college) [pic] \xe2\x80\x94'
+p1145
+aS'Educating for peace #montessori #presentation #curriculum #college #finish @ Gedung B Universitas\xe2\x80\xa6'
+p1146
+aS'Batangas weekend with some of my college best buddies \xf0\x9f\x98\x81\xe2\x9c\x8c\xef\xb8\x8f @ Secret Place'
+p1147
+aS'Have a nice weekend every body \xf0\x9f\x98\x98\xe2\x9d\xa4\xef\xb8\x8f\xe2\x98\xba\xef\xb8\x8f @ Alghad college'
+p1148
+aS'I miss my college friends :('
+p1149
+aS'Di pa rin ako marunong umuwi from my college ;___;'
+p1150
+aS'@_LifeOfAi :))) for college kc \xf0\x9f\x98\xad dang it'
+p1151
+aS'@FirliSani ok lah bro. Skarang pat site. ITE college central. Kau?'
+p1152
+aS'@ralphanthony04 si paul! hahah gn mangkot yko kun may ma dulong skon mg college. mbl ko ako nlg nhuya mn kocollege na mapadulong pko'
+p1153
+aS'@sedes_memory ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students. klik'
+p1154
+aS"I get it, you're in college, but some of y'all drink more than marines. Take it easy people."
+p1155
+aS'@iamsaiha keto tu aku tgl shah alam laa. . Dengan barang kt college aku'
+p1156
+aS'#Yummy #beefSnacks #coke ~ in #segi #segicollege @ SEGi College Subang Jaya'
+p1157
+aS'Suddenly missing college peeps :)'
+p1158
+aS'@ihaveredhairrr with college friends :))'
+p1159
+aS'@SeputarPwdd ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1160
+aS'Jgh from family date and planning college plans atm.'
+p1161
+aS'Be mature, remember your now a college student! Enjoy the most out if it\xe2\x98\xba\xef\xb8\x8f\xf0\x9f\x92\x9a #BenildeFroshTips'
+p1162
+aS'@sma_mardisiswa ESA UNNES present #ESAWEEK2014 for JATENGDIY high school-college students.'
+p1163
+aS'@mashal1144 my frnd gave me all old letters tht v xchanged during our school n college days. These lengthy leters remind me of gud old days'
+p1164
+aS"I'm at Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college (Jeddah, Western Province) w/ 13 others"
+p1165
+aS'@inconsumerforum can i file a complain against my college if they did not fullfill their promises?'
+p1166
+aS'@nileydriyan sis sino pala mga kaklase natin na nasa lyce buti pa kayo ang dami! Hahaha ako si cunanan langnkakilala ko na ka college ko :('
+p1167
+aS"#throwback outfit for college dinner yesterday night! Yes, I'm a final year student! 4 weeks left in\xe2\x80\xa6"
+p1168
+aS'@hananananahfaye so excited na ka mag-college? hehe. :))'
+p1169
+aS'Fvcking lazy to go to college for today . \xf0\x9f\x98\x94'
+p1170
+aS'Bauhinia purpurea #pink #flower #flowering #fenology #plant #biology #ecology #biodiversity #college\xe2\x80\xa6'
+p1171
+aS'@poodlebyun Ite college west, CCK \xf0\x9f\x98\x9e'
+p1172
+aS'#mi batters r goin in middle same as v used to go to college; "for sake of attendance"\n#DDvsMI #PepsiIPL'
+p1173
+aS'Missing my college \xf0\x9f\x98\xbf\xf0\x9f\x98\xbf'
+p1174
+aS'@Yureyynn kung pwede sana hayy.. Swerte niyo talaga hahaha.. GoodLuck nalang sa college! \xf0\x9f\x98\x8a God Bless'
+p1175
+aS'otw hoome my god babalik nanaman ako bukas grrr college na itu k hahaa'
+p1176
+aS'Nung HS ako promise ko sa college meron na dapat ngayong college nako promise ko naman sa proper na talaga... #SanaNaman..:('
+p1177
+aS'@SMPN15YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1178
+aS'@Qpmp13 next topic! Hahaha, sa college nalang nakakatamad kasi lalo na pag 4th year dyosko haha! 5 ata? Talino nun eh :))'
+p1179
+aS'I should have gone to fucking college.'
+p1180
+aS"@CrazyyShaz yaaa i'm also thinking of doing that before entering college!now my hair is reaching my bond* already hahahaha"
+p1181
+aS'After this month will be the start of my college endeavor. :) BSAc-1 \n\n#Accountancy #College #USLT :)'
+p1182
+aS'SB treat ni college dabarkad! Yey (at @starbucksphil) \xe2\x80\x94'
+p1183
+aS'Tak dapat join futsal tournament kat college kali ni.Sebab role play aku habis lambat semalam \xf0\x9f\x98\x91\xf0\x9f\x98\x90'
+p1184
+aS'Ayoko pa mag college.\nMasarap pa sa bahay.'
+p1185
+aS'Happy to see this people once again. Miss my college days. ^_^'
+p1186
+aS"I'm at college of information and computer science"
+p1187
+aS'internship at @EDELWEISS...3 days training programme...den a test...its college back again #tense #nervous  seriously need a break #needrest'
+p1188
+aS'Masih sempat selfie dikelas sebelum yang lain pada masuk~ #picoftheday #instahijab #college #selfie @\xe2\x80\xa6'
+p1189
+aS'Oh Monday blues. \xf0\x9f\x98\xb4\xf0\x9f\x98\x8c (@ Brickfields Asia College - @baccollege w/ 4 others)'
+p1190
+aS'spent the first day of college review right next to @abigailvy \xf0\x9f\x98\x89 @ Megaplaza Condominium'
+p1191
+aS'@Addiety ui be happy before college talaga wag ka ngang loner jaan hahaha'
+p1192
+aS'Back to college... (at FE Unpad) \xe2\x80\x94'
+p1193
+aS'Masih pagi, masih sepi lalala~ #instadaily #instaplace #college #morning @ POLITEKNIK KOMPUTER NIAGA &amp;\xe2\x80\xa6'
+p1194
+aS"Let's start the week all over again \xf0\x9f\x93\x96\xf0\x9f\x93\x9a\xe2\x9c\x8f\xef\xb8\x8f #college #eelintanponteng @ DISTED College"
+p1195
+aS'At college west ones again officiating the H2o match . Zzzz'
+p1196
+aS'I never parked here during my college days. Today I am here for a different purpose. #shootday #ust\xe2\x80\xa6'
+p1197
+aS'Makes me wish I studied photography in college:'
+p1198
+aS'@Geelloooo you me at six tsaka we are the in crowd lang. Yoko na mahal sayang money tsaka busy sa college haiszxt hahahahah'
+p1199
+aS'\xf0\x9f\x9a\xb6\xf0\x9f\x98\x9e (@ Ibn Sina National College | \xd9\x83\xd9\x84\xd9\x8a\xd8\xa9 \xd8\xa7\xd8\xa8\xd9\x86 \xd8\xb3\xd9\x8a\xd9\x86\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xa3\xd9\x87\xd9\x84\xd9\x8a\xd8\xa9 - @ibnsina_college w/ 5 others)'
+p1200
+aS'Natatae ako pag iniisip kong magka college nako :('
+p1201
+aS'@YourKoel  I m in college trailer dekhte parchi na... feeling sad :( :( bikale bari jaoyr pore dekhte pabo still thn I hv 2 wait Rag hocche'
+p1202
+aS'Today! #stab #friends #college @ Sekolah Tinggi Alkitab Batu (STAB)'
+p1203
+aS'@SMPN12YK ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1204
+aS'@nicholleannj excited ah kawan aku masuk college! Nak jumpa before masuk :('
+p1205
+aS'"@AnnMajing: @chaismally ala eh. Hahaha :) incoming 1st year college ka diba?" Ala eh! Wahaha oo sis, hehe.'
+p1206
+aS'#\xd9\x8a\xd9\x88\xd9\x85_\xd8\xa7\xd9\x84\xd9\x82\xd8\xa7\xd9\x86\xd9\x88\xd9\x86 #pmu #collegeoflaw \xf0\x9f\x92\x96\xe2\x9c\xa8 (@ College of Law, Prince Mohammed University (PMU))'
+p1207
+aS"Two exams at college tomorrow, on a Sunday. And yet, got back an hour ago from a lovely evening at K-Circle. Ah. C'est la vie."
+p1208
+aS'belated happy birthday ate @cheskowlucas !! \xf0\x9f\x98\x9a\xf0\x9f\x98\x8a\xe2\x9c\x8c\xf0\x9f\x99\x8f\xf0\x9f\x8e\x88\xf0\x9f\x8e\x89 wuv u a bunch!!! (better late than never) hehe gl sa college! \xf0\x9f\x98\x8a\xf0\x9f\x98\x8a'
+p1209
+aS'Yang tak bestnya dah masuk college evrydy nk kena fikir nak pakai baju apa #Typical'
+p1210
+aS'@cchacalderon dito?? nakapost naman sa bawat college kaya kahit kailan pwede :3'
+p1211
+aS'Parents just gave the college talk......SERIOUS MODE:\xf0\x9f\x94\x9b'
+p1212
+aS'off to college \xf0\x9f\x98\x81'
+p1213
+aS'Was able to talk to my college professor again. Damn! Crush ko pa din siya. Kinikilig pa din ako. \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p1214
+aS'@CelinaJaitly Major Mukund spent a few years in Mhow and served as an instructor at Infantory college Mhow. RIP.'
+p1215
+aS"I'm ready for college life, oh no i thought I am but I'm not! Damn it!!! \xf0\x9f\x98\xa9"
+p1216
+aS'\xe2\x80\x9c@clippefuentes: "ano imo kwaon mag-college?"\nme:kwarta\xe2\x80\x9d \xf0\x9f\x98\x82'
+p1217
+aS'@Alfrink @TheRawGamer1998 your courses in college are taught in English ?'
+p1218
+aS'@weare_15jhs ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1219
+aS'@JayminLim when start college?'
+p1220
+aS'Boba do you want me to look like a community college adjunct or the son of a former ambassador?\xe2\x80\xbd (it  always works)'
+p1221
+aS'Bye Bye \xf0\x9f\x98\x98 #dtc #lastclass @ Dusit thani college'
+p1222
+aS'Buti pa nung high school, napapadalas uwi ko sa Pampanga. Ngayong college, hindi na \xf0\x9f\x98\x9e'
+p1223
+aS'Doing task at the wrong place, lol :p #task #college #garden #vacation @ Floating Market, Lembang'
+p1224
+aS'\xf0\x9f\x93\xb7\xf0\x9f\x93\xb7\xf0\x9f\x93\xb7 #selfie #collegebuddy #cantgetenoughoftakingpictures #potd @ Advance Tertiary College (ATC)'
+p1225
+aS'Last day for the week! Woohoo (@ Brickfields Asia College - @baccollege w/ @menghuil)'
+p1226
+aS'The college version of me just said, "NOOO FREAKIN\' WAYYYYYY!!!!" #ObamainKL #yseali @ University of\xe2\x80\xa6'
+p1227
+aS'Anytime I feel stressed about college and personal life! I just watch any of @DhivyaDharshini anchored program! M a big fan DD #malaysia'
+p1228
+aS'@psychhee thaaanks ate guen!!! *u* wuv u too *bear hug* hang out in college? (anlayo ko tho huhu) HAHA'
+p1229
+aS'Final day of my college life. Came here thinking I would hate this place but Im leaving here with a\xe2\x80\xa6'
+p1230
+aS'\xd8\xa7\xd8\xae\xd8\xae \xd9\x84\xd9\x88 \xd8\xa8\xd8\xa7\xd9\x8a\xd8\xaf\xd9\x8a \xd8\xa7\xd8\xae\xd9\x84\xd9\x8a \xd9\x83\xd9\x84 \xd9\x85\xd8\xad\xd8\xa7\xd8\xb8\xd8\xb1\xd8\xa7\xd8\xaa\xd9\x8a \xd9\x87\xd8\xa7\xd9\x84\xd9\x88\xd9\x82\xd8\xaa - to college (@ 6th Ring Road)'
+p1231
+aS'15 Life Hacks every college student should know'
+p1232
+aS'@YourKoel gud evng di.... :) back from college now @SangeetBangla dekh6i waiting tooo watch #Arundhati trailer.. I m late  :( to watch'
+p1233
+aS'I try my best to get in college before 9am.sakit perut n terkencing semua ada?'
+p1234
+aS'Bata pa lang ako showing na yung Jackie Chan TV series. Ngayon college na ako at lahat-lahat showing pa din sa GMA.'
+p1235
+aS'When boredom strikes..........\xf0\x9f\x99\x86 @ sunway college johor bahru Room 307'
+p1236
+aS"Missin' college life. Missin' FEU. Good morning! @ Far Eastern University"
+p1237
+aS"It was this girls birthday at the college rooftop, and the boyfriend proposed to her :') so overwhelmed!"
+p1238
+aS'@Deanenerzzzz ohhhh. Nice. Buti pa kayo my ginagawa para sa college nyo. Huhu.'
+p1239
+aS'omy to college \xf0\x9f\x98\x9d'
+p1240
+aS"@pattiness you can do it, it's excel, it'll be your best friend for college hahaha! :D"
+p1241
+aS"It's really hard staying on a workout schedule whenever studies &amp; college consumes my life. It has been so messed up! Sigh \xf0\x9f\x98\x9e"
+p1242
+aS'Nearly 4 months of school in college central jn only saw my cousin :)'
+p1243
+aS'@CobyLiciouuss where ka ma college?'
+p1244
+aS'@KabarBantul ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1245
+aS'"@k0_0a: @biyanimeyg dati yun. ngayon tila araw araw may kwento ako" - ngayong college ka lng naging madaldal eh.'
+p1246
+aS'A strike In My college Today'
+p1247
+aS'@Yloraster yes nga eh,nakita ko yung gradpics mo :) ang bilis ate! Nung nandito palang tayo mejj bulilit pa :( haha tas ngayon college kana'
+p1248
+aS'@coolredwine arre ye US ki college. Online application form mai itna gadbad hai inke. Unable to apply. Whereas unka Boston campus sahi hai.'
+p1249
+aS'@iKylaCastelo @screamNaooomi Cebu ta mag college.'
+p1250
+aS'I need some college life'
+p1251
+aS'@YKeQing if im smart then im not in college dy lor , graduated long time ago liao la liddat hahah'
+p1252
+aS'Thank you @edgardothe03rd for making my #college life extra special. Cant imagine my last 5 semesters\xe2\x80\xa6'
+p1253
+aS'@Apreeeng college?'
+p1254
+aS'fast life for college students'
+p1255
+aS'Pahabol nang #NationalBestfriendDay My college buddy! With ate Anna\xf0\x9f\x92\x9b\xf0\x9f\x92\x9b @ University of Cebu Banilad'
+p1256
+aS'I chose skydiving in stead of college. #selfie #palmofDubai #fuckyeah'
+p1257
+aS'#MayWishes Study well and making more new friends in my college life \xf0\x9f\x91\xac\xf0\x9f\x91\xad'
+p1258
+aS"Can I just say I'm glad DeMarre Carroll is playing and starting? I remember watching him play at Missouri while he was in college. #NBA"
+p1259
+aS'Abah.. Is that you abah.. Aku asyik jumpa abah je kat college.. Nak tgo takut abah marah.. Maklumla aku bkn anak laki.. \xf0\x9f\x98\x92'
+p1260
+aS'Post zorb ball photo with college thesismates! \xf0\x9f\x99\x85\xf0\x9f\x99\x86\xf0\x9f\x99\x8c @ Zorb Park, Boracay'
+p1261
+aS'excited for my birthday.... hahah but I think that I will be in college at that time..... how sad D:'
+p1262
+aS'Ten years ago, #Facebook was launched, #Friends ended, and we graduated from college. #UPDiliman'
+p1263
+aS'College tak sweet college.. Sadisss ayaq xdakkk (@ Ungku Omar Residential College)'
+p1264
+aS'Kung gaan kabilis maginquire kapag highschool. Kabaligtaran ngayong college :/'
+p1265
+aS"@ohmaryjohnne i'll werk here after college. :)) so medyo youth pa ako nun haha"
+p1266
+aS'@muhdfiekrie cakap dengan dia next week lepas aku pergi bangi. Jom la ajak ema bawak aku pergi college isnin depan.'
+p1267
+aS'Labor Day bowling with Kamote Kids and kids #college #friends #reunion @ Sm Bowling Center'
+p1268
+aS'#grape#purple#red#tee#Saturday#college#activity#trip#cool#tired#potd#ootd#asian#girl @ Beris Lake\xe2\x80\xa6'
+p1269
+aS"Freakjng don't bring your kids with you to college"
+p1270
+aS'Watching blind auditions of The Voice in class. The only reason I love my college is for the good wifi everywhere.'
+p1271
+aS"Last day of college! (@ Taylor's College Subang Jaya w/ @xiiaowei_ @_krystal95)"
+p1272
+aS'First stop - Ermita Hill! Ang tambayan ng mga college students.. #baler #weekend #vacation @ Ermita\xe2\x80\xa6'
+p1273
+aS"@neelsonawane @BloodyBlades97  lol. Seriously?  I wasn't the jobless admin of our college group"
+p1274
+aS'Sudden meet up with an old college friend. :) (@ Gong Cha)'
+p1275
+aS'@loyolastation ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1276
+aS'@polquintans sige mag 4th yr pa lang ako eh pero try ko diyan mag college haha'
+p1277
+aS'Had a great night with my college mates!'
+p1278
+aS'can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight and go to the part where i have a really awesome job and spend all my time traveling?'
+p1279
+aS'@mhmmdfahmiee bukan selalu menapak ioi pun area college ja doh okay kerja kat laman grill?'
+p1280
+aS'@Shireen_1D owh now u prefer more to tweet with ur college fwens lar than ur school fwens....kahy fyne... poodiii :P :P'
+p1281
+aS'Am I ready to be a senior? To go to college? To be on my own?'
+p1282
+aS'Do the hagoood! \xf0\x9f\x98\x82#HappyNationalBestFriendsDay My bff since day 1 in college!!! \xf0\x9f\x98\x98\xf0\x9f\x98\x98 i love u babe!!! \xf0\x9f\x98\xbb@biancabibingka'
+p1283
+aS'@AllergicToo_BS yea I do September 20... How you liking college ?'
+p1284
+aS'Excited to meet new friends in college, cause I know Im gonna gain new followers on IG *WINK \xf0\x9f\x94\xab'
+p1285
+aS'U asked me to learn but now u say im doin somethin bad at college? Dafak'
+p1286
+aS'#eraserheads on replay over and over again. How I miss college.'
+p1287
+aS'Why are college principals telling students who to vote for? Tell them to vote. More than enough! Atleast leave fundamental rights alone.'
+p1288
+aS'@MaryGyleM ning graduate naman diay kag college. :))'
+p1289
+aS'\xe2\x80\x9c@leonardoxdeasis: @fonfonclick but college\xe2\x80\x9d okay. Last day of HS*'
+p1290
+aS'\xe2\x80\x9c@WhatTheFFacts: Japan has a college major where you can study bras.\xe2\x80\x9dlike seriously?'
+p1291
+aS'@bridgzy college is bigger and bolder hahah \xf0\x9f\x98\x94\xf0\x9f\x98\xad'
+p1292
+aS'My college friends are having a great summer while meee... Nevermind! \xf0\x9f\x98\xaa\xf0\x9f\x98\xb6'
+p1293
+aS'\xd9\x8a\xd8\xa7\xd8\xad\xd8\xb3\xd8\xa7\xd9\x81\xd8\xa9 \xd8\xa7\xd9\x84\xd9\x82\xd9\x88\xd9\x85\xd9\x87:) (@ Buraydah college)'
+p1294
+aS"Kinabahan ako bigla mag'college. Nakng tubol. -,- #take2 HAHA"
+p1295
+aS'"@FunnyReIate: i can\xe2\x80\x99t even pick my favorite song what makes you think i can pick a college"'
+p1296
+aS"I'm at Brickfields Asia College - @baccollege (Petaling Jaya, Malaysia) w/ 3 others"
+p1297
+aS'Yung mga ELF Chingus ko puro college na or may work na, samantalang ako :((( kainis na k+12 yan! :3'
+p1298
+aS'walking arnd sunway college'
+p1299
+aS'Pucha. Inis na inis na ako. Perfectionist na ina! Nakakasakal nakakabagot. Next level bullshit. Huhu gusto ko na mag college\xf0\x9f\x98\xbf'
+p1300
+aS"I'm at Brickfields Asia College - @baccollege w/ @gosh_its_darsh @vin1339"
+p1301
+aS'@IekaSyafikaA yang bangunan besar tu kan ? Tungg ahh ~ college hasan satu blok kecik je :3 hehee.'
+p1302
+aS"I'm at Inaya Medical college (Riyadh) w/ 5 others"
+p1303
+aS'@fokus_usm ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1304
+aS'Outdoor movie class #yesterday #outdoor #friends #college #boys #girls #kompak #bestfriend #movie\xe2\x80\xa6'
+p1305
+aS'@teyhalovera_ @mnadirahazmi @Eykamhd ohh sekrg sem 1. Sem 4 practical. Medical lab technology lah dekat hosp. Sebb belajr college perubatn.'
+p1306
+aS'@korantempo ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1307
+aS'@smpn16jogja ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1308
+aS'Came to college to study till evening. Forgot to keep the new Game of Thrones episode on download. :( #FML #Bhulakad'
+p1309
+aS'@kimxzy_JE ang sa tupad city college?'
+p1310
+aS'Omyyyy malipayvko kung ari mo skwela si rai2 ig college :D'
+p1311
+aS'We are bad \\m/ #friendship #friends #college #psychology @ Kos putri Dewi 2'
+p1312
+aS'Pergi college esok.yay'
+p1313
+aS'Wala koy plano sa college'
+p1314
+aS'Walaoooo sister thought I make up to college. Damn! -.-'
+p1315
+aS'Sarap mag graduate na ng college whehehe'
+p1316
+aS'@delayota ESA UNNES presents #ESAWEEK2014 for JATENG-DIY high school-college students.'
+p1317
+aS"Is it weird that I'm more excited about #littleinfinities than college (Tickets, my fingers are still crossed, hoping our stars are also.)"
+p1318
+aS'Korean food pig out with the sister @renskiiee plus kwento on college memories is the way to go.\xe2\x80\xa6'
+p1319
+aS'"@Charleaaaaa: Sana madami maging friends ko sa college" yayyyyy This.'
+p1320
+aS'Good bye selangor matriculation college!'
+p1321
+atp1322
+Rp1323
 .
