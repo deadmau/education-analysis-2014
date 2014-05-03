@@ -1,0 +1,475 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.frame
+DataFrame
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+g0
+(cpandas.core.internals
+BlockManager
+p5
+g2
+Ntp6
+Rp7
+((lp8
+cnumpy.core.multiarray
+_reconstruct
+p9
+(cpandas.core.index
+Index
+p10
+(I0
+tp11
+S'b'
+p12
+tp13
+Rp14
+((I1
+(I2
+tp15
+cnumpy
+dtype
+p16
+(S'O8'
+p17
+I0
+I1
+tp18
+Rp19
+(I3
+S'|'
+p20
+NNNI-1
+I-1
+I63
+tp21
+bI00
+(lp22
+S'text'
+p23
+aS'sentiment'
+p24
+atp25
+(Ntp26
+tp27
+bag9
+(cpandas.core.index
+Int64Index
+p28
+(I0
+tp29
+g12
+tp30
+Rp31
+((I1
+(I114
+tp32
+g16
+(S'i8'
+p33
+I0
+I1
+tp34
+Rp35
+(I3
+S'<'
+p36
+NNNI-1
+I-1
+I0
+tp37
+bI00
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x16\x00\x00\x00\x00\x00\x00\x00\x17\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\x00\x00\x00\x00\x00\x19\x00\x00\x00\x00\x00\x00\x00\x1a\x00\x00\x00\x00\x00\x00\x00\x1b\x00\x00\x00\x00\x00\x00\x00\x1c\x00\x00\x00\x00\x00\x00\x00\x1d\x00\x00\x00\x00\x00\x00\x00\x1e\x00\x00\x00\x00\x00\x00\x00\x1f\x00\x00\x00\x00\x00\x00\x00 \x00\x00\x00\x00\x00\x00\x00!\x00\x00\x00\x00\x00\x00\x00"\x00\x00\x00\x00\x00\x00\x00#\x00\x00\x00\x00\x00\x00\x00$\x00\x00\x00\x00\x00\x00\x00%\x00\x00\x00\x00\x00\x00\x00&\x00\x00\x00\x00\x00\x00\x00\'\x00\x00\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x00\x00\x00)\x00\x00\x00\x00\x00\x00\x00*\x00\x00\x00\x00\x00\x00\x00+\x00\x00\x00\x00\x00\x00\x00,\x00\x00\x00\x00\x00\x00\x00-\x00\x00\x00\x00\x00\x00\x00.\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x000\x00\x00\x00\x00\x00\x00\x001\x00\x00\x00\x00\x00\x00\x002\x00\x00\x00\x00\x00\x00\x003\x00\x00\x00\x00\x00\x00\x004\x00\x00\x00\x00\x00\x00\x005\x00\x00\x00\x00\x00\x00\x006\x00\x00\x00\x00\x00\x00\x007\x00\x00\x00\x00\x00\x00\x008\x00\x00\x00\x00\x00\x00\x009\x00\x00\x00\x00\x00\x00\x00:\x00\x00\x00\x00\x00\x00\x00;\x00\x00\x00\x00\x00\x00\x00<\x00\x00\x00\x00\x00\x00\x00=\x00\x00\x00\x00\x00\x00\x00>\x00\x00\x00\x00\x00\x00\x00?\x00\x00\x00\x00\x00\x00\x00@\x00\x00\x00\x00\x00\x00\x00A\x00\x00\x00\x00\x00\x00\x00B\x00\x00\x00\x00\x00\x00\x00C\x00\x00\x00\x00\x00\x00\x00D\x00\x00\x00\x00\x00\x00\x00E\x00\x00\x00\x00\x00\x00\x00F\x00\x00\x00\x00\x00\x00\x00G\x00\x00\x00\x00\x00\x00\x00H\x00\x00\x00\x00\x00\x00\x00I\x00\x00\x00\x00\x00\x00\x00J\x00\x00\x00\x00\x00\x00\x00K\x00\x00\x00\x00\x00\x00\x00L\x00\x00\x00\x00\x00\x00\x00M\x00\x00\x00\x00\x00\x00\x00N\x00\x00\x00\x00\x00\x00\x00O\x00\x00\x00\x00\x00\x00\x00P\x00\x00\x00\x00\x00\x00\x00Q\x00\x00\x00\x00\x00\x00\x00R\x00\x00\x00\x00\x00\x00\x00S\x00\x00\x00\x00\x00\x00\x00T\x00\x00\x00\x00\x00\x00\x00U\x00\x00\x00\x00\x00\x00\x00V\x00\x00\x00\x00\x00\x00\x00W\x00\x00\x00\x00\x00\x00\x00X\x00\x00\x00\x00\x00\x00\x00Y\x00\x00\x00\x00\x00\x00\x00Z\x00\x00\x00\x00\x00\x00\x00[\x00\x00\x00\x00\x00\x00\x00\\\x00\x00\x00\x00\x00\x00\x00]\x00\x00\x00\x00\x00\x00\x00^\x00\x00\x00\x00\x00\x00\x00_\x00\x00\x00\x00\x00\x00\x00`\x00\x00\x00\x00\x00\x00\x00a\x00\x00\x00\x00\x00\x00\x00b\x00\x00\x00\x00\x00\x00\x00c\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x00\x00\x00\x00e\x00\x00\x00\x00\x00\x00\x00f\x00\x00\x00\x00\x00\x00\x00g\x00\x00\x00\x00\x00\x00\x00h\x00\x00\x00\x00\x00\x00\x00i\x00\x00\x00\x00\x00\x00\x00j\x00\x00\x00\x00\x00\x00\x00k\x00\x00\x00\x00\x00\x00\x00l\x00\x00\x00\x00\x00\x00\x00m\x00\x00\x00\x00\x00\x00\x00n\x00\x00\x00\x00\x00\x00\x00o\x00\x00\x00\x00\x00\x00\x00p\x00\x00\x00\x00\x00\x00\x00q\x00\x00\x00\x00\x00\x00\x00'
+p38
+tp39
+(Ntp40
+tp41
+ba(lp42
+g9
+(cnumpy
+ndarray
+p43
+(I0
+tp44
+g12
+tp45
+Rp46
+(I1
+(I2
+I114
+tp47
+g19
+I00
+(lp48
+S'\xe2\x80\x9c@GVSmurf: Want to go bk to my college first year\xe2\x80\x9d'
+p49
+aS"Spring break for college kids right now.... We're gonna have a blast \xf0\x9f\x8e\x89"
+p50
+aS'Desejo a todas as inimigas vida longa. Bom dia\n\n#xoxo #goodmorning #cute #boy #glamuor #college\xe2\x80\xa6'
+p51
+aS"what happens if i don't do my college research paper :O"
+p52
+aS'Surpresaa a a!! #bdayTata #college #crazy #enjoy #funny #happy #smiles #cold #cake #autumn #surprise\xe2\x80\xa6'
+p53
+aS'Horror in the college street RT@LolaCordero: El semestre como tal, me da...'
+p54
+aS'@Louis_Tomlinson want to be there , I want to know , damn college'
+p55
+aS'\xe2\x80\x9c@ReaITrippy: trying to pay for college like'
+p56
+aS'RT @Roughriderja: Had sex with a teacher ed girl in the TV room at moneague college while the security video it #RRconfessions'
+p57
+aS"@Mvmvdou pas de secret entren nous Mams j'men rappelle au college quand tu me balan\xc3\xa7ais tes dossier"
+p58
+aS'thanks uva, the college students loves you. \xf0\x9f\x91\x8a\xf0\x9f\x91\x8c\xf0\x9f\x98\x94'
+p59
+aS"Lol at all the I miss you texts that have been sent back and forth this week... and we haven't even gotten to college yet \xf0\x9f\x98\xa6"
+p60
+aS'Always wanted to go to college but never had the money or opportunity so I turned to dis rap shit'
+p61
+aS"@_manb4time short version: tapped out at GameCube when college hit. But I'm well versed in the classics."
+p62
+aS'Seeing everyone post their college graduation pictures &lt;&lt;&lt;&lt; #onemoreyear #supersenior'
+p63
+aS'vo compra college pq? pq sim'
+p64
+aS'In #hell \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad #unversity #PuertoRican  #night  #college'
+p65
+aS'@caiosantosbmx ainda tens aqueles moletons college pra vender?'
+p66
+aS'Ganas de college'
+p67
+aS'Um college verde mt lindo, to um pouco arrependida devo trocar pelo vermelho'
+p68
+aS'@Toasted_Bread24 haha that is brilliant, youre planning to go to college?? You still have whatsapp so we can talk there better?'
+p69
+aS'Looking a college. (@ Hanneman School)'
+p70
+aS'Orra, os cara da college miaraoo a saida la da yankee'
+p71
+aS'Pr\xc3\xa1ctica; rehabilitaci\xc3\xb3n de pavimentos. #ways #practice #college #lds #v\xc3\xadas #Universidad #Colombia @\xe2\x80\xa6'
+p72
+aS'vi um mlk ontem no p.i com um casaco college vei, bateu uma inveja do tamanho do mundo'
+p73
+aS'Fucking test de college \xf0\x9f\x98\x93'
+p74
+aS'instead of being in college today, I swam through the under water caves, best experience of my life \xf0\x9f\x99\x8c'
+p75
+aS'@scornwell12 @BrookeRonney #college'
+p76
+aS'comprei uma regata do Miami beach , e uma college pesada hj no shoppis \xe2\x99\x95'
+p77
+aS'Sick for the big sun #good #morning #saturday #beach #college @ Praia De Boa Viagem'
+p78
+aS'Gabriela es mi college stuff reminder'
+p79
+aS'All these vaccines are a good motivator to work in KFC and not go to college \xf0\x9f\x98\x90'
+p80
+aS'Quero uma toca, uma blusa college e um vans'
+p81
+aS"Not knowing what's going to happen... Flash back to college years"
+p82
+aS"Man after today... I can't wait for college"
+p83
+aS'@Harry_Styles @Real_Liam_Payne @zaynmalik want to be there, I want to now , damn college \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad I love guys !!!!'
+p84
+aS'@determination6 loll meme is go what college ?'
+p85
+aS'\xe2\x80\x9c@Gillettefch: School for 12 years, college for 4 years, then you work until you die.\xe2\x80\x9d'
+p86
+aS'One of your favorite guitar player and also one of the best in the world is making a workshop in your town and you had exam at college \xf0\x9f\x91\x8d'
+p87
+aS'@TheEllenShow thinking about going back to college,  only need 11,875,000 pennies to paid out the mortgage LOL #nevergiveup #keepdreaming'
+p88
+aS'@iamIanrebo @mguindin en jr college'
+p89
+aS'Back to freaking reality!! Aka= college \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p90
+aS'Ik wil die mannen van de #snijtafel in mijn college!'
+p91
+aS'"@SoDamnGirIs: Things to do before graduating #college'
+p92
+aS'I hate that finishing college is so fucking stressful ! :('
+p93
+aS"Can't wait to done college"
+p94
+aS'#nofilter #friends #smiles #cutie #hottie #selfie #college #loveher #handsome #instamoment #iphonesia\xe2\x80\xa6'
+p95
+aS"@harrysmankini same here and I'm about to finish college....don't lose hope! :) haha"
+p96
+aS'I moving to a family island after college'
+p97
+aS'Orra cara, voc\xc3\xaa me chama pra ir na ultra college bicha @pseudogabre'
+p98
+aS'Back 2 school! {#girl #boy #college #friends #gristopher #ily} @ Facultad de Ciencias Pol\xc3\xadticas y\xe2\x80\xa6'
+p99
+aS'Dat a da kinda maths inna college... awd'
+p100
+aS'Have to take 20 hours a semester for the rest of college in order to graduate on time \xf0\x9f\x98\x91\xf0\x9f\x98\x91'
+p101
+aS'@LismarSntgo siempre que si gabriela que si nicole, que si el college que si la carta'
+p102
+aS'C\xc3\xa1lculo da manh\xc3\xa3: se perdizes esta frio, Senacre estar\xc3\xa1 frio x3! #partiufrio #senacre #senac #college\xe2\x80\xa6'
+p103
+aS'@nego_da_lage os cara da college tava numa banca gigaante'
+p104
+aS'6 de las 10 puntuaciones m\xc3\xa1s altas del college board son de ESCUELA P\xc3\x9aBLICA. #YoDefiendoLaEducaci\xc3\xb3nP\xc3\xbablica'
+p105
+aS"@Soto_Nica ahorraaaaaa! Ya viene el college! #sogrownup ;') ... Es en serio -.-"
+p106
+aS'@raaalmeida menina, onde vc achou o college? Sou louca por um e nunca acho :( j\xc3\xa1 sei! Me da de niver, fecho? Fecho.'
+p107
+aS"that's why I fighting all of them when this college accept me in 2 weeks."
+p108
+aS'\xe2\x80\x9c@collegefession: "Just asked my fuck buddy to bring potato chips when he comes to fuck me... #notashamed" - College of Wooster\xe2\x80\x9d \xf0\x9f\x91\x8c'
+p109
+aS'My college vacations are resumed in waiting for the clock to turn 10pm to get out of my job and eating ... A LOT'
+p110
+aS'Bom dia, icbs! \xe2\x98\xba #beautiful #love  #college @ ICBS UFRGS'
+p111
+aS'"@49ers: #49ers announce 64 invites for local college pro day, including Jerry Rice Jr. READ:'
+p112
+aS'"@GraceFund: We are offering $500-1,000USD scholarships to Jamaican youth going to college.  PleaSe help spread the word! #dogood"'
+p113
+aS'Finalizando el taller de web-series, las ojeras dan prueba #uao #college #instauao #tired\xe2\x80\xa6'
+p114
+aS'@space_pup3000 its college i wish i could'
+p115
+aS'@notKoze what D: ol so you finnished college and then took a masters and thats the degree you got right? :0'
+p116
+aS'The fact that I have to be a Bermuda college at 9 am tomorrow. \xf0\x9f\x98\x92\xf0\x9f\x98\xa9'
+p117
+aS'i wrote 2/5 pages of my work from college and am already wanting that all fuck'
+p118
+aS'\xf0\x9f\x90\xb6\xe2\x9d\xa4 #puppy#veterinaria#uss#college#love#doglover#girl#me#cute#sunnyday @ Universidad San Sebastian'
+p119
+aS'N aguento mais 2 hrs de aula, estou enlouquecendo hahahaha \xf0\x9f\x98\x9c mt numero na cabe\xc3\xa7a \xf0\x9f\x98\xb1 #nofilter #college\xe2\x80\xa6'
+p120
+aS'@NiallOfficial want to be there, I want to now , damn college'
+p121
+aS"El talento nunca es suficiente. Why Google doesn't care about college degrees?"
+p122
+aS'#GoodMorning #fmu #food #college #cold #now \xf0\x9f\x98\x9c @ FMU Santo Amaro'
+p123
+aS'ele ta de \xc3\xb3culos e cal\xc3\xa7a preta e college e tem um piercing no l\xc3\xa1bio e meu deus'
+p124
+aS'Por que metade de mim \xc3\xa9 dentista e a outra tamb\xc3\xa9m ser\xc3\xa1 \xf0\x9f\x98\x8d\xe2\x9d\xa4\xef\xb8\x8f\xf0\x9f\x98\xb7   #turma30 #dentistry #college #friends\xe2\x80\xa6'
+p125
+aS"@VictorTies actually I'll go sleep, tomorrow I have to finish my college work until I go crazy. Goodnight my dear, hope you feel better soon"
+p126
+aS'Que raiva, o meu college da vans n\xc3\xa3o chega nunca .-.'
+p127
+aS'#latepost #fun #school #project #college #colleagues @ La Mansi\xc3\xb3n - San Jos\xc3\xa9 de las matas'
+p128
+aS"It's time to do a work of college! #work #college #anhembimorumbi #advertising #arteecultura #popart\xe2\x80\xa6"
+p129
+aS'We were really idle in college anuh \xf0\x9f\x98\x94'
+p130
+aS"Slow yuh role.... Don't even have a college degree yet but wanna act like lawyer #ButJustSitDownNuh"
+p131
+aS'Omw to college'
+p132
+aS'Preciso comprar outra college'
+p133
+aS"I'm at colbourne college (Kingston, Jamaica)"
+p134
+aS'Os cre... haha #migos #college @ Escola Agrot\xc3\xa9cnica Federal de Manaus'
+p135
+aS'Como tem gente que n\xc3\xa3o sabe onde fica a college do centro?'
+p136
+aS'Anal\xc3\xadtica para de tentar me fuder? N\xc3\xa3o tenho mais medo de voc\xc3\xaa!!!!!! #college #fatecdiadema #cold @\xe2\x80\xa6'
+p137
+aS'Feel confident about the Managent finals yes!\nAugust mi ago see back college Maths again lol'
+p138
+aS'@alimarcin OMG... How much time do we have to wait? In two hours I gotta go to college...\xf0\x9f\x98\xa5\xf0\x9f\x98\xa2'
+p139
+aS'The kid i babysit: *whispering* "when Miss Jennel goes to college she is gonna be fat and never get a boyfriend"  #kidssaythedardnestthings'
+p140
+aS'"@brandonreifer19: yes boss, it\'s crazy. "@suave268: Dat a da kinda maths inna college... awd"" just shed a tear'
+p141
+aS"@Cannalcool choppe ta fille a l'heure au college ou fouiny baby lui mettra dans le cu mdrr"
+p142
+aS'#pre #night #college #party @ Urb. Biblos'
+p143
+aS'En legisla... #tired #classes #collegedays #college #autumn #\xeb\xa7\x88\xec\x9a\xb0\xec\x8a\xa4\xeb\x9e\x98\xeb\xb9\x97 #MouseRabbit #almostweekend @\xe2\x80\xa6'
+p144
+aS'One thing I notice college peeps nu sleep work ave dem away'
+p145
+aS'Congrats to the lil sis for graduating today, hope to see you in college next year finally turning ahh big woman :p @LeDopeChick_'
+p146
+aS'All my Bros from high school either not going to college or going to different college as me. I see it coming.'
+p147
+aS'Any college student ever take an online class before? If so, are they chill?'
+p148
+aS'@isberlymarie have you decided what course will you do on college?'
+p149
+aS'Date after college !!! #love \xf0\x9f\x92\x9c\xf0\x9f\x8e\x8e @ Cassava Roots'
+p150
+aS'Vida "boa" de calouro. \xf0\x9f\x8d\x83\xe2\x9d\x84\xf0\x9f\x93\x93  #freshman #college @ Universidade Federal de S\xc3\xa3o Jo\xc3\xa3o del-Rei'
+p151
+aS'Stupid college reopens... Sigh...'
+p152
+aS'"Visita \xc3\xa0 IMED - 3\xc3\xa3o Insta."\n#college #classmate #amazing #winter #cold #rain #teachers #special\xe2\x80\xa6'
+p153
+aS'I spent such crazy week with them on college. According Earth Day we decided to take us a #GlobalSelfie'
+p154
+aS'@WilframAlpha Yeah dude. Dropped out of college and used my graduation money  form high school to come out here for a little bit.'
+p155
+aS'@cjreeves2011 beer got me through college.  And most everyday since.'
+p156
+aS'#friend \xf0\x9f\x91\xad #chanching #sandals #pink #nails #crystal \xf0\x9f\x91\x91 #princess  #funny #college \xf0\x9f\x8e\x80\xe2\x9c\x8f\xef\xb8\x8f\xf0\x9f\x93\x95 #cambiando\xe2\x80\xa6'
+p157
+aS'Mais cansado do que eu... #fa7 #college #law #study #direito #brazil #Corinthians #TimedoPovo\xe2\x80\xa6'
+p158
+aS'Sthep I love you so much \xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5 #bff #besties #bestfriends #loveher #college #studying #cali #calico\xe2\x80\xa6'
+p159
+aS'Traveling back to United States always makes me realize how shitty and arrogant Americans are. Fuck ur ugg wearin college shirt reppin ass.'
+p160
+aS'thank you southwestern college for the dance classes that make me miss school tomorrow \xf0\x9f\x99\x8c'
+p161
+aS"Lol at all the I miss you texts that have been sent back in forth this week... and we haven't even gotten to college yet\xf0\x9f\x98\xa6"
+p162
+aS'negative'
+p163
+aS'positive'
+p164
+aS'neutral'
+p165
+ag165
+ag163
+ag164
+ag163
+ag163
+ag165
+ag163
+ag163
+ag164
+ag163
+ag165
+ag163
+ag163
+ag164
+ag163
+ag164
+ag163
+ag163
+ag163
+ag164
+ag163
+ag163
+ag164
+ag164
+ag163
+ag163
+ag164
+ag164
+ag163
+ag163
+ag163
+ag163
+ag163
+ag163
+ag163
+ag163
+ag163
+ag163
+ag163
+ag164
+ag163
+ag163
+ag163
+ag163
+ag165
+ag163
+ag163
+ag164
+ag163
+ag164
+ag164
+ag165
+ag165
+ag164
+ag165
+ag164
+ag163
+ag164
+ag163
+ag164
+ag165
+ag163
+ag164
+ag165
+ag163
+ag163
+ag163
+ag165
+ag164
+ag163
+ag165
+ag163
+ag164
+ag164
+ag163
+ag163
+ag164
+ag164
+ag163
+ag163
+ag163
+ag163
+ag163
+ag164
+ag163
+ag164
+ag163
+ag164
+ag163
+ag163
+ag163
+ag165
+ag163
+ag163
+ag164
+ag163
+ag163
+ag163
+ag163
+ag164
+ag164
+ag163
+ag165
+ag163
+ag163
+ag163
+ag165
+ag163
+ag163
+ag163
+ag164
+atp166
+ba(lp167
+g9
+(g10
+(I0
+tp168
+g12
+tp169
+Rp170
+((I1
+(I2
+tp171
+g19
+I00
+(lp172
+g23
+ag24
+atp173
+(Ntp174
+tp175
+batp176
+bb.
