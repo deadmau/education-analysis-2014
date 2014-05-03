@@ -3,6 +3,17 @@ import nltk, csv
 from nltk.classify import *
 from feature import *
 
+#start extract_features
+def extract_features(tweet):
+    tweet_words = set(tweet)
+    features = {}
+    f = open('../../data/simulated/featureList.pkl', 'rb')
+    featureList = pickle.load(f)
+    f.close()
+    for word in featureList:
+        features['contains(%s)' % word] = (word in tweet_words)
+    return features
+#end
 
 if __name__ == '__main__': 
     #Read the tweets one by one and process it
@@ -26,7 +37,7 @@ if __name__ == '__main__':
  
     # Remove featureList duplicates and store featureList
     featureList = list(set(featureList))
-    f = open('../../data/raw/featureList.pkl', 'wb')
+    f = open('../../data/simulated/featureList.pkl', 'wb')
     pickle.dump(featureList, f)
     f.close()
  
@@ -37,6 +48,6 @@ if __name__ == '__main__':
     NBClassifier = nltk.NaiveBayesClassifier.train(training_set)
     
     #store classifier
-    f = open('../../data/raw/classifier.pkl', 'wb')
+    f = open('../../data/simulated/classifier.pkl', 'wb')
     pickle.dump(NBClassifier, f)
     f.close()

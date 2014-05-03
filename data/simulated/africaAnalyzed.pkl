@@ -1,0 +1,373 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.frame
+DataFrame
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+g0
+(cpandas.core.internals
+BlockManager
+p5
+g2
+Ntp6
+Rp7
+((lp8
+cnumpy.core.multiarray
+_reconstruct
+p9
+(cpandas.core.index
+Index
+p10
+(I0
+tp11
+S'b'
+p12
+tp13
+Rp14
+((I1
+(I2
+tp15
+cnumpy
+dtype
+p16
+(S'O8'
+p17
+I0
+I1
+tp18
+Rp19
+(I3
+S'|'
+p20
+NNNI-1
+I-1
+I63
+tp21
+bI00
+(lp22
+S'text'
+p23
+aS'sentiment'
+p24
+atp25
+(Ntp26
+tp27
+bag9
+(cpandas.core.index
+Int64Index
+p28
+(I0
+tp29
+g12
+tp30
+Rp31
+((I1
+(I80
+tp32
+g16
+(S'i8'
+p33
+I0
+I1
+tp34
+Rp35
+(I3
+S'<'
+p36
+NNNI-1
+I-1
+I0
+tp37
+bI00
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x16\x00\x00\x00\x00\x00\x00\x00\x17\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\x00\x00\x00\x00\x00\x19\x00\x00\x00\x00\x00\x00\x00\x1a\x00\x00\x00\x00\x00\x00\x00\x1b\x00\x00\x00\x00\x00\x00\x00\x1c\x00\x00\x00\x00\x00\x00\x00\x1d\x00\x00\x00\x00\x00\x00\x00\x1e\x00\x00\x00\x00\x00\x00\x00\x1f\x00\x00\x00\x00\x00\x00\x00 \x00\x00\x00\x00\x00\x00\x00!\x00\x00\x00\x00\x00\x00\x00"\x00\x00\x00\x00\x00\x00\x00#\x00\x00\x00\x00\x00\x00\x00$\x00\x00\x00\x00\x00\x00\x00%\x00\x00\x00\x00\x00\x00\x00&\x00\x00\x00\x00\x00\x00\x00\'\x00\x00\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x00\x00\x00)\x00\x00\x00\x00\x00\x00\x00*\x00\x00\x00\x00\x00\x00\x00+\x00\x00\x00\x00\x00\x00\x00,\x00\x00\x00\x00\x00\x00\x00-\x00\x00\x00\x00\x00\x00\x00.\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x000\x00\x00\x00\x00\x00\x00\x001\x00\x00\x00\x00\x00\x00\x002\x00\x00\x00\x00\x00\x00\x003\x00\x00\x00\x00\x00\x00\x004\x00\x00\x00\x00\x00\x00\x005\x00\x00\x00\x00\x00\x00\x006\x00\x00\x00\x00\x00\x00\x007\x00\x00\x00\x00\x00\x00\x008\x00\x00\x00\x00\x00\x00\x009\x00\x00\x00\x00\x00\x00\x00:\x00\x00\x00\x00\x00\x00\x00;\x00\x00\x00\x00\x00\x00\x00<\x00\x00\x00\x00\x00\x00\x00=\x00\x00\x00\x00\x00\x00\x00>\x00\x00\x00\x00\x00\x00\x00?\x00\x00\x00\x00\x00\x00\x00@\x00\x00\x00\x00\x00\x00\x00A\x00\x00\x00\x00\x00\x00\x00B\x00\x00\x00\x00\x00\x00\x00C\x00\x00\x00\x00\x00\x00\x00D\x00\x00\x00\x00\x00\x00\x00E\x00\x00\x00\x00\x00\x00\x00F\x00\x00\x00\x00\x00\x00\x00G\x00\x00\x00\x00\x00\x00\x00H\x00\x00\x00\x00\x00\x00\x00I\x00\x00\x00\x00\x00\x00\x00J\x00\x00\x00\x00\x00\x00\x00K\x00\x00\x00\x00\x00\x00\x00L\x00\x00\x00\x00\x00\x00\x00M\x00\x00\x00\x00\x00\x00\x00N\x00\x00\x00\x00\x00\x00\x00O\x00\x00\x00\x00\x00\x00\x00'
+p38
+tp39
+(Ntp40
+tp41
+ba(lp42
+g9
+(cnumpy
+ndarray
+p43
+(I0
+tp44
+g12
+tp45
+Rp46
+(I1
+(I2
+I80
+tp47
+g19
+I00
+(lp48
+S'Eat breakfast like a king, lunch like a prince and dinner like a college kid with a maxed out charge card.\xf0\x9f\x91\x91\xf0\x9f\x8d\x9f\xf0\x9f\x8d\x97\xf0\x9f\x8d\x94'
+p49
+aS"One thing is that I don't think this college is getting any of this midterms thing straighten up. For God's sake."
+p50
+aS'@jontribros Which college? I can only hope for the best.'
+p51
+aS'Forever alone level: "kissing the wall" \xf0\x9f\x92\x8b\xf0\x9f\x92\x8b\n#red #lipstick #kiss #college #wall #stairs #mo7n #habal\xe2\x80\xa6'
+p52
+aS"I'm at accra college of education"
+p53
+aS'Madise this morning in class. SG Lourens nursing college. Model looks are natural'
+p54
+aS"Rap is like college, I'm working on my Doctorate coz I've already Mastered it"
+p55
+aS'I dey ideal college oooo cruzn####jux passn thru'
+p56
+aS'Registration from home is much better than going to college to do it'
+p57
+aS'#Northwestern #Wildcats #players vote on #whether to form first union for #college #athletes'
+p58
+aS"@_773Reese when you're in your freshman year of college"
+p59
+aS'@sadiiistako @psstcallmeAJ gaga meron din sa college -___- by batch duh. Edi ano na lang bitches alumni wahahahahaha'
+p60
+aS'You dey barb? "@QwestMatic: Goddamnit I\'ll miss college!"'
+p61
+aS'LMFAOOO what a guy \xe2\x80\x9c@Ace_Kasi: u know the struggle is real when u celebrate yo last day of college classes watching a bootleg movie.\xe2\x80\x9d'
+p62
+aS'0-0 to Dale college.'
+p63
+aS'#old #days #college #caledonian #engineering #cafeforte @ Caledonian College of Engineering, Oman'
+p64
+aS'@Ace_Kasi lmfao nigga what happened to the luxurious Lindsey Wilson? thats like a 5 star college bro. Stop lying... Ran out of powerade?'
+p65
+aS'The college is silent \xf0\x9f\x98\x85 \xe2\x80\x9c@Just_Shameemah: What exactly is a university college?\xe2\x80\x9d'
+p66
+aS"I'm at south eastern university college-seuco kitui"
+p67
+aS'"@Questionnier: Cc that friend of yours who can\'t wait for college? #ijozibah"@pwinkey_lurv'
+p68
+aS"I don't care how long it takes me. I will graduate college!"
+p69
+aS'@ARTPOPMONSTER21 you can do that in college. Do you plan to go to grad school after college?'
+p70
+aS"I went to college with this ninja,now he presenting the Samoa's @VusiNova"
+p71
+aS"20yrs ago I was in a rural village school learning Afrikaans, 20yrs later,I'm working on a project 2 open a college in the same neighborhood"
+p72
+aS'Tinadya kwambiri ku college cc:@nakso  "@KonLi90: Tin Fish ndi dealu"'
+p73
+aS"@AllanLamb294 yes aren't they Lekker barnacles ! You see the college rugby cooking ! We're no 4 in SA"
+p74
+aS'"@The_LegendaryB: Tinadya kwambiri ku college cc:@nakso  "@KonLi90: Tin Fish ndi dealu"" ife tikudya ku ubachelor .. nthawi yophika zero'
+p75
+aS"#skippingcourse #britishcouncil #dido #omar'scar #studying #exams #college #nileriver #timerunning @\xe2\x80\xa6"
+p76
+aS"I'm at aviation sciences college"
+p77
+aS'It feels good parking close to the door.. A feeling i never tried in college #Omantel #venue #competition'
+p78
+aS'Final score Grey college 25 Quteniqua 7'
+p79
+aS'I met a lot of Xhosa people at ma college this year too (KZN) RT"@LuloCafe: I meet a lot of Xhosa people in KZN"'
+p80
+aS'"@hxllyy: college interview today ahhh\xf0\x9f\x98\xb1" best of luck'
+p81
+aS"@__QuiteHeavenly Yeah sometimes it's necessary in college. Man. . You're more than likely to skip at least 2 classes in a semester."
+p82
+aS'How come college students start their summer vacation before us. Unfair.'
+p83
+aS'No college tomorrow yay'
+p84
+aS'Stellenbosch tonight with my fav fav! #girlsnightout #Stellenbosch #college #freshman #CapeTown\xe2\x80\xa6'
+p85
+aS'How she make it to college?. "@BigMoney_StaxXx: Girl, that ass is stupid. . ."'
+p86
+aS'I understand that college sucks but never ever say that school was better cuz simply it wasnt\xf0\x9f\x98\xaa'
+p87
+aS'Way to college!!'
+p88
+aS'Yossif my best friend in uni love day with el sawaf at college #friend #friends #fun #TagsForLikes\xe2\x80\xa6'
+p89
+aS'\xd8\xad\xd8\xb1 \xd8\xad\xd8\xb1 \xd8\xad\xd8\xb1 \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad ..Last time to go to college late\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p90
+aS"@Farahsai So how are you?! How's college? How's Lebanon? \xf0\x9f\x98\x83"
+p91
+aS'PROBLEM OF THE DAY *turns on Brilliant Math &amp; Science Quiz theme song* "@Just_Shameemah: What exactly is a university college?"'
+p92
+aS'*talking about college and stuff* "My mom wants me to go study outside" "ok go outside the house" ok Abdullah.'
+p93
+aS'Just posted a photo @ stars international college'
+p94
+aS'#my #beautiful #school #EGC &lt;3 &lt;3 &lt;3 @ el nasr girls college'
+p95
+aS'Lmao niqqa no sii college porm sia 3y3 Prom ah......'
+p96
+aS'Lets get through this day. Long weekend and a whole off week from college! Yas!'
+p97
+aS'Ku Malawi amatiyika mu news basi --&gt;"@106andpark: Happy Monday! Keep sending a pic of u with your college acceptance letter with hashtag"'
+p98
+aS'Fuck American Pie college is not the same as I expected'
+p99
+aS"QDVC booth at @qataruniversity college of engineering, and I'll be presenting QDVC's internship\xe2\x80\xa6"
+p100
+aS'@njebsdappoet you in creative arts college?'
+p101
+aS'Current score Grey college 5 Quteniqua 0'
+p102
+aS'Digger Phelps #leaving ESPN as #college #basketball #analyst'
+p103
+aS'Finished my 4th year in medical college...\n\n\xd8\xa7\xd9\x84\xd8\xad\xd9\x85\xd8\xaf \xd9\x84\xd9\x84\xd9\x87 \xd8\xb1\xd8\xa8 \xd8\xa7\xd9\x84\xd8\xb9\xd8\xa7\xd9\x84\xd9\x85\xd9\x8a\xd9\x86\xf0\x9f\x98\x8a\xf0\x9f\x98\x8a\xe2\x9d\xa4\xe2\x9d\xa4'
+p104
+aS'"@SarcasmsNotes: can i pay for college with my tears"'
+p105
+aS'@NewEngCollege we have in morroco the new englan college and if the good want me be in ther Will graduate as a freshman, including superior'
+p106
+aS'There are some things yu can\xe2\x80\x99t learn @ any university, except for one, the University of Life\xe2\x80\xa6the only college where every1 is a FT student.'
+p107
+aS'I saw u at your college road loooool \nIm getting my stalking habbit back \n@NrNr_R'
+p108
+aS'Da wana patient \xf0\x9f\x98\x81\xf0\x9f\x98\x81 .. Sank yooh faridaa \xf0\x9f\x98\x83 #patient #doctor #dentist #operative #dentistry #college\xe2\x80\xa6'
+p109
+aS'Sonnie i love u. Tank you for been on ma campus(college of health kintampo). For toughing u am blessed already.'
+p110
+aS'Things i never learned in high school: how to: pay bills buy a house apply for college but thank god i can graph a polynomial function'
+p111
+aS'honestly this majan college is really bad. i feel my life drained out n like im stuck there forever.'
+p112
+aS'If I had a dollar for everytime someone spelled my name wrong I could pay for college, a Ferrari car, and a mansion in London, all in cash.'
+p113
+aS'@KattWilliams @missjk22 ha ha ha ha ha go to a math college'
+p114
+aS'\xd9\x85\xd9\x86 8 \xd9\x84\xd9\x8a 4 \xd9\x85\xd8\xad\xd8\xa7\xd8\xb6\xd8\xb1\xd8\xa7\xd8\xaa \xd8\xaf\xd8\xa7 \xd8\xb8\xd9\x84\xd9\x85 (@ aviation sciences college)'
+p115
+aS"This chaotic, fickle schedule of college is not helping the emotional avalanche i'm enduring."
+p116
+aS'Grey college vs Quteniqua'
+p117
+aS'@leetcher lol. Patricia went through tge electoral college process. Even helen did. Lindiwe was elected by caucus to lead it. Democracy.'
+p118
+aS'School for 12 years, college for 4 years... then you work until you die. Great." Hahahahaha eish not fair'
+p119
+aS'School for 12 years, college for 4 years... Then you work until you die. Great.'
+p120
+aS'lol kubhi, amadoda ajolayo e cape college res bahlele phandle ,,,,rhaa asoze...kubanda kangaka soze ndihlale phandle ncama'
+p121
+aS'I miss this place\n#short\n#fashion \n#pose\n#college_life @ 13 Church. Pc Training And Business College'
+p122
+aS'I hate this fucking college'
+p123
+aS"I hate talking weed politics, but here's something: raping someone @ davidson college carries a more relaxed penalty than smoking weed twice"
+p124
+aS'@Tbklise2 @Tshidi_Mphela college campus days lol. I miss yall man!'
+p125
+aS'#cymera #selfie #college #exams #fun #instagnan #instahabl #instagood #f4f #l4l @ Alexandria\xe2\x80\xa6'
+p126
+aS"\xd9\x8a\xd8\xa7\xd8\xae\xd9\x8a \xd9\x88\xd8\xa7\xd9\x84\xd9\x84\xd9\x87 \xd8\xa7\xd9\x84\xd8\xb9\xd9\x85\xd8\xa7\xd9\x86\xd9\x8a\xd9\x8a\xd9\x86 \xd8\xb1\xd9\x88\xd9\x85\xd8\xa7\xd9\x86\xd8\xb3\xd9\x8a\xd9\x86 \xd8\xa8\xd8\xb3 \xd9\x85\xd8\xad\xd8\xaf \xd9\x85\xd9\x82\xd8\xaf\xd8\xb1\xf0\x9f\x99\x88\xe2\x9d\xa4\xef\xb8\x8f\n\nPs. It's my old college:p\n #\xd8\xae\xd8\xb7\xd9\x88\xd8\xa8\xd8\xa9_\xd9\x81\xd9\x8a_\xd8\xa7\xd9\x84\xd9\x83\xd9\x84\xd9\x8a\xd8\xa9_\xd8\xa7\xd9\x84\xd8\xad\xd8\xaf\xd9\x8a\xd8\xab\xd8\xa9"
+p127
+aS'@ #Lagosshift listening to fellow college "dropout" #SteveHarris speak. We "dropouts" be bad. Just ask\xe2\x80\xa6'
+p128
+aS'negative'
+p129
+aS'neutral'
+p130
+ag130
+ag129
+ag129
+aS'positive'
+p131
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag131
+ag129
+ag129
+ag129
+ag129
+ag130
+ag130
+ag129
+ag131
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag129
+ag130
+ag131
+ag129
+ag130
+ag129
+ag131
+ag129
+ag129
+ag130
+ag129
+ag129
+ag129
+ag130
+ag129
+ag131
+ag130
+ag129
+ag129
+ag129
+ag129
+ag129
+ag131
+ag129
+ag129
+ag131
+ag131
+ag129
+ag129
+ag129
+ag129
+ag130
+ag131
+ag130
+ag131
+ag129
+ag129
+ag129
+ag130
+ag129
+ag131
+ag131
+ag131
+ag130
+ag129
+atp132
+ba(lp133
+g9
+(g10
+(I0
+tp134
+g12
+tp135
+Rp136
+((I1
+(I2
+tp137
+g19
+I00
+(lp138
+g23
+ag24
+atp139
+(Ntp140
+tp141
+batp142
+bb.

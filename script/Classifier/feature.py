@@ -63,15 +63,3 @@ def getFeatureVector(tweet, stopWords):
             featureVector.append(w.lower())
     return featureVector
 #end
-
-#start extract_features
-def extract_features(tweet):
-    tweet_words = set(tweet)
-    features = {}
-    f = open('../../data/raw/featureList.pkl', 'rb')
-    featureList = pickle.load(f)
-    f.close()
-    for word in featureList:
-        features['contains(%s)' % word] = (word in tweet_words)
-    return features
-#end
