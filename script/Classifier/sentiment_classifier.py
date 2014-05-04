@@ -46,9 +46,15 @@ if __name__ == '__main__':
         exit(1)
     #process tweets with location
     classify_tweets('africa')
+    classify_tweets('asia')
+    classify_tweets('eu')
+    classify_tweets('soamerica')
+    classify_tweets('us')
+    """
     #print the final results
     f = open('../../data/simulated/africaAnalyzed.pkl', 'rb')
     df = pickle.load(f)
     f.close()
     print df
+    """
 
