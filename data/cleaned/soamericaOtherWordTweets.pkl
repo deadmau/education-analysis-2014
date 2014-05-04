@@ -1,0 +1,36 @@
+(dp0
+S'benefit'
+p1
+c__builtin__
+set
+p2
+((lp3
+tp4
+Rp5
+sS'cost'
+p6
+g2
+((lp7
+tp8
+Rp9
+sS'quality'
+p10
+g2
+((lp11
+tp12
+Rp13
+sS'time'
+p14
+g2
+((lp15
+S"It's time to do a work of college! #work #college #anhembimorumbi #advertising #arteecultura #popart\xe2\x80\xa6"
+p16
+aS'Have to take 20 hours a semester for the rest of college in order to graduate on time \xf0\x9f\x98\x91\xf0\x9f\x98\x91'
+p17
+aS"@_manb4time short version: tapped out at GameCube when college hit. But I'm well versed in the classics."
+p18
+aS'@alimarcin OMG... How much time do we have to wait? In two hours I gotta go to college...\xf0\x9f\x98\xa5\xf0\x9f\x98\xa2'
+p19
+atp20
+Rp21
+s.

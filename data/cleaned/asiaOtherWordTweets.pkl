@@ -1,0 +1,112 @@
+(dp0
+S'benefit'
+p1
+c__builtin__
+set
+p2
+((lp3
+tp4
+Rp5
+sS'cost'
+p6
+g2
+((lp7
+tp8
+Rp9
+sS'quality'
+p10
+g2
+((lp11
+tp12
+Rp13
+sS'time'
+p14
+g2
+((lp15
+S'After exam PTP ! #finally #crazy #time #to #college #effectcoffe #FotoRus @ Seminari Bethel Jakarta'
+p16
+aS'@yvoonneyy :(( Busy. Graduating eh :( bawi soon. Kapag may free time sa college. Lunch tayo yung group natin :))'
+p17
+aS'@YKeQing if im smart then im not in college dy lor , graduated long time ago liao la liddat hahah'
+p18
+aS'Feel bored at the Library. Hahahaa ^^v #bored #library #breaktime #college @ Universitas Surabaya (UBAYA)'
+p19
+aS'My 1st time as a college student in Binus.. A lot of things have changed for sure. #first #time #in\xe2\x80\xa6'
+p20
+aS"@ChooiLiiing everything's good \xf0\x9f\x98\x8a how are you??? Long time since I heard from you \xf0\x9f\x99\x88 I'm in sunway college doing ausmat. \xf0\x9f\x98\x8a"
+p21
+aS'Anytime anywhere.. #converse #converseallstar #chucktaylor #skaters #jeans #college #indonesia\xe2\x80\xa6'
+p22
+aS'@auhcesined college life is fun,  sad and not easy sometimes .hehe.. just focus... go go go!'
+p23
+aS'@ETC2500 i used to see races when i was in school. but college takes too much time lol @MadmediumF1'
+p24
+aS"Sometimes i miss college life sometimes i don't.. Sometimes i like being at home.. And sometimes I miss themm!.."
+p25
+aS'@CeciliaaaTalks Of course not. Hahaha. But parents going bkk on June. \xf0\x9f\x98\xad\xf0\x9f\x98\xad But I start my college liao that time.'
+p26
+aS'Teman the noob to college and wait/slept in the library. Now time for cendol \xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81'
+p27
+aS'Anytime I feel stressed about college and personal life! I just watch any of @DhivyaDharshini anchored program! M a big fan DD #malaysia'
+p28
+aS"I'll probably have a hard time getting into college because of my excessive absences and poor grades \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad"
+p29
+aS'@cikyamm tulah pasal. Dia tahan. And that time kan dah lambat. It was already 620. And still dalam college. Terpaksa.'
+p30
+aS'Good time :) #college #friends @ Hakata Ikkousha - Senayan City'
+p31
+aS'@Jenovi6 same here. So many assignments and college stuffs until no time to catch up all the new series \xf0\x9f\x98\xa9'
+p32
+aS'@rafdelatorre college ka na huhu time flies'
+p33
+aS"I can't believe I still have like 12 weeks of college left I'm probably going to weep for that entire time"
+p34
+aS"Yeah finally we're done kem .. time back college .. @ Kem Sungai Buluh"
+p35
+aS'Spent another tradition but this time, with my college buddies. Ang saya saya lang. Ang late lunch\xe2\x80\xa6'
+p36
+aS'Today I will sing, for Deepshikha, my songs 1st time publicly - in my college.'
+p37
+aS'After work straight to unwind myself with my college.. Good morning dubai! #shishatime #happyme @ Bait\xe2\x80\xa6'
+p38
+aS'can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9dthing and go straight and go to the part where i have a really awesome job and spend all my time traveling?'
+p39
+aS'@GeorginaDivaa "can we skipthiswhole college thing andgo straightandgoto thepart whereI have a realy awesomejob andspend allmytime traveling'
+p40
+aS'what happen to me now.dulu time ade kelas xley nak bangun pagi.now bile xde kelas boleh bangun pagi.adakah aku xley move on college life now'
+p41
+aS'Can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight to the part where I have a really awesome job and spend all my time traveling?'
+p42
+aS'"Can i skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight to the part where I have a really awesome job and spend all my time traveling?"'
+p43
+aS'@seemi_pasha @ElectionExpress lots of college times memories of mine !!!!'
+p44
+aS'Heading to Binondo Church w/ college friends. My first time visit. Happy Sunday!\xe2\x98\xba\xef\xb8\x8f'
+p45
+aS'Shadow for puppet show. #mutimedia #student #mutimediaperformance #college #production #puppets\xe2\x80\xa6'
+p46
+aS'@x3_labrihart wish I could sis you gonna be in college by time I get home ima have to stop down there and see you'
+p47
+aS'excited for my birthday.... hahah but I think that I will be in college at that time..... how sad D:'
+p48
+aS'Movie time with beloved college friend. Spiderman 2! Wewuuuu \xe2\x98\xba\xef\xb8\x8f\xe2\x98\xba\xef\xb8\x8f (@ MBO Cineplex)'
+p49
+aS"well, lets say we're going back to our college times while doing on the job training here ^^"
+p50
+aS'can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight and go to the part where i have a really awesome job and spend all my time traveling?'
+p51
+aS'off day work ,,after college study time'
+p52
+aS'Im gonna have a hard time surviving college with a sleepless night today..'
+p53
+aS'#fishes #fish #pond #water #stones #grass #college #asac #work #students #work #instapic #instatime\xe2\x80\xa6'
+p54
+aS'\xe2\x80\x9c@molozsobong: \xe2\x80\x9cCan we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing &amp; go to the part where i have a really awesome job &amp; spend all my time traveling?\xe2\x80\x9d\xe2\x80\x9d'
+p55
+aS'1 of my favourite of my college days #MainDewaanHua by my all time favourite @abhijeetsinger \xf0\x9f\x92\x96\xf0\x9f\x91\x8d  '
+p56
+aS'@spectacularsnow push mo yan!! Lubosin mo na baka wala masyado time dis college haha'
+p57
+atp58
+Rp59
+s.

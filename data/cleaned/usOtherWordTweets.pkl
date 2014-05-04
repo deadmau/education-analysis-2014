@@ -1,0 +1,2130 @@
+(dp0
+S'benefit'
+p1
+c__builtin__
+set
+p2
+((lp3
+S'My colleges that I have picked are for my benefit not because I know people who want to apply there. College is where life starts \xf0\x9f\x92\xaf\xf0\x9f\x91\x8c'
+p4
+aS'Being an engineer in college probably has no benefits'
+p5
+aS'@Maggyw519 @ricketzz @StephieGilley wish my 2 grown college grads could benefit-they went to school under bush admin. rates of up to 8%'
+p6
+aS'@JEDIronny13 steady pay, hella benefits, and free college \xe2\x9c\x8a hell yeah'
+p7
+aS'I am so awed &amp; impressed by the support of the Rawls Advisory Council. Our college is fortunate to benefit from their love of the college.'
+p8
+aS'Another benefit of early rising as a college student: laundry room is always free \xf0\x9f\x99\x8c\xf0\x9f\x99\x8c'
+p9
+aS'@Justinmalandris or a real one.. you get great benefits and college paid for... I got you justin (;'
+p10
+aS'@Vol_Football He would have benefitted by playing college ball one more year and develop his game a bit more IMO.'
+p11
+aS'How could you max out an Old Navy card? After college I was really into cargo pants #friendswithbenefits #MovieQuotes'
+p12
+aS"Can't wait to reap all the benefits of being a college student"
+p13
+aS'Not even low key I just want a friends with benefits type shit until I go off to college'
+p14
+aS"I'm all for paying college athletes, if they don't receive scholarships or any meal/entertainment benefits. Pay them and let them spend $$."
+p15
+aS"Oh no... More taxes? Pay more taxes, get more benefits. Don't let college become a big business. It's not too late here.."
+p16
+aS'Ripon college would really benefit from accountability in the student life department. #moretogether'
+p17
+aS"Hate college for this simple reason. How. The fuck is this benefiting me in any way . Feel like I'm in fashion again"
+p18
+atp19
+Rp20
+sS'cost'
+p21
+g2
+((lp22
+S"It'd be cool if I could go to Argentina for college since ya know it's free there and here it'll cost me my life"
+p23
+aS"Was kind of curious how much an island cost so when I'm rich And famous I can buy one and they're cheaper than college. What."
+p24
+aS'The cost of tuition is too god damn high! #college #collegeproblems'
+p25
+aS'We hear a lot of talk about college costs and whether degrees are worth it. Depends on degree. The MFA degree is the biggest scam going.'
+p26
+aS'i would like to go college on the east coast tbh, but its going to cost me a lot rn'
+p27
+aS"How are we supposed to go to college if the government doesn't give us enough money to pay a fraction of what it costs"
+p28
+aS'Looking at the price for college for just 1 year is stressing me out so bad why does it have to cost so much'
+p29
+aS'@quinntonhanley @_GAZi__ you can always go after the cost guard, + free college + you would already be 21 + you would pull bitches'
+p30
+aS'I wanna live in a world where every college costs the same'
+p31
+aS"Found some sandals I'm obsessed with from @ZARA but then realized they cost as much as one of my college courses. So there's that."
+p32
+aS"It costs nearly $240,000 to raise a child in the U.S. \xe2\x80\x93\xe2\x80\x93 and that's not even counting college tuition once they leave the house."
+p33
+aS'Legitimate reason to commit suicide: the cost of college'
+p34
+aS'@damonbenning my goodness is college football really win at all cost?  You know the trial will be worse it will all come out.'
+p35
+aS"if college students knew how much each class/paper/exam/assignment etc was costing them they'd probably take college a lot more seriously"
+p36
+aS'\xe2\x80\x9c@Forbes: How to avoid the costliest college financial mistakes:'
+p37
+aS"Choosing a college would be so much easier if they didn't all cost 50,000 dollars"
+p38
+aS'It makes me so mad seeing people driving cars that cost more than my entire college education.'
+p39
+aS'With rising college costs, why do we still need to be in school for 4 years? Are all those classes really effective?'
+p40
+aS'Oh I really like this college. How much does it cost? over 35k. A novel of my life'
+p41
+aS'Go to college for 4 years to get a piece of paper that cost me $42,000!!'
+p42
+aS'.@glevine3 Covering hotel &amp; travel costs, flying college students to conferences like Saban - they make them feel professional &amp; important.'
+p43
+aS"Think I'm going to go to cosmetology school, and community college. The only problem is, cost. \xf0\x9f\x98\x94"
+p44
+aS'Wondering why college cost so much find out on my blog'
+p45
+aS'Inflation has affected milk and engineering paper. Adding unforeseen costs to college life.'
+p46
+aS'Watching Bill Nye in a college science class is definitely worth the tuition cost.'
+p47
+aS'The news said that college costs are rising. Guess they want to make it even more unaffordable. Yay \xf0\x9f\x91\x8d'
+p48
+aS'@CDthaSad my boots alone cost $400 the struggle is real at least I have my dad to lean on a bit through college for clothes and stuff'
+p49
+aS"\xe2\x80\x9c@DeMarcus__: \xe2\x80\x9c@Yawniee: I can't wait to go to college\xe2\x80\x9d You can honestly this shit cost too much\xf0\x9f\x98\xa9\xe2\x80\x9d I don't think they heard you Dman \xf0\x9f\x98\xa4"
+p50
+aS'"A year of child care in many places costs more than a year of college" Jan Schakowsky #workingfamilies @ChiFdn4Women'
+p51
+aS'seriously considering out of state costs for college. a huge stress reliever would be worth the money.'
+p52
+atp53
+Rp54
+sS'quality'
+p55
+g2
+((lp56
+S'Lying in the grass is still the best way to judge the quality of a college: my 6th and final college trip this year!'
+p57
+aS'\xe2\x80\x9c@jcasap: there r 2.7Latinos in jail 4every1in college.We can\'t survive w/ those stats" #changethegame #education latin@s deserve #equality'
+p58
+aS'@qualityatbats How many cuts off a tee would you say a player college level and above needs to take daily?'
+p59
+aS'Inequality in college towns |'
+p60
+aS"K I'm thinking of selling the clothes I can't take to college, but are still high-quality for pretty cheap, but would anyone be interested?"
+p61
+aS'"@arieeolla: Guys. At which point did life have you fucked up?" The day college said gimmie all yo money to get a quality education'
+p62
+aS"@NikolaP_23 oh no doubt! He's not NBA quality...I'm talkin college tho"
+p63
+aS"@KYBlackout quality over quantity? That's what graduating college will do to you."
+p64
+aS"3 more days at snow college! Not gonna lie, I'm gonna miss a lot of these people. There are some quality humans here at snow! \xf0\x9f\x98\xa2\xf0\x9f\x98\xad\xf0\x9f\x98\xaa\xf0\x9f\x98\x94 #GoodBye"
+p65
+atp66
+Rp67
+sS'time'
+p68
+g2
+((lp69
+S"@jonrulz_96 I am, along with math. It's going to be like that the majority of your time in college. #lifeofabiomajor"
+p70
+aS"If you're a college professor you should check your email at least 3-4 times a day. #frustrated"
+p71
+aS'sometimes I feel like my mom is more excited about college then me'
+p72
+aS"Bout to go to my last class ever in college. Seems wrong that I'm typing this.....time really flies. Graduating is gonna be real bittersweet"
+p73
+aS"I had a joyous rhyme about being done with my first year of college, but I messed it up the first time so that'll have to wait I guess.."
+p74
+aS'The one time I actually want Facebook to work to find friends for college it fails me like ok cool'
+p75
+aS'Every single time skillet comes on my pandora the first thing I think of is @SaundersBrittyn and our freshman year of college \xf0\x9f\x98\x86\xf0\x9f\x98\x82\xf0\x9f\x8e\xb6'
+p76
+aS'Why do some people have to always be sad and in a bad mood? Lighten up! Your in college. This is suppose to be the best time of your life..'
+p77
+aS'Watching animal house fuck ya! A mans guide to a good time and a great party in college. Wish college was like this in real life R.I.P. John'
+p78
+aS"@ImDestinyNicole you'll be okay just surround yourself with driven ppl,the ones who will graduate on time and have a plan after college!"
+p79
+aS'A week from today I will have finished my freshman year of college \xf0\x9f\x98\xb3 #whhaattt #wheredidthetimego'
+p80
+aS'But at the same time she can take me to college parties'
+p81
+aS'Can we fast forward time to college please @willw850'
+p82
+aS"Don't promise puppy time at 12 if the puppies aren't going to show up until 1:30!!! I need puppies now c'mon college"
+p83
+aS'Wisconsin Union: Experiences for a lifetime! #college @ Memorial Union'
+p84
+aS'Ever time the word college comes up, I just want to curl up in a ball and cry #soanxious #itsonlymay'
+p85
+aS"Friends getting married. Friends graduating college. Friends having babies. Sometimes I wonder what I'm doing with my life! #nobabythough"
+p86
+aS'Almost done here at butler community college ... How time flys'
+p87
+aS"@AKD95_ it is!! Knowing you, you're gonna be a fun time at college \xf0\x9f\x98\x89"
+p88
+aS'If I had a dollar for every time someone spelled my name wrong, I could pay for college, semester abroad, a new car, and a mansion in cash.'
+p89
+aS'If I had a nickel for every time Lisa talked about cheering, I could put my whole graduating class through college &amp; maybe end world hunger.'
+p90
+aS"@CleverFoxNikki when you're in college the time goes by so fast!! Senior year flew by too but wait till you're in college!"
+p91
+aS'Only a couple more weeks and I would have officially survived my first year of college! #wow #timeflies'
+p92
+aS'Every time I get mail from @MiamiUniversity I get more and more ready for college! #MiamiOH2018'
+p93
+aS"everytime my moms bedroom door opens I pray she doesn't knock on my door and try to be emotional about graduation and college"
+p94
+aS'If I had a dollar for every time someone spelled or said my name wrong, I would be retired before I graduate college. #StoryOfMyLife'
+p95
+aS'Last college class of freshman year today where did time go \xf0\x9f\x98\xa3'
+p96
+aS'Sometimes i look at people and think how are you in college u are 12'
+p97
+aS'My mom is getting really sentimental about me leaving for college... Bishhhh you had me for 17 years already, I gotta fly.'
+p98
+aS"I don't know what to do with myself! I guess it's time I start going to college bars now that I'm\xe2\x80\xa6"
+p99
+aS'Officially done with my junior year in college... What. Where has time gone?'
+p100
+aS"@AlainaKay00 @limitless_95 it's hairrrr it'll grow back. Plus its college time for weird phases and hair colors"
+p101
+aS'@JohnBarchard plus look at kb. By the time some guys are his age they have 2 years in pros, he has 2 years in college'
+p102
+aS'Spending more time figuring out the lowest possible grade you need on a final to pass the class than actually studying #college'
+p103
+aS"It's that time of year... I'm thankful I'm not a college student #bluecollar #nofinalsforme"
+p104
+aS'@Espngreeny @espngolic one of the most decorated college coaches of all time only recruited black players and his son does the same'
+p105
+aS'For the first time in my college career, this is the first time school has physically exhausted me.'
+p106
+aS"there's a time and place for everything and that time and place is college"
+p107
+aS'Officially a junior in college \xf0\x9f\x98\xb3 #timeflies'
+p108
+aS'\xe2\x80\x9cIf I had a dollar for every time someone misspelled my name, I could pay for college, a new car, and a mansion in cash.\xe2\x80\x9d @RyneVineyard'
+p109
+aS'"can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight and go to the part where I have a really awesome job n spend all my time traveling?\xe2\x80\x9d'
+p110
+aS'with only two part time weeks left of college I would like to spend them hanging out with the coolest people I know.'
+p111
+aS'This is my last Monday schedule of my freshman year of college. \xf0\x9f\x98\x81 #timeflies'
+p112
+aS'timehop makes me proud to report that I was never pale in college'
+p113
+aS'@morgaannleighhh you will have zero time for baseball boys in college. \xf0\x9f\x98\x9c'
+p114
+aS"@JoshStrasnick good to know what you're doing in your off time at college bro. That was fucked"
+p115
+aS'Latest order of doctoral books has shipped. Wish I knew more how @amazon worked when I did #college the first time! #savings #thankyou'
+p116
+aS"It's crazy to think this time next year I'll be heading home from my first year of college, and I'll have 4 months of summer\xe2\x98\x80\xef\xb8\x8f"
+p117
+aS"I'm done with this high school life, time to move on into this college life."
+p118
+aS'Guys, college is a \xf0\x9f\x86\x92 time'
+p119
+aS'@Alpha_Unit_ I am taking 16 credit hours of classes at college and working 32 hours, no time for VIDJA games until I get home'
+p120
+aS'If I had a dollar for every time an adult asked me about college then I\xe2\x80\x99d have enough money to pay for college'
+p121
+aS"If there is one thing college has taught me, it's that you have time for what you make time for."
+p122
+aS"If I had a dollar for every time I've hiccuped in the past 12 hours, I'd have college paid off #mybodyhatesme #pleasestop"
+p123
+aS"Even though my field trip was untimely at 8:30am this morning, it was the funniest thing I've done while in college."
+p124
+aS'I really love looking at my timehops... Makes me miss college a lot though \xf0\x9f\x98\x92'
+p125
+aS'I graduate in 12 days!!! It\'s going to be so weird saying "remember that time in college???". Surreal.'
+p126
+aS'Next week is my last full week of classes as a college freshman... Where did the time go?! \xf0\x9f\x98\xb3'
+p127
+aS"I mean no ones gonna believe you unless you tell everyone a million times. Like yep it's college stop please"
+p128
+aS'Sometimes I forget that @PhoebeWegmann goes to the same college as me and I become really confused when I see her walking on campus.'
+p129
+aS'I\'m going to a black college and I know for a fact I\'m gonna hear "nigga" at least 100 times a day.'
+p130
+aS"Welcome to college where 99% of the time you don't know your crush's name."
+p131
+aS'\xe2\x80\x9c@Lynzo__: "@OG_Foy: #WhyBeInARelationshipWhen You\'re about to go to college and meet new people? \xf0\x9f\x98\x9d" cause its time to let these hoes go..\xe2\x80\x9d'
+p132
+aS'7 pm meeting at work. What a waste of time and afternoon. Rather be at the college playing soccer already.'
+p133
+aS'Done with my sophomore year of college and Tampa as a whole. Thanks for a lot of wasted time and broken promises lol'
+p134
+aS"Bittersweet leaving my house right now. The next time I'm home I'll be a college graduate"
+p135
+aS"Going to VCHS next year. A high school/pre college. I'll be taking classes at MJC for four years too...excited and scared at the same time!"
+p136
+aS'@Hump_Dillo yeah I hear that, almost did the same thing to us and UGA. All this nonsense is gonna ruin college football over time.'
+p137
+aS'Officially done my first year of college #timeflies \xf0\x9f\x98\x9c'
+p138
+aS"By the time I actually get to livi I'm gonna have to to straight to college ave"
+p139
+aS'This is what college has come down to. #naptime #college #finalsweek @ Westminster College MO'
+p140
+aS'Wow I have a big girl house. Time flies. So excited to start this new chapter of my life at the best college of all time. BEAR DOWN ARIZONA!'
+p141
+aS"A wise friend told me that in college, there isnt time to play games. It's just you and me. Just how I like it."
+p142
+aS"It's that time of year where us college students start regretting putting off all that school work until the last minute!"
+p143
+aS"Can't believe that a week from today I'll be finished with my freshman year of college \xf0\x9f\x98\xb3 #timeflies"
+p144
+aS'\xe2\x80\x9c@paulinaaa170: If i got a dollar everytime i smelled weed at college... It would pay my tuition\xe2\x80\x9d specially house 12 lmao @paulinaaa170'
+p145
+aS'#tbt to that time we made the second-best decision of our college career... The best decision was\xe2\x80\xa6'
+p146
+aS"When it's time to go to college , i wanna be away lol. TCC or ICDC or all that extra &lt;&lt; lmao fack no"
+p147
+aS'I used to wear makeup 99% of the time.\nThen I got to college.\nNow I dont wear makeup 99% of the time except special occasions and work'
+p148
+aS'They say high school flies by. They say college flies by. In all honesty. Life flies by. So be happy and make memories to last a life time.'
+p149
+aS'2 weeks from today I graduate college.. Crazy how quickly time flys by! \xe2\x98\xba\xef\xb8\x8f'
+p150
+aS"It amazes me how fast time flies bye in high school and college. Hard to believe I'll be a Junior next year #MovingOn"
+p151
+aS'If I had a dollar for every time someone spelled my name wrong, I could pay for college semester abroad a new car and a mansion in cash" tru'
+p152
+aS'I want these college classes to end already May11 cant come faster but then I dont want it to because I do not have enough time for the work'
+p153
+aS"Only 2 weekends of college left, tonight I spent doing hw with @alexJwags for 15 hours etc. in 2 weeks I'll wish to have this time back"
+p154
+aS"\xf0\x9f\x92\x81\xf0\x9f\x91\x8c college isn't so hard. Summer timeeeeeeee \xf0\x9f\x98\x8d"
+p155
+aS'@DanielXiong26 try college football sometime man lol'
+p156
+aS'My need for college is at an all time high'
+p157
+aS'Me and Vince Carter went to college at the same time. -Rob Baker'
+p158
+aS"I'm done letting people ruin my time at college. Leave the drama at home and let me live life."
+p159
+aS"If i got paid $1 everytime i made a fool out of myself i wouldn't need to go to college and get a job because i already have a career"
+p160
+aS"I can't believe that in one week's time, I'll be done with my second year of college."
+p161
+aS"What's everyone's plans tonight? Come to norco college for a CD release party! #asnc #norcocollege #funtimes #music"
+p162
+aS"This time next week I'll be a senior in college #timeflies"
+p163
+aS'Had good time being away for couple days in MA visiting my cousin in college but sad be back .'
+p164
+aS'@averysalisbury 4.0 since you can do it! Plenty of time2play after college! \xe2\x9c\x8c\xef\xb8\x8f\xf0\x9f\x98\x87'
+p165
+aS'@earlygamebenji everyone needs to get the app called bleacher buddy. It gives game times and tv channels for all sports college a\xc3\xb1d pro.'
+p166
+aS"Haven't taken the time to appreciate that freshman year if college is over... #neverafreshmanagain"
+p167
+aS'@TheBoss_94 and please learn how the hell to spell, we are in college. STARING****. For the last fucking time, goodbye.'
+p168
+aS"At Rutgers day. Been out of college for 10 years I don't have time for a bunch of hippies sitting on student lawn singing songs"
+p169
+aS'And today will conclude my freshman year as a college student. Crazy how fast time goes by.'
+p170
+aS"This will be the most amount of time I've spent away from BR since I started college 3 years ago."
+p171
+aS"It's crazy that I'm going to be living the college life in a few months #timereallydoesfly"
+p172
+aS'The first time our apartment actually looks like college.'
+p173
+aS'Reiterating what @graysonnkoda once said, the college process is worse the second time around.'
+p174
+aS"seriously I would've failed college a long time ago without @itsdavidelliott"
+p175
+aS'@ayejenn ohh true! ok..i love that place but college park was just too far from columbia , but i goto laurel all the time! \xf0\x9f\x98\x9c'
+p176
+aS'Eating quinoa with a butter knife. Desperate college times call for desperate pathetic measures.'
+p177
+aS"If college has taught me anything, it's how to live on a $0 budget for extended periods of time"
+p178
+aS'So after I finish my paper my sophomore year of college is officially over #timeflys'
+p179
+aS'Happy birthday @DavidPiniewski, the best part of college has been our bonding time!'
+p180
+aS"Hard to believe it's been almost a year since graduating college. Where did the time go"
+p181
+aS"They can't afford it. \xe2\x80\x9c@nytimes: Fewer U.S. high school graduates are opting for college"
+p182
+aS'Going to college station for the first time'
+p183
+aS"Ouch. If I had a dollar for every time my name was misspelled, I'd have my college tuition completely\xe2\x80\xa6"
+p184
+aS'Thinking about college is so stressful and exciting at the same time'
+p185
+aS"One week left until my freshman year of college is done. It's crazy how fast time has gone and how much I've grown."
+p186
+aS"It's like I wanna go to college ... But at the same time I don't."
+p187
+aS"This time next week I'll be done with my freshman year of college and I don't even know what to say about that... #freshmanforever"
+p188
+aS'"@Just_JLaw: Is it me or doesn\'t college feel like a music video sometimes ?" Its not just you'
+p189
+aS'Harrison Twins made the bea decision anyone has made in college basketball in a long time.'
+p190
+aS"@100percentButts like I care. If you can't cook ramen gtf out of college. Worse if you  try frying chicken at the same time."
+p191
+aS'I want to work in a coffee shop while playing guitar, reading books, and running in my free time. Who needs a college degree?'
+p192
+aS'Okay time for all my friends away at college to come home now, im ready for you'
+p193
+aS'Well freshman year of college is just about done. How time flies.'
+p194
+aS'One time I used to type papers for ppl, but then I realized I should actually be in college and doing it for myself, so I stopped. The end'
+p195
+aS'You know you\'re in college if you\'ve said  "I just want to graduate" at least 5 times.'
+p196
+aS'Just handed in my last paper and tomorrow I graduate college \xf0\x9f\x8e\x88\xf0\x9f\x8e\x8a\xf0\x9f\x8e\x89but, could somebody tell me where does the time go?'
+p197
+aS'feels like highschool graduation was yesterday &amp; now im about to graduate college &amp; start my career.. time flies\xf0\x9f\x8e\x93'
+p198
+aS"Just realized I have two finals separating me from being halfway done with college, and this time next year I'll be a senior. #what"
+p199
+aS'Every time I see kids end their college baseball career, I have to admit, I get a bit sad yet I know baseball will make them better at life.'
+p200
+aS"I just read about a poor soul that went to a college anime club for the first time, and they showed Pupa. I'm so sorry, I'm so sorry"
+p201
+aS"I can't wait for school to end so I can take my sweet time deleting all the emails from college except UGA"
+p202
+aS'I kinda miss college this time of year.. Skipping class to lay by the pool with friends.'
+p203
+aS'@nathankluiter I say this every time I see a college student driving one'
+p204
+aS'Dropping out of college , so I can make vine videos full time . \xe2\x9c\x8c\xef\xb8\x8f\xf0\x9f\x98\x8a'
+p205
+aS"I spent a lot of time in #Vilonia in college. Now it's tending on twitter because of the death toll &amp; devastation #sosad #Arkansasweather"
+p206
+aS'The fact that we have to decide wether there is enough time in the day to shower #college @DeeezyMarie'
+p207
+aS'The time after college goes by so fast! Time is just slipping away! So crazy!'
+p208
+aS'@SaulTheGREAT_ why the hell would he leave he went perfect his first time ever in the tourney he has no control in the nba over college'
+p209
+aS'Two weeks left of classes as a freshman in college. Um what happened to time?! \xf0\x9f\x98\xaf\xf0\x9f\x98\xb3'
+p210
+aS"So this time next week I'll be a college grad \xf0\x9f\x8e\x93\xf0\x9f\x98\xb3"
+p211
+aS"\xe2\x80\x9c@FunnySayings: I mean what's school without your life falling apart 2 or 3 or 19 times\xe2\x80\x9d college."
+p212
+aS"The number of times I've tweeted about Jazzman's in my college career ..."
+p213
+aS"@loudenamanda It's awesome that you did it.  | Working full time and going back to college was such a great decision"
+p214
+aS'3 weeks until end of freshmen year of college, where the fuck did time go?'
+p215
+aS"@bwwebber Well done BW!! Love college baseball!! All the best!  National pastime in all it's forms rules."
+p216
+aS"Officially done with my second year of college..crazy how fast the time flies ! Headed back home, and can't wait for this summer ! \xf0\x9f\x91\x8c\xf0\x9f\x8e\x89\xe2\x98\x80\xef\xb8\x8f"
+p217
+aS"It's now time to burry my face in my books for 7 days and study until my brain goes numb. #college"
+p218
+aS"T-Minus 24hrs and I'll officially be a junior I'm college... Where has the time gone?!"
+p219
+aS"We had to give a 2 minute presentation in class. 2 hours later I'm still here wondering HOW college students don't have any concept of time."
+p220
+aS"the class of 2018 tweets are so cute. Can't believe the same amount of time has passed since that was me as I have left in college \xf0\x9f\x98\xb1"
+p221
+aS'Finished my first year of college soccer today. Scary how fast time goes \xf0\x9f\x98\xa8'
+p222
+aS"@Ashbootheone lmao these are things college kids do all the time. Whi hasn't stolen something though?"
+p223
+aS"@ChipotleTweets I've spent enough money at my local Chipotle in my lifetime  to pay for a semester of college. Don't even regret it."
+p224
+aS'I got alot to do this summer and I will stay on it. So by the fall I will be ready for this senior year of college. Been a long time coming!'
+p225
+aS"@sholehrezaee basically just prep for college. 99% of the time, you wont know what's happening. But don't worry bc no one else will either"
+p226
+aS'First time representing @WoosterEdu at a college fair...as an alum! So excited #FightingScots #VolunterAlum'
+p227
+aS'"Where\'d I go to college?" "Was it one of the ones with commercials during daytime judge shows?" Lmao! #FamilyGuy'
+p228
+aS'Who knew college would fly by? Party time. Phoenician style \xf0\x9f\x8c\xbb\xf0\x9f\x8c\xb5\xf0\x9f\x8c\xb4'
+p229
+aS'First Saturday off in a long time. What do I decide to do on my day off.... way  college baseball of course.'
+p230
+aS'"@collegefession: "Sometimes I stick my finger in my ass then smell it. It smells kind of good" - Brookdale community college"\n#great'
+p231
+aS"Tbh never thought I'd be going to college to play football talk about a dream come true now time to get my body and mind right"
+p232
+aS'Everytime I go to class looking like crap I remind myself that appearance is temporary and college transcripts are eternal #truth'
+p233
+aS'Sometimes I get sad cuz a lot of my friends went to normal college and know stuff about history and stuff and I feel like im dumb'
+p234
+aS'Freshman year of college was one of the best periods of my life. Where did the time go???\xe2\x8f\xb0\xe2\x8f\xb0\xe2\x8f\xb0\xe2\x8f\xb0\xe2\x8f\xb0\xe2\x8f\xb0\xe2\x8f\xb0\xe2\x8f\xb0'
+p235
+aS"You're gunna have a hard time in college bc a lot of people wear backpacks and not purses....."
+p236
+aS'All my dudes strapped in college gear where has the time gone'
+p237
+aS'Put my retainer in for the first time since being at college.'
+p238
+aS"I came all the way back to the college for lab and I feel like it's a waste of time"
+p239
+aS"@madddsann what!!!! OMG I'll cry. Ms Dembiec is so hard :( I thought anatomy one might be easier in college bc we don't have a lot of time"
+p240
+aS'How am I going to be a junior in college... Where has the time gone'
+p241
+aS"Its almost time for my big sister to graduate college and Im more than excited for her. She'll do big things\xe2\x9d\xa4\xef\xb8\x8f"
+p242
+aS"I guy I dated in college pretended he hadn't read Harry Potter the entire time we were together. For some reason, it still haunts me."
+p243
+aS'Another college visit ! This time it was Carolina \xf0\x9f\x8f\x88\xf0\x9f\x8f\x88\xf0\x9f\x98\xb1'
+p244
+aS'I should probably unpack from college sometime'
+p245
+aS'I teared up four times during my Bob Dylan class final. So this is how I feel about it being the end of my college career for those asking.'
+p246
+aS"Ugh every time we talk about college stuff my parents just make me cry. Being mad with me isn't gonna help the situation."
+p247
+aS'Wow, cannot believe tomorrow begins the last week of my Freshman Year of college! #timeflies'
+p248
+aS'\xe2\x80\x9c@_whitneyfox: In all honesty I wish I never went to college. So much money wasted.\xe2\x80\x9d @DallieLou what do we talk about all the time!'
+p249
+aS'I often times forget that college is for school work \xf0\x9f\x99\x8a\xf0\x9f\x92\x81'
+p250
+aS"I love when we can get together and have a good time and turn up without any violence. These are the college nights I won't forget"
+p251
+aS'What sucks is you can have a college degree and have the hardest time finding a job and your field of study, but McDonald is always hiring \xf0\x9f\x98\x95'
+p252
+aS'T-minus 6 days until I am officially done with my first year of college #scarythought #timeflies'
+p253
+aS"This time next year, I'll be graduating college. Please excuse me while I have a slight panic attack. #growingup"
+p254
+aS'Classes are canceled for the rest of the day at San Bernardino valley college. Fuck yaaa!!!!! Whooooooo!!!!!!! Party time!!!! What what'
+p255
+aS'May not have started college yet, because I joined the NG right out of HS, and I know ive had plenty of time since then to go..'
+p256
+aS"tbh we're not that funny bc we're a bunch of college kids seeing all time low"
+p257
+aS'It sucks you have to suffer for some time in certain cases to reach a time of prosperity. Wholeheartedly from a broke college kid.'
+p258
+aS'So my last day of sophomore year of college is next week..where has the time gone and can I please just go back to being 6 years old? \xf0\x9f\x98\x94'
+p259
+aS'I swear if college was a person I would run it over with a car 500 times and then set it on fire'
+p260
+aS'@MChandler428 \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad the one on south college but next time'
+p261
+aS'Last class of my freshman year of college...\xf0\x9f\x98\xa8 time flies'
+p262
+aS'My first year of college as a freshman is just 4 days away from ending, where has the time gone'
+p263
+aS"First year of college was hella difficult at times .. I'm just glad it's almost over . I need a break . \xf0\x9f\x91\x8c"
+p264
+aS'This whole working full time &amp; going to college shit is stressful af \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p265
+aS"Can't believe I'm a college senior... I'll drink to that \xf0\x9f\x98\x8e Hello sweet summertime."
+p266
+aS"No state for me missed it by a spot..  Got college to look forward to. Now time to pick which scholarship I'm accepting. #NCAAHurdles"
+p267
+aS"First time I'm having ramen noodles since I started college \xf0\x9f\x98\xb3"
+p268
+aS"I can't believe I've finished my first year of college.. Where has the time gone?"
+p269
+aS"@dukiesnuts43 lmao that's funny as hell. I'm so excited for when you're done with college in the year and we can kick it all the time again"
+p270
+aS'two years of college have already come + gone\xf0\x9f\x98\xa2 some of the hardest times of my life but also some of the best. see you in a week, Oakland\xf0\x9f\x92\x9b\xf0\x9f\x92\x99'
+p271
+aS'I spend more time calculating the lowest possible grade I need on my final than I do studying for the actual test #college #AboveAndBeyond'
+p272
+aS'Can I skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight to the part where I have a really awesome job and spend all my time traveling? No? Ok.'
+p273
+aS"Hey it's nice to meet you! I'm a college drop out! Oh you don't respect me and you havn't even given yourself the time and day to meet me?"
+p274
+aS'After studying falling asleep finaly time for bed  #road2finals #uncw #college #studygroup #friends'
+p275
+aS'Already done with my freshman year of college \xf0\x9f\x98\xb3 where the hell did time go?'
+p276
+aS"Most of the time I really question whether I'll be able to finish college at all."
+p277
+aS'Just realized yesterday was my last day of school as a college junior. Wow how the time flies!'
+p278
+aS'Spending my time at work planning out my entire 10 page essay for English. #finals #college'
+p279
+aS'if I had a dollar for every time I got flipped off while driving I could probably pay for college\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p280
+aS'Great time with a few ladies from \xce\x9a\xce\x94 lastnight! Love college!'
+p281
+aS'I love checking my daily @timehop... Today took me back to some great college days. #madison #nostalgia'
+p282
+aS"next time we talk I'll be a college sophomore"
+p283
+aS'one time, in college, I found a textbook in a classroom, and turned it in to the lost and found, then reclaimed it later and sold it for $95'
+p284
+aS'Last time walking into an american classroom in an hour... American college life is over somehow...\xf0\x9f\x98\xb3\xf0\x9f\x98\xb3'
+p285
+aS'first time in my college career i was at the lib until it closed'
+p286
+aS'Dear library,\n\nWe have an unhealthy relationship. We spend too much time together. Imma break up with you after college. \n\nSincerely,\nMe'
+p287
+aS'Just had a long phone call with my long lost bro...he thought college would be a waist of time..glad I changed that. #MakeADifference'
+p288
+aS"2 more days then I'm a Junior in college! Where TF did time go? \xf0\x9f\x98\xb3"
+p289
+aS'Sometimes I think I should have gone to a conservative or less liberal college'
+p290
+aS"I want to travel the world when I'm 20 but at the same time I also want to be married and then there's college so much to do ahhh"
+p291
+aS'@mikegrant911 Is this how you spend your time in college?  #gladImspendingthebigbucksonyou'
+p292
+aS'In two weeks I will have completed three years of college!! Excuse me...where did the time go!! \xf0\x9f\x98\xb3'
+p293
+aS'Ahh memories of my first day in college ^~^ this line took up a lot of my time :D'
+p294
+aS'@Claireee_Ninj In a lot of ways both Cal and Davis are insulated, college communities. You will spend most of your time around campus.'
+p295
+aS"The friends I've made in college are the real deal. Very few people who would help me out as much as they do at that craziest times too."
+p296
+aS'Everytime I try and talk to my mother bout college she start crying \xf0\x9f\x98\xa9\xf0\x9f\x98\xbf shit getting real'
+p297
+aS'Done with my freshman year of college \xf0\x9f\x98\xa7 where did the time go.....'
+p298
+aS'All these college/college visit snap chats are pissing me off big time'
+p299
+aS'I\'ve been "grounded" one time. I still had my phone, car, drove to high school/college/work and was never home.'
+p300
+aS"@MilkyChocolate_ i hyu 4 times and didn't get a reply. and i been on them nearly 3 years lol and still have a college reading level. im good"
+p301
+aS'The biggest project I will do in my college career is due today. A weight is lifted and I am a free man. So time for mini pitchers ?!?'
+p302
+aS'One week of class and a few finals, then freshman year of college is in the books. #timeflies'
+p303
+aS'Almost done with my first college class. It feels great to be back in school. \xf0\x9f\x98\x81 I have 3 classes this summer, then full time this fall. \xf0\x9f\x93\x9a\xf0\x9f\x91\x8c'
+p304
+aS'Nobody will be able to handle me in college man. Party time'
+p305
+aS"@HallerDave worked college athletics for 3 yrs and couldn't find a sports job post grad. Now work for AA and can go see any game any time!"
+p306
+aS'my last Tuesday/Thursday class of college \xf0\x9f\x98\x81\xf0\x9f\x8e\x93 #timeflies'
+p307
+aS'About to do my last college presentation ever. #holysmokes #wherehastimegone'
+p308
+aS'This week is the most awful way I wish to spend my last week in college \xf0\x9f\x98\xa9 sooo much work and exams, so little time!'
+p309
+aS'Every time I hear Trophies I think of the Mt.Hood community college meet haha @juniorrfloress'
+p310
+aS'@drphilfuture college is a fun time \xf0\x9f\x98\x8e'
+p311
+aS"4th final done! Can't believe I only have 2 finals left, and tomorrow is my last day of my freshman year of college! #timeflies"
+p312
+aS'And with the click of a button, my undergraduate college career officially comes to an end. Brb while I cry and dance at the same time \xf0\x9f\x98\xad\xf0\x9f\x92\x83\xf0\x9f\x99\x8c\xf0\x9f\x98\xad'
+p313
+aS'2 weeks from today I will be laying down in my own bed \xf0\x9f\x92\x95 omg am I really about to be a junior in college! \xf0\x9f\x98\xb3\xf0\x9f\x99\x88\xf0\x9f\x99\x8a where did time go?'
+p314
+aS'Of course I would get sick 5 times during my first year of college'
+p315
+aS"Done with college for this semester! Now it's time to focus on Oklahoma Hustle basketball and locust grove high school football!"
+p316
+aS'"@livelifehappy_7: and please learn how the hell to spell, we are in college. STARING****. For the last fucking time, goodbye." #ftw :)'
+p317
+aS"In high school I used to get so mad if I didn't get an A on everything. In college I'm ecstatic over a C \xf0\x9f\x99\x8c oh how times have changed lolol"
+p318
+aS"I'll be in college in 4 months...\xf0\x9f\x99\x88\xf0\x9f\x98\xad where did time go!"
+p319
+aS"@SCTopPlays @alexrees1210 \xf0\x9f\x98\x82 Alex that's definitely a college. Last time I checked no high school has a stadium that big"
+p320
+aS'Went to college group tonight for the second time and I loved it! "If you\'re not fighting for\xe2\x80\xa6'
+p321
+aS'Just bombed a college test for the first time this year. \xf0\x9f\x98\x92'
+p322
+aS'I only have 1 more week of school left of my freshman year in college  \xf0\x9f\x98\xb3\xf0\x9f\x98\xb3 where has the time gone?? #bittersweet'
+p323
+aS"Can't believe its time to leave. All these guys made my first two years of college an unforgettable\xe2\x80\xa6"
+p324
+aS"Speaking of crazy Avery isn't coming out anytime soon. He plans to attend college in my womb. \xf0\x9f\x98\xab #GETOUT"
+p325
+aS'@Cody_BH My favorite was how many times "turn up" was written. Also, one said "hi college kid". Elementary school man.'
+p326
+aS'Last night at the Mariners game for college night! Great times with great people #Mariners #BeatTexas\xe2\x80\xa6'
+p327
+aS"@PRINCE_PATEL2 I see :) well I'm from Arizona in the US. I go to college for psychology :) what time is it there?"
+p328
+aS'Lesson learned: don\'t wear a college shirt to DCON. I was asked multiple times, "is that where you are going next year?"  \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p329
+aS'First and last time you going to see me in college with sweatpants and sandals in public'
+p330
+aS"@4thQtr_Ninja lol that's crazy he just technically had the beat college qb season ever........... Of all time"
+p331
+aS"Can't get it live one more time this the blow need to be at a real college"
+p332
+aS"There's no time to sleep when college has you doing a essay and presentation do the same day. Time to put on my running shoes and work out"
+p333
+aS"Every now and then I get sentimental that we're all growing up so phast, but then realize I finna fk shit up in college! #bittersweet"
+p334
+aS"@ktreed_16 I've read that book several times. I studied English/Lit in college...piece of cake!"
+p335
+aS'Whenever I tell people me and @tilaranne are rooming together in college everyone\'s reaction is like "ohhh gosh\xf0\x9f\x98\xb3" \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x8f #partytime'
+p336
+aS"It's times like these where I wish I was in college"
+p337
+aS"It's almost time to graduate!! See the school or college you have or are going to graduate from?? Make\xe2\x80\xa6"
+p338
+aS'@nytimes Campus police are absolutely nuts right now-aliki City police-college elligible US students, are opting for online classes instead.'
+p339
+aS"I can't believe I graduated college a year ago. Where has the time gone? #feelingOld #LakerForALifetime \xf0\x9f\x98\xb3\xf0\x9f\x92\x99\xe2\x9a\x93\xef\xb8\x8f\xf0\x9f\x8e\x93"
+p340
+aS"@MiddleNameAaron @OhItsCarrigan at times yeah, I feel like I'd be better off going to college or just a regular job haha."
+p341
+aS'@engadget that a bar tap in post college world. Maybe time take a Saturday off and buy some Bitcoins.'
+p342
+aS'I really never grasped the whole "time management" aspect of college'
+p343
+aS'\xe2\x80\x9c@morgmclaughlinn: I would never usually admit this but @k_kiessling makes me happy\xf0\x9f\x98\x8a ...sometimes\xe2\x80\x9d college must be getting to you'
+p344
+aS'group projects were annoying in high school but they are 1,000 times worse in college \xf0\x9f\x98\x92'
+p345
+aS'@BeckiButterfly1 hope youre enjoying LV. I have time for lunch dinner the college fair and thats it. Catch ya down the line somewhere kid'
+p346
+aS"All my friends from college are going home &amp; moving away &amp; my best friend is pregnant &amp; has no time bc of it (though it's a blessing)"
+p347
+aS"College &amp; college football means it's time to prove everyone who Doubts me wrong"
+p348
+aS'at this time a week from now, I will be a junior in college. #whoa'
+p349
+aS'One week from it our time to shine  #classof2014 #wcnation #wileycollege @ Wiley College'
+p350
+aS'\xe2\x80\x9c@collegefession: "Everytime I get drunk and go out I lose my new favorite hat" - Newberry College\xe2\x80\x9d Of course this is what Newberry posts\xf0\x9f\x98\x92'
+p351
+aS"Finished my last final!!! Officially a sophomore in college now! Ahaha now it's time to go home back to The Bay \xf0\x9f\x99\x8c\xf0\x9f\x9a\x9d\xf0\x9f\x8c\x87\xf0\x9f\x99\x8f\xf0\x9f\x97\xbb\xe2\x9c\x88\xef\xb8\x8f\xf0\x9f\x8c\x83\xf0\x9f\x8c\x89\xf0\x9f\x8c\x86"
+p352
+aS'I hate to wish time away but can I please fast forward to like 3 years from now so I can graduate college and begin my lifeeee\xf0\x9f\x98\x8c\xe2\x9d\xa4\xef\xb8\x8f'
+p353
+aS"@H0peG sometimes I wanna RT you but then I remember I'm trying to get into college so I better not ruin it......."
+p354
+aS'Last week I was being super sentimental about my freshman year in college'
+p355
+aS'In college and I have to wake up at 6 am instead of going to bed at that time. I am doing something wrong with my life.'
+p356
+aS'Sometimes I wished I went to college in VA'
+p357
+aS'USC, the only college where everyone dresses cute all the time even during finals week #noscrub'
+p358
+aS'So the second round series happens at the same time as finals and my college graduation. Time to pull off the ultimate balancing act.'
+p359
+aS'I better have at least 1 bf sometime during my college career. Shit, I wanna do cute college couple things too...\xf0\x9f\x98\xaa #butwhatevs \xe2\x9c\x8b'
+p360
+aS'Normally people experiment at college with their sexualities and hallucinogenic drugs. However, I just tried cucumbers for the first time'
+p361
+aS'There\'s a show on MTV called "times up" it\'s 30 minutes of a couple thinking if they want to stay together or break up before college...wtf'
+p362
+aS'Being successful as a full time faculty means giving your time to the college- to your colleagues- to the campus community.'
+p363
+aS'Just got iced for my first time in my college career . Thanks @NoraMcGowan'
+p364
+aS"i never had problems w/ my skin in HS but now that i'm in college i break out all the time &gt;:-/"
+p365
+aS'Someone forgot to set a timer #laundry #44days #senior dartmouthcollege @ Dartmouth College'
+p366
+aS'Why do college players like randle, Parker,etc need a college education? Theyre about to make more in a season than most make in a lifetime'
+p367
+aS"Sometimes college is fun and yes this is probably the most ridiculous paper I've ever written"
+p368
+aS"As a college student, I can't tell you the last time I've been to bed before 12:00!"
+p369
+aS'My time as a college student is almost up. #weird'
+p370
+aS'@PetertheNg @Vince0707 I\xe2\x80\x99ve been a ska fan for a long time. One of my college roommates was good friends with the old @mustardplug drummer'
+p371
+aS'22 years later...  voice of an american friend from the college days.. and time folded . #nostalgia'
+p372
+aS'Its about that time when the "paying for college" anxiety attacks kick in.'
+p373
+aS"Afraid I wont be able to pay my college deadline in time and I'm gonna be stuck in Maine for another year"
+p374
+aS'\xe2\x80\x9c@S_Millertime13: All I want is to go to college and start over\xe2\x80\x9d'
+p375
+aS"Every minute counts in college...five minutes? That's enough time for me to stand in a 30 person line and get coffee before work \xf0\x9f\x91\x8c"
+p376
+aS'You think its time to make a college decision ? \xf0\x9f\x98\x85 #lastminute #SOFUCKINCONFUSED'
+p377
+aS'My freshman year of college is officially over. Where has the time gone?'
+p378
+aS"Every time I'm done eating at a restaurant in my head I say thanks to my dad &amp; grandma, they really do look out for a broke college girl \xf0\x9f\x99\x8c"
+p379
+aS'Final time playing for my college today. It was bittersweet :( Next step... Graduation! #2014grad'
+p380
+aS"This time next week I'll be done with my first semester of college \xf0\x9f\x98\x81"
+p381
+aS'Everytime I get ready to call this college somebody come in.. just leave me alone #wtf'
+p382
+aS"Alright, I'm scheduling my college classes for the 3rd time this year.. Hopefully everything goes right this time!! \xf0\x9f\x99\x8f"
+p383
+aS'If I got a dollar for every time someone posted a selfie with the caption "let me take a selfie" I could drop out of college'
+p384
+aS'Last exam I will take as a college student \xf0\x9f\x98\xb3 how quickly time goes by is a crazy thing.'
+p385
+aS'lol Zo\xc3\xab today "I feel like if you haven\'t had lesbian experience by the time you\'re in college, then you\'re a little late"'
+p386
+aS'Word AO. RT "@A2daO: Truth RT @Stone_Marley: Harrison Twins made the bea decision anyone has made in college basketball in a long time."'
+p387
+aS"I just been at school &amp; straight home busy w| hw &amp; getting ready for college ctfu I don't got time to be fuckn around nomore that's out"
+p388
+aS"Only a few hours till I'm done with my freshman year of college...where the hell has the time gone"
+p389
+aS'Wah how is there not enough time in the day \xf0\x9f\x98\xa2 my 1st of college fuggin year flew'
+p390
+aS'#tbt that time we were all in college &amp; had fun n stuff. #ncat #aggiepride #s33 @ nostalgia'
+p391
+aS"By the time my classmates in high school graduate college in 2016, I'll have made over 100,000 dollars"
+p392
+aS"It's crazy how fast time is flying by. Can't believe that I'm starting my junior year of college next semester\xf0\x9f\x98\xb3"
+p393
+aS'Am I really almost done with my first year of college?! #timeFlies'
+p394
+aS'Sometimes I love to see who actually follows my college progress after not seeing eachother for a long time and leaving positive feedback\xe2\x98\xba\xef\xb8\x8f'
+p395
+aS"So I've officially finished my first year of college. Holy shit where's the time gone?"
+p396
+aS'Blinn college is nothing but a giant headache &amp; every time I decide to take a class here I immediately regret it'
+p397
+aS"Heading into my last class of my college career, and it's about damn time. #readytograduate #letsgettowork"
+p398
+aS'college stress is ceased for another month!! whooo time to breathe! \nwait jk we still got prom and graduation \xf0\x9f\x98\x91'
+p399
+aS"It's summer time..here comes the rich college dimes \xf0\x9f\x98\x8f"
+p400
+aS'@BleacherReport @JManziel2 did all that in college. Now time to get to work. @nfl'
+p401
+aS"I'm taking the time to discover what I want to do after college."
+p402
+aS"@YandR_Addict   don't be in a big hurry, time goes so fast you'll soon be wishing you were back in college lol    #collegegrad"
+p403
+aS'"@_AdinaWarren: It must be hella fun to go to the same college as your significant other." Not all the time it\'s not. Trust me.'
+p404
+aS'Sometimes college tries a bit too hard'
+p405
+aS"If you are over the age of 23, have a degree, and a full-time job, it might be time to stop pretending like you're still a college frat boy."
+p406
+aS"I hate to say this but, I don't think I'm going to force my child to go to college, by that time it really 100% won't be necessary."
+p407
+aS'I finally wake up on time for school &amp; have to lay back down because my stomach hurts.\n#whatthehell #college'
+p408
+aS'Ohh mercy college how I love your end of semester surveys that fill up my inbox 20 times a day \xf0\x9f\x98\x91'
+p409
+aS"Unless you know exactly what you can realistically do with your life, don't waste your time/money at college."
+p410
+aS'Sometimes I wish I could take a break from college #collegesucks'
+p411
+aS'Around 3 more weeks left my first year in college # Damntimeflies'
+p412
+aS'"@CIassConfess: "Where college decision day is ten times better than the rallies." -Pomona High School'
+p413
+aS'...and college slang strung together into an intrinsic whole, careless, faintly provocative, delicately sentimental. - Scotty Fitzy, May Day'
+p414
+aS"If you are in high school or college or past a certain age period, it's time to start spelling your words fully!"
+p415
+aS"So for the kids back home in the dirty lib trying to experience college for the first time here's my advice for you."
+p416
+aS'Sometimes I wonder what college would be like if the dorms were 5 star hotels'
+p417
+aS'If I had a dollar for every time I could predict exactly what someone was gonna say next I would be 0 college loans to pay'
+p418
+aS"Every time I have a good day, my parents have to scream at me for every little thing I do.. I can't wait to fucking leave for college."
+p419
+aS"You know your times almost up in a college town when you can't put up with all the immaturity #DuecesNac #4months"
+p420
+aS"Sometimes I'm just like should I even go to college. #secondthoughts #confused #help"
+p421
+aS'Yall act like some of these athletes in college have money to buy food every night for themselves sometimes niggas gotta steal to live'
+p422
+aS"Those times when you're sick away at college and your mom isn't there to take care of you...\xf0\x9f\x91\x8e"
+p423
+aS'@TheLaurenPotter I took a diversity class in college a long time ago'
+p424
+aS'Off to my last class of my college career! #timegoneby'
+p425
+aS"7 days and I'm done with freshman year of college. Dam, time flies!"
+p426
+aS"Everytime I come home from college, all my underwear just disappears. I don't get it."
+p427
+aS'I wish I worked this hard the whole semester... Regular college should never complain about time... Ever'
+p428
+aS"I don't remember the last time I came to this class \xf0\x9f\x98\x81 #college"
+p429
+aS'One week left of my first year of college! Holy cow, time flies! #homestretch'
+p430
+aS"If you use a coffee pot to make ramen noodles, you may be a college student. If I happen to need coffee at the same time, you're dead."
+p431
+aS'my boss was like "you do college full time, you work like crazy, and you devote yourself to other things on a daily basis &amp; you amaze me" \xf0\x9f\x98\xad'
+p432
+aS'\xe2\x80\x9c@universitytimes: Rebranding initiative to regroup following college backlash'
+p433
+aS'Had a great time discussing new biz models and college affordability on behalf of students this morning! @LuminaFound #Goal2025'
+p434
+aS'Why everytime I come home from work, me &amp; this lady gotta argue over college money \xf0\x9f\x98\x92\xf0\x9f\x98\x92\xf0\x9f\x98\x92'
+p435
+aS'if someone makes fun of my little bun in my college ID picture one more time \xf0\x9f\x99\x86'
+p436
+aS"can't believe I only have two weeks of my sophomore year of college left.... #timeflies"
+p437
+aS"Bedtime at 3:35 on a Saturday night NOT because I'm drunk like normal college kids, but because I've been up all night doing homework #ugh \xf0\x9f\x98\x92"
+p438
+aS'@SoBronxSchool I was in Ohio going to college at that time it has changes significantly since 86!'
+p439
+aS'everytime I think about college I get nervous cause I really hope I get a good roommate'
+p440
+aS'We sometimes forget that TCAP is merely a moment in time. The true test of whether we served or kids well will show at college graduation.'
+p441
+aS"So close to graduating college for my 2nd time I can taste it, and it's sweet. #nursing #nursingschool"
+p442
+aS"If I had a dollar for all the times I didn't want to do my homework I could buy my way into college."
+p443
+aS'Every time I do a track workout in college I can still hear coach Dave telling me to watch my arms'
+p444
+aS"Dane and drew are watching women's college softball and looking for hot girls on the time, finding them on fb, and messaging them \xf0\x9f\x98\x82"
+p445
+aS"But hey I'm not complaining #tmlt I'm just grateful to be done with school on time and already enrolled in college \xf0\x9f\x98\x8e\xf0\x9f\x98\x81"
+p446
+aS'\xe2\x80\x9c@collegefession: "I can\'t remember the last time I wore a condom or pulled out!!" - Union College\xe2\x80\x9d @chelle_bella06'
+p447
+aS'\xe2\x80\x9c@LaGinaPrice_40: In 2 years I imagine my self in college with a lil shawty to spent time with every now and then \xf0\x9f\x91\x8c\xe2\x80\x9dshut up'
+p448
+aS'"Sometimes in my tears I drown, but I never let it get me down" \n\noften* thx college'
+p449
+aS"A week from today I'll be done with my freshmen year of college \xf0\x9f\x98\xb3 #wheredidthetimego"
+p450
+aS"2 weeks from now I'll officially be a college graduate #overithere #byefelicia #crazytimeflies"
+p451
+aS"So I did my college schedule..I have no classes on Thursday! That'll be the time I use to write papers and do projects lmao"
+p452
+aS'Sometimes I wish I was still actually going to high school, but then again I like having a pay check and going to college for free'
+p453
+aS'Spring semester is finally over! Ready for some relaxin this summer and taking some time away from college'
+p454
+aS"I don't want to seem rude when a real person calls on behalf of a college so I just answer it and don't say a word the entire time"
+p455
+aS'This time next week I will officially be done with my sophomore year of college \xf0\x9f\x8e\x89 #HalfwayThere'
+p456
+aS'I remember the time in college when my friend Aaron pulled out his guitar at a party and played "Nothing Compares 2 U".'
+p457
+aS'Im so nervous about moving away , &amp; starting college in the fall . but Its time to see something new &amp; do BETTER .\xe2\x98\x9d\xf0\x9f\x93\x9a\xf0\x9f\x91\x8c'
+p458
+aS"@ZackGriffis idk. I just know there's no way he is broke. Idc what anybody says, every big time college athlete doesn't pay for meals"
+p459
+aS'Every other college student is stressed about finals but here at the "best maritime school in the nation" we are still taking midterms'
+p460
+aS"@arghsam: It's scary to think that by this time next year most of my class and I will know where we're going to college....."
+p461
+aS"Oh my god...I'm going to be a Junior in college... where does the time go?"
+p462
+aS'@The_Jac_Attack gosh can we just go back to college?!?! I miss you and those great times!'
+p463
+aS'by the time some guys are his age, they have 2 years experience in the NFL, he has 2 years in college.'
+p464
+aS"I've been to union the gay bar more times in my college career than union the osu student union"
+p465
+aS"Literally the first time I've had Ramen noodles whole I've been in college \xf0\x9f\x98\x85"
+p466
+aS'Most girls spend more time and effort on their graduation caps than they do all 4 years in college combined #basic #truth'
+p467
+aS'If I had a dollar for every time someone spelled my name wrong, I could pay for college, a semester abroad, a new car, and a mansion in cash'
+p468
+aS"I can't remember the last time I bought a pack of pens bc I've been surviving college with the ones I find on the ground"
+p469
+aS"Already having the best time with the bestie!!! Can't wait for this delish college breakfast. @laurendanyelle #ramajamas"
+p470
+aS'Sometimes you just gotta not go to class and have a mental breakdown and cry instead #college'
+p471
+aS'Officially done with my freshman year of college. Damn time flies!!'
+p472
+aS"@kellera22231 it's about time you started procrastinating like a normal college student"
+p473
+aS'@KyleLaron I know the feelin. I still having college withdrawals at times'
+p474
+aS'\xe2\x80\x9c@collegefession: "Sometimes I stick my finger in my ass then smell it. It smells kind of good" - Brookdale community college\xe2\x80\x9d @yussfigueroa'
+p475
+aS"Last time I checked I wasn't allowed to go away for college when I graduated because you both wouldn't let me."
+p476
+aS"I honestly don't know how I've gotten this far in college with the amount of time/effort I put in to everything \xf0\x9f\x98\x82"
+p477
+aS"Sometime I feel like I'm good enough to play for a junior college"
+p478
+aS"If my nana talks to me about college one more time I'm going to go crazy \xf0\x9f\x98\x85\xf0\x9f\x98\x85\xf0\x9f\x98\x85"
+p479
+aS'Ummm how long till college football?? #HurryHurry #NCAA #alltimebest'
+p480
+aS'Done with my freshman year of college #timeflies'
+p481
+aS'School year goes by so much faster once your older...last week of sophomore college year. Where has time gone?!?!?'
+p482
+aS'This will be my last week of classes in college. So hard to believe how fast time goes by.'
+p483
+aS"I can't believe today is my last day of classes as a freshman. It feels like college just started... #timeflies"
+p484
+aS"Can't believe I'm already half way through college #timeflys"
+p485
+aS"I'm really glad community college exists and I went to CC but seriously it's sometimes so inconvenient trying to manage two schools at once"
+p486
+aS"I wish I didn't have to wok while I was in college . #notime"
+p487
+aS"@stef_63 last time you'll ever step into a college hahahahahahahahaha"
+p488
+aS'@hmn_13 one time was for doing a donut in the grass at Centre college. He let me go lol.'
+p489
+aS"Really can't believe it's bout that time to be a sophomore in college \xf0\x9f\x98\xb3"
+p490
+aS'1\xe2\x83\xa3 lesson I learned so far as a freshman in college USE YOUR TIME WISELY.. You NEVER have free time'
+p491
+aS"Congrats to all the seniors on college day... Hopefully be this time next year I'll know where I'm going too #juniorhockeyproblems"
+p492
+aS"But like what's college without having a nervous breakdown 10 or 15 times \xf0\x9f\x98\x85"
+p493
+aS"Oh and last time I'll have to walk to an 8am class in my college career (hopefully)"
+p494
+aS'Driving my Cavalier one last time on my way to its new owner. Cranked up @Alkaline_Trio to bring back some college memories.'
+p495
+aS'Two finals to go in my college career and apathy is at an all time high.'
+p496
+aS"Two more months until I'm in college, so much to do and so little time. @DanniiDisasterr  @Rachel050896"
+p497
+aS'Officially done my first semester of college \xf0\x9f\x98\x9c #timeflies'
+p498
+aS'Holy shit \xf0\x9f\x98\xb3 I just finished my first year of college?? I thought I just graduated from high school...?! #timeflies #slowdown'
+p499
+aS'@TheMandonWhite time does fly. About to have my last week of college next week. Enjoy every minute of it man'
+p500
+aS'Just learned @crkowalsky had her last college class @MarquetteU today. Man, time flies.'
+p501
+aS"I guess it's time for some college softball."
+p502
+aS"I gotta think abt college stuff and to be ready for it. I know Im sophomore I don't have time for silly homework. Im mad at it:("
+p503
+aS'Well, that is the first time I actually clicked on or even noticed a "promoted" tweet. Took me back to my college days. #SubservientChicken'
+p504
+aS"\xe2\x80\x9c@JvyTrillv: Porn never gives the back story. Yes she's a college freshman trying anal for the first time. But what are her goals ?\xe2\x80\x9d \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82"
+p505
+aS"There's only a 17% chance of gettin a good full time after graduating college.."
+p506
+aS"haven't eaten a meal since yesterday morning because i haven't had time...but thats all gonna change cuz college is ovaaaaaa manggg \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x8d\xb4\xf0\x9f\x8d\x95\xf0\x9f\x8d\x94\xf0\x9f\x8d\x9f\xf0\x9f\x8d\x97"
+p507
+aS'Definitely gon be looking forward to my brodies playing against each other in college ball. This will be the first time lol kinda exciting .'
+p508
+aS'\xe2\x80\x9c@collegefession: "Sometimes I stick my finger in my ass then smell it. It smells kind of good"- Brookdale community college\xe2\x80\x9d@butlernathan57'
+p509
+aS'Bullcrapping my way through college one paper at a time.'
+p510
+aS"This time in 14 days I'll be a college grad. \xf0\x9f\x8e\x93\xf0\x9f\x8e\x89\xf0\x9f\x8e\x93\xf0\x9f\x8e\x89\xf0\x9f\x8e\x93\xf0\x9f\x8e\x89\xf0\x9f\x8e\x93\xf0\x9f\x8e\x89\xf0\x9f\x8e\x93"
+p511
+aS'I hate but love college at the same time ... Is that possible?'
+p512
+aS"@FuckThatShxt @_Marlincia take your time college ain't shit"
+p513
+aS'Dang, 4 finals are between me and being a Junior in college. Where has the time gone?'
+p514
+aS'this time tmrw im done with my freshman year of college #YES'
+p515
+aS"So I sleep a lot during my free time, what's the big deal? Im a stressed out exhausted college student I'm entitled to sleep whenever I want"
+p516
+aS"Finally done with my sophomore year of college!! It's been real Butler, but it's drum corps time"
+p517
+aS"I'm busting my ass in college, I'm so happy I'll be half way through my sophomore year by the time fall starts\xf0\x9f\x98\x8e"
+p518
+aS"Local college leaders aren't worried about online courses at prominent schools emptying classrooms anytime soon."
+p519
+aS'\xe2\x80\x9c: Don\xe2\x80\x99t exclude PLENTY of opportunities for playing time, scholarships &amp; a college degree by only focusing on Division I programs\xe2\x80\x9d'
+p520
+aS'@khirstenwhite Monday at 10 is the only time we can take that Exam at the college. We can go to school an you can ride with me?'
+p521
+aS"This time next week, I'll be in Tallahassee with my best friends. Oh yea and I'll be graduating college. Holy shit \xf0\x9f\x98\xb3\xf0\x9f\x98\x8d"
+p522
+aS'@BigFigYaDig3 fulltime college student-employed-musician-gf-godking'
+p523
+aS'How college makes you feel just about 97% of the time'
+p524
+aS'Hi, @kaileighdemps, remember that one time you asked college seniors if the reason they were dressed up was for senior HS prom? #RingDance'
+p525
+aS"lol -don't be disappointed. \nA 4-year college degree takes most people 5 years (sometimes 6 if u had Developmental classes &amp; go into Medical"
+p526
+aS'"@collegefession: "I go into the bathrooms and steal the toilet paper all the time #BrokeCollegeKidProbs" - Texarkana College" me last year'
+p527
+aS'I miss a more simple time in life when I was living with @hannahgrace09 and @CarySCARY was my neighbor \xf0\x9f\x98\x94 can we go back to college?'
+p528
+aS"According to my sister 6 times 12 is 6 and you won't get into college if you don't have friends #duh"
+p529
+aS"@JordanLorenc I'm sorry \xf0\x9f\x92\x94\xf0\x9f\x92\x94 summers coming tho so we'll hangout all da time before I go to college"
+p530
+aS'Officially done with my freshmen year of college! #timeflies'
+p531
+aS'its our college dorm room &amp; we aint really doin nothing as the time flies by\xe2\x99\xac\xe2\x99\xac\xe2\x99\xac\xe2\x99\xac\xe2\x99\xac'
+p532
+aS'Sophomore year of college is done! All moved out of my dorm for the last time (praise da lawd). Leaving for Italy in 14 hours. Life is good\xf0\x9f\x98\x8e'
+p533
+aS'"can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight and go to the part where i have a really awesome job &amp; spend all my time traveling?\xe2\x80\x9d'
+p534
+aS"Can't believe I'm at the end of my 3rd year of college. Where does time go?"
+p535
+aS"I can't believe I'm taking my senior pictures for college graduation on Monday. Where has the time gone?!"
+p536
+aS"Sometimes I wish my mom would foster a kid. But she's always working and I'm going to college in a few months."
+p537
+aS'Ladies, is there some kind of unwritten daytime dress code on college campuses that state you must wear a t-shirt and shorts? #AllTheSame'
+p538
+aS"Found a tbt pic of me and Coty's first time going to the club in college.....lord what was we thinking lmao \xf0\x9f\x98\xb3#wecamealongway"
+p539
+aS'Thank God for you @TacoBell. Without your inexpensive prices, a college kid like me would go hungry at a time like this. God bless you.'
+p540
+aS'@sfloyd4234 @joshjackson53 Uhm im in college and work full time thank you \xf0\x9f\x91\x8d'
+p541
+aS"First day back and I'm already back to work. I kind of wish I had time to rest but I know college isn't going to pay for itself so..."
+p542
+aS'Positions that require college degrees. Sometimes I just dont get it. Ive been doing this for a long time. Is it absolutely required? #sigh'
+p543
+aS'One week from this exact time I will be done with finals along with my freshman year of college..Wow. #timeflies'
+p544
+aS"My physics teacher just scolded us about how none of us will be successful in college so that's always a fun time"
+p545
+aS"Absolutely blows my mind that it is finals week? Where has the time gone? I'm about to be a junior in college! This has got to be a joke! \xf0\x9f\x99\x88\xf0\x9f\x98\x81"
+p546
+aS'In 2 hours I will be done with my first year of college. Ugh time really flies \xe2\x9c\x88\xef\xb8\x8f\xf0\x9f\x92\x98'
+p547
+aS"I don't think college is as hard as people make it out to be, it just depends on how much time and effort you're willing to put in"
+p548
+aS"@TannerReeves Don't rush it! Plenty of time. You will meet your forever after in college."
+p549
+aS'I met good people in college . I should spend more time with them and watch me do better'
+p550
+aS'@spladow @SaraKateW you forget how long ago college was for me. I\xe2\x80\x99ve had lots of time to learn things since then'
+p551
+aS'My freshman year in college is almost over, oh how time flys.'
+p552
+aS'I think about graduating college , getting married and becoming a mommy all the time .'
+p553
+aS"@breonajoy welcome to the college life won't be the last time you say that!...sadly"
+p554
+aS'Its hard to believe in two weeks  freshman year of college is over!! #timeFlys #wow'
+p555
+aS"Sometimes I remember that there's college students not taking science classes and I'm filled with wonder and envy. What is communications"
+p556
+aS'I reallyyyy can wait for my sophomore year of college.. Not too excited this time around \xf0\x9f\x98\x93'
+p557
+aS'\xe2\x80\x9c@VivaaaaLaRayne: in due time. college grad gift.'
+p558
+aS"@JacobJones_21 still I don't drink at all since I joined  plus yeah I did tht but I drank all the time when I was at college"
+p559
+aS"I'm a senior in college. Da fuck where has time gone"
+p560
+aS"@Pyknic I hated college the first time, pursued my dreams and now I'm graduating culinary school in 2 weeks.Thanks for the inspiration today"
+p561
+aS'if you talk about college all the time I probably hate you #ChristinaRoasts2k14'
+p562
+aS"This time next week, I won't be living in the Sigma house anymore &amp; I'll be a senior in college \xf0\x9f\x98\xad #wut"
+p563
+aS'Officially done with college. Thank you @GVSU for making this experience what it was #LakerForALifetime'
+p564
+aS"Packing up and heading home today, still can't believe I'm through 3 years of college. Where did the time go?"
+p565
+aS'bringin back college memories, good &amp; bad. #timeofmylife'
+p566
+aS'The best college graduation gift I could get would be if @springsteen asked me on stage with him!  #foreverfavorite #bosstime'
+p567
+aS"Just had a guy give his seat up for me for the first time since I've been in state college...so adorable \xf0\x9f\x98\xb3"
+p568
+aS"It's most definitely crunch time #college #crunchtime #finalsSoon"
+p569
+aS"\xe2\x80\x9c@JeeezJazz: .....We are college educated, right?\xe2\x80\x9d Sometimes I'm not so sure lol."
+p570
+aS'Honestly if I go back in time I would go away to school so I can get that real college experience'
+p571
+aS'My whole timeline is everyone a year ahead of me I thought college is supposed to make you tired'
+p572
+aS'@MattymayorLVS ew no stop, I wanna be a track Olympian there no time for games \xf0\x9f\x98\x82 cheer has to wait in college sadly'
+p573
+aS'I need more time to mediate and be alone, college has made me like people a lot less lol.'
+p574
+aS'I could be out having a good time. But college fucking sucks.'
+p575
+aS"If I have enough time before college when I get back. I'm going to become a fire fighter. No bull shit"
+p576
+aS'@MEG_nesium promise me that we will hang out sometime b4 college'
+p577
+aS'@whatthehellie I went to my first choice graduated on time and Now wish I went to community college to save THOUSANDS. \xf0\x9f\x98\x94'
+p578
+aS"I hate I'm not graduating from college on time"
+p579
+aS"No big deal. I'm gonna be a sophomore in college. Where did the time go\xf0\x9f\x98\x81"
+p580
+aS'\xe2\x80\x9c@collegefession: "Every time I jack off I think of my ex girlfriend. Fml" - Columbus state community college\xe2\x80\x9dwhat a pusscake'
+p581
+aS'@HubertSanders I hope to see you sometime soon, now that I am done with my first year of college and now into summer. Hope to see you soon!'
+p582
+aS'I have three exams today and my freshman year of college is complete. #timeflies'
+p583
+aS'"@Marisaa_Iolaa: Hopefully I have better luck in college"basically what I\'m banking on since high school guys suck most of the time.'
+p584
+aS'The most fun time in your life is apparently supposed to be college... Mine will be high school because I go to #uta'
+p585
+aS"It's weird thinking I'v already been in college for two years! Where has the time gone?"
+p586
+aS'Crazy thing about a junior college is right when everybody get cool and close its time to leave...'
+p587
+aS'@SportsFanatico  you right but excluding the college rule, he might be one of the greatest of all time..no doubt'
+p588
+aS"Reflecting on the fact that I'm almost done with my first year of #college. #woah #timeflies #thatwasquick #imold #ForrealThough"
+p589
+aS"Still confused at how I'm officially a junior in college... #timeflies"
+p590
+aS'Officially a senior in college, summer time.. And a sleeping toddler in my backseat, what could be better? #love \xf0\x9f\x91\x91\xf0\x9f\x98\x8d\xe2\x98\xba\xef\xb8\x8f'
+p591
+aS"It's around that time in college when people start stealing shit. Y'all better make sure you lock your doors!"
+p592
+aS'Love spending time with these guys, reliving college memories. #k186'
+p593
+aS"A BIG part of being a full time faculty member is integrating yourself into the college climate.  It's political.  Adjuncts stay invisible."
+p594
+aS"Bravos just won a game I went to.  First time since college. No kiddin Don't really know how to act.   #thinkingcheetah  #shitmykidsrwithme"
+p595
+aS"I Need 2 go back to school SMFH I graduated 7 years ago from a community college ! I'm fucking playing and wasting time !"
+p596
+aS"It just hit me that I'm almost done with my first year of college damn did time flyyyy"
+p597
+aS'About to go to my last class in college #timeflies'
+p598
+aS"Just took my last exam to wrap up my freshman year at college! It's time to enjoy summer now\xe2\x98\x80\xef\xb8\x8f"
+p599
+aS"Can't believe it's my last time ever being in school with @MontanaIrizarry we've been friends since day 1 of college! \xf0\x9f\x98\xa2\xf0\x9f\x92\x96"
+p600
+aS'just saw my dad for the first time since I left for college..... bittersweet'
+p601
+aS"1 super good thing about college is that your parents don't know you watch gay porn. The problem is goin home and tryin to find the time to"
+p602
+aS'Almost done with my first year of college, damn time flies.'
+p603
+aS'Knowing I have 8 credits, a full time &amp; part time job this summer makes me dread leaving college even more #byesociallife #dontmakemeleave \xf0\x9f\x98\xa9'
+p604
+aS"And every time finals come around I wonder if I'm doing college wrong...cause they never stress me out."
+p605
+aS"Sam's dad made my want to die. Now a billion times more nervous for college."
+p606
+aS'my sister is asking for advice about college admissions...where has time gone'
+p607
+aS'@GovGaryJohnson Are you going to visit Ohio Wesleyan University to talk with college students about important issues any time soon? #GovGary'
+p608
+aS"Just occurred to me that this is likely the last time I'll be drunk off cheap beer in college. Well, that's a little heavy."
+p609
+aS'\xe2\x80\x9ccan we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing, go straight to the part where i have a really awesome job &amp; spend all my time traveling?\xe2\x80\x9d Pleasee\xf0\x9f\x99\x8f'
+p610
+aS"MICA adjunct faculty vote to form union: It's first union to represent part-time faculty at a four-year college..."
+p611
+aS'Honestly can not believe my freshman year of college is coming to an end.. Best memories of my life #timeflies'
+p612
+aS'I keep seeing posts from people who didn\'t go to college talking about how "college is a waste of time" lol #LookAtYou #NowLookAtUs'
+p613
+aS"I'm gonna have gray hair by the time I graduate college from all this stress. \xf0\x9f\x98\x90"
+p614
+aS'Use one word to describe how lost you feel in college sometimes: Croatoan'
+p615
+aS'By the time I graduate my college education will be worth over a quarter of a million dollars \xf0\x9f\x98\xb3\xf0\x9f\x98\x82\xf0\x9f\x98\xa9'
+p616
+aS"Yup my printer would stop working at pivotal time in my college career \xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91 maybe it's a sign that I should be famous instead"
+p617
+aS"wait so I'm a junior in college ... whaaaattttt #timeflies"
+p618
+aS'my first year of college is almost done. where did the time go?'
+p619
+aS'Sometimes I think about going back to college, and then I think about what happened last semester. #thefuckery'
+p620
+aS"@derekSFCgibson good. Cherish it. I can't tell younger players enough. You never get back your time playing in college, so enjoy it"
+p621
+aS'#tbt that time I graduated college. No big deal or anything. #SUNY #Fredonia, where all your wildest\xe2\x80\xa6'
+p622
+aS'Officially done with my freshman year if college. Damn time flies!'
+p623
+aS'"You\'re in college?" I get this all the time. I wish I looked my age\xf0\x9f\x98\xad'
+p624
+aS'Sometimes I love college @ Centenary College of New Jersey'
+p625
+aS"@kiddstclair yeah I didn't waste my time on it. Truly not interesting to me.. I like college format better.. Just too many games for me."
+p626
+aS"@BeaverCleaver92 it's all good! That's the beauty of college, you can take as much time as you want"
+p627
+aS'"there was a time when i was going to give someone a blowjob but i realized i have a gag reflex" #college????????????'
+p628
+aS'Going through my Instagram photos and remembering so many memories from college to now. Crazy how fast time is going. \xe2\x8c\x9a\xef\xb8\x8f'
+p629
+aS'The only time I put real clothes on today was to go get wine from the store. I love being a college graduate already.'
+p630
+aS"When you have a full time job and you're a college student.....staying in on weekends/nights is an amazing feeling \xf0\x9f\x98\x8d"
+p631
+aS'I would love another 4 years of college #goodtimes #goodpeople #GoBlue'
+p632
+aS'God I love state college...most of the time'
+p633
+aS'Got 2 more days of my freshman year of college! \xf0\x9f\x98\xb3\xf0\x9f\x92\xa8 time flew!'
+p634
+aS'Had a wonderful college visit w @mattmuterspaw even tho he has strep. Nothing like spending time with your kids.'
+p635
+aS"Damn it's going to be 2 years since I graduated from high school damn time goes by way too fast and I am almost done with college already"
+p636
+aS"@NOTSCCleveland He is by far one of the most underrated college QB's of all time."
+p637
+aS"I can't believe that I'll be done with my first year of college in two weeks #timeflies"
+p638
+aS'Man college sucks sometimes.'
+p639
+aS"Apparently Kim Jon invented the hamburger, shot 11 hole-in-one's his first time golfing and wrote 1500 books in college."
+p640
+aS'One final away from being done with my first year of college. where did the time go?!'
+p641
+aS'The month of May in college is no different than March in NCAAB, October in baseball, or January in the NFL: crunch time'
+p642
+aS'Sometimes I think, wow college sucks, but then I realize that I still could be in high school'
+p643
+aS'At times I love being a college student but times I just hate it so much'
+p644
+aS'\xe2\x80\x9c@collegefession: "Sex, Sports Center, Naps, Repeat..." - Suny Maritime\xe2\x80\x9d my life in college'
+p645
+aS'Thankful that college is so much less time consuming than highschool \xf0\x9f\x99\x8f summer T-6 days.'
+p646
+aS"We'll I guess it's bedtime... Idk #college"
+p647
+aS'@hc3_06 ikno dawg but they not gon hire me cuz of college\xf0\x9f\x98\x92 like last time'
+p648
+aS'First college assignment...wow time flies'
+p649
+aS"I can't believe my first year of college will be over in a week \xf0\x9f\x98\xb1 weird the time go."
+p650
+aS'I think college athletes should have been getting paid a long time ago honestly'
+p651
+aS'The only thing I learned in college was time management, aka having fun but still not failing classes, but I guess not everyone learned that'
+p652
+aS'Sometimes wish I was going to a college super far away to get away from mason people'
+p653
+aS"Can't believe I'll be done my second year of college in a week.... #timeflys"
+p654
+aS"You know you're in college when as soon as you wake up, you're planning out when you'll have time to nap."
+p655
+aS"Just dropped a whole 2 ply roll of toilet paper in the toilet on a college budget so I think it's time to call it a night."
+p656
+aS'Sometimes I hate going to college where my mom works. \xf0\x9f\x98\x92'
+p657
+aS'Working full time and going back to college was such a great decision #debtfree #nolife'
+p658
+aS"The ONLY thing that's keeping me from sleeping at night is making sure college info &amp; scholarships are turned in on time. \xf0\x9f\x98\xa9"
+p659
+aS"Can't wait to start college \xf0\x9f\x98\x81 by the time I'm 22 I'll be successfully working a/"
+p660
+aS"@TonyDCox college is so damn stressful. That's the time in my life when I started."
+p661
+aS'Just finished our last classes of college where did the time go \xf0\x9f\x98\xb1 @ Clemson University'
+p662
+aS'The ratchetness that you witness in college park at this time..... Bish whet?'
+p663
+aS"\xe2\x80\x9c@villavanilla71: Only two weeks left for my freshmen year in college. \xf0\x9f\x98\xb3 #TimeFlies\xe2\x80\x9d then it's time to come home maolung"
+p664
+aS"@KirkHerbstreit don't forget he is still a college kids. They tend to do some stupid things from time to time."
+p665
+aS'I thought this whole time that you needed both SAT and ACT to get into college when mainly you need one wow'
+p666
+aS'Freshman year of college \xe2\x9c\x94\xef\xb8\x8f #timeflew'
+p667
+aS'This is the only time I watch NBA, when college ball is over &amp; the playoffs start. .'
+p668
+aS"Getting ready for college is stressing. I hope college ain't stressing all the time"
+p669
+aS"I don't want him to be a recluse all summer. Nows the time that we need to figure out our lives since we aren't going to college right now!"
+p670
+aS"I'm gonna visit @sofiadiaco all the time at college next year"
+p671
+aS"I deadass graduated from college. Time to grow up and stop acting like a kid now. It's time for reality."
+p672
+aS"I'm almost done with my freshman year of college...\xf0\x9f\x98\xb3 crazy. #timeflies"
+p673
+aS'Is it #bedtime yet? #homework #40days #seniors dartmouthcollege @ Dartmouth College'
+p674
+aS'\xe2\x80\x9c@collegefession: "Sometimes I stick my finger in my ass then smell it. It smells kind of good" - Brookdale community college\xe2\x80\x9d \xf0\x9f\x98\x82 weirdo'
+p675
+aS'"If I had a dollar for every time someone spelled my name wrong, I could pay for college, semester abroad, a new car, and a mansion in cash"'
+p676
+aS'I wonder why people gain weight in college, then I ask myself how many times a night I eat dinner &amp; my first question is answered'
+p677
+aS'what wonderful timing my boss has to give me fulltime hours. this week and next week. not like im trying to finish college right?'
+p678
+aS'Both girls know where they are going to college. ... time goes to quick\xf0\x9f\x98\xa8\xf0\x9f\x98\xa2\xf0\x9f\x98\xa7\xf0\x9f\x98\xa2'
+p679
+aS'In exactly one month, at this exact time I will be graduating college. Let the stress and excitement begin\xf0\x9f\x8e\x93'
+p680
+aS"college is a time for growing some balls &amp; gaining independence. relying on others won't get you very far in life."
+p681
+aS"i wish it was 2015 time to get out of school and go to college ... but it's coming \xf0\x9f\x92\xaf\xf0\x9f\x91\x90"
+p682
+aS"I can't believe I graduate from college in 20 days!! #crunchtime"
+p683
+aS'I hope this is the last time i pick early classes throughout college'
+p684
+aS'One thing college taught me is how much I can do in a small period of time'
+p685
+aS"Pretty cool topic today from @WiLD941 , even though I'm in college, still feels kind of worthless sometimes #GatorNation"
+p686
+aS'\xe2\x80\x9cIf I had a dollar 4 every time some1 spelled my name wrong, I could pay 4 college, time abroad, new car, &amp;a mansion in cash.\xe2\x80\x9d@KarrahLynnT'
+p687
+aS"@uniqueLIGHTSKIN girl don't rush it college is stressful sometimes !!"
+p688
+aS"Well, this girl has officially completed her freshman year of college! I can't believe time has flown\xe2\x80\xa6"
+p689
+aS'My momma is the best! Much needed relaxation time after a crazy first year of college \xf0\x9f\x98\x8a'
+p690
+aS"@Zorak84 Amen to that. It's hard to celebrate my college graduation when I add up how much I owe, esp. w/bad job prospects. @nytimes"
+p691
+aS'bout to be a junior in college. where does the time go?'
+p692
+aS'The biggest thing college taught me is how much I can do in a short period of time'
+p693
+aS'Just circled up for the last time as an Georgetown college student. Wow.'
+p694
+aS"I'm def gonna take college classes over summer vacation and winter just to get my credits up. Must graduate on time \xf0\x9f\x98\xad"
+p695
+aS'Ok, what college do you know let you take ONE CLASS for five weeks. #illwait lol whoever came up with this was ahead of their time...genius.'
+p696
+aS'The best thing about college is all the time all the spare time you have for naps'
+p697
+aS'Bedtime is the BEST time (says anyone over the college age)'
+p698
+aS'If I had a dollar for every time someone spelled my name wrong, I could pay for college, semester abroad, &amp;a new car in cash.\xe2\x80\x9d@C0llege_g1rl'
+p699
+aS'Dude I have 3 days of school left and I have completed my first year in college .. \xf0\x9f\x98\xb3 where has time gone'
+p700
+aS"So glad I didn't waste my time and money going to college first\xf0\x9f\x98\x81"
+p701
+aS"It's that time of year again my fellow college students. Study hard and remember we only have a week left!"
+p702
+aS"I don't understand why Coachella and Stagecoach are put on around the same time as most college's finals. Smh."
+p703
+aS"I MEAN, I'm in college and all. But I wouldn't mind participating in the Prom shenanigans one last time. Tbh."
+p704
+aS"Filling out a survey for two free tacos from Jack in the Crack cause I'm a broke ass college student. Hard times my friends."
+p705
+aS"It's finally starting to hit me. I'm done at hutch college. Where did the time go? #wow"
+p706
+aS'I just need someone to help me pass time before I leave for college \xf0\x9f\x92\x81'
+p707
+aS'One time, my teacher wrote "booo!!!" and "this is college, improve!" on my paper because it was that bad #goodtimes'
+p708
+aS'@annshoket I would love a Bahamas beach vacant to unwind from the stress of college &amp; my part time job! #AnnFreebie'
+p709
+aS'This time next week, I will be done with college.\xf0\x9f\x98\xb3 I never knew I could feel so old and so young at the same time.'
+p710
+aS"@Mich3ll3_Jordan I'm sorry! I remember doing that one time too. I was mortified. I locked myself in &amp; cleaned it all while DRUNK #college"
+p711
+aS"I just feel like I'm going to spend a good amount of my time browsing 4chan boards while i'm In college"
+p712
+aS"I say this all the time but I'm so glad there's no dress code in college"
+p713
+aS'Every time I listen to the college dropout album I feel like a loser\xf0\x9f\x98\xad #whatadegreedoforyou'
+p714
+aS"Can't believe I just finished my freshman year of college!! #timeflies"
+p715
+aS"I don't understand how all these people find the time and money to go to every music festivals AND attend college full time."
+p716
+aS'I realize only college kids and under call it day drinking. Regular grown mfers just call it drinking no matter what time \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p717
+aS'No morning PT, no practice, and no weights. So much free time. Is this what college is like?'
+p718
+aS'This time tomorrow I will be DONE with my sophomore year of college. \xf0\x9f\x99\x8c\xf0\x9f\x99\x8c'
+p719
+aS"I don't know how you make it through any time in college and don't know how to use PowerPoint, but I kind of hate you for it, group member."
+p720
+aS'Graduation is 23 days away... So many big things happening in such a short period of time! #UIUC #Graduation #MovingOn #College #collegelife'
+p721
+aS"Sometimes I wish we could've all just went to the same college\xf0\x9f\x98\xa9\xf0\x9f\x98\x94"
+p722
+aS'I love how in college you can just walk out of your class anytime you want'
+p723
+aS'This whole "college" thing Trevor does is getting in the way of my cuddle time.'
+p724
+aS'Last home game as a college baseball player tomorrow!! Ahhh crazy how time flies'
+p725
+aS'Just met some amazing people at a college grad party sometimes I love people'
+p726
+aS"Only two more weeks of this bullshit &amp; I'll be a junior in college.. #timeflies"
+p727
+aS'There are times when I regret everything since coming to college and today is one of those days.'
+p728
+aS"I can't believe I'll be a senior in college soon, time is flying by\xf0\x9f\x98\xab"
+p729
+aS'Officially a junior in college. Where has the time gone?! \xf0\x9f\x98\xb3\xf0\x9f\x99\x88\xf0\x9f\x98\x9c\xf0\x9f\x98\x81'
+p730
+aS'I graduate college tomorrow.. Holy cow where has the time gone.'
+p731
+aS"I'm slowly starting to think college is a waste of my fucking time"
+p732
+aS'if I had a dollar for every time colin said "this field trip is ass" today I could jus fail the class n drop out of college rich'
+p733
+aS'#MilitaryKids have a hard time settling down anywhere - we anticipate the move. After college, I HAVE to move again. I just have to.'
+p734
+aS"I need to stop acting crazy el oh el , half these bitches gon be in the dirt,prison,prego, and/or broke, by time I'm college #Whoareyou"
+p735
+aS'I just really hate and love college at the same time.'
+p736
+aS"I wanna leave somebody a $1000 tip sometime and pay for someone's college."
+p737
+aS'we should be able to pick the classes we want to go to and at what time in high school just like they do in college \xf0\x9f\x98\x92\xe2\x98\xba\xef\xb8\x8f'
+p738
+aS"Everytime I get asked what college I'm going to I'm going to eat a bite if Ice cream and pretend I didn't hear the question"
+p739
+aS"Lord willing, next year around this time I'm gonna be packing to come back to LA &amp; I'll be done with my first year of college \xf0\x9f\x98\xad \n\n#cantwait"
+p740
+aS'If I had a dollar for every time someone spelled my name wrong, I could pay for college, semester abroad , a new car , and a mansion in cash'
+p741
+aS"I want to be in college again. I think it's time for a masters degree! happy birthday @clemimo \xf0\x9f\x8d\xbb\xf0\x9f\x8d\xbb"
+p742
+aS"I can't wait for college!! I can't wait to see new faces and get back to the good times with those that I already know! #Godsplannotmine"
+p743
+aS"Second time doing 110 hurdles at college height. Let's gooooooooq"
+p744
+aS'This time next week be in Tally to watch my son graduate college. #ProudDad'
+p745
+aS'Ive been waiting for this day #college #weekend #jaydentime'
+p746
+aS'"@GoogleFacts: An anonymous donor pays for the college education of every student in Kalamazoo, Michigan" time to move lol'
+p747
+aS'@GarrettHoy this summer, we will release a mixtape before you go off to college man! Im not kiddin this time'
+p748
+aS'Gonna say this for the fucking millionth time I hate college'
+p749
+aS'@Drew_wants_you you wish you were still in college, best time of your life #YouPeakedInCollege'
+p750
+aS'For the first time ever in college I passed a class with an A \xf0\x9f\x98\x8e'
+p751
+aS"I've definitely taken the whole celebrating the end of finals thing a little too seriously this weekend \xf0\x9f\x99\x88\xf0\x9f\x98\x8f #goodtimes #college"
+p752
+aS'Bad time for the express computers to be down brooklyn college library'
+p753
+aS'By the time some guys are kelvin benjamins age, they have 2 years experience in the NFL, he has 2 years in college'
+p754
+aS'Booking a one way flight to college next year... #timeflies'
+p755
+aS'every time I visit a college, I am reminded that college is getting close and I am getting older anD BILLS AND RESPONSIBILITIES AND WHY'
+p756
+aS'I sometimes wonder if being a college student just makes you a socially acceptable alcoholic'
+p757
+aS'Sometimes you just gotta have a donut and egg and cheese bagel. For dinner. At midnight. #college'
+p758
+aS"I'm grown now . she first finished her first year of college \xf0\x9f\x98\x8f I had to do for the real niggas one time"
+p759
+aS"You're in college now, it's time to shower and not have BO. Thanks."
+p760
+aS'But at the same time, that was so much hell to go through,..... Especially for my freshmen year in college.'
+p761
+aS"Great! More me time! RT\xe2\x80\x9c@Halmet_Tayar: And just like that I'm done with my first year of college\xe2\x80\x9d"
+p762
+aS"Maybe I'm so crazy or psycho bc I'm for the most part completely dedicated to being a full time college student and work my ass off"
+p763
+aS'So really why are there not college nap times? #DreamCollege'
+p764
+aS"And with that I'm halfway through college! #summertime"
+p765
+aS'.@elizabethforma thinks college debt is too high &amp; @nytimes thinks there are too many rich people @ good colleges. #conflictedLiberals'
+p766
+aS'One essay separates me from being a college graduate! #grindtime'
+p767
+aS"I'm excited to be the third to graduate college in my family but so nervous at the same time\xf0\x9f\x98\x92"
+p768
+aS"the only time i'll be forced to do hw is the day before deadline... can't keep doing this to myself bc college \xf0\x9f\x98\x92\xf0\x9f\x94\xab"
+p769
+aS'By the time I go to college, it would be with kids who were in elementary school.'
+p770
+aS'Talking with @victoriawatttt about choosing the right college. Really not looking forward to that bittersweet point in time.. \xf0\x9f\x98\xb3'
+p771
+aS"Sometimes I feel like this college stuff is just a long dream and at any moment I'll wake up from a nap in mrs.dornaks's class or something"
+p772
+aS"Is it bad that i just teared up because my college has a ban on omegle and won't let me FaceTime my man crush? @AndreDrummondd #FacetimeMe"
+p773
+aS'My whole time hop is college apparel day last year \xf0\x9f\x98\x94'
+p774
+aS'If my parents say "college student" to me one more time, I\'m gonna hurt someone.'
+p775
+aS"Most the time I forget I'm in college"
+p776
+aS"I don't understand people who waste their college careers drinking and partying all the time. Am I the only one who likes success?"
+p777
+aS'Last time I checked we where in college not in high school...'
+p778
+aS'"I gave up on humanity a long time ago, college has changed me" wise words from Tim'
+p779
+aS'Being a graphic designer at lasell college means that you pay 200 dollars a year for photoshop but have limited time in the day to use it'
+p780
+aS'I am a senior in college now. Seems just like yesterday I was a senior in high school #timeflies'
+p781
+aS'Thank god I go to a mediocre college, I can barely do all my homework on time as it is'
+p782
+aS"Can't believe I only have 4 days left of classes in my college career, time to buckle down and graduate"
+p783
+aS'Going home Monday and seeing my second mom for the first time in a long time. The night before I left for college freshman year we cried.'
+p784
+aS"Gotta make another trip here with all my college buds that didn't come this time and eat a bunch of bombers and Pizza Bella"
+p785
+aS"First time really admitting I'm ready to be in college \xf0\x9f\x92\x9c"
+p786
+aS'Sometimes college causes you to do odd things \xf0\x9f\x98\x8b'
+p787
+aS'\xe2\x80\x9c@run2ualways: OMG just realized Taylor will be home next week Her first year at college is already almost over #timeflies\xe2\x80\x9d @chuckk_TAYLORs'
+p788
+aS'\xe2\x80\x9c@NSobotka: \xe2\x80\x9c@collegefession: "Every time I jack off I think of my ex girlfriend. Fml" - Columbus state community college\xe2\x80\x9d #gocougars\xe2\x80\x9d\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p789
+aS"It's finally May \xf0\x9f\x8c\x9e\xf0\x9f\x8c\xbb it better be hot from now until it's time for me to leave for college"
+p790
+aS'Officially a senior in college\xf0\x9f\x98\xb3 #wheredidthetimego'
+p791
+aS'My boys from college !!!! h_colt87 @Brian_D_Butler #greatfriends #greattimes #houston #texas #fun @\xe2\x80\xa6'
+p792
+aS"scratch that. I've come to dunkin donuts more times in college than my entire life"
+p793
+aS'"@collegefession: "Sometimes I stick my finger in my ass then smell it. It smells kind of good" - Brookdale community college" what the fuck'
+p794
+aS'Every time I have to write a paper for college I think about dropping out \xee\x90\x92\xee\x90\x92\xee\x90\x92 Is that bad?? \xee\x90\x92\xee\x90\x92\xee\x90\x92'
+p795
+aS"Fun fact: I haven't slept at night time since tuesday night. I cant do anything to fix this. I hate college."
+p796
+aS'Great time in college station last night! @SethWBass @ClaytonGardner @JustIngenious @cchuffdrums'
+p797
+aS'Love being stared down and studied every time I walk by a college tour on campus'
+p798
+aS'White House Garden Tour with my college roomie. #whitehouse #whgarden #washingtondc #goodtimes @ The\xe2\x80\xa6'
+p799
+aS'Getting my coworkers back into college..One at a time heh'
+p800
+aS'@ladygaga aww. I miss my cats so much. Sometimes college is a real drag'
+p801
+aS'Living it up @ UT best times of my college life ha.'
+p802
+aS'I hate college two times a year; a couple weeks before winter break and right now.'
+p803
+aS'@franky_rdz why did I think this said I cant wait for college \n\nlike I had to read it 3 times'
+p804
+aS"Spending time with my parents is the best. I'm really gonna miss them when I go to college. #daddysbabygirl"
+p805
+aS'officially done with my freshman year of college \xf0\x9f\x99\x88 where did the time go'
+p806
+aS'The best part about college... Classes getting canceled \xf0\x9f\x99\x8c #thankyou #naptime'
+p807
+aS"It feels like I just graduated high school. Now I'm almost done with my freshman year of college. Where did the time go?!"
+p808
+aS"Can't believe I'm already almost done with college! \xf0\x9f\x98\xb3 #wheredoestimego"
+p809
+aS'First time ever at grand central station! Headed to Connecticut to go party w some college kids. @\xe2\x80\xa6'
+p810
+aS'I feel like going to college is waste of time and money, Go create something out in real world instead #collegesucks'
+p811
+aS"\xe2\x80\x9c@tarzann94: Last week of school then it's finals time. Lawd please with me finish my first year of college!\xe2\x80\x9d Then you get to come home \xf0\x9f\x92\x96"
+p812
+aS"Can't believe this is the last week of classes for my freshmen year of college. #timeflies"
+p813
+aS'Every time I watch Greek I get more and more excited about college!'
+p814
+aS"Every time I lift I instantly regret every drunken scrapple I ever got into in college. My wrists are fucked for life because I'm an idiot."
+p815
+aS"Sometimes I find myself thinking about what my life would be like at this point if I never went to college...it's never good."
+p816
+aS"I'm bout to graduate and go to college I ain't got time for games frfr"
+p817
+aS'\xe2\x80\x9c@TopCollegeVines: How #college feels... All the time. '
+p818
+aS'Insanity for the second time. Time to get rid of all that college weight. #motivationmonday'
+p819
+aS'Getting heated out here.. And we think UC brought the whole college to play..\n\n@CincySaints 0 - 1 @UCClubSoccer \nHalftime'
+p820
+aS"I think it's time they make Neds declassified college survival guide lol"
+p821
+aS"Just hit me I have college tryouts in less than 2 days and I still haven't given my body time to heal up from Worlds! #GoHomeOrGoHard"
+p822
+aS"Omg I got an A on my midterm. I can't even remember the last time I saw the letter A in college."
+p823
+aS"That's why my parents are able to send me to a college full time and the tuition is 40,000$ a year."
+p824
+aS'So my last day of junior year of college is next week. Where has the time gone and can I please just go back to being 6 years old? \xf0\x9f\x98\x94'
+p825
+aS'I see people making more money than people who are in college. College legit makes you broke sometimes, but the degree IS worth it.'
+p826
+aS"I'm 17. Go to high school and beauty college. And I work two jobs. No I do not have free time."
+p827
+aS'this time last year I was getting pumped for graduation and senior trip.. now I feel doomed to hell with college\xf0\x9f\x98\xa3'
+p828
+aS"@LastKingsGT I wouldn't say alot probably a few times a year. Want to go more but college keeping me busy"
+p829
+aS'T minus nineteen hours until I am done with my sophomore year of college. #timeflies #crunchtime #summer'
+p830
+aS'Best way to wrap up the best year of college so far #summatime @ block PARTAY'
+p831
+aS"Had a great time at prom tonight! \xf0\x9f\x98\x8d\xf0\x9f\x91\xab\xf0\x9f\x91\x97\xf0\x9f\x91\xa0\xf0\x9f\x92\x84 @ JK we're in college.."
+p832
+aS'Last Saturday of college. Ending this chapter of my life with multiple drinks and a great time #goodtimes'
+p833
+aS"Finally moved home and completed my sophomore year! Can't believe I'm halfway through college already. #timeflies"
+p834
+aS"Can't even imagine what it feels like for the people who are graduating college in a couple weeks #wtf #timeflies #makeitstop \xf0\x9f\x98\xab"
+p835
+aS"Sometimes I question if I'm in college or not, depending on how people act... \xf0\x9f\x98\x92"
+p836
+aS'Do I want to graduate on time or stay in college forever? Both seem pretty ideal.'
+p837
+aS'Two weeks from now I will be done with my first year of college. \xf0\x9f\x98\xb3 Like where did time go? TIME GOES SO FAST.'
+p838
+aS'I miss my disney college program so much right now, i wish I had a time machine \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x92\x94'
+p839
+aS'And to finally be in college, the bridge year sucked big time\xf0\x9f\x91\x8e'
+p840
+aS"Everyone from 2010 is graduating from college and I'm over here working full time making bank and debt free. Not even mad"
+p841
+aS'I hate how people around are going on vacations and stuff. And i\'m just like "I can\'t skip a fucking single day in college" #thattimeofyear'
+p842
+aS'@Regan_Summers Whoah. That one made a real impression back in ye olde college times'
+p843
+aS'Last time doing laundry in college and I dyed all my white clothes bright pink! Awesome!'
+p844
+aS'time to consider a model of career long education? @nytimes Fewer U.S. high school graduates are opting for college'
+p845
+aS"I remember in college, I had my bf at the time visiting me. We were playing Mario Party 2 w/ cpu's. I got so pissed off at Luigi. Too funny."
+p846
+aS'Probz the only time this will ever happen to me in college #yagirlishype'
+p847
+aS"Ironic how people will take the time to like my college decision and congratulate me but won't bother to share my missing dog status #done"
+p848
+aS'@Calliswaag I find it very strange how our college experience is similar yet extremely different at the same time'
+p849
+aS"the fact that i'll actually be taking college courses next year scares me but excites me at the same time"
+p850
+aS'Wait. My time in college ends in 2 weeks. Whatttt? #notreadyyet #kidding #bye'
+p851
+aS"pretty sure this is the first time I've dressed up for school since I've started college lmao"
+p852
+aS'It literally makes no sense to expect an 18 year old to pay $20,000+ a year for college while working part time'
+p853
+aS"My day consists of wasting time until it's time to eat again #college"
+p854
+aS'Sometimes I really hate college. I wanna bomb the people next door'
+p855
+aS"Everybody forgetting that's this Damien Lilard second year in the league.  Them 4 college years gave him time to mature as a player"
+p856
+aS"Gonna be so weird leaving college for the first time for a few months, damn it's been a great ass year though!! \xf0\x9f\x91\x8c\xf0\x9f\x99\x8c"
+p857
+aS'This college thing is hard sometimes, but the reward in the end will be so much better than the alternative. Damnit, it better be...'
+p858
+aS'\xe2\x80\x9c@collegefession: "Sometimes I stick my finger in my ass then smell it. It smells kind of good" - Brookdale community college\xe2\x80\x9d\n\n\xf0\x9f\x98\x96\xf0\x9f\x98\x96'
+p859
+aS"Talking bout don't u have homework \xf0\x9f\x98\x82\xf0\x9f\x98\x82 that's what a full time college student has but I'm done"
+p860
+aS'@Walshy3434 she goes to Babson college as a part time student!'
+p861
+aS'I swear next year college ball is gonna be the best time of my life.'
+p862
+aS'Noland - "October 1961". Pretty sure I\'ve done this picture every time I\'ve visited NY since college.\xe2\x80\xa6'
+p863
+aS'Remember that time college happened? - me in less than a week. WUT.'
+p864
+aS"Sometimes I think I should just go to college and get a 'real' job and become boring."
+p865
+aS'@theonlyadult \xe2\x80\xa6what about the college? People go there all the time\xe2\x80\xa6'
+p866
+aS'This girl is officially a Junior in college \xe2\x9c\x8c\xef\xb8\x8f #HalfwayDone #timeflies @UTKnoxville'
+p867
+aS"The Rockets are gonna have to get it without me tonight, it's times like this when college sucks"
+p868
+aS"I'm about to be a senior in college and sometimes I feel like I know less now than I did when I got here \xf0\x9f\x98\xad\xf0\x9f\x98\xad"
+p869
+aS'4 semesters into college and I changed my major for the 4th time... #neverGraduating'
+p870
+aS'@annshoket I would love a Bahamas beach vacay to unwind from the stress of college &amp; my part time job! #AnnFreebie'
+p871
+aS"@_myPERCEPTION I was like that for a long time. I didn't go to college until I was 21 because I didn't know what I wanted to do."
+p872
+aS"Finished my last final of the semester. Hard to believe that after 9 more credit hours I'll be graduating college. #timeflies"
+p873
+aS'I have spent more time in randall the past week then I have been in my apartment #Road2finals #UNCW #college'
+p874
+aS'My brother is graduating college today and I graduate HS in a month.. Can we just freeze time for a while please'
+p875
+aS'@rileynicoleq @bcameron412 first year of college is almost done? Damn where has the time gone.'
+p876
+aS'In 2 weeks freshmen year of college will be over... Damn time flies'
+p877
+aS'\xe2\x80\x9c@dananeeper: Only two days left of of our college years at Ole Miss. So surreal. @casey_lynn12\xe2\x80\x9d time for you both to come to me. #missmypgs'
+p878
+aS'My favorite college athlete arrest #ofalltime. Good on ya, Jameis.'
+p879
+aS'Yup.. I miss that struggling young college student life.. Ain gone struggle this time though.. Kml \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p880
+aS'The only thing I miss about college is giving in to my cravings no matter the time and not feeling guilty about it'
+p881
+aS"00 your an amazing athlete and so funny we don't talk much but I see you around all the time I hope college goes well for you \xf0\x9f\x91\x8d\xe2\x98\xba\xef\xb8\x8f"
+p882
+aS'Last time I checked I thought we were in college.'
+p883
+aS'Finals...the time of the semester that college kids actually care about their grade.'
+p884
+aS'I only have more week of school left of my freshman year in college  \xf0\x9f\x98\xb3\xf0\x9f\x98\xb3 where has the time gone?? #bittersweet'
+p885
+aS'By the time I graduate college I will probably have grey hair and stress wrinkles \xf0\x9f\x99\x88 Stupid Eller'
+p886
+aS"We probably won't last through college. Not if this is how it's gonna be. Lol only time will tell though."
+p887
+aS'"can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight &amp; go to the part where i have a really awesome job and spend all my time traveling\xe2\x80\x9d'
+p888
+aS'@bailz_zeleny Next year I want to really take some extra time with my game &amp; my college choice for bowling.'
+p889
+aS'\xe2\x80\x9c@TanaRain_: @SarahhReederr last time to ever see me.\xe2\x80\x9d okay college roomy'
+p890
+aS"@JRHegwood 4 years of college and you couldn't spell league right the first time"
+p891
+aS'There was this kid I knew my freshman year of college that every time he saw a hot chick he\'d say "I\'d pee in her butt."'
+p892
+aS'This time last year, I was single, planning on majoring in creative writing, and thought college in NYC would be glamorous.'
+p893
+aS"Woah. I'm a senior in college. #wheredidtimego"
+p894
+aS'just thinking about college and living on my own next year makes me so giddy yet so upset at the same time\xf0\x9f\x98\xad'
+p895
+aS'A 94% on my important &amp; difficult college paper? Get at me \xe2\x9c\x8c\xef\xb8\x8f#timetograduate'
+p896
+aS"I can't believe in a week I'll be done with my first year of college \xf0\x9f\x98\xb3 #timeflys"
+p897
+aS'At this point in time ion wanna meet new ppl. I just wanna get thru college &amp; already have my career.'
+p898
+aS"finally left the library after 9 hours, that's the first and last time I'll ever do that in college #wontmissit"
+p899
+aS"Every time I read @collegefession 's tweets about cheating, it makes me not even want to have a relationship in college."
+p900
+aS'Being in college sometimes blows ...'
+p901
+aS'Last time in tau, college has come full circle.'
+p902
+aS"@_only1left i know i'm tryin make a way for my family on some college shit iont be havin time fr"
+p903
+aS"By the time I get all of my college stuff unloaded and settled back into my room it'll be time to take it out again...\xf0\x9f\x98\x91"
+p904
+aS"I am in college I don't have time to be acting like a child \xf0\x9f\x98\x92"
+p905
+aS"My goal is to be friends with the least amount of people by the time I leave for college. That way there isn't much to miss when I'm gone."
+p906
+aS'@Its_TheKidd @YBchose_Jordan naw, it aint nun like that. Im off at college but wen I get back well go swimmin just like old times'
+p907
+aS'Sometimes, my apartment is worse than a college house with the parties. This is my nightmare.'
+p908
+aS'college is the only time I can be temporarily homeless and not be judged too harshly.'
+p909
+aS'The best part of prom was dancing and partying after. In college you can do both, at the same time, without getting dressed up.\xf0\x9f\x8d\xbb'
+p910
+aS"High school is so pointless. I know how to add and subtract and read and write, what more can you teach me? It's time for college."
+p911
+aS'Probably the college kid in me talking, but sometimes crackers and cheese just hits the spot.'
+p912
+aS'#Tbt to the last time getting to chalk campus for overflow! Great times! Great semester! #chalk #tbt #uncw #college'
+p913
+aS"Mindfucked that by this time next week I'll be done with my freshman year of college \xf0\x9f\x98\xb3\xf0\x9f\x99\x80\xf0\x9f\x99\x88"
+p914
+aS'Well time to save up for college.'
+p915
+aS'@kev_grant13 you have to move on with ur life and grow up and enjoy the time u have in college not try and prolong it.'
+p916
+aS'I think this is the time for graduation \xf0\x9f\x98\x84 this much college is enough for me \xf0\x9f\x98\x82\xf0\x9f\x98\x84'
+p917
+aS'Officially done with my first year of college! \xf0\x9f\x98\x8b\xf0\x9f\x98\x84\xf0\x9f\x8e\x89 #sweetsummertime \xe2\x98\x80\xef\xb8\x8f'
+p918
+aS"I'm drinking coffee basically for the first time right now. I'm officially a college student &amp; a grown woman now."
+p919
+aS"I like being single, I'm in college. I don't have the time for a relationship \xe2\x9c\x8b &amp; there's nothing wrong with that. \xf0\x9f\x92\x81 let me be"
+p920
+aS'I sign up for college classes tomorrow \xf0\x9f\x98\xb1 time flies...'
+p921
+aS"@twhiddleston I'm watching Pirate Fairy in my spare time at college and I feel entirely plot twisted!! Holy cow! I'm an adult #pirateparty"
+p922
+aS"IF the NCAA was the best course of action to correct college sports, why hasn't it done so?  NCAA has been around for a long, long time"
+p923
+aS'Just creeped my college career in pictures. First time ever experiencing Everclear \xf0\x9f\x98\x82 #gotthisgirl #smilingishard'
+p924
+aS"Take care helped me get through my junior and senior year in high school. NWTS got me through this year in college. He's always on time"
+p925
+aS"1 reason I can't wait til college is because the teachers will actually put the grades in on time."
+p926
+aS'Sometimes I feel like college is tiring then I remember I barely got to sleep at all for 6 months in the army so why am I complaining'
+p927
+aS'Why do so many people think that full time 2-year college faculty "just teach"?'
+p928
+aS"Sometimes I be like college I'm not going but then I think like I'm going to the NBA so I'm going to college"
+p929
+aS"Done with my second semester of college!! Wow time flies by but thank you God. I'm so incredibly blessed for this opportunity"
+p930
+aS'leaving college lib for the first time in 17 hours #jiggy'
+p931
+aS'Went to college in Ohio, first time in Michigan. And what an airport. Wow! Amenities galore. (at @dtweetin)'
+p932
+aS'Hmm college shirts this time next year'
+p933
+aS"The fact I'm graduating from college in two days #timeflies #scary #reallifemoments"
+p934
+aS'"Can\'t spend enough time on the wall, the wall can pay for college." -Quint Kessenich'
+p935
+aS'Last day of my freshman year of college is Friday \xf0\x9f\x98\xb1 time really does fly!'
+p936
+aS"It's crazy to think that the next time Meagan leaves for college I'm leaving with her\xf0\x9f\x98\xb3"
+p937
+aS'I want to have kids but I want them to go straight to college because it will be  the best time of their lives'
+p938
+aS"All I know I that I'm not going to be wasting my money on college, no matter how many times I switch my major, education is priceless."
+p939
+aS'Last day of college classes! #timeflies #finalsweek #collefe #carrollu'
+p940
+aS"Two weeks from now I'll be falling asleep at home as a college graduate #shit #timeflies"
+p941
+aS'As much as I hate studying for these tests, I never ever want to leave college, or alpha phi, or my friends. #makethetimestop'
+p942
+aS'"If I had a dollar for every time someone spelled my name wrong i could pay for college semester abroad a new car nd a mansion in cash"'
+p943
+aS"Sometimes I forget I graduated.. I feel like college is just a vacation where you're forced to do school work"
+p944
+aS'"You\'ve been away at college all weekend and I haven\'t spent any time with you!" #babysitting'
+p945
+aS"It kinda feels like I've been 18 for a long ass time but I started college like yesterday."
+p946
+aS'If i got a dollar everytime i smelled weed at college... It would pay my tuition'
+p947
+aS'For some reason leaving college station this time has been the hardest one yet. #myhappyplace'
+p948
+aS'\xe2\x80\xa6and your old friend still spends all his time around vulgar, half-naked college students.'
+p949
+aS'Currently feeling like death with a 102 fever and possible Strep during probably the busiest and most stressful time of my college career. \xf0\x9f\x91\x8d'
+p950
+aS'so, my niece sings the ICDC college song everytime the commercial comes on. based on that, I believe she will have a bright future. \xf0\x9f\x98\xb9\xf0\x9f\x98\xb9'
+p951
+aS"@Silly_Val16 @itzzerika right? she could've gone to the college office so erika can use her time wisely for herself... lol"
+p952
+aS"half the time I can't wait to go to college and the other half of the time I just wanna live here forever and ever"
+p953
+aS'Rough night at work but I made it. Too many college students getting into trouble or causing problems. Smh. Glad its over. Now time 4 bed!'
+p954
+aS'U shouldnt be in a real relationship till after college when u have time anything before that wont last unless u dont go to college'
+p955
+aS'The blackboard....time for class.  #backtoschool #college #studytime @ Cafe Fulya'
+p956
+aS'Reminiscing on that time I hit a professor with my car on my second day of college. #socollege'
+p957
+aS'Cant stand how people who give zero fucks about there academics are still enrolled in college, if you hate it so much stop wasting your time'
+p958
+aS'#pauhana time with college friends! @ Home Bar &amp; Grill'
+p959
+aS'less than 2 weeks away from being half way done with college. #timeflies'
+p960
+aS'Throwback to orientation since I just finished my freshman year of college #timeflies \xf0\x9f\x98\xb3\xf0\x9f\x8e\x89 @ Florida\xe2\x80\xa6'
+p961
+aS"I really can't wait until college this fall b/c I get to choose my fucking classes to go to and what time to go. (Which are evening classes)"
+p962
+aS"Last full week of classes for freshman year of college... Damn time flys when you're having fun"
+p963
+aS'E-end\nO-of\nC-college \nT-times \n    Only if you fail'
+p964
+aS"Where does the time go? It's almost the end of my freshman year of college. #timeflys"
+p965
+aS'"@RhiannaMichele: \xe2\x80\x9c@RealMrFinisher: Use one word to describe how lost you feel in college sometimes: Croatoan\xe2\x80\x9d YAS!" Glad someone got it'
+p966
+aS"Lmao last time I checked I didn't need a car to get to a college party haha silly father."
+p967
+aS'take a shot everytime someone posts "I LOVE chipotle!!!" your college\'s faebook group'
+p968
+aS"I'm out and it's my bedtime... \xf0\x9f\x98\x9e not about this college life tbh."
+p969
+aS'So work all weekend, I need time to work on my speech, and start studying for finals. Miracles shall be made these next few weeks. #college'
+p970
+aS'Saving lives, one college program employee at a time (@ Reedy Creek Emergency Services Medic 12 at DHS)'
+p971
+aS'How am I suppose to get work done if the Internet at the college is slower than dial up? #getwiththetimes #comeon'
+p972
+aS'So many bucket hats. No time at all. #college #fratlife'
+p973
+aS'Officially a sophomore in college \xf0\x9f\x98\xa2 time flys.'
+p974
+aS'This is my last week of classes as a freshman in college, where did the time go??'
+p975
+aS'@xsontrees do u have netflix\n\nHow much time do u spend on netflix\n\nDo you think netflix is good for college students'
+p976
+aS'&amp; it\'s not even like I\'m "out of control" like my grandma claims. I don\'t do drugs, hardly drink &amp; my ass is a full time college student.'
+p977
+aS'LOVE the idea of this app. I would have used it all the time in college &amp; when I lived alone.'
+p978
+aS"Every time I come back to visit from college I will stop at a Portillo's before going home"
+p979
+aS'@THamzikELON Thanks, man! I was afraid you\xe2\x80\x99d big-time me now that you\xe2\x80\x99ve taken the college sports scene by storm'
+p980
+aS'The memories God gave me in high school, I will cherish forever but the memories I made in college will last me a lifetime'
+p981
+aS'Being is college would be the perfect time to have a big sister'
+p982
+aS'Last day of being a junior in college #timeflies'
+p983
+aS'\xe2\x80\x9c@tanaholics: if i had a dollar for every time an adult asked me about college then i\xe2\x80\x99d have enough money to pay for college\xe2\x80\x9d'
+p984
+aS"Just iced for the first time ever in my last two days of college. I love my friends. I love college. Don't make me leave!"
+p985
+aS"It's scary to think that by this time next year most of my class and I will know where they're going to college....."
+p986
+aS'People always talk about high school being the best times of their lives.....no. 1 year of college &gt; 4 years of high school'
+p987
+aS'Officially done with college. Thank you @GVSU for making this experience what is was #LakerForALifetime'
+p988
+aS"@emileecranford honestly don't even waste your time on deciding that! Trust me you figure that out in college not high school"
+p989
+aS"It's time for college \xf0\x9f\x98\x92"
+p990
+aS'Sometimes I get on here and scroll down my TL and say, "Yup, they say that now, wait until he/she gets to college."'
+p991
+aS'The time we went to some college acapella championship thing - and it was AWESOME. cc @aenbar\xe2\x80\xa6'
+p992
+aS'"@crizz_beatz: @Mountain_AAO12 let\'s guess who winning the east? \xf0\x9f\x98\x92...exciting"\xf0\x9f\x98\x92\xf0\x9f\x98\x92 next time say NBA cuz I stayz watching college too'
+p993
+aS"I just still can't believe that my freshman year of college is already over...\xf0\x9f\x98\xb3 #wahh #timeflies"
+p994
+aS"\xe2\x80\x9c@6oody: By the time you guys finish college, you'll basically be slaves with all debt you have to pay.\xe2\x80\x9d #tru"
+p995
+aS"One more week of classes, and I'm done with my first year of college. Where'd the time go? \xf0\x9f\x98\xb3\xf0\x9f\x99\x88"
+p996
+aS'Cant believe i am almost done with my first year of college and the thought of dropping out has already occurred to me 100^2 times'
+p997
+aS'Life is what you make it, junior high could be the best time of your life, high school could be, college could be, or hell retirement could'
+p998
+aS'Cool...Matthew Weiner &amp; I both read One Hundred Years of Solitude in college while studying abroad in Spain @nytimes'
+p999
+aS'One of the best nights in a long time! Thanks to everyone who came out... #college #friends #real #birthday #celebration'
+p1000
+aS"I'm sure If I had a dollar for every time someone spelled my name wrong, I could pay for college, a new car, and a mansion in cash."
+p1001
+aS'Last presentation of my college career is now in the rear view...where has the time gone??'
+p1002
+aS'This convo I\'m overhearing about getting in the business college is brutal. "Literally" was used at least 40 times in a 10 minute convo. \xf0\x9f\x98\xa3'
+p1003
+aS'\xe2\x80\x9c@collegefession: "Every time I go take a shit the guy in the stall next to me is jerking off. #desprite" - College of dupage\xe2\x80\x9d desperate****'
+p1004
+aS'@Trevor_Kemp95 @trysehendricks not yet, wait till college to do that. No need to waste time in high school lol.'
+p1005
+aS'\xe2\x80\x9c@collegefession: "I go into the bathrooms and steal the toilet paper all the time #BrokeCollegeKidProbs" - Texarkana College\xe2\x80\x9d@alliconrad7'
+p1006
+aS'Almost halfway done with college, where did the time go'
+p1007
+aS"I really don't have the desire to go out anymore. Lol I'd rather spend time with my family before I leave for college"
+p1008
+aS'@CeeJ_Carter took it 3 times in my college days'
+p1009
+aS'Cony class of 2014 moves into college in less than 4 months and that excites me and stresses me out at the same time ugh'
+p1010
+aS'Yall its time to turn down &amp; get in college or some dang...'
+p1011
+aS'I Really wanna take the time out to thank Wendell he help me with all my college stuff \xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xe2\x98\xba\xef\xb8\x8f'
+p1012
+aS"I hope I can relive winning states and leagues again one more time before I go to college I'm gonna miss everyone 3 months\xf0\x9f\x98\x94\xf0\x9f\x98\x81 #bittersweet"
+p1013
+aS"When you graduate college, it's time to actually leave college...ya digg??"
+p1014
+aS'My dad said he did shrooms one time in college and all he did was listen and talk about music'
+p1015
+aS"So tired. So tired all the time. Only 7 days until I'm done with finals.... =( Zzzzzzz #college #finals #studying"
+p1016
+aS'\xe2\x80\x9c@shampoo: If I had a dollar for every time someone spelled my name wrong, I could pay for college, a new car &amp; a mansion in cash.\xe2\x80\x9d Me\xf0\x9f\x92\xaf'
+p1017
+aS'I swear college goes by a hundred times quicker than high school.'
+p1018
+aS'Public crying during finals time in college is okay right?'
+p1019
+aS"Just yesterday I sent @SarbearBrereton off to college with @KevinVestrand and today I'm the little baby left ... How time flies #LoveYouBoth"
+p1020
+aS'@DillonBannigan @alldaycarraway MJ left bball for baseball AND went to college, LBJ still not capitalizing on the extra time he has'
+p1021
+aS'#tbt to one of the many ridiculous nights of my time in college. Started the night with my #besties\xe2\x80\xa6'
+p1022
+aS'That time I turned 21 with tinab12 hahaha. #throwback #college #birthday #whatwasithinking\xe2\x80\xa6'
+p1023
+aS"You're in college. It's about time you learn the difference between your and you're."
+p1024
+aS"I have the coolest dad of all time, thanks for not getting mad at me when I tell you all of the things I've done at college"
+p1025
+aS'Packed the car and left college just in time to listen to my favorite radio host! ---&gt; @dloesch Tune in now!'
+p1026
+aS'The best thing about college is nobody bitches you out if you jut want to skip sometimes #sleepingin'
+p1027
+aS"Bright side once I graduate from college, I will be able to have time of finding a relationship, Ladies- I'm single, ready to mingle"
+p1028
+aS"\xe2\x80\x9c@Michael61Sulka: No sleep tonight \xf0\x9f\x93\x9d\xf0\x9f\x93\x93\xf0\x9f\x93\x96\xe2\x80\x9d hell yeah lmao never had to do this till college and I've already done it 5 times."
+p1029
+aS"I could've graduated from college and had a family in the time its taking me to do this project"
+p1030
+aS'What if after college I get a good job and work all the time and stop being fun and interesting'
+p1031
+aS'Wow, Greenup, you bring back memories...spent time here while a (sales) road warrior after college. (@ Greenup)'
+p1032
+aS"Sometimes I can't wait till college and sometimes I don't even wanna go cause Im scared \xf0\x9f\x99\x88"
+p1033
+aS'"You work a lot for a full time college student"\n\xf0\x9f\x92\xb0\xf0\x9f\x92\xb0\xf0\x9f\x92\xb0\xf0\x9f\x92\xb0\xf0\x9f\x92\xb0\xf0\x9f\x92\xb0'
+p1034
+aS"@SammieKline and btw you don't need to go to college to be successful, and don't k me next time I'm no peasant.\xf0\x9f\x98\x91\xf0\x9f\x91\x8c"
+p1035
+aS'Lets get drunk only two more thirsty Thursdays left of my freshman year of college... Wow crazy how fast time flies by.'
+p1036
+aS'I hate myself sometimes for not playing lacrosse in college'
+p1037
+aS"@Kiiing_Scooby college sports I wouldn't have time to do it :/ I think after the season ends I'll start up again I still have some time tho\xf0\x9f\x99\x8f"
+p1038
+aS'Am I really almost done with my first year of college?  #timeflys'
+p1039
+aS"In exactly one month, I'll be flying home, done with my first year of college. Where does the time go??"
+p1040
+aS'@dgarza7 and @brettrexilius13 putting the time in to prepare for their freshman college football\xe2\x80\xa6'
+p1041
+aS'taking my first final in an hour, and ill he done with my first year of college in 3 days . time fucking flies man'
+p1042
+aS"Don't forget to buy your senior week tickets! It's a once in a life time experience graduating college. #SpreadTheWord"
+p1043
+aS'Sometimes I just *HATE* that I *LOVE* college football so much. # RollTide #TheProcess #RoadTo16'
+p1044
+aS'The day that I finish college is going to feel ten times better then when I finished high school.'
+p1045
+aS"all college students on my timeline are freaking the fuck out. y'all just remember cs get degrees. we've got this."
+p1046
+aS"Gah, I hate working because it takes time away from having a social life while in college, it's basically non existant..."
+p1047
+aS'never have a I ever had so many people ask me what time I go to sleep and when I wake up.... damn u college'
+p1048
+aS"For the first time since I've came to college dead week will actually be a dead week for me."
+p1049
+aS'I always wonder why people gain weight in college, then I ask myself how many times a night I eat "dinner" &amp; my first question is answered'
+p1050
+aS'Why does college tennis have to be at the same time as college baseball. Wish I could do both'
+p1051
+aS"@TheBandJustus and @PTPLBand I may be moving to Florida sometime next year. Will be looking at Full Sail for college next time I'm here!!!"
+p1052
+aS'Wait I just had my last class ever as a junior in college. In less than a week I will be 21. #what #timeflies'
+p1053
+aS'Sometimes i wish i would have went to college and made the memories..'
+p1054
+aS'Sometimes I really regret not taking the chance of finding the financial stability to go to Auburn for college.. \xf0\x9f\x98\x94'
+p1055
+aS"It's crazy thinking I get up at the same time most college students will be getting to bed tonight"
+p1056
+aS'If I had a dollar for everytime I wished I was @frit0z I could drop out of college'
+p1057
+aS'Last week of officially being a sophomore in college. Where does time go?'
+p1058
+aS'@sahgie1 at least were going to be done with college at the same time!'
+p1059
+aS'Your burrito/pizza intake is at a all time high in college'
+p1060
+aS'\xe2\x80\x9c@emileestar28: I swear the 8th grade girls think their in college like stop\xf0\x9f\x98\x82\xf0\x9f\x98\x82chill.\xe2\x80\x9d My thoughts Everytime they tweet about a "party" \xf0\x9f\x98\x82\xf0\x9f\x99\x8c\xf0\x9f\x98\x85'
+p1061
+aS'Shoutout to the people who can just drive home from college any time they want. #MissingHome #Alaska'
+p1062
+aS'One week and I will be done with my first year at college! Crazy how time flies!'
+p1063
+aS'Just in time before I go to college. Damn these months are probably gonna be the highlight of my year.'
+p1064
+aS'@nytimes: Advice on choosing college: "Few employers and graduate schools care where you started." Now that is just wrong. Plenty do care.'
+p1065
+aS"I can't believe I only have one more day of class in my freshman year of college... Where does time go?!"
+p1066
+atp1067
+Rp1068
+s.

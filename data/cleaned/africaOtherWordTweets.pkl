@@ -1,0 +1,36 @@
+(dp0
+S'benefit'
+p1
+c__builtin__
+set
+p2
+((lp3
+tp4
+Rp5
+sS'cost'
+p6
+g2
+((lp7
+tp8
+Rp9
+sS'quality'
+p10
+g2
+((lp11
+tp12
+Rp13
+sS'time'
+p14
+g2
+((lp15
+S'If I had a dollar for everytime someone spelled my name wrong I could pay for college, a Ferrari car, and a mansion in London, all in cash.'
+p16
+aS"#skippingcourse #britishcouncil #dido #omar'scar #studying #exams #college #nileriver #timerunning @\xe2\x80\xa6"
+p17
+aS"@__QuiteHeavenly Yeah sometimes it's necessary in college. Man. . You're more than likely to skip at least 2 classes in a semester."
+p18
+aS'\xd8\xad\xd8\xb1 \xd8\xad\xd8\xb1 \xd8\xad\xd8\xb1 \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad ..Last time to go to college late\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p19
+atp20
+Rp21
+s.
