@@ -1,0 +1,663 @@
+
+% Default to the notebook output style
+
+    
+
+
+% Inherit from the specified cell style.
+
+
+
+
+    
+\documentclass{article}
+
+    
+    
+    \usepackage{graphicx} % Used to insert images
+    \usepackage{adjustbox} % Used to constrain images to a maximum size 
+    \usepackage{color} % Allow colors to be defined
+    \usepackage{enumerate} % Needed for markdown enumerations to work
+    \usepackage{geometry} % Used to adjust the document margins
+    \usepackage{amsmath} % Equations
+    \usepackage{amssymb} % Equations
+    \usepackage[mathletters,combine]{ucs} % Extended unicode (utf-8) support
+    \usepackage[utf8x]{inputenc} % Allow utf-8 characters in the tex document
+    \usepackage{fancyvrb} % verbatim replacement that allows latex
+    \usepackage{grffile} % extends the file name processing of package graphics 
+                         % to support a larger range 
+    % The hyperref package gives us a pdf with properly built
+    % internal navigation ('pdf bookmarks' for the table of contents,
+    % internal cross-reference links, web links for URLs, etc.)
+    \usepackage{hyperref}
+    \usepackage{longtable} % longtable support required by pandoc >1.10
+    
+
+    
+    
+    \definecolor{orange}{cmyk}{0,0.4,0.8,0.2}
+    \definecolor{darkorange}{rgb}{.71,0.21,0.01}
+    \definecolor{darkgreen}{rgb}{.12,.54,.11}
+    \definecolor{myteal}{rgb}{.26, .44, .56}
+    \definecolor{gray}{gray}{0.45}
+    \definecolor{lightgray}{gray}{.95}
+    \definecolor{mediumgray}{gray}{.8}
+    \definecolor{inputbackground}{rgb}{.95, .95, .85}
+    \definecolor{outputbackground}{rgb}{.95, .95, .95}
+    \definecolor{traceback}{rgb}{1, .95, .95}
+    % ansi colors
+    \definecolor{red}{rgb}{.6,0,0}
+    \definecolor{green}{rgb}{0,.65,0}
+    \definecolor{brown}{rgb}{0.6,0.6,0}
+    \definecolor{blue}{rgb}{0,.145,.698}
+    \definecolor{purple}{rgb}{.698,.145,.698}
+    \definecolor{cyan}{rgb}{0,.698,.698}
+    \definecolor{lightgray}{gray}{0.5}
+    
+    % bright ansi colors
+    \definecolor{darkgray}{gray}{0.25}
+    \definecolor{lightred}{rgb}{1.0,0.39,0.28}
+    \definecolor{lightgreen}{rgb}{0.48,0.99,0.0}
+    \definecolor{lightblue}{rgb}{0.53,0.81,0.92}
+    \definecolor{lightpurple}{rgb}{0.87,0.63,0.87}
+    \definecolor{lightcyan}{rgb}{0.5,1.0,0.83}
+    
+    % commands and environments needed by pandoc snippets
+    % extracted from the output of `pandoc -s`
+    
+    \DefineShortVerb[commandchars=\\\{\}]{\|}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+    % Add ',fontsize=\small' for more characters per line
+    \newenvironment{Shaded}{}{}
+    \newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{{#1}}}}
+    \newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.56,0.13,0.00}{{#1}}}
+    \newcommand{\DecValTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\FloatTok}[1]{\textcolor[rgb]{0.25,0.63,0.44}{{#1}}}
+    \newcommand{\CharTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\StringTok}[1]{\textcolor[rgb]{0.25,0.44,0.63}{{#1}}}
+    \newcommand{\CommentTok}[1]{\textcolor[rgb]{0.38,0.63,0.69}{\textit{{#1}}}}
+    \newcommand{\OtherTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{{#1}}}
+    \newcommand{\AlertTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{{#1}}}}
+    \newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.02,0.16,0.49}{{#1}}}
+    \newcommand{\RegionMarkerTok}[1]{{#1}}
+    \newcommand{\ErrorTok}[1]{\textcolor[rgb]{1.00,0.00,0.00}{\textbf{{#1}}}}
+    \newcommand{\NormalTok}[1]{{#1}}
+    
+    % Define a nice break command that doesn't care if a line doesn't already
+    % exist.
+    \def\br{\hspace*{\fill} \\* }
+    % Math Jax compatability definitions
+    \def\gt{>}
+    \def\lt{<}
+    % Document parameters
+    \title{NB4\_project\_report}
+    
+    
+    
+
+    % Pygments definitions
+    
+\makeatletter
+\def\PY@reset{\let\PY@it=\relax \let\PY@bf=\relax%
+    \let\PY@ul=\relax \let\PY@tc=\relax%
+    \let\PY@bc=\relax \let\PY@ff=\relax}
+\def\PY@tok#1{\csname PY@tok@#1\endcsname}
+\def\PY@toks#1+{\ifx\relax#1\empty\else%
+    \PY@tok{#1}\expandafter\PY@toks\fi}
+\def\PY@do#1{\PY@bc{\PY@tc{\PY@ul{%
+    \PY@it{\PY@bf{\PY@ff{#1}}}}}}}
+\def\PY#1#2{\PY@reset\PY@toks#1+\relax+\PY@do{#2}}
+
+\expandafter\def\csname PY@tok@gd\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.63,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gu\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.50,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@gt\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.27,0.87}{##1}}}
+\expandafter\def\csname PY@tok@gs\endcsname{\let\PY@bf=\textbf}
+\expandafter\def\csname PY@tok@gr\endcsname{\def\PY@tc##1{\textcolor[rgb]{1.00,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@cm\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@vg\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@m\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@mh\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@go\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.53,0.53,0.53}{##1}}}
+\expandafter\def\csname PY@tok@ge\endcsname{\let\PY@it=\textit}
+\expandafter\def\csname PY@tok@vc\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@il\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@cs\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@cp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.74,0.48,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.63,0.00}{##1}}}
+\expandafter\def\csname PY@tok@gh\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@ni\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.60,0.60,0.60}{##1}}}
+\expandafter\def\csname PY@tok@nl\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.63,0.63,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nn\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@no\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.53,0.00,0.00}{##1}}}
+\expandafter\def\csname PY@tok@na\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.49,0.56,0.16}{##1}}}
+\expandafter\def\csname PY@tok@nb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nc\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@nd\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.67,0.13,1.00}{##1}}}
+\expandafter\def\csname PY@tok@ne\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.82,0.25,0.23}{##1}}}
+\expandafter\def\csname PY@tok@nf\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,1.00}{##1}}}
+\expandafter\def\csname PY@tok@si\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.53}{##1}}}
+\expandafter\def\csname PY@tok@s2\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@vi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@nt\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@nv\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@s1\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sh\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sc\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sx\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@bp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@c1\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@kc\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@c\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.25,0.50,0.50}{##1}}}
+\expandafter\def\csname PY@tok@mf\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@err\endcsname{\def\PY@bc##1{\setlength{\fboxsep}{0pt}\fcolorbox[rgb]{1.00,0.00,0.00}{1,1,1}{\strut ##1}}}
+\expandafter\def\csname PY@tok@kd\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@ss\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.10,0.09,0.49}{##1}}}
+\expandafter\def\csname PY@tok@sr\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.53}{##1}}}
+\expandafter\def\csname PY@tok@mo\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@kn\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@mi\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@gp\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.00,0.50}{##1}}}
+\expandafter\def\csname PY@tok@o\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.40,0.40,0.40}{##1}}}
+\expandafter\def\csname PY@tok@kr\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@s\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@kp\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@w\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.73,0.73}{##1}}}
+\expandafter\def\csname PY@tok@kt\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.69,0.00,0.25}{##1}}}
+\expandafter\def\csname PY@tok@ow\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.67,0.13,1.00}{##1}}}
+\expandafter\def\csname PY@tok@sb\endcsname{\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+\expandafter\def\csname PY@tok@k\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.00,0.50,0.00}{##1}}}
+\expandafter\def\csname PY@tok@se\endcsname{\let\PY@bf=\textbf\def\PY@tc##1{\textcolor[rgb]{0.73,0.40,0.13}{##1}}}
+\expandafter\def\csname PY@tok@sd\endcsname{\let\PY@it=\textit\def\PY@tc##1{\textcolor[rgb]{0.73,0.13,0.13}{##1}}}
+
+\def\PYZbs{\char`\\}
+\def\PYZus{\char`\_}
+\def\PYZob{\char`\{}
+\def\PYZcb{\char`\}}
+\def\PYZca{\char`\^}
+\def\PYZam{\char`\&}
+\def\PYZlt{\char`\<}
+\def\PYZgt{\char`\>}
+\def\PYZsh{\char`\#}
+\def\PYZpc{\char`\%}
+\def\PYZdl{\char`\$}
+\def\PYZhy{\char`\-}
+\def\PYZsq{\char`\'}
+\def\PYZdq{\char`\"}
+\def\PYZti{\char`\~}
+% for compatibility with earlier versions
+\def\PYZat{@}
+\def\PYZlb{[}
+\def\PYZrb{]}
+\makeatother
+
+
+    % Exact colors from NB
+    \definecolor{incolor}{rgb}{0.0, 0.0, 0.5}
+    \definecolor{outcolor}{rgb}{0.545, 0.0, 0.0}
+
+
+
+    
+    % Prevent overflowing lines due to hard-to-break entities
+    \sloppy 
+    % Setup hyperref package
+    \hypersetup{
+      breaklinks=true,  % so long urls are correctly broken across lines
+      colorlinks=true,
+      urlcolor=blue,
+      linkcolor=darkorange,
+      citecolor=darkgreen,
+      }
+    % Slightly bigger margins than the latex defaults
+    
+    \geometry{verbose,tmargin=1in,bmargin=1in,lmargin=1in,rmargin=1in}
+    
+    
+
+    \begin{document}
+    
+    
+    \maketitle
+    
+    
+
+    
+    In this notebook, you'll sumarize your finding for the class
+presentation.
+
+The class presentation will use this notebook in slide mode, as I do
+during lecture time.
+
+You'll need to download the following
+\href{https://github.com/fperez/nb-slideshow-template/archive/master.zip}{zip
+file}, unzip it, and run the following notebook install-support.ipynb to
+install the slide capabilities.
+
+The notebook notebook-slideshow-example.ipynb will give you examples on
+how to use slides within the iPython notebook.
+
+You should also write this notebook so that you can convert it nicely
+into a pdf document using the commands
+
+\begin{verbatim}
+ipython nbconvert NB4_report.pynb --to latex
+pdflatex NB4_report.tex
+\end{verbatim}
+
+See
+\href{http://ipython.org/ipython-doc/rel-1.0.0/interactive/nbconvert.html}{here}
+for further references on how to do that.
+
+In this notebook, you'll
+
+\begin{itemize}
+\item
+  describe your problem as stated in the propectus
+\item
+  comment on your data sources, on their format, on the difficulties to
+  get them
+\item
+  present the main challenge you encountered
+\item
+  present your finding in the form of expresive graphics
+\end{itemize}
+
+Be sure to include an introduction section motivating your
+visualizations, with a description of the substantive context and why it
+is interesting.
+
+Cite the source of the data and any other references that you used in
+carrying out your project.
+
+    \subsection{Team members responsible for this
+notebook:}\label{team-members-responsible-for-this-notebook}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  team member 1 \textbf{Shadman Sadek}: Compiling and completing this
+  notebook
+\item
+  team member 2 \textbf{Elizabeth Sabiniano}: Compiling and completing
+  this notebook
+\end{itemize}
+
+
+    \section{Objective:}
+
+
+    The purpose of this project is to examine how sentiment towards college
+varies throughout the world - both between continents (general
+geographical and socioeconomic areas) (and between states specifically
+in the US?) We used Python and Twitter API to help gather a massive
+amount of data (\textasciitilde{}500,000 tweets) based on the keyword
+\textbf{college}. The data gathered was organized into tweets with
+location and without location. Furthermore, tweets with location were
+further categorized based on global location.
+
+Our data was then analyzed into positive, negative, and neutral
+sentiment categories. We developed visualizations that displayed word
+frequencies and a map that displays sentiment based on global region.
+
+
+    \subsection{Data Sources:}
+
+
+    All of our data was obtained from Twitter. These were then saved in
+pickle files to accomodate for the large datastrings.
+
+
+    \subsection{Challenges:}
+
+
+    Originally, our team wanted to examine the sentiments towards higher
+education, however the keywords ``higher education'' did not yield
+enough data for us to work with. That and the following are the
+challenges we faced in this study:
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Finding the right program to gather enough tweets.
+\item
+  Gathering enough data with location
+\item
+  Machine learning: being able to train our program to categorize as
+  much of the tweets as accurately as possible
+\end{itemize}
+
+We tried TwitterSearch, Tweepy, before finally finding Twython, which
+yielded enough data for us to work with.
+
+
+    \subsection{Visualizations: Word Frequency}
+
+
+    The following visualizations describe word frequencies in Asia, Africa,
+Europe, Latin America, United States, and the world. They were obtained
+through the word cloud program called Wordle. The most frequent words
+show up largest in the visualizations. Such vizualizations give us an
+idea of topics most commonly associated with our keyword
+\textbf{college}.
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}1}]:} \PY{k+kn}{from} \PY{n+nn}{IPython.core.display} \PY{k+kn}{import} \PY{n}{Image} 
+\end{Verbatim}
+
+
+    \paragraph{Asia}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}17}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/AsiaWords.png}\PY{l+s}{\PYZsq{}}\PY{p}{)}
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}17}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_12_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+    \emph{jateng} stands for Jateng-DIY, a province in Indonesia. Over the
+period at which we gathered our data, the ESA Week 2014 (a scholastic
+competition) is taking place in this region.
+
+
+    \paragraph{Africa}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}4}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/AfricaWord.png}\PY{l+s}{\PYZsq{}}\PY{p}{)}
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}4}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_15_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+    Each of the words above appeared with almost equal amount of frequency;
+thus, they are all close in size. \emph{shameemah} is a user's name who
+has a decent amount of followers and obtained several retweets regarding
+college inquiries. \emph{best} appears to be the most frequent word in
+this location.
+
+
+    \paragraph{Europe}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}8}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/EuropeWords.png}\PY{l+s}{\PYZsq{}}\PY{p}{)}
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}8}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_18_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+    Although words such as \emph{good} and \emph{last} appear the most
+frequent in this region, the tweets at which they appear are mostly
+negations. For example:
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  ``Can't wait to finish college for good. 6 weeks left''
+\item
+  `Not sure college is a good idea today'
+\item
+  ``It's safe to say I haven't missed college one bit these last 2 weeks
+  don't wannnna go back''
+\item
+  `so much to do, zero motivation for the last week of college, this is
+  not good..'
+\end{itemize}
+
+
+    \paragraph{Latin America}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}10}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/LatinAmericaWords.png}\PY{l+s}{\PYZsq{}}\PY{p}{)}
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}10}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_21_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+    Similar to Africa, most the words listed for Latin America have the same
+frequency. The bigger words are only one or two counts away from the
+smaller ones.
+
+
+    \paragraph{United States}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}2}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/USWords.png}\PY{l+s}{\PYZsq{}}\PY{p}{)}
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}2}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_24_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+    Most of the tweets obtained from the US either talk about the user's
+first year of college or the last days they will spend as a college
+student.
+
+
+    \paragraph{World}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}3}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/WorldWords.png}\PY{l+s}{\PYZsq{}}\PY{p}{)}
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}3}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_27_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+    This shows all the frequent words across the locations from which we
+gathered our data.
+
+
+    \subsubsection{Visualizations: Global Sentiment}
+
+
+    The following visualizations show differences in sentiment based on the
+keyword \textbf{college} by global region. These visualizations give us
+an idea of differing sentiment based on location and can help in making
+determinations on why there is differing sentiment if any (demographics?
+political?, socioeconomics?).
+
+
+    \paragraph{Asian Sentiment}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}6}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/Asia.png}\PY{l+s}{\PYZsq{}}\PY{p}{)}
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}6}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_32_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+
+    \paragraph{African Sentiment}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}19}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/Africa.png}\PY{l+s}{\PYZsq{}}\PY{p}{)}
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}19}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_34_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+
+    \paragraph{European Sentiment}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}20}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/Europe.png}\PY{l+s}{\PYZsq{}}\PY{p}{)}
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}20}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_36_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+
+    \paragraph{Latin American Sentiment}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}21}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/Latin America.png}\PY{l+s}{\PYZsq{}}\PY{p}{)}
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}21}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_38_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+
+    \paragraph{American Sentiment}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}22}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/United States.png}\PY{l+s}{\PYZsq{}}\PY{p}{)}
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}22}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_40_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+
+    \paragraph{World Sentiment}
+
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+{\color{incolor}In [{\color{incolor}24}]:} \PY{n}{Image}\PY{p}{(}\PY{n}{filename}\PY{o}{=}\PY{l+s}{\PYZsq{}}\PY{l+s}{../visualizations/World.png}\PY{l+s}{\PYZsq{}}\PY{p}{)} 
+\end{Verbatim}
+\texttt{\color{outcolor}Out[{\color{outcolor}24}]:}
+    
+    \begin{center}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{NB4_project_report_files/NB4_project_report_42_0.png}
+    \end{center}
+    { \hspace*{\fill} \\}
+    
+
+
+    \subsection{Conclusions:}
+
+
+    Overall, we see a global sentiment of negativity towards
+\textbf{college}. All of the global regions besides Latin America vastly
+display a negative sentiment. Although in Latin America, the sample size
+is much smaller so it is difficult to make conclusive remarks on the
+level of negativity. These results suggest that there is a universal
+negative feeling towards college regardless of location, socioeconomic
+status, and culture.
+
+According to this year's Twitter study of Beevolve, 73.7\% of Twitter
+users are of age 15-25, where more than half of its total users live in
+the United States (with 50.99\%). Twitter has not yet reached rural
+areas, thus we could assume that the areas identified in this research
+are mainly from highly industrialized areas of the world. Due to the
+dominance of 15-25 year-old users, we can also presume that most are in
+or on their way to college. There are many factors as to why our results
+mainly lead to negative sentiments towards college. Given that these
+data were obtained in a 2-week period (last two weeks of April), the
+tweets could have been highly influenced by finals/graduation/college
+application/acceptance, etc. During this period, the other side of the
+world, such as Asia, is undergoing final examinations and extreme
+pressure to do well.
+
+Additionally, the words \textbf{first}, \textbf{high}, and \textbf{last}
+appeared the most in the respective regions analyzed above. These words
+may well explain the sentiment most users (gathered in this research)
+feel towards college. Examples from various locations include:
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  ``@EssentialFact: A study has found that the first two years of
+  college are basically useless.''\n\nthat really sums up everything.'
+  \emph{(Asia)}
+\item
+  `Sila ayos na college papers and files tas June-ish pa classes nila,
+  ako last week of May na waley pa rin na aaccomplish. DLSU pls. Huhuhu'
+  \emph{(Asia)}
+\item
+  ``First I don't get to move Jaki into college and now I find out that
+  we don't have the same spring break. FUCK EVERYTHING'' (\emph{US)}
+\item
+  `In an email to extended family my dad just referred to my school as
+  ``clown college'' and discredited everything I've done over last 4
+  years.' \emph{(US)}
+\item
+  `first day back at college tomorrow how am i going to do this help
+  me.' \emph{(Europe)}
+\item
+  'Last week in college poses a big struggle.. So much work to do but so
+  much going out to do at the same time. \emph{(Europe)}
+\item
+  `Things i never learned in high school: how to: pay bills buy a house
+  apply for college but thank god i can graph a polynomial function'
+  \emph{(Africa)}
+\end{itemize}
+
+Seeing that the sample size for some of the sentiment analysis are very
+low, users in this region can cause some bias in the analysis. Users
+could also tweet as often as they want about the same topic for a
+certain length of time, such as college. The sentiments, which we have
+gathered, may be highly obtained from a few sample of users of whom
+expressed the same sentiment about college for some amount of time. We
+also have to consider that some of the tweets obtained are mixed with
+English and some other languages, including but not limited to Spanish,
+Indonesian, Filipino. Words written in these languages will not be
+classified by the Classifier (refer to ../NB3\_data\_analysis for the
+sentiment analysis). The foreign words may have been suggesting positive
+sentiments, but our Classifier is limited to the English language.
+
+Therefore, we cannot fully discern whether other factors, such as
+socioeconomic status, cultural tradition of the country, or their
+current standards of education, play the most significant roles in the
+data gathered. However, we could conclude that based on these recent
+tweets, users feel an overarching negativity towards college due to a
+some of the following reasons: high amount of work, acclamation from
+family, college culture shock after Sprin Break, etc.
+
+
+    % Add a bibliography block to the postdoc
+    
+    
+    
+    \end{document}

@@ -45,7 +45,7 @@ rects3 = ax.bar(ind+width+width, neuTotal, width, color='0.75')
 
 # add some
 ax.set_ylabel('Number of tweets', fontsize=20)
-ax.set_title('Scores by continent', fontsize=40)
+ax.set_title('Scores by Keywords', fontsize=40)
 ax.set_xticks(ind+width)
 ax.set_xticklabels( ('"Benefit"', '"Cost"', '"Quality"', '"Time"'),fontsize=20 )
 
