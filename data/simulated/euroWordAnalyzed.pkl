@@ -1,0 +1,1159 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.frame
+DataFrame
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+g0
+(cpandas.core.internals
+BlockManager
+p5
+g2
+Ntp6
+Rp7
+((lp8
+cnumpy.core.multiarray
+_reconstruct
+p9
+(cpandas.core.index
+Index
+p10
+(I0
+tp11
+S'b'
+p12
+tp13
+Rp14
+((I1
+(I3
+tp15
+cnumpy
+dtype
+p16
+(S'O8'
+p17
+I0
+I1
+tp18
+Rp19
+(I3
+S'|'
+p20
+NNNI-1
+I-1
+I63
+tp21
+bI00
+(lp22
+S'keyword'
+p23
+aS'text'
+p24
+aS'sentiment'
+p25
+atp26
+(Ntp27
+tp28
+bag9
+(cpandas.core.index
+Int64Index
+p29
+(I0
+tp30
+g12
+tp31
+Rp32
+((I1
+(I255
+tp33
+g16
+(S'i8'
+p34
+I0
+I1
+tp35
+Rp36
+(I3
+S'<'
+p37
+NNNI-1
+I-1
+I0
+tp38
+bI00
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x16\x00\x00\x00\x00\x00\x00\x00\x17\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\x00\x00\x00\x00\x00\x19\x00\x00\x00\x00\x00\x00\x00\x1a\x00\x00\x00\x00\x00\x00\x00\x1b\x00\x00\x00\x00\x00\x00\x00\x1c\x00\x00\x00\x00\x00\x00\x00\x1d\x00\x00\x00\x00\x00\x00\x00\x1e\x00\x00\x00\x00\x00\x00\x00\x1f\x00\x00\x00\x00\x00\x00\x00 \x00\x00\x00\x00\x00\x00\x00!\x00\x00\x00\x00\x00\x00\x00"\x00\x00\x00\x00\x00\x00\x00#\x00\x00\x00\x00\x00\x00\x00$\x00\x00\x00\x00\x00\x00\x00%\x00\x00\x00\x00\x00\x00\x00&\x00\x00\x00\x00\x00\x00\x00\'\x00\x00\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x00\x00\x00)\x00\x00\x00\x00\x00\x00\x00*\x00\x00\x00\x00\x00\x00\x00+\x00\x00\x00\x00\x00\x00\x00,\x00\x00\x00\x00\x00\x00\x00-\x00\x00\x00\x00\x00\x00\x00.\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x000\x00\x00\x00\x00\x00\x00\x001\x00\x00\x00\x00\x00\x00\x002\x00\x00\x00\x00\x00\x00\x003\x00\x00\x00\x00\x00\x00\x004\x00\x00\x00\x00\x00\x00\x005\x00\x00\x00\x00\x00\x00\x006\x00\x00\x00\x00\x00\x00\x007\x00\x00\x00\x00\x00\x00\x008\x00\x00\x00\x00\x00\x00\x009\x00\x00\x00\x00\x00\x00\x00:\x00\x00\x00\x00\x00\x00\x00;\x00\x00\x00\x00\x00\x00\x00<\x00\x00\x00\x00\x00\x00\x00=\x00\x00\x00\x00\x00\x00\x00>\x00\x00\x00\x00\x00\x00\x00?\x00\x00\x00\x00\x00\x00\x00@\x00\x00\x00\x00\x00\x00\x00A\x00\x00\x00\x00\x00\x00\x00B\x00\x00\x00\x00\x00\x00\x00C\x00\x00\x00\x00\x00\x00\x00D\x00\x00\x00\x00\x00\x00\x00E\x00\x00\x00\x00\x00\x00\x00F\x00\x00\x00\x00\x00\x00\x00G\x00\x00\x00\x00\x00\x00\x00H\x00\x00\x00\x00\x00\x00\x00I\x00\x00\x00\x00\x00\x00\x00J\x00\x00\x00\x00\x00\x00\x00K\x00\x00\x00\x00\x00\x00\x00L\x00\x00\x00\x00\x00\x00\x00M\x00\x00\x00\x00\x00\x00\x00N\x00\x00\x00\x00\x00\x00\x00O\x00\x00\x00\x00\x00\x00\x00P\x00\x00\x00\x00\x00\x00\x00Q\x00\x00\x00\x00\x00\x00\x00R\x00\x00\x00\x00\x00\x00\x00S\x00\x00\x00\x00\x00\x00\x00T\x00\x00\x00\x00\x00\x00\x00U\x00\x00\x00\x00\x00\x00\x00V\x00\x00\x00\x00\x00\x00\x00W\x00\x00\x00\x00\x00\x00\x00X\x00\x00\x00\x00\x00\x00\x00Y\x00\x00\x00\x00\x00\x00\x00Z\x00\x00\x00\x00\x00\x00\x00[\x00\x00\x00\x00\x00\x00\x00\\\x00\x00\x00\x00\x00\x00\x00]\x00\x00\x00\x00\x00\x00\x00^\x00\x00\x00\x00\x00\x00\x00_\x00\x00\x00\x00\x00\x00\x00`\x00\x00\x00\x00\x00\x00\x00a\x00\x00\x00\x00\x00\x00\x00b\x00\x00\x00\x00\x00\x00\x00c\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x00\x00\x00\x00e\x00\x00\x00\x00\x00\x00\x00f\x00\x00\x00\x00\x00\x00\x00g\x00\x00\x00\x00\x00\x00\x00h\x00\x00\x00\x00\x00\x00\x00i\x00\x00\x00\x00\x00\x00\x00j\x00\x00\x00\x00\x00\x00\x00k\x00\x00\x00\x00\x00\x00\x00l\x00\x00\x00\x00\x00\x00\x00m\x00\x00\x00\x00\x00\x00\x00n\x00\x00\x00\x00\x00\x00\x00o\x00\x00\x00\x00\x00\x00\x00p\x00\x00\x00\x00\x00\x00\x00q\x00\x00\x00\x00\x00\x00\x00r\x00\x00\x00\x00\x00\x00\x00s\x00\x00\x00\x00\x00\x00\x00t\x00\x00\x00\x00\x00\x00\x00u\x00\x00\x00\x00\x00\x00\x00v\x00\x00\x00\x00\x00\x00\x00w\x00\x00\x00\x00\x00\x00\x00x\x00\x00\x00\x00\x00\x00\x00y\x00\x00\x00\x00\x00\x00\x00z\x00\x00\x00\x00\x00\x00\x00{\x00\x00\x00\x00\x00\x00\x00|\x00\x00\x00\x00\x00\x00\x00}\x00\x00\x00\x00\x00\x00\x00~\x00\x00\x00\x00\x00\x00\x00\x7f\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00\x00\x00\x00\x00\x00\x81\x00\x00\x00\x00\x00\x00\x00\x82\x00\x00\x00\x00\x00\x00\x00\x83\x00\x00\x00\x00\x00\x00\x00\x84\x00\x00\x00\x00\x00\x00\x00\x85\x00\x00\x00\x00\x00\x00\x00\x86\x00\x00\x00\x00\x00\x00\x00\x87\x00\x00\x00\x00\x00\x00\x00\x88\x00\x00\x00\x00\x00\x00\x00\x89\x00\x00\x00\x00\x00\x00\x00\x8a\x00\x00\x00\x00\x00\x00\x00\x8b\x00\x00\x00\x00\x00\x00\x00\x8c\x00\x00\x00\x00\x00\x00\x00\x8d\x00\x00\x00\x00\x00\x00\x00\x8e\x00\x00\x00\x00\x00\x00\x00\x8f\x00\x00\x00\x00\x00\x00\x00\x90\x00\x00\x00\x00\x00\x00\x00\x91\x00\x00\x00\x00\x00\x00\x00\x92\x00\x00\x00\x00\x00\x00\x00\x93\x00\x00\x00\x00\x00\x00\x00\x94\x00\x00\x00\x00\x00\x00\x00\x95\x00\x00\x00\x00\x00\x00\x00\x96\x00\x00\x00\x00\x00\x00\x00\x97\x00\x00\x00\x00\x00\x00\x00\x98\x00\x00\x00\x00\x00\x00\x00\x99\x00\x00\x00\x00\x00\x00\x00\x9a\x00\x00\x00\x00\x00\x00\x00\x9b\x00\x00\x00\x00\x00\x00\x00\x9c\x00\x00\x00\x00\x00\x00\x00\x9d\x00\x00\x00\x00\x00\x00\x00\x9e\x00\x00\x00\x00\x00\x00\x00\x9f\x00\x00\x00\x00\x00\x00\x00\xa0\x00\x00\x00\x00\x00\x00\x00\xa1\x00\x00\x00\x00\x00\x00\x00\xa2\x00\x00\x00\x00\x00\x00\x00\xa3\x00\x00\x00\x00\x00\x00\x00\xa4\x00\x00\x00\x00\x00\x00\x00\xa5\x00\x00\x00\x00\x00\x00\x00\xa6\x00\x00\x00\x00\x00\x00\x00\xa7\x00\x00\x00\x00\x00\x00\x00\xa8\x00\x00\x00\x00\x00\x00\x00\xa9\x00\x00\x00\x00\x00\x00\x00\xaa\x00\x00\x00\x00\x00\x00\x00\xab\x00\x00\x00\x00\x00\x00\x00\xac\x00\x00\x00\x00\x00\x00\x00\xad\x00\x00\x00\x00\x00\x00\x00\xae\x00\x00\x00\x00\x00\x00\x00\xaf\x00\x00\x00\x00\x00\x00\x00\xb0\x00\x00\x00\x00\x00\x00\x00\xb1\x00\x00\x00\x00\x00\x00\x00\xb2\x00\x00\x00\x00\x00\x00\x00\xb3\x00\x00\x00\x00\x00\x00\x00\xb4\x00\x00\x00\x00\x00\x00\x00\xb5\x00\x00\x00\x00\x00\x00\x00\xb6\x00\x00\x00\x00\x00\x00\x00\xb7\x00\x00\x00\x00\x00\x00\x00\xb8\x00\x00\x00\x00\x00\x00\x00\xb9\x00\x00\x00\x00\x00\x00\x00\xba\x00\x00\x00\x00\x00\x00\x00\xbb\x00\x00\x00\x00\x00\x00\x00\xbc\x00\x00\x00\x00\x00\x00\x00\xbd\x00\x00\x00\x00\x00\x00\x00\xbe\x00\x00\x00\x00\x00\x00\x00\xbf\x00\x00\x00\x00\x00\x00\x00\xc0\x00\x00\x00\x00\x00\x00\x00\xc1\x00\x00\x00\x00\x00\x00\x00\xc2\x00\x00\x00\x00\x00\x00\x00\xc3\x00\x00\x00\x00\x00\x00\x00\xc4\x00\x00\x00\x00\x00\x00\x00\xc5\x00\x00\x00\x00\x00\x00\x00\xc6\x00\x00\x00\x00\x00\x00\x00\xc7\x00\x00\x00\x00\x00\x00\x00\xc8\x00\x00\x00\x00\x00\x00\x00\xc9\x00\x00\x00\x00\x00\x00\x00\xca\x00\x00\x00\x00\x00\x00\x00\xcb\x00\x00\x00\x00\x00\x00\x00\xcc\x00\x00\x00\x00\x00\x00\x00\xcd\x00\x00\x00\x00\x00\x00\x00\xce\x00\x00\x00\x00\x00\x00\x00\xcf\x00\x00\x00\x00\x00\x00\x00\xd0\x00\x00\x00\x00\x00\x00\x00\xd1\x00\x00\x00\x00\x00\x00\x00\xd2\x00\x00\x00\x00\x00\x00\x00\xd3\x00\x00\x00\x00\x00\x00\x00\xd4\x00\x00\x00\x00\x00\x00\x00\xd5\x00\x00\x00\x00\x00\x00\x00\xd6\x00\x00\x00\x00\x00\x00\x00\xd7\x00\x00\x00\x00\x00\x00\x00\xd8\x00\x00\x00\x00\x00\x00\x00\xd9\x00\x00\x00\x00\x00\x00\x00\xda\x00\x00\x00\x00\x00\x00\x00\xdb\x00\x00\x00\x00\x00\x00\x00\xdc\x00\x00\x00\x00\x00\x00\x00\xdd\x00\x00\x00\x00\x00\x00\x00\xde\x00\x00\x00\x00\x00\x00\x00\xdf\x00\x00\x00\x00\x00\x00\x00\xe0\x00\x00\x00\x00\x00\x00\x00\xe1\x00\x00\x00\x00\x00\x00\x00\xe2\x00\x00\x00\x00\x00\x00\x00\xe3\x00\x00\x00\x00\x00\x00\x00\xe4\x00\x00\x00\x00\x00\x00\x00\xe5\x00\x00\x00\x00\x00\x00\x00\xe6\x00\x00\x00\x00\x00\x00\x00\xe7\x00\x00\x00\x00\x00\x00\x00\xe8\x00\x00\x00\x00\x00\x00\x00\xe9\x00\x00\x00\x00\x00\x00\x00\xea\x00\x00\x00\x00\x00\x00\x00\xeb\x00\x00\x00\x00\x00\x00\x00\xec\x00\x00\x00\x00\x00\x00\x00\xed\x00\x00\x00\x00\x00\x00\x00\xee\x00\x00\x00\x00\x00\x00\x00\xef\x00\x00\x00\x00\x00\x00\x00\xf0\x00\x00\x00\x00\x00\x00\x00\xf1\x00\x00\x00\x00\x00\x00\x00\xf2\x00\x00\x00\x00\x00\x00\x00\xf3\x00\x00\x00\x00\x00\x00\x00\xf4\x00\x00\x00\x00\x00\x00\x00\xf5\x00\x00\x00\x00\x00\x00\x00\xf6\x00\x00\x00\x00\x00\x00\x00\xf7\x00\x00\x00\x00\x00\x00\x00\xf8\x00\x00\x00\x00\x00\x00\x00\xf9\x00\x00\x00\x00\x00\x00\x00\xfa\x00\x00\x00\x00\x00\x00\x00\xfb\x00\x00\x00\x00\x00\x00\x00\xfc\x00\x00\x00\x00\x00\x00\x00\xfd\x00\x00\x00\x00\x00\x00\x00\xfe\x00\x00\x00\x00\x00\x00\x00'
+p39
+tp40
+(Ntp41
+tp42
+ba(lp43
+g9
+(cnumpy
+ndarray
+p44
+(I0
+tp45
+g12
+tp46
+Rp47
+(I1
+(I3
+I255
+tp48
+g19
+I00
+(lp49
+S'benefit'
+p50
+aS'cost'
+p51
+ag51
+ag51
+ag51
+ag51
+aS'quality'
+p52
+ag52
+ag52
+ag52
+aS'time'
+p53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+ag53
+aS"Having every Monday off college isn't that good because you don't really feel the benefit of bank holidays\xf0\x9f\x98\xa2\xf0\x9f\x98\xa2"
+p54
+aS"I've rented out a football pitch at Hitchin college tonite 6.45- 7.55 let me know if u would like to join, it's on 3G &amp; cost \xc2\xa35 (maybe less)"
+p55
+aS'R u guna mark the scores u have at college the day @robbielav me and some other lad leading on 27 pts at the minute, our 4th goal cost me ha'
+p56
+aS'"@rwang0: MyPOV: issue w/ student loan debt has to be the cost of college not loan forgiveness."&lt;both, fix old and prevent new errors'
+p57
+aS"@ritamcmarques @Scottish_Vines we can do it at college. U go up to costa and I'll be in the canteen!! #plan"
+p58
+aS'Rather be in work than go to this college costs a fucking fortune to even get the place'
+p59
+aS'Cant wait for college this week, quality time with all the fam is needed!'
+p60
+aS"Great west glam u11 session tonight, lots of quality and top attitude. Future's bright. 1st Mcc game tomorrow at Malvern college #\xe2\x9d\xa4summer"
+p61
+aS'Second exam done with. Some quality with the college bar is needed I think #PizzaBearAndSunshine'
+p62
+aS'The quality of people in burnley college makes me sick, woeful people all over show.'
+p63
+aS'Why do we have to start college at 9 thats such an annoying time far too early'
+p64
+aS'@waddesdonbaz   Once, when I was driving back up to college, I drove past a red light. And as I did so, I turned just in time to see...'
+p65
+aS'got to college to do maths nd the.teacher wasnt there:/waste of time tbh roll on friday:)'
+p66
+aS'Been ontime to college about twice since I started'
+p67
+aS'@planetjedward Have an amazing time today in Roscommon!! Wish we were able to go but I have college and exams on Tuesday!! \xf0\x9f\x98\xa9 xx'
+p68
+aS"It's times of revision and impending exams that I wish I'd got a full time job after college"
+p69
+aS"I'm really nervous to get all my college work completed and handed in on time"
+p70
+aS'@shannonmundyxx nwahh sorry shann, I love having no college or anything on a Tuesday gives me time to catch up on sleep from the weekend aha'
+p71
+aS'The one time I go on Facebook, Algonquin college is a "suggested post" \xf0\x9f\x98\x9f\xf0\x9f\x98\x9f\xf0\x9f\x98\x9f\xf0\x9f\x98\x9f\xf0\x9f\x98\x9f'
+p72
+aS'@HelloGhostly im in college at that time tommorrow but free rest of week. Anyway myself,@CommanderX47, @Proxylexluthor an the other mods...'
+p73
+aS'The breaks I take from doing college work are way longer than the time spent doing college work'
+p74
+aS'I was such a bad student in college. Over the entire time I never had my priorities straight.'
+p75
+aS'Did not do anything for my college exams except check the timetable for it an hour ago'
+p76
+aS"In the college bar. Some one has ordered a jacket potato, I can smell it. It's 10.20 in the morning. #notdinnertime"
+p77
+aS"How I even manage to get up and ready,out of the house and got to college on time I don't know\xf0\x9f\x98\x82\xf0\x9f\x99\x88"
+p78
+aS"@W4nkerrrrrr that's the earliest day I finish work hahah, I get home from college at the same sort of time um, can stay round Saturday nite"
+p79
+aS"I haven't worked 4 days in a row for a very long time along with revising every night .. I'm absolutely knackered #parttimer #aat #college"
+p80
+aS"First day back at college and I have to go in earlier than usual for an off timetable art lesson because I don't have a timetables one"
+p81
+aS'@CathyAbraham @beachcat11 @jennzia @TruDavidJackson I am a part time college professor (18 hrs/wk classtime) &amp;then Chair the rest of the day'
+p82
+aS"i have an interview today in college but idk where, or with who, i don't even think i know what time"
+p83
+aS"Any other time of the year I wouldn't be complaining about a day off college, in bed watching a movie but not 2weeks before exams\xf0\x9f\x98\x94\xf0\x9f\x98\xad\xf0\x9f\x93\x9a\xf0\x9f\x94\xab"
+p84
+aS"@ItssKirstyx_x Yaya :D, Hope you have a fantastic time &amp; tell me all about it ! I'm fine thanks, just working &amp; college really"
+p85
+aS'Last time I will be going to college at night for maths.... well I hope \xf0\x9f\x99\x8f #prayforme #tuesday #tooclose'
+p86
+aS"I always set off for college the latest on a Monday when that's the day I have the most time to get ready"
+p87
+aS"It's quite sad to think that I sometimes dread college because of the people there that make me feel like shit\xf0\x9f\x91\x8d"
+p88
+aS"but I'm currently doing a part time college course to achieve my goals! so it's not like I'm not doing anything with my life."
+p89
+aS'nahhhh this rain, added to that ive parked about 10 min away from college #usainbolttime'
+p90
+aS"Cba for college this week it's the first time I'm actually gonna go in about a month"
+p91
+aS'Nearly a month left of college before the summer, how time passes! #lifechangingyear#'
+p92
+aS'Iv made myself physically sick from anxiety levels. Fuck college tomorrow I swear no time for that bitch'
+p93
+aS'Cant actually remember the last time I was in college a full day.'
+p94
+aS"Haven't even noticed while I've been dead out asleep I've been told conor has popped back from college about two times o.o"
+p95
+aS'All time favourite moment of college. Simona went night night at mosaic on my birthday \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad'
+p96
+aS"@AdoreCaradele yep it's terrible haha! I have to like turn my Internet off in college  lol! Some times it's good other time it's boring!"
+p97
+aS"Decided that I'm just going to work full time for a year and get some money, then go to college the year after."
+p98
+aS"If I'm not at college (full time), I'm at work almost full time and if I'm not doing that I'm attempting to revise for these fucking alevels"
+p99
+aS'\xe2\x80\x9c@TheOfficial_Liz: No sixthform/college for you two tomorrow? @JenssJ_ @Toyosi_Raheem \xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x99\x87\xe2\x80\x9dlol were never on time anyway \xf0\x9f\x98\x82'
+p100
+aS'Having a really productive day done some housework less to do tomorrow next food time then college work'
+p101
+aS"I pick a bad time to stay up late till like 6am then sleep all day and I'm back at college tomorrow.(Monday)"
+p102
+aS'I actually made a daily routine for max so he can get to college on time from now\xe2\x98\xba\xef\xb8\x8f'
+p103
+aS'@Tariq_Lachance and all time best college Marcus Allen'
+p104
+aS"I'm now not able to do my college work as my laptop has died and spazzed out but if they were on time we would have done it"
+p105
+aS"I've spent like the whole time off college this week trying to do my plan for my graded unit &amp; can't do if for the life of me. I'm FUCKED."
+p106
+aS'I get more college work done at this time then at college \xf0\x9f\x98\x82'
+p107
+aS'Morning all, time again for college :/'
+p108
+aS"Why do I think it's a good idea to be getting in at this time 2 nights in a row when I have college \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x92\xa4\xf0\x9f\x92\xa4"
+p109
+aS'Crazy to think that this time last year I had dropped out of college and was trying to find a job'
+p110
+aS'Sorry college, I need some me time \xf0\x9f\x99\x8b'
+p111
+aS'Best college evening yet. Sipping wine and causing trouble in parents question time. Lovely evening :-)'
+p112
+aS'5 week of college left if I get everything submitted in on time! Head down!'
+p113
+aS"Can't wait to get out of college, it's full of absolute clips who think they're big times, take off"
+p114
+aS'@DaniellaaMurray I so wanna go but I have no time till I finish college :('
+p115
+aS'college work? hahahaha...\n\nbath time \xf0\x9f\x98\xac'
+p116
+aS'Last time ever at college! YUS.  Unfortunately another year and a bit of my apprenticeship but still, Leamington Spa trips are D-O-N-E'
+p117
+aS'actually had a good day at college for the first time in fucking ages'
+p118
+aS'Loving the new timetable at college!'
+p119
+aS"It's so hard tackling college/coursework, work experience, driving, fundraising and my social life all at the same time #wornout \xf0\x9f\x98\xaa"
+p120
+aS'spending more time in college either for one more year or even two \xf0\x9f\x99\x88 oh well learn from your mistakes ayy'
+p121
+aS"Stupidly hungry. But don't even have time to eat. Work is such a blag after college\xf0\x9f\x98\xa1"
+p122
+aS'@KimSzczotko @robyndeeedwards @FlorenceSewell what time do we start college tomorrow and what do we need taaaa bring?'
+p123
+aS"me and tash can't remember what time our college bus comes cause we never get it... that's bad"
+p124
+aS'@tonieliza2 you actually got up for college on time?!'
+p125
+aS'Nows the time I start crying because I have college in 1 hour'
+p126
+aS'Hate it when I come to college and there is no reason for me to be in! Waste of time \xe2\x8c\x9a\xef\xb8\x8f\xf0\x9f\x98\x91'
+p127
+aS'so much college work. so little time. no motivation to actually do any of it. #screwed #shit'
+p128
+aS'@GeorginaHardin err yeah... Lol we have the time in the world george!! :) fuck college! Get pissed every weekend... Nay every day! :)'
+p129
+aS'The only free plug socket at college I can find is next to the bins in the canteen. Desperate times call for desperate measures.'
+p130
+aS"By the time I get to college I'm going to look like a drowned rat\xf0\x9f\x91\x8e"
+p131
+aS"Lost the motivation for my college course a long time ago, don't want to go back \xf0\x9f\x98\xa9"
+p132
+aS"me and tash can't remember what time our college bus comes cause I never get it... that's bad"
+p133
+aS'Last college night out.. Ever.. tonight\xf0\x9f\x99\x88\xf0\x9f\x98\xb3 Weird, time flies!! #SchoolsOut \xf0\x9f\x8e\x89\xe2\x9c\x8c\xef\xb8\x8f\xf0\x9f\x8d\xba'
+p134
+aS'morning #workout now time to get some #assignments done. #college #gym #early #coffee #tired'
+p135
+aS'This time next week I will have no more assignments to do for college. EVER.'
+p136
+aS'No time for this college today'
+p137
+aS'Getting freaked out every time i see someone that looks like @joeldarkes1 in college! \xf0\x9f\x98\x8d'
+p138
+aS'Last week in college poses a big struggle.. So much work to do but so much going out to do at the same time \xf0\x9f\x8d\xbb\xf0\x9f\x93\x9d'
+p139
+aS"@Hanabell_ Well, it's a part-time course, about 15 hours a week, I believe, but I will be going to college rather than distance learning.."
+p140
+aS"Date through for my interview at college, it's all becoming real now! #excitingtimes"
+p141
+aS'Home sweet home, 3:25.... Will be waking up in around 3 hours time for college :( night \xf0\x9f\x8c\x9c\xf0\x9f\x8c\x9b \xf0\x9f\x8c\x9d\xe2\xad\x90\xef\xb8\x8f\xf0\x9f\x98\xb4'
+p142
+aS'Had 100% attendance at college this week for first time in months and now 4 day weekend ahead of me yayyyy feelin good'
+p143
+aS"@_k4tiesmith I'm at the college waiting for her, I've phoned her about 25 times and she's no answering"
+p144
+aS'Back to college for another week And being a bus wanker all at the same time!'
+p145
+aS'Driving to college on my own for the first time is going to be scaryyy'
+p146
+aS'@Randjohnyanez well I hear hillsong live in general all the time bc I go to hillsong college.'
+p147
+aS"@SkinnerSophie I go into college on Monday and you go into placement \xf0\x9f\x98\xad have you not seen the email for you're timetable ?"
+p148
+aS'I can never get up on time for college -_-'
+p149
+ag60
+aS"shit, i finish my first year of college in two months... where's the time gone!?!"
+p150
+aS"Orrrrrrrr coming into college to go over something we've done 84748484 times and then go home at half 11? What's the point in this? \xf0\x9f\x98\xa1"
+p151
+aS"@LaurenSparkles_ no I mean Leah is @g_mortimer's friend. Small world (Georgie went to my college)"
+p152
+aS"@sethbern @washingtonpost I thought nap time was college prep when a child's in kindergarten #timesarechanging"
+p153
+aS'Last day in Istanbul which means last day of my college career. Where has time gone!?'
+p154
+aS"Can't remember the last time I came in from college and did nothing \xe2\x9d\xa4\xef\xb8\x8f"
+p155
+aS"If I'm not at college I'm at work, never have any free time \xf0\x9f\x98\xa3\xf0\x9f\x98\xa3\xf0\x9f\x98\xa3"
+p156
+aS"Second time recently I've been trying too sort work out for college friends there's sod all going back round York."
+p157
+aS"@eoghandcasey did ya miss me? \nI'm on the way into college now, haven't a breeze what time the class is at."
+p158
+aS"Playlist sorted now it's time to Put headphones on and let @LaceyOfficialUK and @PTPGOfficial get me through college"
+p159
+aS'I was just getting on the train to leave college, this time yesterday. Wow, I need to set an alarm.'
+p160
+aS'@EmmaWilliams16 Hi Emma yes of course you can if you are enrolled here. Ask next time you are in college.'
+p161
+aS"From next week I'll be working two jobs &amp; college full time still, why oh why \xf0\x9f\x98\xb4"
+p162
+aS"It's time to sleep ready for moulton college Tomoz \xf0\x9f\x98\xb4"
+p163
+aS"@ChrisSanClaire ...when at college in B'ham, s'times we didn't get off at our stop, stayed on no 11 all the way round, just 4 fun! Sad!"
+p164
+aS"You know it's a good day when you sleep in but still manage to put on a full face of make up straighten hair and get to college on time #win"
+p165
+aS'Good day \xf0\x9f\x91\x8f #college #passedmyexam now dinner and film time with my favourite \xf0\x9f\x98\x8d\xf0\x9f\x91\xab\xf0\x9f\x92\x95'
+p166
+aS'every time i have college work i get a sudden urge to clean the house instead'
+p167
+aS'college imorn for the first time in three weeks \xf0\x9f\x98\xa9\xf0\x9f\x94\xab #rollonsummer #rollontheweekend'
+p168
+aS'"@girlposts: If I had a dollar for every time someone spelled my name wrong, I could pay for college,a new car, and a mansion in cash."'
+p169
+aS"Can't believe in a months time I could be finished with college, qualified, 2 years hard work comes down to these next 4 weeks 0_o"
+p170
+aS"Every time I'm dressed and on time for college the bus decides to be late\xf0\x9f\x91\x8a"
+p171
+aS"@jadedavisxx I think it's time for you to actually start turning up to college!!"
+p172
+aS'How come during non-college days the 835 runs bang on time, as soon as @arrivamidlandsW take in back - late! 20 mins so far...'
+p173
+aS'So set an alarm for 7:30 so I can get into college on time but ended up putting on snooze until now'
+p174
+aS"Don't remember the last time I didn't get stuck behind something on the way to college \xf0\x9f\x98\xb4"
+p175
+aS'Doing some massage while waiting for acting assessment #college #maddtimes #musical #theatre #acting\xe2\x80\xa6'
+p176
+aS'Absolutely waste of time at college today. \xf0\x9f\x98\x82\xf0\x9f\x99\x88'
+p177
+aS'I finish college at half four &amp; have to be at work by five, in that time iv got to walk home quickly get ready walk to work, not happening'
+p178
+aS'I never end up going in college on time, to much to do #busybusybusy'
+p179
+aS'Beer after English class #cool #teacher #thanks #guiness #beer #lovely #time #pub #marino #college\xe2\x80\xa6'
+p180
+aS'Would love to go back to college! Was to sick \xf0\x9f\x91\x8c full time work kills me'
+p181
+aS"Don't know what's wrong with me but to be honest I quite enjoy college sometimes lol"
+p182
+aS'Getting up for college a has screwed me over big time\xf0\x9f\x91\x8a'
+p183
+aS'So relived I got my college form in on time, so unorganised \xf0\x9f\x98\x85'
+p184
+aS'Nearly college time.'
+p185
+aS'I literally spend 80% of my time at college waiting to use machines that people are already using'
+p186
+aS"I'm kinda like a senior in college now #wheredidthetimego #ihaveabeard"
+p187
+aS'First time not having to wear a coat to college and I feel on top of the world.'
+p188
+aS'@coopersmama2010 I have college Mon morning &amp; all day Weds so Mon afternoon and Tuesdays are the best time for me. I can meet anywhere. :)'
+p189
+aS'Highlight of my life goes to Monnelly who unintentionally rugby tackled Phill in college, Cried several times and left with a sore stomach!'
+p190
+aS"Porn hub titles really lack depth &amp; imagination.. We know young college girl tries anal for 1st time.. But what's her major? Or her dreams?"
+p191
+aS"it's that time of the day when all the college people think it's a great idea to walk to McDonald's"
+p192
+aS"@Sidburn19 if I don't get my add year in college and I can find a fulltime job yup"
+p193
+aS'Seriously considering jus leaving college and getting a full time job, prefer that so so much, I no longer have any aspirations with art'
+p194
+aS'So much college work to do and so little time #failure'
+p195
+aS'Oh yeah got college\xf0\x9f\x98\x82  eurgh time to get up!'
+p196
+aS"Can the female population of the 9th/10th floor of Cardonald college please learn to flush the toilet? Especially if it's that time of month"
+p197
+aS"I'd like to thank college for sending me not my mum my exam timetable"
+p198
+aS"The time is 8 pm and I'm only now coming home from college. Awesome \xf0\x9f\x91\x8d"
+p199
+aS'Yuck time for college -_- kill me now!'
+p200
+aS"So I was going to be in college for an hour today 10-11. But now I have to see someone at 1:30 then at 2:15. AHHH. But I'm killing time"
+p201
+aS'First time in the college library'
+p202
+aS"Cant believe I'm nearly at college at this time"
+p203
+aS'So relieved I got my college form in on time, so unorganised \xf0\x9f\x98\x85'
+p204
+aS"It's funny how much my life has changed in a year! This time last yet I didn't imagine I would be at college! :o"
+p205
+aS'Every time its my birthday ive either been at school and now at college.. when can my birthday be at the weekend?!'
+p206
+aS'Most stressful time of the college year \xf0\x9f\x98\xa2'
+p207
+aS"Why am I up at this time\xf0\x9f\x98\x94? Don't have to be at college till 1 \xf0\x9f\x94\xab"
+p208
+aS"I feel sorry for all the year 11's revising all the time, you just wait till college bae's"
+p209
+aS'Glad I finish college at 2:20 tomorrow, gives me time to pack my clothes for holiday and get ready for work! \xf0\x9f\x91\x8c'
+p210
+aS'Perfect double pirouette in the green room at college today. In dance class, every time, I end up on the floor. And not in a floor work way'
+p211
+aS"I got offered a full time job today and I'm really debating wether I should do my second year at college or not..."
+p212
+aS'Although percentages are probably not the best measurement if more people attend college today than in the time period used for comparison.'
+p213
+aS'I must spend about 90% of my time at college in havant mcdonalds\xf0\x9f\x8d\x9f\xf0\x9f\x8d\x94'
+p214
+aS"My nan won't let me drive to college even just today like i planned she was like nope you'll only be allowed certain places and times \xf0\x9f\x98\xab"
+p215
+aS'Second time college have asked to take pictures of me well I now think its time I apply for Americas next top model\xf0\x9f\x92\x81\xf0\x9f\x92\x81\xf0\x9f\x93\xb7\xf0\x9f\x93\xb7'
+p216
+aS"I've got so much work I need to do for college in such a short space of time \xf0\x9f\x98\xa9"
+p217
+aS'Have way to much spare time at college'
+p218
+aS'First year of college complete! #timeflies'
+p219
+aS'Is it really bad that I skip college like 3 times a week or'
+p220
+aS"iPhone battery's am shit. Gotta carry my charger everytime I go college. Bore off \xf0\x9f\x94\xab\xf0\x9f\x94\xab\xf0\x9f\x94\xab\xf0\x9f\x94\xab\xf0\x9f\x94\xab"
+p221
+aS'"can we skip this whole college thing and go straight and go to the part where i have a really awesome job and spend all my time traveling"'
+p222
+aS"late for college, but there's always time for a cuppa tea!\xf0\x9f\x91\x8c\xf0\x9f\x91\x8d"
+p223
+aS'@jackchaffey Nah I knew he had English playing rights a long time ago, used to cream over his college YouTube video on a weekly basis'
+p224
+aS"The fact I'm getting up for McDonald's and not college at this time is making me slightly even more upset"
+p225
+aS'Ugh have to get up for a shower then college #tired #collegeallday #fml #time #to #get #up'
+p226
+aS"@ellomg you've got time, I really don't want to go to college\xf0\x9f\x94\xab"
+p227
+aS"Omg all next week I'm either at college or work so I have no me time or no catch up on sleep time\xf0\x9f\x98\xad"
+p228
+aS'Plus I can get home in a reasonable time when college decides to cancel my lessons!'
+p229
+aS"The only trouble with having wifi at college is that I'm gonna be on Simpons tapped out all the time... #nocomplaintshere"
+p230
+aS'Only a couple of days left in college, full time studying for a couple of weeks \xf0\x9f\x99\x88\xf0\x9f\x98\x81\xf0\x9f\x94\xab'
+p231
+aS'How many times do i need to repeat myself about fucking college!'
+p232
+aS'Thats college done now time for work! #CannaBeArsed'
+p233
+aS"Typical I wake up at the time that I'm meant to be in college at"
+p234
+aS'If I sleep now I will not be up at the right time to go to college today'
+p235
+aS"Back to college today, as times goes on by, I'm going to be grinding hard these next few weeks."
+p236
+aS"Can't wait for half term, hopefully get some decent time to spend with Lew, constantly working and have college lately\xf0\x9f\x98\x94\xf0\x9f\x98\x94"
+p237
+aS'I have like 24 days left on college! I need to find a job within that time \xf0\x9f\x98\x82'
+p238
+aS"If I had just handed in my bloody coursework on time I wouldn't even be in college till 2 tomorrow, instead I'm in at 9:15, why Sophie why\xf0\x9f\x98\xab\xe2\x9c\x8b"
+p239
+aS"@DiehardNYRFan don't stress it's a great time in college dude"
+p240
+aS"Don't think I've saw this time of day since college"
+p241
+aS"Can't wait to finish college this year and get a job!  \xf0\x9f\x98\xa0  So annoyed sometimes \xf0\x9f\x91\x8e"
+p242
+aS'First time meeting the twins told the twins I was in college and ed thought I was still in school \xf0\x9f\x98\x82 #jedwardfreespirit'
+p243
+aS"The one time I'm actually up early on a weekday, and I'm not even going in to college... \xf0\x9f\x98\x82\xf0\x9f\x99\x88\xf0\x9f\x98\xb7"
+p244
+aS'Sometimes I wonder am I still doing my leaving cert or am I in first year of college!! #toughtimes'
+p245
+aS"It was impossible to get to college by 9 today like, by time a get in it'll be time to  go home"
+p246
+aS'paddy collins has nurture at college. orange juice and biscuits cause he\'s a "special student" haha. nap time patrick'
+p247
+aS'Work done and now time for college #grafter'
+p248
+aS'Why is it always when I could be on time for college the subways run late'
+p249
+aS'Why does my mom complain. I didnt really drink till I was 19, I lost my virginity at 18, graduated high school on time,  in college. #model'
+p250
+aS'Hate getting buses specially on college times!'
+p251
+aS"you don't get time to learn about the things you want to learn in college because you are too busy trying to remember the things to pass"
+p252
+aS'That awkward moment when you forget your purse and miss your bus and you need to be in college on time! \xf0\x9f\x99\x88'
+p253
+aS"Is it nearly time to go back to college already? I'd rather not"
+p254
+aS"@CharlieRoot_ couldn't make the bus cos it left during the time I was at college so have to watch it at home, you there?"
+p255
+aS'to think that my first year of college is pretty much coming to an end is unreal #timegoesfartoofast #professionalcookery #rollonnextyear'
+p256
+aS'@welshproblem If I had a pound for every time someone spelled my name wrong I could pay for college, a new car and a mansion in cash'
+p257
+aS'Nearly fallen asleep about 5 times already on the way to college\xf0\x9f\x98\xb4'
+p258
+aS'@NathanGriffithx Love that! Atm between Hertfordshire &amp; Leeds &amp; college is calm, getting to that stressful time tho'
+p259
+aS"There's no real reason to stay in college wasting time learning irrelevant shit, I will never need to do a binomial expansion in real life"
+p260
+aS"The only time I'm willing to do college work at home and i forget the most important bit at college!"
+p261
+aS"Crazy that this time next month I'll be starting my second year work in college\xf0\x9f\x98\xb1"
+p262
+aS'Wooooooooooooo got an audition for college \xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81 happy days #finally #abouttime'
+p263
+aS"Not making any real effort today, if I get into college then cool but if I don't then back to bed for me #tubestrike #bedtime"
+p264
+aS'Shower time, then into college to get some of my project done, then training session for work.. Busy bee lately..\xf0\x9f\x90\x9d'
+p265
+aS"This time last week I was in First Edition steaming. Now, I'm heading to bed for college. Fuuuck this"
+p266
+aS'Looking for birthday presents after college #funtimes'
+p267
+aS"@kodaline I'm spending my time at college watching the Brixton gig. I guess I should be working but I want to go back to seeing you guys \xf0\x9f\x98\x94"
+p268
+aS'Walking through neath at home time.. Kinda miss being a college kid!'
+p269
+aS"And kept asking me why I wasn't already at school even though I told him I was at college 3 times"
+p270
+aS'I swear every time I actually want my college attendance to stay at 100% I become really ill'
+p271
+aS'Racing against time to get this college work finished. ...#lastminute'
+p272
+aS'@hollypower2 I know girl do it to myself the whole time hahaha college is bad buzz !'
+p273
+aS"It feel so good that you don't have to go to college and no more exams but at the same time it feel so weird."
+p274
+aS"@Danni_Basilone what time are you I'm college?..."
+p275
+aS"Just had a really weird thought about college and realised I can't even really remember being there, time is going way too fast these days"
+p276
+aS'If you ever need waking up in the morning sit in chi college carpark and watch how people park. Think my heart dropped at least 5 times \xf0\x9f\x98\xb7'
+p277
+aS'How does college car park get so full at this time????? Urgh'
+p278
+aS'@becgracedent our favourite things! Awww college times \xf0\x9f\x92\x9c'
+p279
+aS'4 weeks left in college! #scarytimes #decisions'
+p280
+aS"((the drummer's from my class in college and it'd help him alot but if you don't have time, thank you anyway))"
+p281
+aS"Proud moment for me today. I made it to the bus on time. Shame I don't need to be in college for another hour."
+p282
+aS'"If I had a dollar for everytime someone spelled my name wrong, I could pay for college, a new car, and a mansion in cash" UHM THANK YOU YES'
+p283
+aS'feel like i work full time and go college part time, not the other way round'
+p284
+aS"I haven't been to college for a month so this Monday morning really is a 100 times worse than the rest \xf0\x9f\x98\xa3\xf0\x9f\x98\xb4"
+p285
+aS"last week of college for me :) where's the time gone!! X"
+p286
+aS'so I was right, college was a waste of time. :)'
+p287
+aS"seems weird that I've nearly finished my course at college, how time flys"
+p288
+aS"don't even wanna go college lately why am I doing the leaving fucking waste of time"
+p289
+aS"Just beat my record of the time it took me getting to college - only 29mins! Considering it\nnormally takes me like 50mins, that's impressive"
+p290
+aS'@IrishAnimal11 not so sure about Accenture but there is exciting ventures ahead alright! \xf0\x9f\x98\x84 Gonna miss college big time though!'
+p291
+aS'8:36 train, hopefully make college in time. So tired!\xf0\x9f\x98\xb4'
+p292
+aS"Love working at the nursery with all the little munchkins! Can't wait to finish college and go full time \xf0\x9f\x98\x83!! \xf0\x9f\x91\xb6\xf0\x9f\x90\x9d\xe2\x9d\xa4\xef\xb8\x8f"
+p293
+aS'Up and ready for college at this time \xf0\x9f\x91\xbc\xf0\x9f\x91\xbc'
+p294
+aS'Theres no reason for me not to go college today #wokeuplate #3\n#times'
+p295
+aS'Lovely spending time with @MarshaHiggins2 last night, even though she brought up my college stick across my forehead fringe! \xf0\x9f\x91\x8d\xf0\x9f\x98\x96\xe2\x9d\xa4\xef\xb8\x8f'
+p296
+aS'I need a haircut and colouring before I see my college friends again. This is no time to let myself go XD'
+p297
+aS'I have done no school work over easter like non at all, time to sort it out and get myself to college'
+p298
+aS'Going into college early tomorrow &amp; staying behind to do revision #abouttime'
+p299
+aS'Doing everything not to go to college today #sunbedtime'
+p300
+aS'so much college work to do and so little time'
+p301
+aS'Looking at cars and insurance last night has set me to aim to finish college and get a fulltime job in childcare! Lets do this \xf0\x9f\x99\x8c'
+p302
+aS'I feel terrible and college will be a complete waste of my time'
+p303
+aS"@amyl0uise_xo guessing it's look through Chloe's tweets time at college\xf0\x9f\x98\x92"
+p304
+aS'fridays in college are nothing but a waste of time, takes up precious sleeping time'
+p305
+aS'@_fireflies__ college is like ten times better than school trust me or you know come to england and study here \xe2\x9c\x8c\xef\xb8\x8f'
+p306
+aS"I want to stay up tonight to get a chunk of college work done but I'll be so deed tomorrow night and not got time for a lil disco nap before"
+p307
+aS'negative'
+p308
+ag308
+ag308
+ag308
+ag308
+ag308
+aS'positive'
+p309
+aS'neutral'
+p310
+ag310
+ag308
+ag308
+ag309
+ag308
+ag308
+ag310
+ag308
+ag309
+ag309
+ag310
+ag308
+ag308
+ag308
+ag308
+ag310
+ag310
+ag308
+ag309
+ag308
+ag308
+ag309
+ag309
+ag309
+ag309
+ag308
+ag308
+ag308
+ag308
+ag308
+ag308
+ag308
+ag308
+ag310
+ag309
+ag309
+ag308
+ag308
+ag310
+ag308
+ag308
+ag308
+ag309
+ag309
+ag308
+ag309
+ag309
+ag309
+ag308
+ag309
+ag308
+ag309
+ag308
+ag308
+ag309
+ag309
+ag308
+ag310
+ag308
+ag309
+ag309
+ag308
+ag309
+ag308
+ag308
+ag309
+ag308
+ag309
+ag310
+ag309
+ag309
+ag309
+ag309
+ag309
+ag309
+ag309
+ag310
+ag309
+ag308
+ag310
+ag309
+ag310
+ag308
+ag310
+ag309
+ag308
+ag308
+ag309
+ag309
+ag308
+ag310
+ag309
+ag309
+ag308
+ag309
+ag309
+ag309
+ag309
+ag309
+ag309
+ag308
+ag308
+ag309
+ag310
+ag308
+ag309
+ag309
+ag309
+ag309
+ag308
+ag309
+ag308
+ag309
+ag309
+ag309
+ag308
+ag309
+ag309
+ag309
+ag309
+ag309
+ag309
+ag310
+ag309
+ag309
+ag308
+ag308
+ag309
+ag308
+ag308
+ag309
+ag308
+ag308
+ag308
+ag308
+ag310
+ag309
+ag310
+ag308
+ag309
+ag308
+ag309
+ag308
+ag309
+ag309
+ag308
+ag309
+ag308
+ag308
+ag310
+ag309
+ag308
+ag308
+ag308
+ag308
+ag309
+ag309
+ag309
+ag308
+ag308
+ag308
+ag308
+ag309
+ag310
+ag309
+ag309
+ag309
+ag308
+ag308
+ag308
+ag309
+ag310
+ag308
+ag309
+ag309
+ag308
+ag308
+ag309
+ag308
+ag309
+ag308
+ag309
+ag308
+ag308
+ag309
+ag308
+ag309
+ag309
+ag309
+ag308
+ag310
+ag309
+ag309
+ag309
+ag308
+ag310
+ag308
+ag310
+ag309
+ag308
+ag309
+ag310
+ag308
+ag310
+ag308
+ag309
+ag308
+ag308
+ag309
+ag308
+ag308
+ag309
+ag309
+ag308
+ag309
+ag310
+ag308
+ag309
+ag308
+ag310
+ag308
+ag308
+ag308
+ag308
+ag310
+ag309
+ag309
+ag309
+ag308
+ag309
+ag309
+ag309
+ag308
+ag309
+ag308
+ag309
+ag309
+ag308
+ag308
+ag308
+ag308
+ag308
+ag308
+ag309
+ag309
+ag308
+ag308
+atp311
+ba(lp312
+g9
+(g10
+(I0
+tp313
+g12
+tp314
+Rp315
+((I1
+(I3
+tp316
+g19
+I00
+(lp317
+g23
+ag24
+ag25
+atp318
+(Ntp319
+tp320
+batp321
+bb.
