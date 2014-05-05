@@ -36,7 +36,7 @@ posTotal = tuple(a['positive'] for a in xAxis)
 neuTotal = tuple(a['neutral'] for a in xAxis)
 
 ind = np.arange(N)  # the x locations for the groups
-width = 0.35       # the width of the bars
+width = 0.2      # the width of the bars
 
 fig, ax = plt.subplots()
 rects1 = ax.bar(ind, negTotal, width, color='r')
@@ -44,12 +44,12 @@ rects2 = ax.bar(ind+width, posTotal, width, color='b')
 rects3 = ax.bar(ind+width+width, neuTotal, width, color='0.75')
 
 # add some
-ax.set_ylabel('Number of tweets')
-ax.set_title('Scores by continent')
+ax.set_ylabel('Number of tweets', fontsize=20)
+ax.set_title('Scores by continent', fontsize=40)
 ax.set_xticks(ind+width)
-ax.set_xticklabels( ('"Benefit"', '"Cost"', '"Quality"', '"Time"') )
+ax.set_xticklabels( ('"Benefit"', '"Cost"', '"Quality"', '"Time"'),fontsize=20 )
 
-ax.legend( (rects1[0], rects2[0], rects3[0]), ('Negative', 'Neutral', 'Positive') )
+ax.legend( (rects1[0], rects2[0], rects3[0]), ('Negative', 'Neutral', 'Positive'),fontsize=20 )
 
 def autolabel(rects):
     # attach some text labels
@@ -61,4 +61,5 @@ def autolabel(rects):
 autolabel(rects1)
 autolabel(rects2)
 autolabel(rects3)
+fig.set_size_inches(25,15) #enlarge entire plot
 plt.show()
