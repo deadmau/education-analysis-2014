@@ -1,0 +1,304 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.frame
+DataFrame
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+g0
+(cpandas.core.internals
+BlockManager
+p5
+g2
+Ntp6
+Rp7
+((lp8
+cnumpy.core.multiarray
+_reconstruct
+p9
+(cpandas.core.index
+Index
+p10
+(I0
+tp11
+S'b'
+p12
+tp13
+Rp14
+((I1
+(I3
+tp15
+cnumpy
+dtype
+p16
+(S'O8'
+p17
+I0
+I1
+tp18
+Rp19
+(I3
+S'|'
+p20
+NNNI-1
+I-1
+I63
+tp21
+bI00
+(lp22
+S'keyword'
+p23
+aS'text'
+p24
+aS'sentiment'
+p25
+atp26
+(Ntp27
+tp28
+bag9
+(cpandas.core.index
+Int64Index
+p29
+(I0
+tp30
+g12
+tp31
+Rp32
+((I1
+(I42
+tp33
+g16
+(S'i8'
+p34
+I0
+I1
+tp35
+Rp36
+(I3
+S'<'
+p37
+NNNI-1
+I-1
+I0
+tp38
+bI00
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x16\x00\x00\x00\x00\x00\x00\x00\x17\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\x00\x00\x00\x00\x00\x19\x00\x00\x00\x00\x00\x00\x00\x1a\x00\x00\x00\x00\x00\x00\x00\x1b\x00\x00\x00\x00\x00\x00\x00\x1c\x00\x00\x00\x00\x00\x00\x00\x1d\x00\x00\x00\x00\x00\x00\x00\x1e\x00\x00\x00\x00\x00\x00\x00\x1f\x00\x00\x00\x00\x00\x00\x00 \x00\x00\x00\x00\x00\x00\x00!\x00\x00\x00\x00\x00\x00\x00"\x00\x00\x00\x00\x00\x00\x00#\x00\x00\x00\x00\x00\x00\x00$\x00\x00\x00\x00\x00\x00\x00%\x00\x00\x00\x00\x00\x00\x00&\x00\x00\x00\x00\x00\x00\x00\'\x00\x00\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x00\x00\x00)\x00\x00\x00\x00\x00\x00\x00'
+p39
+tp40
+(Ntp41
+tp42
+ba(lp43
+g9
+(cnumpy
+ndarray
+p44
+(I0
+tp45
+g12
+tp46
+Rp47
+(I1
+(I3
+I42
+tp48
+g19
+I00
+(lp49
+S'time'
+p50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+ag50
+aS'After exam PTP ! #finally #crazy #time #to #college #effectcoffe #FotoRus @ Seminari Bethel Jakarta'
+p51
+aS'@yvoonneyy :(( Busy. Graduating eh :( bawi soon. Kapag may free time sa college. Lunch tayo yung group natin :))'
+p52
+aS'Im gonna have a hard time surviving college with a sleepless night today..'
+p53
+aS'Feel bored at the Library. Hahahaa ^^v #bored #library #breaktime #college @ Universitas Surabaya (UBAYA)'
+p54
+aS'My 1st time as a college student in Binus.. A lot of things have changed for sure. #first #time #in\xe2\x80\xa6'
+p55
+aS"@ChooiLiiing everything's good \xf0\x9f\x98\x8a how are you??? Long time since I heard from you \xf0\x9f\x99\x88 I'm in sunway college doing ausmat. \xf0\x9f\x98\x8a"
+p56
+aS'Anytime anywhere.. #converse #converseallstar #chucktaylor #skaters #jeans #college #indonesia\xe2\x80\xa6'
+p57
+aS'@auhcesined college life is fun,  sad and not easy sometimes .hehe.. just focus... go go go!'
+p58
+aS'@ETC2500 i used to see races when i was in school. but college takes too much time lol @MadmediumF1'
+p59
+aS"Sometimes i miss college life sometimes i don't.. Sometimes i like being at home.. And sometimes I miss themm!.."
+p60
+aS'@CeciliaaaTalks Of course not. Hahaha. But parents going bkk on June. \xf0\x9f\x98\xad\xf0\x9f\x98\xad But I start my college liao that time.'
+p61
+aS'Teman the noob to college and wait/slept in the library. Now time for cendol \xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81\xf0\x9f\x98\x81'
+p62
+aS'\xe2\x80\x9c@molozsobong: \xe2\x80\x9cCan we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing &amp; go to the part where i have a really awesome job &amp; spend all my time traveling?\xe2\x80\x9d\xe2\x80\x9d'
+p63
+aS"I'll probably have a hard time getting into college because of my excessive absences and poor grades \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad"
+p64
+aS'@cikyamm tulah pasal. Dia tahan. And that time kan dah lambat. It was already 620. And still dalam college. Terpaksa.'
+p65
+aS'Good time :) #college #friends @ Hakata Ikkousha - Senayan City'
+p66
+aS'@Jenovi6 same here. So many assignments and college stuffs until no time to catch up all the new series \xf0\x9f\x98\xa9'
+p67
+aS'@rafdelatorre college ka na huhu time flies'
+p68
+aS"I can't believe I still have like 12 weeks of college left I'm probably going to weep for that entire time"
+p69
+aS"Yeah finally we're done kem .. time back college .. @ Kem Sungai Buluh"
+p70
+aS'Spent another tradition but this time, with my college buddies. Ang saya saya lang. Ang late lunch\xe2\x80\xa6'
+p71
+aS'Today I will sing, for Deepshikha, my songs 1st time publicly - in my college.'
+p72
+aS'After work straight to unwind myself with my college.. Good morning dubai! #shishatime #happyme @ Bait\xe2\x80\xa6'
+p73
+aS'can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9dthing and go straight and go to the part where i have a really awesome job and spend all my time traveling?'
+p74
+aS'@GeorginaDivaa "can we skipthiswhole college thing andgo straightandgoto thepart whereI have a realy awesomejob andspend allmytime traveling'
+p75
+aS'what happen to me now.dulu time ade kelas xley nak bangun pagi.now bile xde kelas boleh bangun pagi.adakah aku xley move on college life now'
+p76
+aS'Can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight to the part where I have a really awesome job and spend all my time traveling?'
+p77
+aS'"Can i skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight to the part where I have a really awesome job and spend all my time traveling?"'
+p78
+aS'@seemi_pasha @ElectionExpress lots of college times memories of mine !!!!'
+p79
+aS'Heading to Binondo Church w/ college friends. My first time visit. Happy Sunday!\xe2\x98\xba\xef\xb8\x8f'
+p80
+aS'Shadow for puppet show. #mutimedia #student #mutimediaperformance #college #production #puppets\xe2\x80\xa6'
+p81
+aS'@x3_labrihart wish I could sis you gonna be in college by time I get home ima have to stop down there and see you'
+p82
+aS'excited for my birthday.... hahah but I think that I will be in college at that time..... how sad D:'
+p83
+aS'Movie time with beloved college friend. Spiderman 2! Wewuuuu \xe2\x98\xba\xef\xb8\x8f\xe2\x98\xba\xef\xb8\x8f (@ MBO Cineplex)'
+p84
+aS"well, lets say we're going back to our college times while doing on the job training here ^^"
+p85
+aS'can we skip this whole \xe2\x80\x9ccollege\xe2\x80\x9d thing and go straight and go to the part where i have a really awesome job and spend all my time traveling?'
+p86
+aS'off day work ,,after college study time'
+p87
+aS'@YKeQing if im smart then im not in college dy lor , graduated long time ago liao la liddat hahah'
+p88
+aS'#fishes #fish #pond #water #stones #grass #college #asac #work #students #work #instapic #instatime\xe2\x80\xa6'
+p89
+aS'Anytime I feel stressed about college and personal life! I just watch any of @DhivyaDharshini anchored program! M a big fan DD #malaysia'
+p90
+aS'1 of my favourite of my college days #MainDewaanHua by my all time favourite @abhijeetsinger \xf0\x9f\x92\x96\xf0\x9f\x91\x8d  '
+p91
+aS'@spectacularsnow push mo yan!! Lubosin mo na baka wala masyado time dis college haha'
+p92
+aS'positive'
+p93
+ag93
+aS'negative'
+p94
+ag94
+ag93
+ag94
+ag94
+ag93
+ag94
+ag94
+ag94
+ag93
+ag94
+ag94
+ag93
+ag93
+ag93
+ag93
+ag93
+ag93
+ag93
+ag93
+ag94
+ag94
+ag94
+ag94
+ag94
+ag94
+ag94
+ag93
+ag93
+ag94
+ag93
+ag93
+ag94
+ag94
+ag94
+ag93
+ag94
+ag94
+ag93
+ag93
+atp95
+ba(lp96
+g9
+(g10
+(I0
+tp97
+g12
+tp98
+Rp99
+((I1
+(I3
+tp100
+g19
+I00
+(lp101
+g23
+ag24
+ag25
+atp102
+(Ntp103
+tp104
+batp105
+bb.
